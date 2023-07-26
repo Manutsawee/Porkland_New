@@ -22,7 +22,6 @@ modimport("main/spawnutil")
 
 require("map/porkland_lockandkey")
 
-modimport("postinit/map/task")
 -- modimport("postinit/map/level")
 modimport("postinit/map/graph")
 modimport("postinit/map/node")
