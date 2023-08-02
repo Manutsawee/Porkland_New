@@ -1,15 +1,17 @@
-GLOBAL.setfenv(1, GLOBAL)
 
 require("constants")
 require("mathutil")
 
+local forest_map = require("map/forest_map")
+local startlocations = require("map/startlocations")
+
+local BuildPorkLandStory = require("map/pl_storygen")
 local separate_region = require("map/separate_region")
 local makecities = require("map/city_builder")
 local makeborder = require("map/border_finder")
 local makebunch = require("map/pl_bunch_spawner")
 local makeBrambleSites = require("map/bramble_spawner")
-local startlocations = require("map/startlocations")
-local forest_map = require("map/forest_map")
+
 local MULTIPLY = forest_map.MULTIPLY
 local TRANSLATE_TO_PREFABS = forest_map.TRANSLATE_TO_PREFABS
 local TRANSLATE_AND_OVERRIDE = forest_map.TRANSLATE_AND_OVERRIDE
@@ -46,20 +48,21 @@ end
 
 local SKIP_GEN_CHECKS = false
 local _Generate = forest_map.Generate
-local GetTileForNoiseTile = Pl_Util.GetUpvalue(_Generate, "GetTileForNoiseTile")
-local pickspawnprefab = Pl_Util.GetUpvalue(_Generate, "pickspawnprefab")
-local pickspawngroup = Pl_Util.GetUpvalue(_Generate, "pickspawngroup")
-local pickspawncountprefabforground = Pl_Util.GetUpvalue(_Generate, "pickspawncountprefabforground")
-local TranslateWorldGenChoices = Pl_Util.GetUpvalue(_Generate, "TranslateWorldGenChoices")
+local GetTileForNoiseTile = ToolUtil.GetUpvalue(_Generate, "GetTileForNoiseTile")
+local pickspawnprefab = ToolUtil.GetUpvalue(_Generate, "pickspawnprefab")
+local pickspawngroup = ToolUtil.GetUpvalue(_Generate, "pickspawngroup")
+local pickspawncountprefabforground = ToolUtil.GetUpvalue(_Generate, "pickspawncountprefabforground")
+local TranslateWorldGenChoices = ToolUtil.GetUpvalue(_Generate, "TranslateWorldGenChoices")
 
 forest_map.Generate = function(prefab, map_width, map_height, tasks, level, level_type, ...)
     assert(level.overrides ~= nil, "Level must have overrides specified.")
 
-    local IsPorkLand = level.overrides.isporkland
+    local IsPorkLand = level.location == "porkland"
 
     if not IsPorkLand then
         return _Generate(prefab, map_width, map_height, tasks, level, level_type, ...)
     end
+    print("start generate porkland map")
 
     TRANSLATE_TO_PREFABS["grass"] = {"grass", "grass_tall", "grass_tall_patch"}
 
@@ -248,7 +251,7 @@ forest_map.Generate = function(prefab, map_width, map_height, tasks, level, leve
     print("Populating voronoi...")
 
     topology_save.root:GlobalPrePopulate(entities, map_width, map_height)
-    topology_save.root:PorkLandConvertGround(SpawnFunctions, entities, map_width, map_height)
+    topology_save.root:IAConvertGround(SpawnFunctions, entities, map_width, map_height)
     WorldSim:ReplaceSingleNonLandTiles()
 
     if not story_gen_params.keep_disconnected_tiles then

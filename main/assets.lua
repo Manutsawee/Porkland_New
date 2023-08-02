@@ -1,4 +1,5 @@
 local TheNet = GLOBAL.TheNet
+local ToolUtil = GLOBAL.ToolUtil
 
 PrefabFiles = {
     "aporkalypse_clock",
@@ -50,7 +51,7 @@ Assets = {
     Asset("ANIM", "anim/player_actions_shear.zip"),
 }
 
-Pl_Util.RegisterInventoryItemAtlas("images/pl_inventoryimages.xml")
+ToolUtil.RegisterImageAtlas("images/pl_inventoryimages.xml")
 AddMinimapAtlas("images/minimap/pl_minimap.xml")
 
 if not TheNet:IsDedicated() then

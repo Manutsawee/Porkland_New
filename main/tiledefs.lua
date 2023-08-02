@@ -33,7 +33,7 @@ turf_def {
 }
 -]]
 
-local TileRanges = require("map/tiledefine")
+
 local NoiseFunctions = require("noisetilefunctions")
 local ChangeTileRenderOrder = ChangeTileRenderOrder
 local AddTile = AddTile
@@ -41,6 +41,7 @@ GLOBAL.setfenv(1, GLOBAL)
 
 local is_worldgen = rawget(_G, "WORLDGEN_MAIN") ~= nil
 
+local TileRanges = IACore.TileRanges
 local pl_tiledefs = {
     -- dst had this
     -- BEARDRUG = {
@@ -380,7 +381,7 @@ local pl_tiledefs = {
     -- NOISE
     -- (only for worldgen)
     -------------------------------
-    -- I don't see any code about this tile,this Imitated according to the effect
+    -- I don't see any code about this tile, this Imitated according to the effect
     BATTLEGROUND_RAINFOREST_NOISE = {
         tile_range = function (noise)
             if noise < 0.5 then
@@ -392,29 +393,7 @@ local pl_tiledefs = {
 
 }
 
-for tile, def in pairs(pl_tiledefs) do
-    local range = def.tile_range
-    if type(range) == "function" then
-        range = TileRanges.NOISE
-    end
-
-    AddTile(tile, range, def.tile_data, def.ground_tile_def, def.minimap_tile_def, def.turf_def)
-
-    local tile_id = WORLD_TILES[tile]
-
-    if def.tile_range == TileRanges.OCEAN then
-        if not is_worldgen then
-            TileGroupManager:AddInvalidTile(TileGroups.TransparentOceanTiles, tile_id)
-            TileGroupManager:AddValidTile(TileGroups.IAOceanTiles, tile_id)
-        end
-
-        table.insert(IA_OCEAN_TILES, tile_id)
-    elseif def.tile_range == TileRanges.LAND then
-        table.insert(IA_OCEAN_TILES, tile_id)
-    elseif type(def.tile_range) == "function" then
-        NoiseFunctions[tile_id] = def.tile_range
-    end
-end
+IACore.IA_Add_Tile(pl_tiledefs, AddTile)
 
 -- Non flooring floodproof tiles
 GROUND_FLOODPROOF = rawget(_G, "GROUND_FLOODPROOF") or {}
