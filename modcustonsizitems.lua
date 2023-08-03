@@ -96,7 +96,6 @@ local custonsiz_items = {  -- add in dst custonsiz
         misc = {
             fog = {desc = enable_descriptions},
             glowflycycle = {image = "glowfly_life_cycle.tex", desc = enable_descriptions},
-            poison = {desc = enable_descriptions}
         },
     }
 }

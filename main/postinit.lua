@@ -1,6 +1,5 @@
 -- Update this list when adding files
 local components_post = {
-    "actionqueuer",
     "ambientlighting",
     "clock",
     "colourcube",
@@ -18,16 +17,10 @@ local components_post = {
 }
 
 local prefabs_post = {
-    "buff_workeffectiveness",
     "player",
     "player_classified",
-    "woodie",
     "world_network",
     "shard_network",
-}
-
-local batch_prefabs_post = {
-    "poisonable"
 }
 
 local scenarios_post = {
@@ -60,10 +53,6 @@ end
 
 for _, file_name in ipairs(prefabs_post) do
     modimport("postinit/prefabs/" .. file_name)
-end
-
-for _, file_name in ipairs(batch_prefabs_post) do
-    modimport("postinit/batchprefabs/" .. file_name)
 end
 
 for _, file_name in ipairs(scenarios_post) do

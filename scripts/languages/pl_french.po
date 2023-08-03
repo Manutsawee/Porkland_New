@@ -3370,11 +3370,6 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PL_CLOCKTYPE"
 msgid "Clock Type"
 msgstr "Type d'horloge"
 
-#. STRINGS.UI.CUSTOMIZATIONSCREEN.POISON
-msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.POISON"
-msgid "Poison"
-msgstr "Poison"
-
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PORKLAND_SEASON_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PORKLAND_SEASON_START"
 msgid "Porkland Starting Season"
@@ -3449,4 +3444,3 @@ msgstr "Saison luxuriante"
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.SEASONS.TEMPERATE"
 msgid "Temperate"
 msgstr "Saison tempérée"
-
