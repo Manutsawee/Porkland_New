@@ -4,23 +4,17 @@ local components_post = {
     "ambientlighting",
     "clock",
     "colourcube",
-    "combat",
     "grogginess",
-    "health",
     "inventory",
     "inventoryitem",
-    "lootdropper",
     "moisture",
-    "playercontroller",
     "pollinator",
     "regrowthmanager",
-    "rider_replica",
     "seasons",
     "shard_clock",
     "shard_seasons",
-    "sleeper",
     "wavemanager",
-    "worldstate"
+    "worldstate",
 }
 
 local prefabs_post = {
