@@ -404,7 +404,7 @@ function Hackable:Hack(hacker, numworks, shear_mult, from_shears)
             hacker:PushEvent("working", {hack_target = self.inst}) -- send data under a different name because the reason hackable exists is to allow two actions at the same time (in most cases ACTIONS.HACK and ACTIONS.DIG) and listeners that check this data will simply run the code based on workables ACTION.DIG (for example mightyness gain for wolfgang) -Half
         end
         -- Check work left here and fire callback and early out if there's still more work to do
-         if self.onhackedfn then
+        if self.onhackedfn then
             self.onhackedfn(self.inst, hacker, self.hacksleft, from_shears)
         end
 

@@ -236,14 +236,14 @@ forest_map.Generate = function(prefab, map_width, map_height, tasks, level, leve
 
     for idx, val in ipairs(save.map.topology.nodes) do
         if string.find(save.map.topology.ids[idx], "LOOP_BLANK_SUB") == nil  then
-             local area = WorldSim:GetSiteArea(save.map.topology.ids[idx])
+            local area = WorldSim:GetSiteArea(save.map.topology.ids[idx])
             if area < 8 then
                 print ("ERROR: Site "..save.map.topology.ids[idx].." area < 8: "..area)
                 if SKIP_GEN_CHECKS == false then
                     return nil
                 end
-               end
-           end
+            end
+        end
     end
 
     local translated_prefabs, runtime_overrides = TranslateWorldGenChoices(current_gen_params)

@@ -1,0 +1,10 @@
+stages:
+  - lint
+
+editorconfig:
+  stage: lint
+  image: mstruebing/editorconfig-checker
+  allow_failure: true
+  script:
+    - cd $CI_PROJECT_DIR
+    - ec
