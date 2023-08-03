@@ -7,13 +7,13 @@ local PL_SEASON_COLOURCUBES = {
         dusk = resolvefilepath("images/colour_cubes/pork_temperate_dusk_cc.tex"),
         night = resolvefilepath("images/colour_cubes/pork_temperate_night_cc.tex"),
         full_moon = resolvefilepath("images/colour_cubes/pork_temperate_fullmoon_cc.tex"),
-   },
+    },
     [SEASONS.HUMID] = {
         day = resolvefilepath("images/colour_cubes/pork_cold_day_cc.tex"),
         dusk = resolvefilepath("images/colour_cubes/pork_cold_dusk_cc.tex"),
         night = resolvefilepath("images/colour_cubes/pork_cold_dusk_cc.tex"),
         full_moon = resolvefilepath("images/colour_cubes/pork_cold_fullmoon_cc.tex"),
-     },
+    },
     [SEASONS.LUSH] = {
         day = resolvefilepath("images/colour_cubes/pork_lush_day_test.tex"),
         dusk = resolvefilepath("images/colour_cubes/pork_lush_dusk_test.tex"),
