@@ -1,7 +1,5 @@
 return {
     ACTIONS = {
-        HACK = "Hack",
-        SHEAR = "Shear",
     },
     NAMES = {
         APORKALYPSE_CLOCK = "Aporkalypse Calendar",
@@ -11,9 +9,7 @@ return {
         FLOWER_RAINFOREST = "Exotic Flower",
         GLOWFLY = "Glowfly",
         GLOWFLY_COCOON = "Glowfly Cocoon",
-        GOLDENMACHETE = "Luxury Machete",
         GRASS_TALL = "Tall Grass",
-        MACHETE = "Machete",
         PEAGAWK = "Peagawk",
         PEAGAWKFEATHER = "Peagawk Plume",
         PEAGAWK_BUSH = "Blinkbush",
@@ -25,8 +21,6 @@ return {
     },
     RECIPE_DESC = {
         ARMOR_WEEVOLE = "Kinda gross, but surprisingly strong.",
-        GOLDENMACHETE = "Hack stuff in STYLE!",
-        MACHETE = "Hack stuff!",
         SHEARS = "Cut your way into adventure.",
     },
     UI = {

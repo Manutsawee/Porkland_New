@@ -18,13 +18,11 @@ return {
             SLEEPING = "Having dark dreams, no doubt.",
         },
         GLOWFLY_COCOON = "If I could climb into a cocoon I would never emerge.",
-        GOLDENMACHETE = "What a fancy blade to ruin bamboo with!",
         GRASS_TALL = {
             BURNING = "Death comes to everything.",
             GENERIC = "Alas, I'm too weak to pick it.",
             PICKED = "All things end.",
         },
-        MACHETE = "This is a lot of blade.",
         PEAGAWK = {
             DEAD = "Beautiful death.",
             GENERIC = "Many eyes witness many horrors in life.",

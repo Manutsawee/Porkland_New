@@ -18,13 +18,11 @@ return {
             SLEEPING = "It's time for maintenance.",
         },
         GLOWFLY_COCOON = "Change is happening.",
-        GOLDENMACHETE = "This just made my job easier.",
         GRASS_TALL = {
             BURNING = "A Grass fire!",
             GENERIC = "That's some... very tall grass.",
             PICKED = "All work is done.",
         },
-        MACHETE = "Hack and slash! Working's always fun.",
         PEAGAWK = {
             GENERIC = "Always be vigilant.",
             SLEEPING = "It let down its guard.",

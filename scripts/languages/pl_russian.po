@@ -5,16 +5,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0"
 
-#. STRINGS.ACTIONS.HACK
-msgctxt "STRINGS.ACTIONS.HACK"
-msgid "Hack"
-msgstr "Рубить"
-
-#. STRINGS.ACTIONS.SHEAR
-msgctxt "STRINGS.ACTIONS.SHEAR"
-msgid "Shear"
-msgstr "Подстричь"
-
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DEHUMID.1
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DEHUMID.1"
 msgid "Ah, so much better."
@@ -75,11 +65,6 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GLOWFLY_COCOON"
 msgid "Snug as a bug."
 msgstr "Хорошо устроилась!"
 
-#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDENMACHETE"
-msgid "Hack in style!"
-msgstr "Кромсать с шиком!"
-
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING"
 msgid "A grass fire!"
@@ -94,11 +79,6 @@ msgstr "Голыми руками тут не справиться."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Looks like I got it all."
 msgstr "Ни травинки."
-
-#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MACHETE"
-msgid "I like the cut of this blade."
-msgstr "Мне нравится форма этого лезвия."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD"
@@ -220,11 +200,6 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GLOWFLY_COCOON"
 msgid "It appears to be undergoing some kind of transubstantiation."
 msgstr "Существо проходит некое подобие метаморфоза. "
 
-#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDENMACHETE"
-msgid "Gold is so plentiful here I can use it in household tools."
-msgstr "Золота здесь так много, что я могу изготавливать из него инструменты."
-
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Evidently, grass here has the same flammability qualities as at home."
@@ -239,11 +214,6 @@ msgstr "Прочность этой травы вынуждает меня ис�
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Previously experience suggests this will grow back."
 msgstr "Мой опыт позволяет утверждать, что она вырастет снова."
-
-#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.MACHETE"
-msgid "A pragmatic tool for slashing objects."
-msgstr "Практичный инструмент для разрубания."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD"
@@ -370,11 +340,6 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GLOWFLY_COCOON"
 msgid "I need a sleeping bag like that."
 msgstr "Мне нужен такой же спальный мешок."
 
-#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDENMACHETE"
-msgid "I can hack in style."
-msgstr "Я могу стильно рубить."
-
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It'd probably be a lot of work to put it out."
@@ -389,11 +354,6 @@ msgstr "Собирать руками слишком долго."
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.PICKED"
 msgid "I deserve a nap after that."
 msgstr "После этого меня ждет заслуженный сон."
-
-#. STRINGS.CHARACTERS.WALANI.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.MACHETE"
-msgid "What a hack job."
-msgstr "Люблю рубить."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD"
@@ -515,11 +475,6 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GLOWFLY_COCOON"
 msgid "A cocoon, what could be inside?"
 msgstr "Кокон, что может быть внутри?"
 
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDENMACHETE"
-msgid "Hack in style!"
-msgstr "Взломайте стильно!"
-
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Hey! Brush fires will destroy rainforests!"
@@ -534,11 +489,6 @@ msgstr "Пышный участок травы. Должно быть много
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Collect again after a while."
 msgstr "Собрать снова через некоторое время."
-
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MACHETE"
-msgid "I like the cut of this blade."
-msgstr "Мне нравится огранка этого лезвия."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC"
@@ -655,11 +605,6 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GLOWFLY_COCOON"
 msgid "We'd better get out of here before it breaks out of its cocoon."
 msgstr "Нам лучше убраться отсюда, пока он не вырвался из своего кокона."
 
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDENMACHETE"
-msgid "What else do you do with gold in a jungle island?"
-msgstr "Что еще делать с золотом на острове в джунглях?"
-
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "This is not good."
@@ -674,11 +619,6 @@ msgstr "Такая жесткая трава действительно редк
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Over time, it will grow back."
 msgstr "Со временем он снова отрастет."
-
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MACHETE"
-msgid "It's for chopping, simple as that."
-msgstr "Это для рубки, вот так просто."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC"
@@ -795,11 +735,6 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GLOWFLY_COCOON"
 msgid "It's wrapped itself like a cabbage roll."
 msgstr "Завернулся как голубец."
 
-#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDENMACHETE"
-msgid "Fancy slicer."
-msgstr "Красивый резак."
-
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Smells like a cookout!"
@@ -814,11 +749,6 @@ msgstr "Слишком высокая, руками не сорвать."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.PICKED"
 msgid "It will have to grow back."
 msgstr "Подожду, чтобы выросла заново."
-
-#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MACHETE"
-msgid "I could chop many an onion with this!"
-msgstr "Сколько лука можно им нарезать!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD"
@@ -940,11 +870,6 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOWFLY_COCOON"
 msgid "It has armored itself for sleep."
 msgstr "Чтобы поспать, она завернулась в броню."
 
-#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENMACHETE"
-msgid "I shall swing you with pride."
-msgstr "Буду махать тобой гордо."
-
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It burns!"
@@ -959,11 +884,6 @@ msgstr "Это трава из Йотунхейма!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.PICKED"
 msgid "I have defeated it!"
 msgstr "Я сразила ее!"
-
-#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MACHETE"
-msgid "A fine length of blade."
-msgstr "Подходящая длина лезвия."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD"
@@ -1085,11 +1005,6 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY_COCOON"
 msgid "Ah, metamorphosis..."
 msgstr "О, метаморфоза..."
 
-#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENMACHETE"
-msgid "I've always wanted to hack things in luxury."
-msgstr "Всегда хотел рубить все подряд с шиком."
-
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Well, there you have it."
@@ -1104,11 +1019,6 @@ msgstr "Какое счастье. Я нашел траву."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.PICKED"
 msgid "I don't require any more grass, thank you."
 msgstr "Спасибо, мне не надо больше травы."
-
-#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MACHETE"
-msgid "Truthfully I was always a hack."
-msgstr "По правде говоря, я всегда любил рубить."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD"
@@ -1230,11 +1140,6 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOWFLY_COCOON"
 msgid "That looks cozy."
 msgstr "На вид уютно."
 
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENMACHETE"
-msgid "What a beautiful blade!"
-msgstr "Какой красивый клинок!"
-
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Fire!"
@@ -1249,11 +1154,6 @@ msgstr "Она выше нас!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.PICKED"
 msgid "It's been picked."
 msgstr "Его сорвали."
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MACHETE"
-msgid "Hyah! Hyah!"
-msgstr "Хия! Хия!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD"
@@ -1375,11 +1275,6 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GLOWFLY_COCOON"
 msgid "If I could climb into a cocoon I would never emerge."
 msgstr "Если бы я стала куколкой, то никогда бы не покинула свой кокон."
 
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDENMACHETE"
-msgid "What a fancy blade to ruin bamboo with!"
-msgstr "Какое замечательное орудие для рубки бамбука!"
-
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Death comes to everything."
@@ -1394,11 +1289,6 @@ msgstr "Увы, я слишком слаба, чтобы ее сорвать."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.PICKED"
 msgid "All things end."
 msgstr "Всему приходит конец."
-
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MACHETE"
-msgid "This is a lot of blade."
-msgstr "Какое длинное лезвие."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD"
@@ -1520,11 +1410,6 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GLOWFLY_COCOON"
 msgid "Aww... It's wrapped up all nice and cozy."
 msgstr "О-о-о... Она так уютно завернулась."
 
-#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDENMACHETE"
-msgid "For the sophisticated adventurer."
-msgstr "Для искателя приключений из высшего общества."
-
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "All those bugs have nowhere to hide now."
@@ -1539,11 +1424,6 @@ msgstr "Такую высокую траву только мачете возь�
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.PICKED"
 msgid "It'll be overgrown in no time."
 msgstr "Совсем скоро она вырастет снова."
-
-#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.MACHETE"
-msgid "Machete. Designed for adventure."
-msgstr "Мачете. Создан для приключений."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD"
@@ -1665,11 +1545,6 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GLOWFLY_COCOON"
 msgid "Fascinating! It has moved on to the chrysalis stage."
 msgstr "Удивительно! Они перешли на стадию куколок!"
 
-#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDENMACHETE"
-msgid "The most malleable of metals, but let's see how it slices."
-msgstr "Самый мягкий из металлов, но давайте посмотрим, как он режет."
-
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Illuminating!"
@@ -1684,11 +1559,6 @@ msgstr "Без орудия тут не справиться."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.PICKED"
 msgid "That required not insignificant effort."
 msgstr "Для этого потребовалось изрядно поработать."
-
-#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MACHETE"
-msgid "Used for hacking through the brush."
-msgstr "Используется для прорубания дороги сквозь кустарник."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD"
@@ -1815,11 +1685,6 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GLOWFLY_COCOON"
 msgid "WRAPP'DED IN A BUGGY BLANKET"
 msgstr "ОНА ЗАВЕРНУЛАСЬ В ОДЕЯЛЬЦЕ"
 
-#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDENMACHETE"
-msgid "'TIS SHINY TOOL O' SLASHINGS"
-msgstr "ЗЛАТОЙ ОГРОМНЫЙ НОЖ"
-
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "FWOOSH'DING"
@@ -1834,11 +1699,6 @@ msgstr "РАСТЕТ БЕЗ УСТАЛИ ОНА"
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.PICKED"
 msgid "THE LONG AND SHORT OF IT"
 msgstr "ВСЕ ДО ПОСЛЕДНЕГО СТЕБЕЛЬКА"
-
-#. STRINGS.CHARACTERS.WILBA.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.MACHETE"
-msgid "YON SLASHY TOOL"
-msgstr "ОСТРЫЙ ИНСТРУМЕНТ"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD"
@@ -1960,11 +1820,6 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GLOWFLY_COCOON"
 msgid "Doing a bad job of hiding from me."
 msgstr "Не очень-то у тебя хорошо получается прятаться."
 
-#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDENMACHETE"
-msgid "I don't want to scuff it up."
-msgstr "Не хотелось бы его износить."
-
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING"
 msgid "I win."
@@ -1979,11 +1834,6 @@ msgstr "Какая жесткая трава!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Not tough enough!"
 msgstr "Жесткости ей все же не хватило."
-
-#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MACHETE"
-msgid "Or I could just burn my way through."
-msgstr "Можно прожечь себе путь."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD"
@@ -2105,11 +1955,6 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GLOWFLY_COCOON"
 msgid "Change is happening."
 msgstr "Изменения происходят."
 
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDENMACHETE"
-msgid "This just made my job easier."
-msgstr "Это только упростило мне работу."
-
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "A Grass fire!"
@@ -2124,11 +1969,6 @@ msgstr "Это какая-то... очень высокая трава."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.PICKED"
 msgid "All work is done."
 msgstr "Вся работа сделана."
-
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MACHETE"
-msgid "Hack and slash! Working's always fun."
-msgstr "Руби и режь! Работать всегда весело."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC"
@@ -2245,11 +2085,6 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GLOWFLY_COCOON"
 msgid "Bug look cozy."
 msgstr "Светляку уютно."
 
-#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDENMACHETE"
-msgid "Hoighty toighty knife!"
-msgstr "Фу-ты ну-ты, какой нож!"
-
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Wolfgang is not doing that!"
@@ -2264,11 +2099,6 @@ msgstr "Очень крепкая трава."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Wolfgang is mightiest!"
 msgstr "Вольфганг — самый могучий!"
-
-#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MACHETE"
-msgid "Ah! Very good!"
-msgstr "Ай! Очень хорошо!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD"
@@ -2390,11 +2220,6 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GLOWFLY_COCOON"
 msgid "That looks comfy, eh?"
 msgstr "Выглядит уютно, да?"
 
-#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDENMACHETE"
-msgid "It chops AND sparkles!"
-msgstr "Он рубит И сверкает!"
-
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It caught fire."
@@ -2409,11 +2234,6 @@ msgstr "Не заморачивайся на этот счет, Люси."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Got all I could."
 msgstr "Собрал все, что мог."
-
-#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MACHETE"
-msgid "Ooh, that's a thing for chopping."
-msgstr "Ого, вот этой штукой реально можно рубить."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD"
@@ -2535,11 +2355,6 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GLOWFLY_COCOON"
 msgid "'e be sleepin' it off."
 msgstr "Отсыпается."
 
-#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDENMACHETE"
-msgid "'Tis a mighty 'eavy blade."
-msgstr "Мощное и тяжелое лезвие."
-
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING"
 msgid "'Tis ablaze!"
@@ -2554,11 +2369,6 @@ msgstr "До небес."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Plunder'd."
 msgstr "Срезана под корень."
-
-#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.MACHETE"
-msgid "Ye be slicin'!"
-msgstr "Порежу на кусочки, йар-р!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD"
@@ -2680,11 +2490,6 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GLOWFLY_COCOON"
 msgid "Changing"
 msgstr "Меняется"
 
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDENMACHETE"
-msgid "Pretty Slicer"
-msgstr "Красивая резалка"
-
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING"
 msgid "No!!"
@@ -2699,11 +2504,6 @@ msgstr "Ты такая высокая!"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Keep growing!"
 msgstr "Продолжай расти!"
-
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MACHETE"
-msgid "Slicer. For friend haircuts"
-msgstr "Резалка. Чтобы стричь друзей"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD"
@@ -2825,11 +2625,6 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GLOWFLY_COCOON"
 msgid "What will become of it?"
 msgstr "Что из этого получится?"
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDENMACHETE"
-msgid "Fit for a sophisticated imp!"
-msgstr "Подходит для изощренного чертенка!"
-
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Oops, it's burning."
@@ -2844,11 +2639,6 @@ msgstr "Сплошная высокая трава, очень красиво."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Gone, all gone."
 msgstr "Ушли, все ушли."
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MACHETE"
-msgid "To chop and slash!"
-msgstr "Рубить и рубить!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC"
@@ -2965,11 +2755,6 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GLOWFLY_COCOON"
 msgid "The little bug wrapped itself up."
 msgstr "Маленький жук завернулся."
 
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDENMACHETE"
-msgid "It better than normal hacker."
-msgstr "Это лучше, чем обычный хакер."
-
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Fire! Is fire!"
@@ -2984,11 +2769,6 @@ msgstr "Грир... не могу двигаться."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.PICKED"
 msgid "It has been cut clean."
 msgstr "Он был вырезан начисто."
-
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MACHETE"
-msgid "Plant hacker."
-msgstr "Хакер растений."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC"
@@ -3105,11 +2885,6 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GLOWFLY_COCOON"
 msgid "UNDERGOING UPGRADE"
 msgstr "ВЫПОЛНЯЕТСЯ ОБНОВЛЕНИЕ"
 
-#. STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDENMACHETE
-msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDENMACHETE"
-msgid "AN OSTENTATIOUS HACKING DEVICE"
-msgstr "ДЕМОНСТРАЦИОННОЕ УСТРОЙСТВО КРОМСАНИЯ"
-
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING"
 msgid "GROUND PARTS ON FIRE"
@@ -3124,11 +2899,6 @@ msgstr "ВЫСОКИЕ ЭЛЕМЕНТЫ ЗЕМЛИ"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.PICKED"
 msgid "GROUND PARTS PREVIOUSLY ACQUIRED"
 msgstr "ЭТИ ЭЛЕМЕНТЫ ЗЕМЛИ УЖЕ СОБРАНЫ"
-
-#. STRINGS.CHARACTERS.WX78.DESCRIBE.MACHETE
-msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MACHETE"
-msgid "A LONG BLADE FOR EXPERT HACKING"
-msgstr "ДЛИННОЕ ЛЕЗВИЕ ДЛЯ ОПЫТНЫХ ХАКЕРОВ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD"
@@ -3225,20 +2995,10 @@ msgctxt "STRINGS.NAMES.GLOWFLY_COCOON"
 msgid "Glowfly Cocoon"
 msgstr "Кокон светомухи"
 
-#. STRINGS.NAMES.GOLDENMACHETE
-msgctxt "STRINGS.NAMES.GOLDENMACHETE"
-msgid "Luxury Machete"
-msgstr "Роскошный мачете"
-
 #. STRINGS.NAMES.GRASS_TALL
 msgctxt "STRINGS.NAMES.GRASS_TALL"
 msgid "Tall Grass"
 msgstr "Высокая трава"
-
-#. STRINGS.NAMES.MACHETE
-msgctxt "STRINGS.NAMES.MACHETE"
-msgid "Machete"
-msgstr "Мачете"
 
 #. STRINGS.NAMES.PEAGAWK
 msgctxt "STRINGS.NAMES.PEAGAWK"
@@ -3284,16 +3044,6 @@ msgstr "Панцирь полевки"
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_WEEVOLE"
 msgid "Kinda gross, but surprisingly strong."
 msgstr "Мерзкая на вид, но на удивление прочная."
-
-#. STRINGS.RECIPE_DESC.GOLDENMACHETE
-msgctxt "STRINGS.RECIPE_DESC.GOLDENMACHETE"
-msgid "Hack stuff in STYLE!"
-msgstr "Руби с блеском!"
-
-#. STRINGS.RECIPE_DESC.MACHETE
-msgctxt "STRINGS.RECIPE_DESC.MACHETE"
-msgid "Hack stuff!"
-msgstr "Руби!"
 
 #. STRINGS.RECIPE_DESC.SHEARS
 msgctxt "STRINGS.RECIPE_DESC.SHEARS"

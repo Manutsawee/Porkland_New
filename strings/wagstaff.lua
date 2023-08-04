@@ -18,13 +18,11 @@ return {
             SLEEPING = "Evidently, its bioluminescence is dormant too.",
         },
         GLOWFLY_COCOON = "It appears to be undergoing some kind of transubstantiation.",
-        GOLDENMACHETE = "Gold is so plentiful here I can use it in household tools.",
         GRASS_TALL = {
             BURNING = "Evidently, grass here has the same flammability qualities as at home.",
             GENERIC = "The obstinacy of this grass requires something sharper than my hands.",
             PICKED = "Previously experience suggests this will grow back.",
         },
-        MACHETE = "A pragmatic tool for slashing objects.",
         PEAGAWK = {
             DEAD = "Evidently, it didn't see that coming.",
             GENERIC = "Curious. Can it see out of all of those ocular quills?",

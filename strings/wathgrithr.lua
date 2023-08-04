@@ -18,13 +18,11 @@ return {
             SLEEPING = "A slumber consumes it.",
         },
         GLOWFLY_COCOON = "It has armored itself for sleep.",
-        GOLDENMACHETE = "I shall swing you with pride.",
         GRASS_TALL = {
             BURNING = "It burns!",
             GENERIC = "Surely it is the grass of Jotunheim!",
             PICKED = "I have defeated it!",
         },
-        MACHETE = "A fine length of blade.",
         PEAGAWK = {
             DEAD = "Even in death its eyes stare into my soul.",
             GENERIC = "It has the eyes of Odin.",

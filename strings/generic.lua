@@ -18,13 +18,11 @@ return {
             SLEEPING = "Out like a light.",
         },
         GLOWFLY_COCOON = "Snug as a bug.",
-        GOLDENMACHETE = "Hack in style!",
         GRASS_TALL = {
             BURNING = "A grass fire!",
             GENERIC = "It's too tough to pick with my hands.",
             PICKED = "Looks like I got it all.",
         },
-        MACHETE = "I like the cut of this blade.",
         PEAGAWK = {
             DEAD = "Dead-eyed.",
             GENERIC = "That bush is alive!",

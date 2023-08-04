@@ -18,13 +18,11 @@ return {
             SLEEPING = "sleeping.",
         },
         GLOWFLY_COCOON = "The little bug wrapped itself up.",
-        GOLDENMACHETE = "It better than normal hacker.",
         GRASS_TALL = {
             BURNING = "Fire! Is fire!",
             GENERIC = "Greer... can't move.",
             PICKED = "It has been cut clean.",
         },
-        MACHETE = "Plant hacker.",
         PEAGAWK = {
             GENERIC = "Big weird bird.",
             SLEEPING = "The big monster fell asleep?",

@@ -19,13 +19,11 @@ return {
             SLEEPING = "O GENTLE SLEEP!",
         },
         GLOWFLY_COCOON = "WRAPP'DED IN A BUGGY BLANKET",
-        GOLDENMACHETE = "'TIS SHINY TOOL O' SLASHINGS",
         GRASS_TALL = {
             BURNING = "FWOOSH'DING",
             GENERIC = "AS LONG AS THE DAY IS MERRY",
             PICKED = "THE LONG AND SHORT OF IT",
         },
-        MACHETE = "YON SLASHY TOOL",
         PEAGAWK = {
             DEAD = "IS'T EYES LOOKED IS'T LAST",
             GENERIC = "WHAT A ROGUE AND PEASANT SLAVE AM EYE-BIRD!",

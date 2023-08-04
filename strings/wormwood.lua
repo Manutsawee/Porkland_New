@@ -18,13 +18,11 @@ return {
             SLEEPING = "No light",
         },
         GLOWFLY_COCOON = "Changing",
-        GOLDENMACHETE = "Pretty Slicer",
         GRASS_TALL = {
             BURNING = "No!!",
             GENERIC = "You're so tall!",
             PICKED = "Keep growing!",
         },
-        MACHETE = "Slicer. For friend haircuts",
         PEAGAWK = {
             DEAD = "Oh dear",
             GENERIC = "Gubble Gubble Tweeter",

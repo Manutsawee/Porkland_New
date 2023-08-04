@@ -18,13 +18,11 @@ return {
             SLEEPING = "(Psst... you're gross.)",
         },
         GLOWFLY_COCOON = "Doing a bad job of hiding from me.",
-        GOLDENMACHETE = "I don't want to scuff it up.",
         GRASS_TALL = {
             BURNING = "I win.",
             GENERIC = "This grass is tough!",
             PICKED = "Not tough enough!",
         },
-        MACHETE = "Or I could just burn my way through.",
         PEAGAWK = {
             DEAD = "Very dead.",
             GENERIC = "Jeepers peepers!",

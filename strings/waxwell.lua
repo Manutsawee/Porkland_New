@@ -18,13 +18,11 @@ return {
             SLEEPING = "That light is rather too lethargic.",
         },
         GLOWFLY_COCOON = "Ah, metamorphosis...",
-        GOLDENMACHETE = "I've always wanted to hack things in luxury.",
         GRASS_TALL = {
             BURNING = "Well, there you have it.",
             GENERIC = "Oh, joyous occasion. I've found grass.",
             PICKED = "I don't require any more grass, thank you.",
         },
-        MACHETE = "Truthfully I was always a hack.",
         PEAGAWK = {
             DEAD = "It's beauty has been snuffed out forever.",
             GENERIC = "What a regal-looking beast.",

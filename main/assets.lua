@@ -11,7 +11,6 @@ PrefabFiles = {
     "grass_tall",
     "pl_wave_shore",
     "jungle_border_vine",
-    "machete",
     "peagawk",
     "peagawk_spawner",
     "peagawkfeather",
@@ -42,8 +41,6 @@ Assets = {
     Asset("ANIM", "anim/moon_aporkalypse_phases.zip"),  -- blood moon
 
     -- player_actions
-    Asset("ANIM", "anim/player_actions_hack.zip"),
-    Asset("ANIM", "anim/player_actions_shear.zip"),
 }
 
 ToolUtil.RegisterImageAtlas("images/pl_inventoryimages.xml")

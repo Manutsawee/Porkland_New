@@ -18,13 +18,11 @@ return {
             SLEEPING = "Becalm'd.",
         },
         GLOWFLY_COCOON = "'e be sleepin' it off.",
-        GOLDENMACHETE = "'Tis a mighty 'eavy blade.",
         GRASS_TALL = {
             BURNING = "'Tis ablaze!",
             GENERIC = "As tall'as th'sky.",
             PICKED = "Plunder'd.",
         },
-        MACHETE = "Ye be slicin'!",
         PEAGAWK = {
             DEAD = "It tells no tales.",
             GENERIC = "Arr, them eyes need patches!",

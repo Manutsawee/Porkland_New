@@ -18,13 +18,11 @@ return {
             SLEEPING = "Wake up and glow for me!",
         },
         GLOWFLY_COCOON = "Aww... It's wrapped up all nice and cozy.",
-        GOLDENMACHETE = "For the sophisticated adventurer.",
         GRASS_TALL = {
             BURNING = "All those bugs have nowhere to hide now.",
             GENERIC = "Tall grass like that is going to need a machete.",
             PICKED = "It'll be overgrown in no time.",
         },
-        MACHETE = "Machete. Designed for adventure.",
         PEAGAWK = {
             DEAD = "I promise, I will go on without you!",
             GENERIC = "Has the eyesight for flying but not the wings for it.",
