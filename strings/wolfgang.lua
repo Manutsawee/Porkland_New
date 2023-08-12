@@ -46,5 +46,6 @@ return {
         TREE_PILLAR = "Mightiest tree!",
         WEEVOLE = "Pesky bug. Leave Wolfgang alone!",
         WEEVOLE_CARAPACE = "Is pesky bug skin.",
+        IRON = "Iron is strong like Wolfgang.",
     },
 }

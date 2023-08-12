@@ -46,5 +46,6 @@ return {
         TREE_PILLAR = "Certainly from an old growth tree.",
         WEEVOLE = "A Coleoptera. And an annoying one at that.",
         WEEVOLE_CARAPACE = "The exoskeleton of a Coleoptera.",
+        IRON = "Ferrum.",
     },
 }

@@ -46,5 +46,6 @@ return {
         TREE_PILLAR = "This tree is unusually large.",
         WEEVOLE = "Interminable pests.",
         WEEVOLE_CARAPACE = "Ugh.",
+        IRON = "A solid mineral.",
     },
 }

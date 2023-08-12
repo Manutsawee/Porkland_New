@@ -46,5 +46,6 @@ return {
         TREE_PILLAR = "That's a big ol' tree.",
         WEEVOLE = "Stand still so I can burn you.",
         WEEVOLE_CARAPACE = "Ew.",
+        IRON = "I can't burn it with just my lighter.",
     },
 }

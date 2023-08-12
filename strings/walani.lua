@@ -46,5 +46,6 @@ return {
         TREE_PILLAR = "What a great tree!",
         WEEVOLE = "Annoying little guys.",
         WEEVOLE_CARAPACE = "Ew. Bug skin.",
+        IRON = "This has gotta be good for something.",
     },
 }

@@ -46,5 +46,6 @@ return {
         TREE_PILLAR = "Surely I stand before Yggdrasil!",
         WEEVOLE = "A pest upon this land!",
         WEEVOLE_CARAPACE = "The skin of my enemy.",
+        IRON = "Material for metalwork.",
     },
 }
