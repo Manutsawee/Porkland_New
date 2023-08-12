@@ -203,3 +203,8 @@ applyoverrides_post.glowflycycle = function(difficulty)
         TheWorld:PushEvent("ms_setglowflycycle", true)
     end
 end
+
+applyoverrides_post.hayfever = function(difficulty)
+    difficulty = difficulty == "default"
+    TheWorld:PushEvent("ms_setworldsetting", {setting = "hayfever", value = difficulty})
+end

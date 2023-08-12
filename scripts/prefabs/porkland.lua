@@ -120,6 +120,8 @@ local function common_postinit(inst)
 end
 
 local function master_postinit(inst)
+    inst.has_ia_ocean = true
+
     -- Spawners
     inst:AddComponent("birdspawner")
     inst:AddComponent("butterflyspawner")

@@ -5,7 +5,6 @@ local components_post = {
     "colourcube",
     "grogginess",
     "inventory",
-    "inventoryitem",
     "moisture",
     "pollinator",
     "regrowthmanager",
@@ -14,6 +13,7 @@ local components_post = {
     "shard_seasons",
     "wavemanager",
     "worldstate",
+    "edible",
 }
 
 local prefabs_post = {
@@ -21,6 +21,8 @@ local prefabs_post = {
     "player_classified",
     "world_network",
     "shard_network",
+    "woodie",
+    "wormwood",
 }
 
 local scenarios_post = {
