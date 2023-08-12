@@ -1,6 +1,7 @@
 GLOBAL.setfenv(1, GLOBAL)
 
 local FogOver = require("widgets/fogover")
+local PollenOver = require("widgets/pollenover")
 
 local PlayerHud = require("screens/playerhud")
 
@@ -14,6 +15,9 @@ function PlayerHud:CreateOverlays(owner, ...)
     self.inst:ListenForEvent("stopfog", function(inst, data) return self.fogover:StopFog() end, self.owner)
     self.inst:ListenForEvent("setfog", function(inst, data) return self.fogover:SetFog() end, self.owner)
 
+    self.pollenover = self.overlayroot:AddChild(PollenOver(owner))
+    self.pollenover:Hide()
+    self.inst:ListenForEvent("updatepollen", function(inst, data) return self.pollenover:UpdateState(data.sneezetime) end, self.owner)
 end
 
 local _UpdateClouds = PlayerHud.UpdateClouds

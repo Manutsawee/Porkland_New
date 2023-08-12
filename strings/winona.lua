@@ -7,10 +7,14 @@ return {
         "This %s is so boring that I can't breathe.",
     },
     DESCRIBE = {
+        ANNOUNCE_HAYFEVER = "My nose is itchy...",
+        ANNOUNCE_HAYFEVER_OFF = "Huh, finally comfortable.",
+        ANNOUNCE_SNEEZE = "Ah chirp!",
         APORKALYPSE_CLOCK = "A fairly complex set of instrumentation.",
         ARMOR_WEEVOLE = "Not very comfortable, just let it go.",
         ASPARAGUS_PLANTED = "Wholesome green vegetables.",
         CHITIN = "I don't know what this can be used for.",
+        CUTNETTLE = "Keep your breath flowing and refresh your mind.",
         FLOWER_RAINFOREST = "I have never seen such flowers.",
         GLOWFLY = {
             DEAD = "It's broken.",
