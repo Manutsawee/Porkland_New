@@ -10,7 +10,9 @@ return {
         "This %s is too hot.",
     },
     DESCRIBE = {
+        ALLOY = "Ahoy there, alloy!",
         APORKALYPSE_CLOCK = "Looks scientifically apocalyptic.",
+        ARMOR_METALPLATE = "Science says I'm safe in here.",
         ARMOR_WEEVOLE = "Yeesh. This is kinda creepy.",
         ASPARAGUS_PLANTED = "I should pick those!",
         CHITIN = "Bug coating.",
@@ -27,6 +29,7 @@ return {
             GENERIC = "It's too tough to pick with my hands.",
             PICKED = "Looks like I got it all.",
         },
+        HALBERD = "Now I can't be caught off-guard.",
         PEAGAWK = {
             DEAD = "Dead-eyed.",
             GENERIC = "That bush is alive!",

@@ -118,7 +118,7 @@ end
 
 function table_to_string(t, indent)
     if not t or not next(t) then
-        return "{}"
+        return "{},"
     end
 
     indent = indent or 1

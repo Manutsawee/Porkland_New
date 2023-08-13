@@ -10,7 +10,9 @@ return {
         "This %s is hotter than I like.",
     },
     DESCRIBE = {
+        ALLOY = "Durable.",
         APORKALYPSE_CLOCK = "I do like this...",
+        ARMOR_METALPLATE = "Not very pliant but it does the job.",
         ARMOR_WEEVOLE = "This is not a good look.",
         ASPARAGUS_PLANTED = "Food. Just growing out of the ground.",
         CHITIN = "We all have our defenses.",
@@ -27,6 +29,7 @@ return {
             GENERIC = "Oh, joyous occasion. I've found grass.",
             PICKED = "I don't require any more grass, thank you.",
         },
+        HALBERD = "A blade as sharp as my wit.",
         PEAGAWK = {
             DEAD = "It's beauty has been snuffed out forever.",
             GENERIC = "What a regal-looking beast.",

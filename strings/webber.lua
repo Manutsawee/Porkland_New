@@ -10,7 +10,9 @@ return {
         "Wow! This %s is making us hot.",
     },
     DESCRIBE = {
+        ALLOY = "Gosh. That's a lot of metal.",
         APORKALYPSE_CLOCK = "It's like a puzzle!",
+        ARMOR_METALPLATE = "Sir Webber at your service!",
         ARMOR_WEEVOLE = "For when we need protection.",
         ASPARAGUS_PLANTED = "We should pick those.",
         CHITIN = "Hope no one's missing that.",
@@ -27,6 +29,7 @@ return {
             GENERIC = "It's taller than we are!",
             PICKED = "It's been picked.",
         },
+        HALBERD = "Swoosh!",
         PEAGAWK = {
             DEAD = "I think it's dead.",
             GENERIC = "You've got more eyes than we do!",
