@@ -27,5 +27,6 @@ modimport("main/pl_worldsettings_overrides")
 modimport("main/RPC")
 modimport("main/actions")
 modimport("main/postinit")
+modimport("main/recipes")
 
 AddReplicableComponent("hayfever")

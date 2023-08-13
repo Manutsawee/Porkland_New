@@ -10,7 +10,9 @@ return {
         "This %s is just too hot!",
     },
     DESCRIBE = {
+        ALLOY = "Heavy metal made heavier.",
         APORKALYPSE_CLOCK = "If only I could turn time back to before I crashed here.",
+        ARMOR_METALPLATE = "Oof. It's heavier than ballast.",
         ARMOR_WEEVOLE = "If only it had those bug wings.",
         ASPARAGUS_PLANTED = "That looks like food! Let's hope it tastes like food.",
         CHITIN = "I'm going to need more of these.",
@@ -27,6 +29,7 @@ return {
             GENERIC = "Tall grass like that is going to need a machete.",
             PICKED = "It'll be overgrown in no time.",
         },
+        HALBERD = "The must-have multi-tool for adventurers.",
         PEAGAWK = {
             DEAD = "I promise, I will go on without you!",
             GENERIC = "Has the eyesight for flying but not the wings for it.",
