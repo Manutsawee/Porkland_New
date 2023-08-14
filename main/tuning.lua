@@ -23,9 +23,7 @@ local tuning = {
 
     APORKALYPSE_NEAR_TIME = 7 * total_day_time,
     APORKALYPSE_PERIOD_LENGTH = 60 * total_day_time,
-	IRON_LORD_DAMAGE = wilson_attack*2,
-	IRON_LORD_TIME = 3*60,
-    
+
     PEAGAWK_DAMAGE = 20,
     PEAGAWK_HEALTH = 50,
     PEAGAWK_ATTACK_PERIOD = 3,
