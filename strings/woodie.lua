@@ -46,6 +46,5 @@ return {
         TREE_PILLAR = "That's a real beaut.",
         WEEVOLE = "Worse than black flies.",
         WEEVOLE_CARAPACE = "That'll teach 'em!",
-
     },
 }
