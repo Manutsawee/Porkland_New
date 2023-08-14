@@ -90,7 +90,7 @@ local tuning = {
     ASPARAGUS_REGROWTH_TIME_MULT = 1,
 
     CLAWPALMTREE_GROW_TIME = {
-        {base = 8 * day_time, random = 0.5 * day_time},  -- tall to short
+        {base = 8 * day_time, random = 0.5 * day_time},   -- tall to short
         {base = 12 * day_time, random = 5 * day_time},   -- short to normal
         {base = 12 * day_time, random = 5 * day_time},   -- normal to tall
     },
@@ -103,14 +103,7 @@ local tuning = {
     JUNGLETREE_WINDBLOWN_SPEED = 0.2,
     JUNGLETREE_WINDBLOWN_FALL_CHANCE = 0.01,
 
-    FOG_MOISTURE_RATE_SCALE = 0.6,
-
-    ARMORMETAL = wilson_health * 8,
-    ARMORMETAL_ABSORPTION = .85,
-    ARMORMETAL_SLOW = 0.9,  -- -0.10,
-
-    HALBERD_DAMAGE = wilson_attack * 1.3,
-    HALBERD_USES = 100,
+    FOG_MOISTURE_RATE_SCALE = 0.6
 }
 
 for key, value in pairs(tuning) do

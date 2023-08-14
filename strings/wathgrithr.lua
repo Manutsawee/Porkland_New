@@ -10,9 +10,7 @@ return {
         "This %s burns like Sol.",
     },
     DESCRIBE = {
-        ALLOY = "A metal worthy of the Sons of Ivaldi.",
         APORKALYPSE_CLOCK = "It controls Ragnarok!",
-        ARMOR_METALPLATE = "Armor worthy of my deeds.",
         ARMOR_WEEVOLE = "Armor made from the skin of my enemy.",
         ASPARAGUS_PLANTED = "Useless vegetation!",
         CHITIN = "The feeble armor of the bug.",
@@ -29,7 +27,6 @@ return {
             GENERIC = "Surely it is the grass of Jotunheim!",
             PICKED = "I have defeated it!",
         },
-        HALBERD = "Tis no spear, yet is still valorous!",
         PEAGAWK = {
             DEAD = "Even in death its eyes stare into my soul.",
             GENERIC = "It has the eyes of Odin.",

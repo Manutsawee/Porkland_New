@@ -10,9 +10,7 @@ return {
         "This %s is really warm.",
     },
     DESCRIBE = {
-        ALLOY = "Hope this is worth all the trouble.",
         APORKALYPSE_CLOCK = "I hate clocks.",
-        ARMOR_METALPLATE = "I feel like a soda can.",
         ARMOR_WEEVOLE = "Ew. It's all creepy-crawly.",
         ASPARAGUS_PLANTED = "Food!",
         CHITIN = "Probably wouldn't make a good surfboard.",
@@ -29,7 +27,6 @@ return {
             GENERIC = "It's too much work to pick it with my hands.",
             PICKED = "I deserve a nap after that.",
         },
-        HALBERD = "You could poke an eye out on this thing!",
         PEAGAWK = {
             DEAD = "Dang. It's dead.",
             GENERIC = "Beautiful eyes, dude!",

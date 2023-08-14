@@ -10,9 +10,7 @@ return {
         "Is too muggy.",
     },
     DESCRIBE = {
-        ALLOY = "Fire make it strong like Wolfgang.",
         APORKALYPSE_CLOCK = "Is clock of scary things.",
-        ARMOR_METALPLATE = "No one beat Wolfgang now!",
         ARMOR_WEEVOLE = "Wolfgang win!",
         ASPARAGUS_PLANTED = "Haha. Is like tiny vegetable hats.",
         CHITIN = "Icky bug pieces.",
@@ -29,7 +27,6 @@ return {
             GENERIC = "Very sturdy grass.",
             PICKED = "Wolfgang is mightiest!",
         },
-        HALBERD = "Sword is for weak no-muscle men.",
         PEAGAWK = {
             DEAD = "Is blink-blink no more.",
             GENERIC = "Funny blink-blink bird!",
