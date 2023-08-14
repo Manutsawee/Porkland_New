@@ -115,6 +115,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALBERD"
 msgid "Now I can't be caught off-guard."
 msgstr "Nadie me pillará con la guardia baja."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.IRON"
+msgid "Isn't it ironic?"
+msgstr "Quitando hierro al asunto..."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD"
 msgid "Dead-eyed."
@@ -284,6 +289,11 @@ msgstr "Mis experiencias previas sugieren que volverá a crecer."
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.HALBERD"
 msgid "A marvelously versatile instrument capable of causing incredible harm!"
 msgstr "¡Un instrumento maravillosamente versátil capaz de causar un daño increíble!"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.IRON"
+msgid "Marvelous! Iron is invaluable for manufacturing the tools I need!"
+msgstr "¡Maravilloso! ¡El hierro es de gran valor para fabricar los útiles que necesito!"
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD"
@@ -460,6 +470,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.HALBERD"
 msgid "You could poke an eye out on this thing!"
 msgstr "¡Podrías sacarle un ojo a alguien con esto!"
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.IRON"
+msgid "This has gotta be good for something."
+msgstr "Esto tiene que venir bien para algo."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD"
 msgid "Dang. It's dead."
@@ -630,6 +645,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALBERD"
 msgid "A huge ax!"
 msgstr "¡Un hacha enorme!"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.IRON"
+msgid "Is that iron?"
+msgstr "eso es hierro?"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC"
 msgid "Wow, how many eyes are there?"
@@ -795,6 +815,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALBERD"
 msgid "I'm not planning on murdering grove of trees."
 msgstr "No estoy planeando asesinar a la arboleda."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.IRON"
+msgid "An essential material for accurate timepieces."
+msgstr "Un material esencial para relojes precisos."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC"
 msgid "See no evil!"
@@ -959,6 +984,11 @@ msgstr "Tendrá que volver a crecer."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALBERD"
 msgid "I dislike fighting."
 msgstr "Me disgusta pelear."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.IRON"
+msgid "I wonder what I could cook up with this."
+msgstr "Me pregunto qué podría cocinar con esto."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD"
@@ -1130,6 +1160,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALBERD"
 msgid "Tis no spear, yet is still valorous!"
 msgstr "¡No es una lanza, pero tiene su valor!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON"
+msgid "Material for metalwork."
+msgstr "Material metalúrgico."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD"
 msgid "Even in death its eyes stare into my soul."
@@ -1299,6 +1334,11 @@ msgstr "No necesito más hierba, gracias."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALBERD"
 msgid "A blade as sharp as my wit."
 msgstr "Un filo tan afilado como mi ingenio."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.IRON"
+msgid "A solid mineral."
+msgstr "Un mineral sólido."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD"
@@ -1470,6 +1510,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALBERD"
 msgid "Swoosh!"
 msgstr "¡Siuuuu!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.IRON"
+msgid "We could make all kinds of neat stuff with this."
+msgstr "Podríamos hacer cosas chulas con esto."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD"
 msgid "I think it's dead."
@@ -1639,6 +1684,11 @@ msgstr "Todo acaba."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALBERD"
 msgid "A terrible weapon for a terrible world."
 msgstr "Un arma terrible para un mundo terrible."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.IRON"
+msgid "Iron. Like my heart."
+msgstr "Hierro. Como mi corazón."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD"
@@ -1810,6 +1860,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.HALBERD"
 msgid "The must-have multi-tool for adventurers."
 msgstr "La multiherramienta imprescindible para aventureros."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.IRON"
+msgid "Well it's not good balloon material."
+msgstr "No es buen material para globos."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD"
 msgid "I promise, I will go on without you!"
@@ -1979,6 +2034,11 @@ msgstr "No ha requerido un gran esfuerzo."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALBERD"
 msgid "It is a cruel and versatile weapon."
 msgstr "Es un arma cruel y versátil."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.IRON"
+msgid "Ferrum."
+msgstr "Ferrum."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD"
@@ -2155,6 +2215,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.HALBERD"
 msgid "WILBA SHALL SLICE AND CHOP!"
 msgstr "¡WILBA CORTARÁ Y TROCEARÁ!"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.IRON"
+msgid "'TIS METAL O' THE ZAPPY BIRD"
+msgstr "METAL DEL PÁJARO VIVAZ"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD"
 msgid "IS'T EYES LOOKED IS'T LAST"
@@ -2324,6 +2389,11 @@ msgstr "¡Nada se me resiste!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALBERD"
 msgid "Weapons are only good if they're twice your size."
 msgstr "Las armas solo sirven si miden el doble que tú."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.IRON"
+msgid "I can't burn it with just my lighter."
+msgstr "Puedo hacer que arda con mi mechero."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD"
@@ -2495,6 +2565,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALBERD"
 msgid "More suited to combat than to work."
 msgstr "Más adecuado para el combate que para el trabajo."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.IRON"
+msgid "Invaluable material for manufacturing useful tools."
+msgstr "Material invaluable para la fabricación de herramientas útiles."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC"
 msgid "Always be vigilant."
@@ -2659,6 +2734,11 @@ msgstr "¡Wolfgang ser el más poderoso!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALBERD"
 msgid "Sword is for weak no-muscle men."
 msgstr "Espada ser para hombres débiles no musculosos."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.IRON"
+msgid "Iron is strong like Wolfgang."
+msgstr "Hierro ser fuerte como Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD"
@@ -2830,6 +2910,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALBERD"
 msgid "Well, it's no axe."
 msgstr "Bueno, no es un hacha."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON"
+msgid "Can't chop this too well."
+msgstr "No se corta demasiado bien."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD"
 msgid "It's a goner."
@@ -2999,6 +3084,11 @@ msgstr "Esto lo han saqueao."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.HALBERD"
 msgid "T'ain't no cutlass."
 msgstr "Eso no es un alfanje."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.IRON"
+msgid "'Tis not gold, but a treasure nonetheless."
+msgstr "No es oro, pero es un tesoro."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD"
@@ -3170,6 +3260,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALBERD"
 msgid "Twirly Tail Fight Stick"
 msgstr "Palo de luchar de cola enroscada"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON"
+msgid "Clinky Rock"
+msgstr "Roca tintineante"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD"
 msgid "Oh dear"
@@ -3334,6 +3429,11 @@ msgstr "Ido, todo ido."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALBERD"
 msgid "What a vicious weapon."
 msgstr "Que arma tan viciosa."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.IRON"
+msgid "Oooh. Almost burned me."
+msgstr "Oooh. Casi me quema."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC"
@@ -3500,6 +3600,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALBERD"
 msgid "Strange weapon used by Pigfolk."
 msgstr "Extraña arma usada por Pigfolk."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.IRON"
+msgid "Red hard rock."
+msgstr "Roca dura roja."
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC"
 msgid "Big weird bird."
@@ -3665,6 +3770,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALBERD"
 msgid "AN EVIL KILLING IMPLEMENT"
 msgstr "UN MALÉFICO DISPOSITIVO LETAL"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.IRON"
+msgid "HELLO FRIEND"
+msgstr "HOLA, AMIGO"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD"
 msgid "NONFUNCTIONING"
@@ -3784,6 +3894,11 @@ msgstr "Hierba alta"
 msgctxt "STRINGS.NAMES.HALBERD"
 msgid "Halberd"
 msgstr "Alabarda"
+
+#. STRINGS.NAMES.IRON
+msgctxt "STRINGS.NAMES.IRON"
+msgid "Iron Ore"
+msgstr "Mineral de hierro"
 
 #. STRINGS.NAMES.PEAGAWK
 msgctxt "STRINGS.NAMES.PEAGAWK"
@@ -3994,3 +4109,4 @@ msgstr "Exuberante"
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.SEASONS.TEMPERATE"
 msgid "Temperate"
 msgstr "Templada"
+

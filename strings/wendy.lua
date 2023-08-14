@@ -30,6 +30,7 @@ return {
             PICKED = "All things end.",
         },
         HALBERD = "A terrible weapon for a terrible world.",
+        IRON = "Iron. Like my heart.",
         PEAGAWK = {
             DEAD = "Beautiful death.",
             GENERIC = "Many eyes witness many horrors in life.",
