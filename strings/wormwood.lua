@@ -46,6 +46,5 @@ return {
         TREE_PILLAR = "Big friend?",
         WEEVOLE = "Wee Bzzter",
         WEEVOLE_CARAPACE = "Crunchy",
-        IRON = "Clinky Rock", 
     },
 }
