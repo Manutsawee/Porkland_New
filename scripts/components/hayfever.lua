@@ -73,6 +73,7 @@ function Hayfever:DoSneezeEffects()
             end)
 
             if item then
+                local direction = Vector3(math.random(1) - 2 , 0, math.random(1) - 2)
                 self.inst.components.inventory:DropItem(item, false, true)
             end
         end
