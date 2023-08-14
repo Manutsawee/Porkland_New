@@ -10,9 +10,7 @@ return {
         "It's too hot.",
     },
     DESCRIBE = {
-        ALLOY = "Fire makes everything better.",
         APORKALYPSE_CLOCK = "Looks ominous. I like it.",
-        ARMOR_METALPLATE = "I feel like a tin can.",
         ARMOR_WEEVOLE = "This feels gross. I hope it works.",
         ASPARAGUS_PLANTED = "Haha! Found you!",
         CHITIN = "Bug skin.",
@@ -29,7 +27,6 @@ return {
             GENERIC = "This grass is tough!",
             PICKED = "Not tough enough!",
         },
-        HALBERD = "Weapons are only good if they're twice your size.",
         PEAGAWK = {
             DEAD = "Very dead.",
             GENERIC = "Jeepers peepers!",

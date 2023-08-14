@@ -7,12 +7,10 @@ return {
         "%s is not breathable at all.",
     },
     DESCRIBE = {
-        ALLOY = "It's steel! Look at the steel I made!",
         ANNOUNCE_HAYFEVER = "There's something in the air...my nose is itching.",
         ANNOUNCE_HAYFEVER_OFF = "My nose is so much better and it's finally gone!",
         ANNOUNCE_SNEEZE = "Ah Choo!",
         APORKALYPSE_CLOCK = "Oh no! It's a doomsday prophecy!",
-        ARMOR_METALPLATE = "Nothing can hurt me with this on!",
         ARMOR_WEEVOLE = "Are we really going to wear it?",
         ASPARAGUS_PLANTED = "Miss Winona might like it, pick some.",
         CHITIN = "Check out the pattern on this! Warby!",
@@ -29,7 +27,6 @@ return {
             GENERIC = "A lush patch of grass. Must be a lot of bugs in it.",
             PICKED = "Collect again after a while.",
         },
-        HALBERD = "A huge ax!",
         PEAGAWK = {
             GENERIC = "Wow, how many eyes are there?",
             SLEEPING = "Warby, we might be able to gather his feathers while he's asleep.",

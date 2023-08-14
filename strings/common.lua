@@ -1,9 +1,8 @@
 return {
-    ACTIONS = {},
+    ACTIONS = {
+    },
     NAMES = {
-        ALLOY = "Alloy",
         APORKALYPSE_CLOCK = "Aporkalypse Calendar",
-        ARMOR_METALPLATE = "Tin Suit",
         ARMOR_WEEVOLE = "Weevole Mantle",
         ASPARAGUS_PLANTED = "Asparagus",
         CHITIN = "Chitin",
@@ -12,7 +11,6 @@ return {
         GLOWFLY = "Glowfly",
         GLOWFLY_COCOON = "Glowfly Cocoon",
         GRASS_TALL = "Tall Grass",
-        HALBERD = "Halberd",
         PEAGAWK = "Peagawk",
         PEAGAWKFEATHER = "Peagawk Plume",
         PEAGAWK_BUSH = "Blinkbush",
@@ -23,9 +21,7 @@ return {
         WEEVOLE_CARAPACE = "Weevole Carapace",
     },
     RECIPE_DESC = {
-        ARMOR_METALPLATE = "Strong and sturdy.",
         ARMOR_WEEVOLE = "Kinda gross, but surprisingly strong.",
-        HALBERD = "Pointy and hurty.",
         SHEARS = "Cut your way into adventure.",
     },
     UI = {

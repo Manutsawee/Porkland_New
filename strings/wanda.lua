@@ -7,12 +7,10 @@ return {
         "This terrible weather... I really shouldn't be wearing %s.",
     },
     DESCRIBE = {
-        ALLOY = "Strong refined metal.",
         ANNOUNCE_HAYFEVER = "Don't these plants do anything else but pollinate all over the place?",
         ANNOUNCE_HAYFEVER_OFF = "Whoops! it is finally over!",
         ANNOUNCE_SNEEZE = "Ah Choo!",
         APORKALYPSE_CLOCK = "Keeping track of their movements...very clever idea.",
-        ARMOR_METALPLATE = "I still prefer magic.",
         ARMOR_WEEVOLE = "It doesn't smell that great, but there's no time to dwell on that much.",
         ASPARAGUS_PLANTED = "I should pick some and go back to eat.",
         CHITIN = "I don't understand what's the point of this?",
@@ -29,7 +27,6 @@ return {
             GENERIC = "Grasses this tough are indeed uncommon.",
             PICKED = "Over time, it will grow back.",
         },
-        HALBERD = "I'm not planning on murdering grove of trees.",
         PEAGAWK = {
             GENERIC = "See no evil!",
             SLEEPING = "Shouldn't it be looking at me?",

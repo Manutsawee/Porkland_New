@@ -35,20 +35,10 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s is too hot."
 msgstr "Ce %s est trop chaud."
 
-#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ALLOY"
-msgid "Ahoy there, alloy!"
-msgstr "L'alliance avec l'alliage !"
-
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Looks scientifically apocalyptic."
 msgstr "D'un point de vue scientifique, ça a l'air apocalyptique."
-
-#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_METALPLATE"
-msgid "Science says I'm safe in here."
-msgstr "La science indique que je suis en sécurité ici."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_WEEVOLE"
@@ -109,11 +99,6 @@ msgstr "C'est trop compliqué d'en ramasser à la main."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Looks like I got it all."
 msgstr "On dirait que j'ai tout pris."
-
-#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALBERD"
-msgid "Now I can't be caught off-guard."
-msgstr "Maintenant, je peux rester sur mes gardes."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD"
@@ -205,20 +190,10 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_TOO_HUMID.2"
 msgid "The humid air is making this %s heavy."
 msgstr "L'air humide alourdit ce %s."
 
-#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ALLOY"
-msgid "Ah, refined metal. As good as any factory could produce."
-msgstr "Ah, du métal raffiné. Une qualité similaire à ce qu'on peut attendre en sortie d'usine."
-
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Wonderful! I wonder if I could make the world end sooner."
 msgstr "Merveilleux ! Je me demande si je pourrais avancer la fin du monde."
-
-#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ARMOR_METALPLATE"
-msgid "The riveting in this suit is quite sophisticated."
-msgstr "Le travail des rivets sur ce costume est pour le moins sophistiqué."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ARMOR_WEEVOLE"
@@ -279,11 +254,6 @@ msgstr "L'obstination de cette herbe requiert quelque chose de plus coupant que 
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Previously experience suggests this will grow back."
 msgstr "De précédentes expériences suggèrent que cela repoussera."
-
-#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.HALBERD"
-msgid "A marvelously versatile instrument capable of causing incredible harm!"
-msgstr "Un instrument merveilleusement polyvalent et capable d'infliger des blessures incroyablement lourdes !"
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD"
@@ -380,20 +350,10 @@ msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s is really warm."
 msgstr "Ce %s est vraiment chaud."
 
-#. STRINGS.CHARACTERS.WALANI.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ALLOY"
-msgid "Hope this is worth all the trouble."
-msgstr "J'espère que ça vaudra la peine."
-
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "I hate clocks."
 msgstr "Je déteste les horloges."
-
-#. STRINGS.CHARACTERS.WALANI.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ARMOR_METALPLATE"
-msgid "I feel like a soda can."
-msgstr "J'ai l'impression d'être une cannette de soda."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ARMOR_WEEVOLE"
@@ -454,11 +414,6 @@ msgstr "Je suis trop crevée pour ramasser ça avec les mains."
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.PICKED"
 msgid "I deserve a nap after that."
 msgstr "Après ça, je mérite bien une sieste."
-
-#. STRINGS.CHARACTERS.WALANI.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.HALBERD"
-msgid "You could poke an eye out on this thing!"
-msgstr "C'est un coup à se crever un œil, ce truc !"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD"
@@ -535,11 +490,6 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_TOO_HUMID.2"
 msgid "%s is not breathable at all."
 msgstr "%s n'est pas du tout respirant."
 
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALLOY"
-msgid "It's steel! Look at the steel I made!"
-msgstr "C'est de l'acier ! Regardez l'acier que j'ai fabriqué !"
-
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER"
 msgid "There's something in the air...my nose is itching."
@@ -559,11 +509,6 @@ msgstr "Ah Choo !"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Oh no! It's a doomsday prophecy!"
 msgstr "Oh non! C'est une prophétie apocalyptique !"
-
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ARMOR_METALPLATE"
-msgid "Nothing can hurt me with this on!"
-msgstr "Rien ne peut me blesser avec ça !"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ARMOR_WEEVOLE"
@@ -624,11 +569,6 @@ msgstr "Une pelouse luxuriante. Il doit y avoir beaucoup de bugs dedans."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Collect again after a while."
 msgstr "Récupérez à nouveau après un certain temps."
-
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALBERD"
-msgid "A huge ax!"
-msgstr "Une énorme hache !"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC"
@@ -700,11 +640,6 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOO_HUMID.2"
 msgid "This terrible weather... I really shouldn't be wearing %s."
 msgstr "Ce temps terrible... Je ne devrais vraiment pas porter %s."
 
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ALLOY"
-msgid "Strong refined metal."
-msgstr "Métal raffiné solide."
-
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER"
 msgid "Don't these plants do anything else but pollinate all over the place?"
@@ -724,11 +659,6 @@ msgstr "Ah Choo !"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Keeping track of their movements...very clever idea."
 msgstr "Garder une trace de leurs mouvements... idée très astucieuse."
-
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ARMOR_METALPLATE"
-msgid "I still prefer magic."
-msgstr "Je préfère toujours la magie."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ARMOR_WEEVOLE"
@@ -789,11 +719,6 @@ msgstr "Les graminées aussi dures sont en effet rares."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Over time, it will grow back."
 msgstr "Avec le temps, il repoussera."
-
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALBERD"
-msgid "I'm not planning on murdering grove of trees."
-msgstr "Je n'ai pas l'intention de tuer un bosquet d'arbres."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC"
@@ -880,20 +805,10 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOO_HUMID.2"
 msgid "Whew. This %s is hot."
 msgstr "Ouf. Ce %s est chaud."
 
-#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ALLOY"
-msgid "Metal cooked to perfection."
-msgstr "Du métal cuit à la perfection."
-
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Like the knobs on a stove, it must be turned just right."
 msgstr "Comme les boutons d'un four, il ne faut pas se louper."
-
-#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_METALPLATE"
-msgid "Like an armor made of tin cans."
-msgstr "Comme une armure de boîtes de conserve."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_WEEVOLE"
@@ -954,11 +869,6 @@ msgstr "Trop grandes pour les couper à la main."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.PICKED"
 msgid "It will have to grow back."
 msgstr "Il faudra que ça repousse."
-
-#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALBERD"
-msgid "I dislike fighting."
-msgstr "Je n'aime pas me battre."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD"
@@ -1050,20 +960,10 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s burns like Sol."
 msgstr "Ce %s brûle tel le söleil."
 
-#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ALLOY"
-msgid "A metal worthy of the Sons of Ivaldi."
-msgstr "Un métal digne des Fils d'Ivaldi."
-
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "It controls Ragnarok!"
 msgstr "Elle annönce Ragnarök !"
-
-#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMOR_METALPLATE"
-msgid "Armor worthy of my deeds."
-msgstr "Une armure digne de mes explöits."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMOR_WEEVOLE"
@@ -1124,11 +1024,6 @@ msgstr "Sans döute pössible l'herbe de Jötunheim !"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.PICKED"
 msgid "I have defeated it!"
 msgstr "C'est vaincu !"
-
-#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALBERD"
-msgid "Tis no spear, yet is still valorous!"
-msgstr "Guère une lance, de valeur töuteföis !"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD"
@@ -1220,20 +1115,10 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s is hotter than I like."
 msgstr "Ce %s est trop chaud à mon goût."
 
-#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ALLOY"
-msgid "Durable."
-msgstr "Résistant."
-
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "I do like this..."
 msgstr "Ça me plaît, je dois dire..."
-
-#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMOR_METALPLATE"
-msgid "Not very pliant but it does the job."
-msgstr "Pas très pliable, mais ça fait le travail."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMOR_WEEVOLE"
@@ -1294,11 +1179,6 @@ msgstr "Oh, quelle joie. J'ai trouvé de l'herbe."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.PICKED"
 msgid "I don't require any more grass, thank you."
 msgstr "Je n'ai plus besoin d'herbe, merci."
-
-#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALBERD"
-msgid "A blade as sharp as my wit."
-msgstr "Une lame aussi affutée que mon esprit."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD"
@@ -1390,20 +1270,10 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TOO_HUMID.2"
 msgid "Wow! This %s is making us hot."
 msgstr "Ouah ! Ce %s donne un coup de chaud."
 
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ALLOY"
-msgid "Gosh. That's a lot of metal."
-msgstr "Mince. Ça en fait du métal."
-
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "It's like a puzzle!"
 msgstr "On dirait un puzzle !"
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_METALPLATE"
-msgid "Sir Webber at your service!"
-msgstr "Webber, pour vous servir !"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_WEEVOLE"
@@ -1464,11 +1334,6 @@ msgstr "C'est plus grand que nous !"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.PICKED"
 msgid "It's been picked."
 msgstr "Elle a été cueillie."
-
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALBERD"
-msgid "Swoosh!"
-msgstr "Et vlan !"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD"
@@ -1560,20 +1425,10 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s is too hot. It weighs on my soul."
 msgstr "Ce %s est brûlant. Son poids écrase mon âme."
 
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ALLOY"
-msgid "Cold and hard, like my existence."
-msgstr "Dur et froid, comme le fait d'exister ici-bas."
-
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Clockwork for the end of times."
 msgstr "Un mécanisme d'horloge pour la fin des temps."
-
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMOR_METALPLATE"
-msgid "Like a metal coffin that keeps me alive."
-msgstr "Une sorte de cercueil métallique qui m'éloigne de la mort."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMOR_WEEVOLE"
@@ -1634,11 +1489,6 @@ msgstr "Hélas, je suis trop faible pour en ramasser."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.PICKED"
 msgid "All things end."
 msgstr "Toute chose a une fin."
-
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALBERD"
-msgid "A terrible weapon for a terrible world."
-msgstr "Une arme effroyable pour un monde effroyable."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD"
@@ -1730,20 +1580,10 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s is just too hot!"
 msgstr "Ce %s est vraiment trop chaud !"
 
-#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ALLOY"
-msgid "Heavy metal made heavier."
-msgstr "Du métal lourd, rendu encore plus lourd."
-
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "If only I could turn time back to before I crashed here."
 msgstr "Si seulement je pouvais remonter dans le temps et éviter de m'écraser ici."
-
-#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ARMOR_METALPLATE"
-msgid "Oof. It's heavier than ballast."
-msgstr "Ouf. C'est plus lourd que du lest."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ARMOR_WEEVOLE"
@@ -1804,11 +1644,6 @@ msgstr "Des herbes hautes de ce type ne demandent qu'à se faire tailler à la m
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.PICKED"
 msgid "It'll be overgrown in no time."
 msgstr "Bientôt, ce sera envahi par les hautes herbes."
-
-#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.HALBERD"
-msgid "The must-have multi-tool for adventurers."
-msgstr "L'outil multifonction indispensable de tout aventurier."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD"
@@ -1900,20 +1735,10 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s makes it too hot."
 msgstr "Cet accessoire (%s) me donne trop chaud."
 
-#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ALLOY"
-msgid "Iron that has gone through metallic bonding."
-msgstr "Du fer ayant été mélangé à d'autres métaux."
-
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Ah. Quite a complex form of clockwork."
 msgstr "Ah. Un mécanisme assez complexe."
-
-#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_METALPLATE"
-msgid "What era is this design from?"
-msgstr "De quelle époque date ceci ?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_WEEVOLE"
@@ -1974,11 +1799,6 @@ msgstr "Il me faut un instrument pour ça."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.PICKED"
 msgid "That required not insignificant effort."
 msgstr "Ça a demandé un effort significatif."
-
-#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALBERD"
-msgid "It is a cruel and versatile weapon."
-msgstr "C'est une arme aussi cruelle que polyvalente."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD"
@@ -2075,20 +1895,10 @@ msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_TOO_HUMID.2"
 msgid "THE AIR 'TIS FULL OF HEAT"
 msgstr "L'AIR EST TROP CHAUD"
 
-#. STRINGS.CHARACTERS.WILBA.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.ALLOY"
-msgid "IS'T BLOCK O' HARD METALS"
-msgstr "C'EST UN BLOC TOUT DUR DE MÉTAUX"
-
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "TIME AND THE HOUR RUNS THROUGH IT"
 msgstr "LE TEMPS Y DÉFILE"
-
-#. STRINGS.CHARACTERS.WILBA.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.ARMOR_METALPLATE"
-msgid "TO TAKE ARMS"
-msgstr "POUR PRENDRE LES ARMES"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.ARMOR_WEEVOLE"
@@ -2149,11 +1959,6 @@ msgstr "DES HERBES AUSSI HAUTES QUE LA VIE EST JOYEUSE"
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.PICKED"
 msgid "THE LONG AND SHORT OF IT"
 msgstr "LES HERBES ÉTAIENT GRANDES MAIS PLUS MAINTENANT"
-
-#. STRINGS.CHARACTERS.WILBA.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.HALBERD"
-msgid "WILBA SHALL SLICE AND CHOP!"
-msgstr "WILBA VA COUPER ET TRANCHER !"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD"
@@ -2245,20 +2050,10 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TOO_HUMID.2"
 msgid "It's too hot."
 msgstr "Il fait trop chaud."
 
-#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ALLOY"
-msgid "Fire makes everything better."
-msgstr "Le feu améliore tout."
-
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Looks ominous. I like it."
 msgstr "Ça a l'air si sinistre... Ça me plaît."
-
-#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMOR_METALPLATE"
-msgid "I feel like a tin can."
-msgstr "Je me sens comme une boîte de conserve."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMOR_WEEVOLE"
@@ -2319,11 +2114,6 @@ msgstr "Cette herbe est coriace"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Not tough enough!"
 msgstr "Pas assez coriace !"
-
-#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALBERD"
-msgid "Weapons are only good if they're twice your size."
-msgstr "Quel intérêt a une arme si elle ne fait pas deux fois ma taille ?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD"
@@ -2400,11 +2190,6 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s is so boring that I can't breathe."
 msgstr "Ce %s est tellement ennuyeux que je ne peux plus respirer."
 
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALLOY"
-msgid "Proper processing makes it better."
-msgstr "Un traitement approprié le rend meilleur."
-
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER"
 msgid "My nose is itchy..."
@@ -2424,11 +2209,6 @@ msgstr "Ah gazouillis !"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "A fairly complex set of instrumentation."
 msgstr "Une instrumentation assez complexe."
-
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ARMOR_METALPLATE"
-msgid "Bulky, but surprisingly well-protected."
-msgstr "Encombrant, mais étonnamment bien protégé."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ARMOR_WEEVOLE"
@@ -2489,11 +2269,6 @@ msgstr "C'est de l'herbe... très haute."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.PICKED"
 msgid "All work is done."
 msgstr "Tout le travail est fait."
-
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALBERD"
-msgid "More suited to combat than to work."
-msgstr "Plus apte au combat qu'au travail."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC"
@@ -2580,20 +2355,10 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID.2"
 msgid "Is too muggy."
 msgstr "Il fait trop lourd et humide."
 
-#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALLOY"
-msgid "Fire make it strong like Wolfgang."
-msgstr "Le feu a rendu ça aussi costaud que Wolfgang !"
-
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Is clock of scary things."
 msgstr "C'est une horloge un peu flippante."
-
-#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_METALPLATE"
-msgid "No one beat Wolfgang now!"
-msgstr "Personne ne peut battre Wolfgang maintenant !"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_WEEVOLE"
@@ -2654,11 +2419,6 @@ msgstr "De l'herbe très robuste."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Wolfgang is mightiest!"
 msgstr "Wolfgang est plus puissant que toi !"
-
-#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALBERD"
-msgid "Sword is for weak no-muscle men."
-msgstr "Les armes comme ça, c'est bon pour ceux qui n'ont pas de muscles."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD"
@@ -2750,20 +2510,10 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TOO_HUMID.2"
 msgid "Whew! this %s is hot, eh?"
 msgstr "Fiou, cet accessoire (%s) donne sacrément chaud, hein ?"
 
-#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ALLOY"
-msgid "It's like a block of wood made out of metal."
-msgstr "C'est comme un bûche de bois, mais en métal."
-
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Looks like it's the end of days."
 msgstr "Ça ressemble à la fin des temps."
-
-#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_METALPLATE"
-msgid "Feel a little funny in this."
-msgstr "Je me sens moyennement à l'aise là-dedans."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_WEEVOLE"
@@ -2824,11 +2574,6 @@ msgstr "Ne te prends pas la tête avec ça, Lucy."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Got all I could."
 msgstr "J'ai récupéré tout ce que je pouvais."
-
-#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALBERD"
-msgid "Well, it's no axe."
-msgstr "Ça vaut pas ma hache, hein."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD"
@@ -2920,20 +2665,10 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s is makin' me sweat me britches."
 msgstr "Cet accessoire (%s) m'fait suer de la poupe."
 
-#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ALLOY"
-msgid "Ahoy, alloy!"
-msgstr "Alliage en vue !"
-
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Tha time be nigh!"
 msgstr "L'heure est proche !"
-
-#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMOR_METALPLATE"
-msgid "Not good fer swimmin' in."
-msgstr "Pas pratique pour nager."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMOR_WEEVOLE"
@@ -2994,11 +2729,6 @@ msgstr "Cette herbe monte aussi haut qu'un grand mât."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Plunder'd."
 msgstr "Pillage d'herbe."
-
-#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.HALBERD"
-msgid "T'ain't no cutlass."
-msgstr "Ça vaut pas mon sabre d'abordage."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD"
@@ -3090,20 +2820,10 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TOO_HUMID.2"
 msgid "%s too hot"
 msgstr "Cet accessoire (%s) donne trop chaud."
 
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ALLOY"
-msgid "Bar of Clink Rock"
-msgstr "Une barre de pierre qui fait des cliquetis."
-
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Tic Tock"
 msgstr "Tic-tac."
-
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMOR_METALPLATE"
-msgid "Clink Rock clothes"
-msgstr "Un vêtement en pierre qui fait des cliquetis."
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMOR_WEEVOLE"
@@ -3164,11 +2884,6 @@ msgstr "Que tu es grande et haute !"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Keep growing!"
 msgstr "Continue de pousser !"
-
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALBERD"
-msgid "Twirly Tail Fight Stick"
-msgstr "Un bâton de créature à queue en tire-bouchon pour se battre."
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD"
@@ -3265,11 +2980,6 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Magic on such a large scale, man, this is going to be fun."
 msgstr "De la magie à si grande échelle, mec, ça va être amusant."
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMOR_METALPLATE"
-msgid "What a horrible torture."
-msgstr "Quelle horrible torture."
-
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ARMOR_WEEVOLE"
 msgid "I'm getting goosebumps."
@@ -3329,11 +3039,6 @@ msgstr "Herbe haute solide, vraiment agréable."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.PICKED"
 msgid "Gone, all gone."
 msgstr "Parti, tout parti."
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALBERD"
-msgid "What a vicious weapon."
-msgstr "Quelle arme vicieuse."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC"
@@ -3405,11 +3110,6 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_TOO_HUMID.2"
 msgid "I don't want to wear %s anymore!"
 msgstr "Je ne veux plus porter %s !"
 
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALLOY"
-msgid "The stone became harder."
-msgstr "La pierre est devenue plus dure."
-
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER"
 msgid "Gullah. The gills are so uncomfortable..."
@@ -3429,11 +3129,6 @@ msgstr "Heh-hoo, ha-choo ! ! !"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Stuff form bad story!"
 msgstr "Les trucs forment une mauvaise histoire !"
-
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ARMOR_METALPLATE"
-msgid "Sturdy, but heavy."
-msgstr "Robuste, mais lourd."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ARMOR_WEEVOLE"
@@ -3494,11 +3189,6 @@ msgstr "Greer... ne peut pas bouger."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.PICKED"
 msgid "It has been cut clean."
 msgstr "Il a été coupé net."
-
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALBERD"
-msgid "Strange weapon used by Pigfolk."
-msgstr "Étrange arme utilisée par Pigfolk."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC"
@@ -3585,20 +3275,10 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_TOO_HUMID.2"
 msgid "HUMIDEX REACHING LEVELS GREATER THAN 40"
 msgstr "INDICE D'HUMIDITÉ SUPÉRIEUR À 40."
 
-#. STRINGS.CHARACTERS.WX78.DESCRIBE.ALLOY
-msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ALLOY"
-msgid "PRECIOUS METAL"
-msgstr "MÉTAL PRÉCIEUX."
-
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "MY ANCIENT BRETHREN"
 msgstr "MON SEMBLABLE ANCIEN."
-
-#. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_METALPLATE
-msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_METALPLATE"
-msgid "ROBOT SKIN ARMOR"
-msgstr "ARMURE DE PEAU ROBOT."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_WEEVOLE"
@@ -3660,11 +3340,6 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.PICKED"
 msgid "GROUND PARTS PREVIOUSLY ACQUIRED"
 msgstr "UNITÉ TERRESTRE DÉJÀ ACQUISE."
 
-#. STRINGS.CHARACTERS.WX78.DESCRIBE.HALBERD
-msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALBERD"
-msgid "AN EVIL KILLING IMPLEMENT"
-msgstr "UN TERRIBLE INSTRUMENT DE MASSACRE."
-
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD"
 msgid "NONFUNCTIONING"
@@ -3725,20 +3400,10 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WEEVOLE_CARAPACE"
 msgid "THEY HAVE BEEN DEBUGGED"
 msgstr "UNITÉ DÉVERMINÉE."
 
-#. STRINGS.NAMES.ALLOY
-msgctxt "STRINGS.NAMES.ALLOY"
-msgid "Alloy"
-msgstr "Alliage"
-
 #. STRINGS.NAMES.APORKALYPSE_CLOCK
 msgctxt "STRINGS.NAMES.APORKALYPSE_CLOCK"
 msgid "Aporkalypse Calendar"
 msgstr "Calendrier de l'Aporcalypse"
-
-#. STRINGS.NAMES.ARMOR_METALPLATE
-msgctxt "STRINGS.NAMES.ARMOR_METALPLATE"
-msgid "Tin Suit"
-msgstr "Armure d'étain"
 
 #. STRINGS.NAMES.ARMOR_WEEVOLE
 msgctxt "STRINGS.NAMES.ARMOR_WEEVOLE"
@@ -3780,11 +3445,6 @@ msgctxt "STRINGS.NAMES.GRASS_TALL"
 msgid "Tall Grass"
 msgstr "Haute Herbe"
 
-#. STRINGS.NAMES.HALBERD
-msgctxt "STRINGS.NAMES.HALBERD"
-msgid "Halberd"
-msgstr "Hallebarde"
-
 #. STRINGS.NAMES.PEAGAWK
 msgctxt "STRINGS.NAMES.PEAGAWK"
 msgid "Peagawk"
@@ -3825,20 +3485,10 @@ msgctxt "STRINGS.NAMES.WEEVOLE_CARAPACE"
 msgid "Weevole Carapace"
 msgstr "Carapace de camparançon"
 
-#. STRINGS.RECIPE_DESC.ARMOR_METALPLATE
-msgctxt "STRINGS.RECIPE_DESC.ARMOR_METALPLATE"
-msgid "Strong and sturdy."
-msgstr "Aussi robuste que solide."
-
 #. STRINGS.RECIPE_DESC.ARMOR_WEEVOLE
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_WEEVOLE"
 msgid "Kinda gross, but surprisingly strong."
 msgstr "Pas très ragoûtant, mais étonnamment robuste."
-
-#. STRINGS.RECIPE_DESC.HALBERD
-msgctxt "STRINGS.RECIPE_DESC.HALBERD"
-msgid "Pointy and hurty."
-msgstr "Peut faire très mal."
 
 #. STRINGS.RECIPE_DESC.SHEARS
 msgctxt "STRINGS.RECIPE_DESC.SHEARS"

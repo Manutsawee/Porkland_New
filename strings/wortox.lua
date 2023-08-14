@@ -11,7 +11,6 @@ return {
         ANNOUNCE_HAYFEVER_OFF = "The pollen is gone. finally.",
         ANNOUNCE_SNEEZE = "(breathing) Ah chirp! Ahhhhhh!",
         APORKALYPSE_CLOCK = "Magic on such a large scale, man, this is going to be fun.",
-        ARMOR_METALPLATE = "What a horrible torture.",
         ARMOR_WEEVOLE = "I'm getting goosebumps.",
         ASPARAGUS_PLANTED = "A spear that grows out of the earth.",
         CHITIN = "The shell of those guys.",
@@ -28,7 +27,7 @@ return {
             GENERIC = "Solid tall grass, really nice.",
             PICKED = "Gone, all gone.",
         },
-        HALBERD = "What a vicious weapon.",
+
         PEAGAWK = {
             GENERIC = "You must have seen a lot, right?",
             SLEEPING = "Huh, let's close our eyes and take a break?",

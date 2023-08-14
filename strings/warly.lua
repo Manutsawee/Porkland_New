@@ -10,9 +10,7 @@ return {
         "Whew. This %s is hot.",
     },
     DESCRIBE = {
-        ALLOY = "Metal cooked to perfection.",
         APORKALYPSE_CLOCK = "Like the knobs on a stove, it must be turned just right.",
-        ARMOR_METALPLATE = "Like an armor made of tin cans.",
         ARMOR_WEEVOLE = "It still smells of bug.",
         ASPARAGUS_PLANTED = "I should snatch those up.",
         CHITIN = "Completely inedible.",
@@ -29,7 +27,6 @@ return {
             GENERIC = "Too long to cut with my hands.",
             PICKED = "It will have to grow back.",
         },
-        HALBERD = "I dislike fighting.",
         PEAGAWK = {
             DEAD = "A pointless death.",
             GENERIC = "Those feathers would make a nice table centerpiece.",

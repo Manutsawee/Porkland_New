@@ -10,9 +10,7 @@ return {
         "%s too hot",
     },
     DESCRIBE = {
-        ALLOY = "Bar of Clink Rock",
         APORKALYPSE_CLOCK = "Tic Tock",
-        ARMOR_METALPLATE = "Clink Rock clothes",
         ARMOR_WEEVOLE = "Bzzter clothes",
         ASPARAGUS_PLANTED = "Hello there!",
         CHITIN = "Bzzter clothes",
@@ -29,7 +27,6 @@ return {
             GENERIC = "You're so tall!",
             PICKED = "Keep growing!",
         },
-        HALBERD = "Twirly Tail Fight Stick",
         PEAGAWK = {
             DEAD = "Oh dear",
             GENERIC = "Gubble Gubble Tweeter",

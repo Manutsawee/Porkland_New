@@ -10,9 +10,7 @@ return {
         "This %s is too hot. It weighs on my soul.",
     },
     DESCRIBE = {
-        ALLOY = "Cold and hard, like my existence.",
         APORKALYPSE_CLOCK = "Clockwork for the end of times.",
-        ARMOR_METALPLATE = "Like a metal coffin that keeps me alive.",
         ARMOR_WEEVOLE = "Something died so that this armor may exist.",
         ASPARAGUS_PLANTED = "I should rip those out of the ground.",
         CHITIN = "This shell is poor protection from life's horrors.",
@@ -29,7 +27,6 @@ return {
             GENERIC = "Alas, I'm too weak to pick it.",
             PICKED = "All things end.",
         },
-        HALBERD = "A terrible weapon for a terrible world.",
         PEAGAWK = {
             DEAD = "Beautiful death.",
             GENERIC = "Many eyes witness many horrors in life.",
