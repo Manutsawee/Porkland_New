@@ -13,7 +13,6 @@ return {
         GLOWFLY_COCOON = "Glowfly Cocoon",
         GRASS_TALL = "Tall Grass",
         HALBERD = "Halberd",
-        IRON = "Iron Ore",
         PEAGAWK = "Peagawk",
         PEAGAWKFEATHER = "Peagawk Plume",
         PEAGAWK_BUSH = "Blinkbush",
