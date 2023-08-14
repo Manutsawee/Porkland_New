@@ -46,6 +46,5 @@ return {
         TREE_PILLAR = "It's probably super old.",
         WEEVOLE = "Those bugs are annoying.",
         WEEVOLE_CARAPACE = "It's the outer part of those bugs.",
-        IRON = "We could make all kinds of neat stuff with this.",
     },
 }
