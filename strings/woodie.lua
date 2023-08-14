@@ -10,7 +10,9 @@ return {
         "Whew! this %s is hot, eh?",
     },
     DESCRIBE = {
+        ALLOY = "It's like a block of wood made out of metal.",
         APORKALYPSE_CLOCK = "Looks like it's the end of days.",
+        ARMOR_METALPLATE = "Feel a little funny in this.",
         ARMOR_WEEVOLE = "Nice use of bug carcasses.",
         ASPARAGUS_PLANTED = "They're like little trees to chop down.",
         CHITIN = "It's got some heft to it.",
@@ -27,6 +29,7 @@ return {
             GENERIC = "Don't worry your head aboot this one, Lucy.",
             PICKED = "Got all I could.",
         },
+        HALBERD = "Well, it's no axe.",
         PEAGAWK = {
             DEAD = "It's a goner.",
             GENERIC = "Filthy animal!",

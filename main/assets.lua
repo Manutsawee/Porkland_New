@@ -2,13 +2,16 @@ local TheNet = GLOBAL.TheNet
 local ToolUtil = GLOBAL.ToolUtil
 
 PrefabFiles = {
+    "alloy",
     "aporkalypse_clock",
+    "armor_metalplate",
     "asparagus_planted",
     "chitin",
     "deep_jungle_fern_noise",
     "flower_rainforest",
     "glowfly",
     "grass_tall",
+    "halberd",
     "pl_wave_shore",
     "jungle_border_vine",
     "nettle",
