@@ -105,6 +105,10 @@ function Hayfever:OnUpdate(dt)
 end
 
 function Hayfever:Enable(nosay)
+    if not GetWorldSetting("hayfever", true) then
+        return
+    end
+
     if self.imune then
         return
     end
