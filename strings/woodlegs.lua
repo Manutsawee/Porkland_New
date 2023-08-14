@@ -10,7 +10,9 @@ return {
         "This %s is makin' me sweat me britches.",
     },
     DESCRIBE = {
+        ALLOY = "Ahoy, alloy!",
         APORKALYPSE_CLOCK = "Tha time be nigh!",
+        ARMOR_METALPLATE = "Not good fer swimmin' in.",
         ARMOR_WEEVOLE = "Aye. Finery made o' bug skin.",
         ASPARAGUS_PLANTED = "Tiny masts growin' from the ground.",
         CHITIN = "A harden'd hull.",
@@ -27,6 +29,7 @@ return {
             GENERIC = "As tall'as th'sky.",
             PICKED = "Plunder'd.",
         },
+        HALBERD = "T'ain't no cutlass.",
         PEAGAWK = {
             DEAD = "It tells no tales.",
             GENERIC = "Arr, them eyes need patches!",
