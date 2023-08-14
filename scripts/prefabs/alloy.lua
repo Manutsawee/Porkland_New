@@ -27,7 +27,7 @@ local function fn()
     MakeInventoryFloatable(inst)
     inst.components.floater:UpdateAnimations("idle_water", "idle")
 
-    inst.AnimState:SetBloomEffectHandle( "shaders/anim.ksh" )
+    inst.AnimState:SetBloomEffectHandle("shaders/anim.ksh")
 
     inst.AnimState:SetBank("alloy")
     inst.AnimState:SetBuild("alloy")
