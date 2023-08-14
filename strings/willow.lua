@@ -30,6 +30,7 @@ return {
             PICKED = "Not tough enough!",
         },
         HALBERD = "Weapons are only good if they're twice your size.",
+        IRON = "I can't burn it with just my lighter.",
         PEAGAWK = {
             DEAD = "Very dead.",
             GENERIC = "Jeepers peepers!",

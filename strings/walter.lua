@@ -30,6 +30,7 @@ return {
             PICKED = "Collect again after a while.",
         },
         HALBERD = "A huge ax!",
+        IRON = "Is that iron?",
         PEAGAWK = {
             GENERIC = "Wow, how many eyes are there?",
             SLEEPING = "Warby, we might be able to gather his feathers while he's asleep.",

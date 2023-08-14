@@ -30,6 +30,7 @@ return {
             PICKED = "That required not insignificant effort.",
         },
         HALBERD = "It is a cruel and versatile weapon.",
+        IRON = "Ferrum.",
         PEAGAWK = {
             DEAD = "Lifeless.",
             GENERIC = "A strangely mutated Pavo Cristatus.",

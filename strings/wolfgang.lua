@@ -30,6 +30,7 @@ return {
             PICKED = "Wolfgang is mightiest!",
         },
         HALBERD = "Sword is for weak no-muscle men.",
+        IRON = "Iron is strong like Wolfgang.",
         PEAGAWK = {
             DEAD = "Is blink-blink no more.",
             GENERIC = "Funny blink-blink bird!",

@@ -30,6 +30,7 @@ return {
             PICKED = "I don't require any more grass, thank you.",
         },
         HALBERD = "A blade as sharp as my wit.",
+        IRON = "A solid mineral.",
         PEAGAWK = {
             DEAD = "It's beauty has been snuffed out forever.",
             GENERIC = "What a regal-looking beast.",

@@ -29,6 +29,7 @@ return {
             PICKED = "Gone, all gone.",
         },
         HALBERD = "What a vicious weapon.",
+        IRON = "Oooh. Almost burned me.",
         PEAGAWK = {
             GENERIC = "You must have seen a lot, right?",
             SLEEPING = "Huh, let's close our eyes and take a break?",

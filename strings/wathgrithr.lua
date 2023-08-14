@@ -30,6 +30,7 @@ return {
             PICKED = "I have defeated it!",
         },
         HALBERD = "Tis no spear, yet is still valorous!",
+        IRON = "Material for metalwork.",
         PEAGAWK = {
             DEAD = "Even in death its eyes stare into my soul.",
             GENERIC = "It has the eyes of Odin.",

@@ -30,6 +30,7 @@ return {
             PICKED = "Keep growing!",
         },
         HALBERD = "Twirly Tail Fight Stick",
+        IRON = "Clinky Rock",
         PEAGAWK = {
             DEAD = "Oh dear",
             GENERIC = "Gubble Gubble Tweeter",

@@ -30,6 +30,7 @@ return {
             PICKED = "Got all I could.",
         },
         HALBERD = "Well, it's no axe.",
+        IRON = "Can't chop this too well.",
         PEAGAWK = {
             DEAD = "It's a goner.",
             GENERIC = "Filthy animal!",

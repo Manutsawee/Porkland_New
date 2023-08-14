@@ -30,6 +30,7 @@ return {
             PICKED = "Over time, it will grow back.",
         },
         HALBERD = "I'm not planning on murdering grove of trees.",
+        IRON = "An essential material for accurate timepieces.",
         PEAGAWK = {
             GENERIC = "See no evil!",
             SLEEPING = "Shouldn't it be looking at me?",

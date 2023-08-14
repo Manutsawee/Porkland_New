@@ -30,6 +30,7 @@ return {
             PICKED = "Previously experience suggests this will grow back.",
         },
         HALBERD = "A marvelously versatile instrument capable of causing incredible harm!",
+        IRON = "Marvelous! Iron is invaluable for manufacturing the tools I need!",
         PEAGAWK = {
             DEAD = "Evidently, it didn't see that coming.",
             GENERIC = "Curious. Can it see out of all of those ocular quills?",
