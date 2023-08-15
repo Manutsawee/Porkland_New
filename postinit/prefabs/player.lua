@@ -9,7 +9,7 @@ end
 
 local function OnRespawnFromGhost(inst, data)
     if inst.components.hayfever ~= nil then
-        inst.components.hayfever:Enable()
+        inst.components.hayfever:OnHayFever(TheWorld.state.ishayfever)
     end
 end
 
