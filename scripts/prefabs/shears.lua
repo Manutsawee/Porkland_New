@@ -24,7 +24,7 @@ local function fn()
 
     MakeInventoryPhysics(inst)
     MakeInventoryFloatable(inst)
-    -- MakeInventoryFloatable(inst, "idle_water", "idle")
+    inst.components.floater:UpdateAnimations("idle_water", "idle")
 
     inst.AnimState:SetBank("shears")
     inst.AnimState:SetBuild("shears")
