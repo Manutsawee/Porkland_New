@@ -2,15 +2,15 @@ return {
     ANNOUNCE_DEHUMID = {
         "Huh, cool off.",
     },
+    ANNOUNCE_HAYFEVER = "Gullah. The gills are so uncomfortable...",
+    ANNOUNCE_HAYFEVER_OFF = "oh! The gills are finally comfortable!",
+    ANNOUNCE_SNEEZE = "Heh-hoo, ha-choo! ! !",
     ANNOUNCE_TOO_HUMID = {
         "%s is hot!",
         "I don't want to wear %s anymore!",
     },
     DESCRIBE = {
         ALLOY = "The stone became harder.",
-        ANNOUNCE_HAYFEVER = "Gullah. The gills are so uncomfortable...",
-        ANNOUNCE_HAYFEVER_OFF = "oh! The gills are finally comfortable!",
-        ANNOUNCE_SNEEZE = "Heh-hoo, ha-choo! ! !",
         APORKALYPSE_CLOCK = "Stuff form bad story!",
         ARMOR_METALPLATE = "Sturdy, but heavy.",
         ARMOR_WEEVOLE = "Nice and comfortable armor.",

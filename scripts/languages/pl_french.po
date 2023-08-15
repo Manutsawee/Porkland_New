@@ -540,6 +540,21 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_DEHUMID.1"
 msgid "Still more comfortable this way."
 msgstr "Encore plus confortable ainsi."
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER"
+msgid "There's something in the air...my nose is itching."
+msgstr "Il y a quelque chose dans l'air... mon nez me démange."
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER_OFF"
+msgid "My nose is so much better and it's finally gone!"
+msgstr "Mon nez va tellement mieux et il est enfin parti !"
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_SNEEZE"
+msgid "Ah Choo!"
+msgstr "Ah Choo !"
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_TOO_HUMID.1"
 msgid "I'm bored."
@@ -554,21 +569,6 @@ msgstr "%s n'est pas du tout respirant."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALLOY"
 msgid "It's steel! Look at the steel I made!"
 msgstr "C'est de l'acier ! Regardez l'acier que j'ai fabriqué !"
-
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "There's something in the air...my nose is itching."
-msgstr "Il y a quelque chose dans l'air... mon nez me démange."
-
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "My nose is so much better and it's finally gone!"
-msgstr "Mon nez va tellement mieux et il est enfin parti !"
-
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "Ah Choo!"
-msgstr "Ah Choo !"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.APORKALYPSE_CLOCK"
@@ -710,6 +710,21 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_DEHUMID.1"
 msgid "Ha, feeling better."
 msgstr "Ha, ça va mieux."
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER"
+msgid "Don't these plants do anything else but pollinate all over the place?"
+msgstr "Ces plantes ne font-elles rien d'autre que polliniser partout ?"
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER_OFF"
+msgid "Whoops! it is finally over!"
+msgstr "Oups ! c'est enfin fini !"
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_SNEEZE"
+msgid "Ah Choo!"
+msgstr "Ah Choo !"
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOO_HUMID.1"
 msgid "Wearing %s is a shame."
@@ -724,21 +739,6 @@ msgstr "Ce temps terrible... Je ne devrais vraiment pas porter %s."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ALLOY"
 msgid "Strong refined metal."
 msgstr "Métal raffiné solide."
-
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "Don't these plants do anything else but pollinate all over the place?"
-msgstr "Ces plantes ne font-elles rien d'autre que polliniser partout ?"
-
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "Whoops! it is finally over!"
-msgstr "Oups ! c'est enfin fini !"
-
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "Ah Choo!"
-msgstr "Ah Choo !"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.APORKALYPSE_CLOCK"
@@ -2460,6 +2460,21 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_DEHUMID.1"
 msgid "This is much more comfortable."
 msgstr "C'est beaucoup plus confortable."
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER"
+msgid "My nose is itchy..."
+msgstr "Mon nez me gratte..."
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER_OFF"
+msgid "Huh, finally comfortable."
+msgstr "Heu, enfin à l'aise."
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_SNEEZE"
+msgid "Ah chirp!"
+msgstr "Ah gazouillis !"
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_TOO_HUMID.1"
 msgid "%s is not breathable at all."
@@ -2474,21 +2489,6 @@ msgstr "Ce %s est tellement ennuyeux que je ne peux plus respirer."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALLOY"
 msgid "Proper processing makes it better."
 msgstr "Un traitement approprié le rend meilleur."
-
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "My nose is itchy..."
-msgstr "Mon nez me gratte..."
-
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "Huh, finally comfortable."
-msgstr "Heu, enfin à l'aise."
-
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "Ah chirp!"
-msgstr "Ah gazouillis !"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.APORKALYPSE_CLOCK"
@@ -3330,6 +3330,21 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DEHUMID.1"
 msgid "Freedom, this is me!"
 msgstr "Liberté, c'est moi !"
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER"
+msgid "Oops, so much pollen, it's going to be uncomfortable."
+msgstr "Oups, tellement de pollen, ça va être inconfortable."
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER_OFF"
+msgid "The pollen is gone. finally."
+msgstr "Le pollen a disparu. enfin."
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SNEEZE"
+msgid "(breathing) Ah chirp! Ahhhhhh!"
+msgstr "(respiration) Ah gazouillis ! Ahhhhhh !"
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOO_HUMID.1"
 msgid "I can't stand %s anymore!"
@@ -3339,21 +3354,6 @@ msgstr "Je ne supporte plus %s !"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOO_HUMID.2"
 msgid "Take off %s."
 msgstr "Décollez %s."
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "Oops, so much pollen, it's going to be uncomfortable."
-msgstr "Oups, tellement de pollen, ça va être inconfortable."
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "The pollen is gone. finally."
-msgstr "Le pollen a disparu. enfin."
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "(breathing) Ah chirp! Ahhhhhh!"
-msgstr "(respiration) Ah gazouillis ! Ahhhhhh !"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.APORKALYPSE_CLOCK"
@@ -3495,6 +3495,21 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_DEHUMID.1"
 msgid "Huh, cool off."
 msgstr "Heu, calme-toi."
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER"
+msgid "Gullah. The gills are so uncomfortable..."
+msgstr "Gullah. Les branchies sont si inconfortables..."
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER_OFF"
+msgid "oh! The gills are finally comfortable!"
+msgstr "Oh! Les ouïes sont enfin confortables !"
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_SNEEZE"
+msgid "Heh-hoo, ha-choo! ! !"
+msgstr "Heh-hoo, ha-choo ! ! !"
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_TOO_HUMID.1"
 msgid "%s is hot!"
@@ -3509,21 +3524,6 @@ msgstr "Je ne veux plus porter %s !"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALLOY"
 msgid "The stone became harder."
 msgstr "La pierre est devenue plus dure."
-
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "Gullah. The gills are so uncomfortable..."
-msgstr "Gullah. Les branchies sont si inconfortables..."
-
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "oh! The gills are finally comfortable!"
-msgstr "Oh! Les ouïes sont enfin confortables !"
-
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "Heh-hoo, ha-choo! ! !"
-msgstr "Heh-hoo, ha-choo ! ! !"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.APORKALYPSE_CLOCK"

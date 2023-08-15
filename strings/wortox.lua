@@ -2,14 +2,14 @@ return {
     ANNOUNCE_DEHUMID = {
         "Freedom, this is me!",
     },
+    ANNOUNCE_HAYFEVER = "Oops, so much pollen, it's going to be uncomfortable.",
+    ANNOUNCE_HAYFEVER_OFF = "The pollen is gone. finally.",
+    ANNOUNCE_SNEEZE = "(breathing) Ah chirp! Ahhhhhh!",
     ANNOUNCE_TOO_HUMID = {
         "I can't stand %s anymore!",
         "Take off %s.",
     },
     DESCRIBE = {
-        ANNOUNCE_HAYFEVER = "Oops, so much pollen, it's going to be uncomfortable.",
-        ANNOUNCE_HAYFEVER_OFF = "The pollen is gone. finally.",
-        ANNOUNCE_SNEEZE = "(breathing) Ah chirp! Ahhhhhh!",
         APORKALYPSE_CLOCK = "Magic on such a large scale, man, this is going to be fun.",
         ARMOR_METALPLATE = "What a horrible torture.",
         ARMOR_WEEVOLE = "I'm getting goosebumps.",

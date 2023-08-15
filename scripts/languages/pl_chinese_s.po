@@ -540,6 +540,21 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_DEHUMID.1"
 msgid "Still more comfortable this way."
 msgstr "还是这样更舒服。"
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER"
+msgid "There's something in the air...my nose is itching."
+msgstr "空气中有什么东西...我的鼻子好痒。"
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER_OFF"
+msgid "My nose is so much better and it's finally gone!"
+msgstr "我的鼻子好多了，它终于没了！"
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_SNEEZE"
+msgid "Ah Choo!"
+msgstr "阿嚏！"
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_TOO_HUMID.1"
 msgid "I'm bored."
@@ -554,21 +569,6 @@ msgstr "%s一点都不透气。"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ALLOY"
 msgid "It's steel! Look at the steel I made!"
 msgstr "是钢铁！看我炼出的钢铁！"
-
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "There's something in the air...my nose is itching."
-msgstr "空气中有什么东西...我的鼻子好痒。"
-
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "My nose is so much better and it's finally gone!"
-msgstr "我的鼻子好多了，它终于没了！"
-
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "Ah Choo!"
-msgstr "阿嚏！"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.APORKALYPSE_CLOCK"
@@ -710,6 +710,21 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_DEHUMID.1"
 msgid "Ha, feeling better."
 msgstr "哈，感觉好多了。"
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER"
+msgid "Don't these plants do anything else but pollinate all over the place?"
+msgstr "这些植物除了到处撒粉没别的事干了吗？"
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER_OFF"
+msgid "Whoops! it is finally over!"
+msgstr "呼哈！终于结束了！"
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_SNEEZE"
+msgid "Ah Choo!"
+msgstr "阿嚏！"
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TOO_HUMID.1"
 msgid "Wearing %s is a shame."
@@ -724,21 +739,6 @@ msgstr "这鬼天气...真不该穿%s的。"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ALLOY"
 msgid "Strong refined metal."
 msgstr "坚固的精炼金属。"
-
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "Don't these plants do anything else but pollinate all over the place?"
-msgstr "这些植物除了到处撒粉没别的事干了吗？"
-
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "Whoops! it is finally over!"
-msgstr "呼哈！终于结束了！"
-
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "Ah Choo!"
-msgstr "阿嚏！"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.APORKALYPSE_CLOCK"
@@ -2460,6 +2460,21 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_DEHUMID.1"
 msgid "This is much more comfortable."
 msgstr "这样就舒服多了。"
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER"
+msgid "My nose is itchy..."
+msgstr "我的鼻子好痒..."
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER_OFF"
+msgid "Huh, finally comfortable."
+msgstr "呼，终于舒服了。"
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_SNEEZE"
+msgid "Ah chirp!"
+msgstr "啊啾！"
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_TOO_HUMID.1"
 msgid "%s is not breathable at all."
@@ -2474,21 +2489,6 @@ msgstr "这%s闷得我要喘不过气来了。"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ALLOY"
 msgid "Proper processing makes it better."
 msgstr "适当的加工让它变得更好。"
-
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "My nose is itchy..."
-msgstr "我的鼻子好痒..."
-
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "Huh, finally comfortable."
-msgstr "呼，终于舒服了。"
-
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "Ah chirp!"
-msgstr "啊啾！"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.APORKALYPSE_CLOCK"
@@ -3330,6 +3330,21 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DEHUMID.1"
 msgid "Freedom, this is me!"
 msgstr "自由自在，这才是我！"
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER"
+msgid "Oops, so much pollen, it's going to be uncomfortable."
+msgstr "哎呀，好多花粉，要难受了。"
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER_OFF"
+msgid "The pollen is gone. finally."
+msgstr "花粉走光光了。终于。"
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SNEEZE"
+msgid "(breathing) Ah chirp! Ahhhhhh!"
+msgstr "（吸气）啊啾！啊啊啊啾！"
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOO_HUMID.1"
 msgid "I can't stand %s anymore!"
@@ -3339,21 +3354,6 @@ msgstr "我受不了%s了！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TOO_HUMID.2"
 msgid "Take off %s."
 msgstr "脱掉%s吧。"
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "Oops, so much pollen, it's going to be uncomfortable."
-msgstr "哎呀，好多花粉，要难受了。"
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "The pollen is gone. finally."
-msgstr "花粉走光光了。终于。"
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "(breathing) Ah chirp! Ahhhhhh!"
-msgstr "（吸气）啊啾！啊啊啊啾！"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.APORKALYPSE_CLOCK"
@@ -3495,6 +3495,21 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_DEHUMID.1"
 msgid "Huh, cool off."
 msgstr "呼，凉快了。"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER"
+msgid "Gullah. The gills are so uncomfortable..."
+msgstr "格勒。鳃好难受..."
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER_OFF
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER_OFF"
+msgid "oh! The gills are finally comfortable!"
+msgstr "噢！鳃终于舒服了！"
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_SNEEZE
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_SNEEZE"
+msgid "Heh-hoo, ha-choo! ! !"
+msgstr "呵——呼，哈嚏呦！！！"
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_TOO_HUMID.1"
 msgid "%s is hot!"
@@ -3509,21 +3524,6 @@ msgstr "不想穿%s了！"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ALLOY"
 msgid "The stone became harder."
 msgstr "石头变得更硬了。"
-
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER"
-msgid "Gullah. The gills are so uncomfortable..."
-msgstr "格勒。鳃好难受..."
-
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER_OFF
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_HAYFEVER_OFF"
-msgid "oh! The gills are finally comfortable!"
-msgstr "噢！鳃终于舒服了！"
-
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_SNEEZE
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_SNEEZE"
-msgid "Heh-hoo, ha-choo! ! !"
-msgstr "呵——呼，哈嚏呦！！！"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.APORKALYPSE_CLOCK"
