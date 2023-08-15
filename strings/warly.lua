@@ -30,6 +30,7 @@ return {
             PICKED = "It will have to grow back.",
         },
         HALBERD = "I dislike fighting.",
+        IRON = "I wonder what I could cook up with this.",
         PEAGAWK = {
             DEAD = "A pointless death.",
             GENERIC = "Those feathers would make a nice table centerpiece.",

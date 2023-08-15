@@ -115,6 +115,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALBERD"
 msgid "Now I can't be caught off-guard."
 msgstr "Кто к нам с мечом, того я топором!"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.IRON"
+msgid "Isn't it ironic?"
+msgstr "Железно!"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD"
 msgid "Dead-eyed."
@@ -284,6 +289,11 @@ msgstr "Мой опыт позволяет утверждать, что она �
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.HALBERD"
 msgid "A marvelously versatile instrument capable of causing incredible harm!"
 msgstr "Невероятно универсальный инструмент, способный учинить массу разрушений!"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.IRON"
+msgid "Marvelous! Iron is invaluable for manufacturing the tools I need!"
+msgstr "Невероятно! Железо необходимо для изготовления нужных мне инструментов."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD"
@@ -460,6 +470,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.HALBERD"
 msgid "You could poke an eye out on this thing!"
 msgstr "Этим можно и глаз выколоть!"
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.IRON"
+msgid "This has gotta be good for something."
+msgstr "Для чего-нибудь пригодится."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD"
 msgid "Dang. It's dead."
@@ -555,7 +570,6 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_SNEEZE"
 msgid "Ah Choo!"
 msgstr "Ах Чу!"
 
-
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Oh no! It's a doomsday prophecy!"
@@ -630,6 +644,11 @@ msgstr "Собрать снова через некоторое время."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALBERD"
 msgid "A huge ax!"
 msgstr "Огромный топор!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.IRON"
+msgid "Is that iron?"
+msgstr "Это железо?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC"
@@ -721,7 +740,6 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_SNEEZE"
 msgid "Ah Choo!"
 msgstr "Ах Чу!"
 
-
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Keeping track of their movements...very clever idea."
@@ -796,6 +814,11 @@ msgstr "Со временем он снова отрастет."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALBERD"
 msgid "I'm not planning on murdering grove of trees."
 msgstr "Я не собираюсь убивать рощу деревьев."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.IRON"
+msgid "An essential material for accurate timepieces."
+msgstr "Необходимый материал для точных часов."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC"
@@ -961,6 +984,11 @@ msgstr "Подожду, чтобы выросла заново."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALBERD"
 msgid "I dislike fighting."
 msgstr "Не люблю драться."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.IRON"
+msgid "I wonder what I could cook up with this."
+msgstr "Интересно, что можно из этого приготовить."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD"
@@ -1132,6 +1160,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALBERD"
 msgid "Tis no spear, yet is still valorous!"
 msgstr "Это не копье, но победу в бою мне принесет!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON"
+msgid "Material for metalwork."
+msgstr "Материал для работы по металлу."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD"
 msgid "Even in death its eyes stare into my soul."
@@ -1301,6 +1334,11 @@ msgstr "Спасибо, мне не надо больше травы."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALBERD"
 msgid "A blade as sharp as my wit."
 msgstr "Лезвие, сравнимое по остроте с моим умом."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.IRON"
+msgid "A solid mineral."
+msgstr "Крепкий минерал."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD"
@@ -1472,6 +1510,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALBERD"
 msgid "Swoosh!"
 msgstr "Вжух!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.IRON"
+msgid "We could make all kinds of neat stuff with this."
+msgstr "Из этого можно сделать много классных вещей."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD"
 msgid "I think it's dead."
@@ -1641,6 +1684,11 @@ msgstr "Всему приходит конец."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALBERD"
 msgid "A terrible weapon for a terrible world."
 msgstr "Ужасное оружие из ужасного мира."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.IRON"
+msgid "Iron. Like my heart."
+msgstr "Мое сердце тоже сделано из железа."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD"
@@ -1812,6 +1860,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.HALBERD"
 msgid "The must-have multi-tool for adventurers."
 msgstr "Главный универсальный инструмент искателя приключений."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.IRON"
+msgid "Well it's not good balloon material."
+msgstr "Воздушный шар из него не сделаешь."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD"
 msgid "I promise, I will go on without you!"
@@ -1981,6 +2034,11 @@ msgstr "Для этого потребовалось изрядно порабо
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALBERD"
 msgid "It is a cruel and versatile weapon."
 msgstr "Беспощадное оружие для любой ситуации."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.IRON"
+msgid "Ferrum."
+msgstr "Ferrum."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD"
@@ -2157,6 +2215,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.HALBERD"
 msgid "WILBA SHALL SLICE AND CHOP!"
 msgstr "ПОЛЕТЯТ ГОЛОВЫ С ПЛЕЧ!"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.IRON"
+msgid "'TIS METAL O' THE ZAPPY BIRD"
+msgstr "СИЕ МЕТАЛЛ ОТ ПТИЦЫ ГРОЗОВОЙ"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD"
 msgid "IS'T EYES LOOKED IS'T LAST"
@@ -2327,6 +2390,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALBERD"
 msgid "Weapons are only good if they're twice your size."
 msgstr "Оружие должно быть как минимум в два раза больше тебя самой."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.IRON"
+msgid "I can't burn it with just my lighter."
+msgstr "Одной зажигалкой тут не обойтись."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD"
 msgid "Very dead."
@@ -2422,7 +2490,6 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_SNEEZE"
 msgid "Ah chirp!"
 msgstr "Ах, чирик!"
 
-
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "A fairly complex set of instrumentation."
@@ -2497,6 +2564,11 @@ msgstr "Вся работа сделана."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALBERD"
 msgid "More suited to combat than to work."
 msgstr "Больше подходит для боя, чем для работы."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.IRON"
+msgid "Invaluable material for manufacturing useful tools."
+msgstr "Бесценный материал для изготовления полезных инструментов."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC"
@@ -2662,6 +2734,11 @@ msgstr "Вольфганг — самый могучий!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALBERD"
 msgid "Sword is for weak no-muscle men."
 msgstr "Мечи — для хилых слабаков!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.IRON"
+msgid "Iron is strong like Wolfgang."
+msgstr "Сильное железо, прямо как Вольфганг."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD"
@@ -2833,6 +2910,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALBERD"
 msgid "Well, it's no axe."
 msgstr "Ну, это не топор, конечно."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON"
+msgid "Can't chop this too well."
+msgstr "Рубить его практически невозможно."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD"
 msgid "It's a goner."
@@ -3002,6 +3084,11 @@ msgstr "Срезана под корень."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.HALBERD"
 msgid "T'ain't no cutlass."
 msgstr "Это не кортик."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.IRON"
+msgid "'Tis not gold, but a treasure nonetheless."
+msgstr "Может, и не золото, но все равно сокровище."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD"
@@ -3173,6 +3260,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALBERD"
 msgid "Twirly Tail Fight Stick"
 msgstr "Палка крючкохвоста для драк"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON"
+msgid "Clinky Rock"
+msgstr "Звонкий камень"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD"
 msgid "Oh dear"
@@ -3338,6 +3430,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALBERD"
 msgid "What a vicious weapon."
 msgstr "Какое коварное оружие."
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.IRON"
+msgid "Oooh. Almost burned me."
+msgstr "Ооо. Меня чуть не спалил."
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC"
 msgid "You must have seen a lot, right?"
@@ -3428,7 +3525,6 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_SNEEZE"
 msgid "Heh-hoo, ha-choo! ! !"
 msgstr "Хе-ху, ха-ху! ! !"
 
-
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Stuff form bad story!"
@@ -3503,6 +3599,11 @@ msgstr "Он был вырезан начисто."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALBERD"
 msgid "Strange weapon used by Pigfolk."
 msgstr "Странное оружие, которым пользуются Свинолюди."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.IRON"
+msgid "Red hard rock."
+msgstr "Красный хард-рок."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC"
@@ -3669,6 +3770,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALBERD"
 msgid "AN EVIL KILLING IMPLEMENT"
 msgstr "ПРИСПОСОБЛЕНИЕ ДЛЯ БОРЬБЫ СО ЗЛОМ"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.IRON"
+msgid "HELLO FRIEND"
+msgstr "ПРИВЕТ, ДРУГ"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD"
 msgid "NONFUNCTIONING"
@@ -3788,6 +3894,11 @@ msgstr "Высокая трава"
 msgctxt "STRINGS.NAMES.HALBERD"
 msgid "Halberd"
 msgstr "Алебарда"
+
+#. STRINGS.NAMES.IRON
+msgctxt "STRINGS.NAMES.IRON"
+msgid "Iron Ore"
+msgstr "Железная руда"
 
 #. STRINGS.NAMES.PEAGAWK
 msgctxt "STRINGS.NAMES.PEAGAWK"
@@ -3998,3 +4109,4 @@ msgstr "Цветение"
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.SEASONS.TEMPERATE"
 msgid "Temperate"
 msgstr "Умеренный"
+

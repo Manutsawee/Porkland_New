@@ -30,6 +30,7 @@ return {
             PICKED = "All work is done.",
         },
         HALBERD = "More suited to combat than to work.",
+        IRON = "Invaluable material for manufacturing useful tools.",
         PEAGAWK = {
             GENERIC = "Always be vigilant.",
             SLEEPING = "It let down its guard.",

@@ -115,6 +115,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALBERD"
 msgid "Now I can't be caught off-guard."
 msgstr "이제 허를 찔릴 일은 없겠어."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.IRON"
+msgid "Isn't it ironic?"
+msgstr "철석같지?"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD"
 msgid "Dead-eyed."
@@ -284,6 +289,11 @@ msgstr "과거 경험으로 비추어 볼 때 다시 자랄 것이다."
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.HALBERD"
 msgid "A marvelously versatile instrument capable of causing incredible harm!"
 msgstr "놀라울 정도로 쓸모가 많고 엄청난 피해를 입힐 수 있는 도구다."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.IRON"
+msgid "Marvelous! Iron is invaluable for manufacturing the tools I need!"
+msgstr "굉장하군! 필요한 도구를 제작하는 데 철은 아주 중요하지!"
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD"
@@ -460,6 +470,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.HALBERD"
 msgid "You could poke an eye out on this thing!"
 msgstr "잘못하면 눈을 찔리겠어!"
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.IRON"
+msgid "This has gotta be good for something."
+msgstr "분명히 쓸모가 있을 거야."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD"
 msgid "Dang. It's dead."
@@ -555,7 +570,6 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ANNOUNCE_SNEEZE"
 msgid "Ah Choo!"
 msgstr "아 추!"
 
-
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Oh no! It's a doomsday prophecy!"
@@ -630,6 +644,11 @@ msgstr "잠시 후 다시 수집하십시오."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALBERD"
 msgid "A huge ax!"
 msgstr "거대한 도끼!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.IRON"
+msgid "Is that iron?"
+msgstr "저게 철인가요?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC"
@@ -721,7 +740,6 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ANNOUNCE_SNEEZE"
 msgid "Ah Choo!"
 msgstr "아 추!"
 
-
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Keeping track of their movements...very clever idea."
@@ -796,6 +814,11 @@ msgstr "시간이 지나면 다시 자랄 것입니다."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALBERD"
 msgid "I'm not planning on murdering grove of trees."
 msgstr "나는 나무 숲을 죽일 계획이 아닙니다."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.IRON"
+msgid "An essential material for accurate timepieces."
+msgstr "정확한 시계를 위한 필수 소재."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC"
@@ -961,6 +984,11 @@ msgstr "다시 자라야 해."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALBERD"
 msgid "I dislike fighting."
 msgstr "나는 싸움이 싫어."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.IRON"
+msgid "I wonder what I could cook up with this."
+msgstr "이건 어떻게 요리해야 좋을까?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD"
@@ -1132,6 +1160,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALBERD"
 msgid "Tis no spear, yet is still valorous!"
 msgstr "창은 아니지만 용맹해 보이는걸!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON"
+msgid "Material for metalwork."
+msgstr "금속 물건을 만드는 재료군."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD"
 msgid "Even in death its eyes stare into my soul."
@@ -1301,6 +1334,11 @@ msgstr "풀은 더 이상 필요하지 않아."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALBERD"
 msgid "A blade as sharp as my wit."
 msgstr "내 재치처럼 날카로운 날이군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.IRON"
+msgid "A solid mineral."
+msgstr "단단한 광물이다."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD"
@@ -1472,6 +1510,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALBERD"
 msgid "Swoosh!"
 msgstr "휙!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.IRON"
+msgid "We could make all kinds of neat stuff with this."
+msgstr "멋진 물건을 만드는 데 쓸 수 있다."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD"
 msgid "I think it's dead."
@@ -1641,6 +1684,11 @@ msgstr "모든 것에는 끝이 있지."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALBERD"
 msgid "A terrible weapon for a terrible world."
 msgstr "끔찍한 세상의 끔찍한 무기야."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.IRON"
+msgid "Iron. Like my heart."
+msgstr "철로 만들었어. 내 심장 같아."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD"
@@ -1812,6 +1860,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.HALBERD"
 msgid "The must-have multi-tool for adventurers."
 msgstr "모험가에게 꼭 필요한 다목적 도구야."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.IRON"
+msgid "Well it's not good balloon material."
+msgstr "열기구를 만들기에 적합하지 않은 재료야."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD"
 msgid "I promise, I will go on without you!"
@@ -1981,6 +2034,11 @@ msgstr "적지 않은 노력이 필요했어."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALBERD"
 msgid "It is a cruel and versatile weapon."
 msgstr "잔혹하고 쓸모 많은 무기로군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.IRON"
+msgid "Ferrum."
+msgstr "철이야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD"
@@ -2157,6 +2215,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.HALBERD"
 msgid "WILBA SHALL SLICE AND CHOP!"
 msgstr "윌바 베고 자른다!"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.IRON"
+msgid "'TIS METAL O' THE ZAPPY BIRD"
+msgstr "찌릿찌릿 짹짹이 금속이로다"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD"
 msgid "IS'T EYES LOOKED IS'T LAST"
@@ -2327,6 +2390,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALBERD"
 msgid "Weapons are only good if they're twice your size."
 msgstr "무기는 내 몸집의 두 배는 돼야 쓸모가 있지."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.IRON"
+msgid "I can't burn it with just my lighter."
+msgstr "내 라이터만으로는 태울 수 없는걸."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD"
 msgid "Very dead."
@@ -2422,7 +2490,6 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ANNOUNCE_SNEEZE"
 msgid "Ah chirp!"
 msgstr "아 짹짹!"
 
-
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "A fairly complex set of instrumentation."
@@ -2497,6 +2564,11 @@ msgstr "모든 작업이 완료되었습니다."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALBERD"
 msgid "More suited to combat than to work."
 msgstr "일하는 것보다 전투에 더 적합합니다."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.IRON"
+msgid "Invaluable material for manufacturing useful tools."
+msgstr "유용한 도구를 제조하기 위한 귀중한 재료입니다."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC"
@@ -2662,6 +2734,11 @@ msgstr "볼프강이 제일 힘세다!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALBERD"
 msgid "Sword is for weak no-muscle men."
 msgstr "검은 근육 없는 사람이나 쓰는 거다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.IRON"
+msgid "Iron is strong like Wolfgang."
+msgstr "철은 볼프강처럼 강하다."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD"
@@ -2833,6 +2910,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALBERD"
 msgid "Well, it's no axe."
 msgstr "흠, 도끼만 못한걸."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON"
+msgid "Can't chop this too well."
+msgstr "이건 베기 어렵잖아."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD"
 msgid "It's a goner."
@@ -3002,6 +3084,11 @@ msgstr "약탈됐다."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.HALBERD"
 msgid "T'ain't no cutlass."
 msgstr "커틀라스가 아니다."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.IRON"
+msgid "'Tis not gold, but a treasure nonetheless."
+msgstr "금은 아니지만 보물이다."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD"
@@ -3173,6 +3260,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALBERD"
 msgid "Twirly Tail Fight Stick"
 msgstr "꼬불 꼬리 전투 막대기야"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON"
+msgid "Clinky Rock"
+msgstr "쨍그랑거리는 돌이야"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD"
 msgid "Oh dear"
@@ -3338,6 +3430,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALBERD"
 msgid "What a vicious weapon."
 msgstr "정말 사악한 무기입니다."
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.IRON"
+msgid "Oooh. Almost burned me."
+msgstr "우. 거의 화상을 입을 뻔했습니다."
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC"
 msgid "You must have seen a lot, right?"
@@ -3428,7 +3525,6 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ANNOUNCE_SNEEZE"
 msgid "Heh-hoo, ha-choo! ! !"
 msgstr "후후, 하츄! ! !"
 
-
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Stuff form bad story!"
@@ -3503,6 +3599,11 @@ msgstr "깔끔하게 잘렸습니다."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALBERD"
 msgid "Strange weapon used by Pigfolk."
 msgstr "Pigfolk가 사용하는 이상한 무기."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.IRON"
+msgid "Red hard rock."
+msgstr "레드 하드 록."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC"
@@ -3669,6 +3770,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALBERD"
 msgid "AN EVIL KILLING IMPLEMENT"
 msgstr "악을 처단하는 도구"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.IRON
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.IRON"
+msgid "HELLO FRIEND"
+msgstr "안녕 친구"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD"
 msgid "NONFUNCTIONING"
@@ -3788,6 +3894,11 @@ msgstr "키가 큰 풀"
 msgctxt "STRINGS.NAMES.HALBERD"
 msgid "Halberd"
 msgstr "미늘창"
+
+#. STRINGS.NAMES.IRON
+msgctxt "STRINGS.NAMES.IRON"
+msgid "Iron Ore"
+msgstr "철광석"
 
 #. STRINGS.NAMES.PEAGAWK
 msgctxt "STRINGS.NAMES.PEAGAWK"
@@ -3998,3 +4109,4 @@ msgstr "무성함"
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.SEASONS.TEMPERATE"
 msgid "Temperate"
 msgstr "온화함"
+

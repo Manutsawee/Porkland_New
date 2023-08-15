@@ -30,6 +30,7 @@ return {
             PICKED = "Looks like I got it all.",
         },
         HALBERD = "Now I can't be caught off-guard.",
+        IRON = "Isn't it ironic?",
         PEAGAWK = {
             DEAD = "Dead-eyed.",
             GENERIC = "That bush is alive!",

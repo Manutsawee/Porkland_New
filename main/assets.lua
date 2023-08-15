@@ -12,6 +12,7 @@ PrefabFiles = {
     "glowfly",
     "grass_tall",
     "halberd",
+    "iron",
     "pl_wave_shore",
     "jungle_border_vine",
     "nettle",

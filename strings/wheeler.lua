@@ -30,6 +30,7 @@ return {
             PICKED = "It'll be overgrown in no time.",
         },
         HALBERD = "The must-have multi-tool for adventurers.",
+        IRON = "Well it's not good balloon material.",
         PEAGAWK = {
             DEAD = "I promise, I will go on without you!",
             GENERIC = "Has the eyesight for flying but not the wings for it.",

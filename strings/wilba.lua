@@ -31,6 +31,7 @@ return {
             PICKED = "THE LONG AND SHORT OF IT",
         },
         HALBERD = "WILBA SHALL SLICE AND CHOP!",
+        IRON = "'TIS METAL O' THE ZAPPY BIRD",
         PEAGAWK = {
             DEAD = "IS'T EYES LOOKED IS'T LAST",
             GENERIC = "WHAT A ROGUE AND PEASANT SLAVE AM EYE-BIRD!",

@@ -30,6 +30,7 @@ return {
             PICKED = "Plunder'd.",
         },
         HALBERD = "T'ain't no cutlass.",
+        IRON = "'Tis not gold, but a treasure nonetheless.",
         PEAGAWK = {
             DEAD = "It tells no tales.",
             GENERIC = "Arr, them eyes need patches!",
