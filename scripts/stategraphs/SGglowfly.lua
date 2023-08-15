@@ -7,7 +7,7 @@ local actionhandlers = {
 local events = {
     EventHandler("cocoon", function(inst)
         if not inst.sg:HasStateTag("busy") then
-            inst:RemoveTag("wantstococoon")
+            inst.wantstococoon = false
             inst.sg:GoToState("cocoon_pre")
         end
     end),

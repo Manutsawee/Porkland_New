@@ -26,7 +26,7 @@ local GlowflyBrain = Class(Brain, function(self, inst)
 end)
 
 local function CanStartCocooning(inst)
-    return inst:HasTag("wantstococoon") and IsSurroundedByLand(inst, nil, nil, 3)
+    return inst.wantstococoon and IsSurroundedByLand(inst, nil, nil, 3)
 end
 
 local function StartCocooning(inst)
@@ -41,12 +41,6 @@ function GlowflyBrain:OnStart()
             function() return CanStartCocooning(self.inst) end,
             "do cocoon",
             ActionNode(function() StartCocooning(self.inst) end)
-        ),
-
-        WhileNode(
-            function() return self.inst.components.combat.target and self.inst.components.combat:InCooldown() end,
-            "Dodge",
-            RunAway(self.inst, function() return self.inst.components.combat.target end, RUN_AWAY_DIST, STOP_RUN_AWAY_DIST)
         ),
 
         Wander(self.inst, nil, MAX_WANDER_DIST, WANDER_TIMES)
