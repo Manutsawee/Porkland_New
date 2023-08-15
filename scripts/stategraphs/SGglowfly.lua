@@ -24,11 +24,14 @@ local events = {
 
     EventHandler("locomote", function(inst)
         if not inst.sg:HasStateTag("busy") then
+            local is_moving = inst.sg:HasStateTag("moving")
             local wants_to_move = inst.components.locomotor:WantsToMoveForward()
-            if wants_to_move then
-                inst.sg:GoToState("moving")
-            else
-                inst.sg:GoToState("idle")
+            if is_moving ~= wants_to_move then
+                if wants_to_move then
+                    inst.sg:GoToState("moving")
+                else
+                    inst.sg:GoToState("idle")
+                end
             end
         end
     end),
