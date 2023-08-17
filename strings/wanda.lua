@@ -43,6 +43,9 @@ return {
             SLEEPING = "Huh, I can take a breath.",
         },
         SHEARS = "I won't waste my time on this.",
+        SMELTER = {
+            EMPTY = "Melt the metals together.",
+        },
         TREE_PILLAR = "Thankfully it doesn't completely block the sun.",
         WEEVOLE = "I remember it biting.",
         WEEVOLE_CARAPACE = "Evil, exudes a strange smell.",

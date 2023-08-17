@@ -28,6 +28,8 @@ PrefabFiles = {
     -- "tubertrees",
     "weevole_carapace",
     "weevole",
+    -- by Godless --
+    "smelter",
 }
 
 Assets = {

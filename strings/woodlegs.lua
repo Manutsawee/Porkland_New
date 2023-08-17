@@ -44,6 +44,9 @@ return {
             SLEEPING = "Thar she blows!",
         },
         SHEARS = "A cutlass fer tha'bushes.",
+        SMELTER = {
+            EMPTY = "A cannon fer makin' metals.",
+        },
         TREE_PILLAR = "Vessel i'th'makin'.",
         WEEVOLE = "'ave at ye landlubbers!",
         WEEVOLE_CARAPACE = "Longcoat made o' them pesky bugs.",

@@ -44,6 +44,9 @@ return {
             SLEEPING = "Let it sleep",
         },
         SHEARS = "For hair cuts",
+        SMELTER = {
+            COOKING_SHORT = "Hot! Hot!",
+        },
         TREE_PILLAR = "Big friend?",
         WEEVOLE = "Wee Bzzter",
         WEEVOLE_CARAPACE = "Crunchy",

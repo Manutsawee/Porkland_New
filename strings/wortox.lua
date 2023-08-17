@@ -42,6 +42,9 @@ return {
             SLEEPING = "Then intermission.",
         },
         SHEARS = "Click, click, leaves fall.",
+        SMELTER = {
+            EMPTY = "It doesn't make them any better.",
+        },
         TREE_PILLAR = "Blot out the sun.",
         WEEVOLE = "don't bite me!",
         WEEVOLE_CARAPACE = "What remains of their armor.",

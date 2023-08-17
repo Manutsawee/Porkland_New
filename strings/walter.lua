@@ -43,6 +43,9 @@ return {
             SLEEPING = "it's sleeping,",
         },
         SHEARS = "Gardener's little helper.",
+        SMELTER = {
+            EMPTY = "A lrage iron pot. got it? Iron pot.",
+        },
         TREE_PILLAR = "Such a big tree, even werebeaver can't eat it all.",
         WEEVOLE = "Hey! Got you!",
         WEEVOLE_CARAPACE = "Let's put it away, it might be useful.",

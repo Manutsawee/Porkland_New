@@ -44,6 +44,9 @@ return {
             SLEEPING = "Quite the snorer.",
         },
         SHEARS = "Time to do some yard work.",
+        SMELTER = {
+            EMPTY = "It takes the heavy metal and makes it heavier.",
+        },
         TREE_PILLAR = "That's a big tree.",
         WEEVOLE = "Aggravating bugs! A complete waste of wings.",
         WEEVOLE_CARAPACE = "Light enough to fire out the Pew-matic.",

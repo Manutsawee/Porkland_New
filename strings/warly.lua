@@ -44,6 +44,9 @@ return {
             SLEEPING = "What a curious way to sleep!",
         },
         SHEARS = "Good for cutting hedges and grass.",
+        SMELTER = {
+            EMPTY = "'Smelt' bad, if you ask me.",
+        },
         TREE_PILLAR = "What a marvel.",
         WEEVOLE = "Shoo! Go away!",
         WEEVOLE_CARAPACE = "The crust of a bug.",

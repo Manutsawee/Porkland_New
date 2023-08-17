@@ -5,6 +5,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0"
 
+#. STRINGS.ACTIONS.SMELT
+msgctxt "STRINGS.ACTIONS.SMELT"
+msgid "Smelt"
+msgstr "Schmelzen"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DEHUMID.1
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DEHUMID.1"
 msgid "Ah, so much better."
@@ -164,6 +169,26 @@ msgstr "Macht ein Nickerchen."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHEARS"
 msgid "Shear-ly delightful."
 msgstr "Schert mich nicht."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.BURNT"
+msgid "Well that's a setback."
+msgstr "Nun, das ist ein Rückschlag."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "It's almost done!"
+msgstr "Fast fertig!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.DONE"
+msgid "Ahh, fini!"
+msgstr "Fertig!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.EMPTY"
+msgid "I smelt that!"
+msgstr "Bringt alles zum Schmelzen!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TREE_PILLAR"
@@ -345,6 +370,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SHEARS"
 msgid "Cutting implements constructed from raw metal."
 msgstr "Schneideapparat aus Rohmetall."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.EMPTY"
+msgid "Magnificent! Perhaps I can build a factory here as well."
+msgstr "Ausgezeichnet! Vielleicht kann ich hier auch eine Fabrik errichten."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.TREE_PILLAR"
 msgid "The circumference of this tree's trunk is unusually large."
@@ -520,6 +550,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SHEARS"
 msgid "What am I supposed to do with these?"
 msgstr "Was soll ich denn damit anfangen?"
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.EMPTY"
+msgid "I'll just let that do all the work for me."
+msgstr "Das Ding nimmt mir die Arbeit ab."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.TREE_PILLAR"
 msgid "What a great tree!"
@@ -690,6 +725,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SHEARS"
 msgid "Gardener's little helper."
 msgstr "Der kleine Helfer des Gärtners."
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.EMPTY"
+msgid "A lrage iron pot. got it? Iron pot."
+msgstr "Ein großer Eisentopf. habe es? Eisentopf."
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TREE_PILLAR"
 msgid "Such a big tree, even werebeaver can't eat it all."
@@ -859,6 +899,11 @@ msgstr "Huh, ich kann Luft holen."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHEARS"
 msgid "I won't waste my time on this."
 msgstr "Ich werde meine Zeit nicht damit verschwenden."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.EMPTY"
+msgid "Melt the metals together."
+msgstr "Die Metalle zusammenschmelzen."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.TREE_PILLAR"
@@ -1035,6 +1080,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SHEARS"
 msgid "Good for cutting hedges and grass."
 msgstr "Gut für Gras- und Heckenschnitte."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.EMPTY"
+msgid "'Smelt' bad, if you ask me."
+msgstr "Was man darin kocht, ist nicht gar so lecker."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TREE_PILLAR"
 msgid "What a marvel."
@@ -1209,6 +1259,11 @@ msgstr "Von Schlaf überwältigt!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHEARS"
 msgid "A weapon for use against a mighty hedge!"
 msgstr "Die richtige Waffe gegen mächtige Hecken!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.EMPTY"
+msgid "The tools of dwarves."
+msgstr "Zwergenwerkzeug."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TREE_PILLAR"
@@ -1385,6 +1440,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHEARS"
 msgid "Aren't there gardeners for this sort of thing?"
 msgstr "Gibt es dafür keine Gärtner?"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.EMPTY"
+msgid "Finally we're catching up to the Iron Age."
+msgstr "Endlich erreichen wir die Eisenzeit."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TREE_PILLAR"
 msgid "This tree is unusually large."
@@ -1559,6 +1619,11 @@ msgstr "Haha! Ein Käfer mit Schnurrbart!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHEARS"
 msgid "It's for chores like trimming hedges or cutting grass."
 msgstr "Für Aufgaben wie Heckenschneiden oder Rasenmähen."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Yeesh, that's hot!"
+msgstr "Meine Güte, ist der heiß!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREE_PILLAR"
@@ -1735,6 +1800,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHEARS"
 msgid "Can it shear my heart?"
 msgstr "Kann ich damit mein Herz scheren?"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "It blazes with more passion than I know."
+msgstr "Strahlt mit mehr Leidenschaft, als ich je kannte."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TREE_PILLAR"
 msgid "Ancient, and full of life."
@@ -1910,6 +1980,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SHEARS"
 msgid "Time to do some yard work."
 msgstr "Zeit für etwas Hofarbeit."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.EMPTY"
+msgid "It takes the heavy metal and makes it heavier."
+msgstr "Macht Schwermetall noch schwerer."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.TREE_PILLAR"
 msgid "That's a big tree."
@@ -2084,6 +2159,11 @@ msgstr "Schläft."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHEARS"
 msgid "A useful tool for horticultural purposes."
 msgstr "Nützliches Werkzeug für gärtnerische Zwecke."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.EMPTY"
+msgid "A metalsmithing tool."
+msgstr "Ein Metallschmiedewerkzeug."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TREE_PILLAR"
@@ -2265,6 +2345,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SHEARS"
 msgid "FOR THE CUTTINGS OF THE SHRUBS"
 msgstr "ZUM SCHNEIDEN DER BÜSCHE."
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.EMPTY"
+msgid "'TIS FWOOSHY MACHINES"
+msgstr "'S IST EINE LODERMASCHINE."
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.TREE_PILLAR"
 msgid "'TIS STRONG TREE"
@@ -2440,6 +2525,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHEARS"
 msgid "Not as good as fire, but I guess it has its uses."
 msgstr "Nicht so gut wie Feuer, aber wohl ganz nützlich."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.EMPTY"
+msgid "Oh yeah! Now I can burn metal."
+msgstr "Oh ja! Jetzt kann ich Metall verbrennen."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TREE_PILLAR"
 msgid "That's a big ol' tree."
@@ -2609,6 +2699,11 @@ msgstr "Sich beruhigen!"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHEARS"
 msgid "Shears for gardening."
 msgstr "Scheren für die Gartenarbeit."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.EMPTY"
+msgid "Process the metallic material."
+msgstr "Bearbeiten Sie das metallische Material."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TREE_PILLAR"
@@ -2785,6 +2880,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHEARS"
 msgid "Is for cutting plant things."
 msgstr "Zum Schneiden von Pflanzenkram."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.EMPTY"
+msgid "Fire make metal bricks."
+msgstr "Feuer macht Metallziegel."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TREE_PILLAR"
 msgid "Mightiest tree!"
@@ -2959,6 +3059,11 @@ msgstr "Keine schlafenden Käfer wecken, sage ich."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHEARS"
 msgid "Don't get jealous, Lucy."
 msgstr "Nicht eifersüchtig sein, Lucy."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.EMPTY"
+msgid "Hrumph. A big production for a little metal."
+msgstr "Hrumpf. Viel Aufwand für wenig Metall."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREE_PILLAR"
@@ -3135,6 +3240,11 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SHEARS"
 msgid "A cutlass fer tha'bushes."
 msgstr "Entermesser für Büsche."
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.EMPTY"
+msgid "A cannon fer makin' metals."
+msgstr "Kanone, mit der man Metall machen kann."
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TREE_PILLAR"
 msgid "Vessel i'th'makin'."
@@ -3310,6 +3420,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHEARS"
 msgid "For hair cuts"
 msgstr "Zum Haareschneiden."
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Hot! Hot!"
+msgstr "Heiß! Heiß!"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREE_PILLAR"
 msgid "Big friend?"
@@ -3474,6 +3589,11 @@ msgstr "Dann Pause."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHEARS"
 msgid "Click, click, leaves fall."
 msgstr "Klick, klick, Blätter fallen."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.EMPTY"
+msgid "It doesn't make them any better."
+msgstr "Es macht sie nicht besser."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREE_PILLAR"
@@ -3644,6 +3764,11 @@ msgstr "Der kleine Käfer war ruhig."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SHEARS"
 msgid "Shape the plants."
 msgstr "Formen Sie die Pflanzen."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Hot! Hot! Hot!"
+msgstr "Heiß! Heiß! Heiß!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TREE_PILLAR"
@@ -3820,6 +3945,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHEARS"
 msgid "I WILL DEFEAT SOME VEGETATION WITH THIS!"
 msgstr "DAMIT WERDE ICH VEGETATION BESIEGEN!"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.EMPTY"
+msgid "HELLO, FRIEND"
+msgstr "Hallo mein Freund,"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TREE_PILLAR"
 msgid "IT IS LARGE AND MADE OF WOOD"
@@ -3925,6 +4055,11 @@ msgctxt "STRINGS.NAMES.SHEARS"
 msgid "Shears"
 msgstr "Schere"
 
+#. STRINGS.NAMES.SMELTER
+msgctxt "STRINGS.NAMES.SMELTER"
+msgid "Smelter"
+msgstr "Schmelzofen"
+
 #. STRINGS.NAMES.TREE_PILLAR
 msgctxt "STRINGS.NAMES.TREE_PILLAR"
 msgid "Great Leafy Stalk"
@@ -3959,6 +4094,11 @@ msgstr "Spitz und schmerzhaft."
 msgctxt "STRINGS.RECIPE_DESC.SHEARS"
 msgid "Cut your way into adventure."
 msgstr "Schneide dir den Weg ins Abenteuer frei."
+
+#. STRINGS.RECIPE_DESC.SMELTER
+msgctxt "STRINGS.RECIPE_DESC.SMELTER"
+msgid "Turn Iron into Alloy."
+msgstr "Aus Eisen mach Legierung."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ASPARAGUS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ASPARAGUS"
@@ -4109,4 +4249,3 @@ msgstr "Üppig"
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.SEASONS.TEMPERATE"
 msgid "Temperate"
 msgstr "Gemäßigt"
-

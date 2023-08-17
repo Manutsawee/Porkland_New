@@ -44,6 +44,9 @@ return {
             SLEEPING = "I should draw a mustache on its mustache while it sleeps.",
         },
         SHEARS = "Not as good as fire, but I guess it has its uses.",
+        SMELTER = {
+            EMPTY = "Oh yeah! Now I can burn metal.",
+        },
         TREE_PILLAR = "That's a big ol' tree.",
         WEEVOLE = "Stand still so I can burn you.",
         WEEVOLE_CARAPACE = "Ew.",

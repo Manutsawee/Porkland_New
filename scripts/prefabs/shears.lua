@@ -31,7 +31,7 @@ local function fn()
     inst.AnimState:PlayAnimation("idle")
 
     inst:AddTag("shears")
-
+    inst:AddTag("smeltable") -- Smelter
     inst.entity:SetPristine()
 
     if not TheWorld.ismastersim then

@@ -45,6 +45,9 @@ return {
             SLEEPING = "O GENTLE SLEEPIES",
         },
         SHEARS = "FOR THE CUTTINGS OF THE SHRUBS",
+        SMELTER = {
+            EMPTY = "'TIS FWOOSHY MACHINES",
+        },
         TREE_PILLAR = "'TIS STRONG TREE",
         WEEVOLE = "GO AWAY BUGS",
         WEEVOLE_CARAPACE = "WILBA BEAT ANNOYING BUGS",

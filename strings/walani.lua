@@ -44,6 +44,9 @@ return {
             SLEEPING = "That's it. Now just stay asleep.",
         },
         SHEARS = "What am I supposed to do with these?",
+        SMELTER = {
+            EMPTY = "I'll just let that do all the work for me.",
+        },
         TREE_PILLAR = "What a great tree!",
         WEEVOLE = "Annoying little guys.",
         WEEVOLE_CARAPACE = "Ew. Bug skin.",

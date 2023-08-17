@@ -44,6 +44,9 @@ return {
             SLEEPING = "Hehe. Is funny mustache.",
         },
         SHEARS = "Is for cutting plant things.",
+        SMELTER = {
+            EMPTY = "Fire make metal bricks.",
+        },
         TREE_PILLAR = "Mightiest tree!",
         WEEVOLE = "Pesky bug. Leave Wolfgang alone!",
         WEEVOLE_CARAPACE = "Is pesky bug skin.",

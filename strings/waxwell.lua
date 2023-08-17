@@ -44,6 +44,9 @@ return {
             SLEEPING = "A noisy sleeper.",
         },
         SHEARS = "Aren't there gardeners for this sort of thing?",
+        SMELTER = {
+            EMPTY = "Finally we're catching up to the Iron Age.",
+        },
         TREE_PILLAR = "This tree is unusually large.",
         WEEVOLE = "Interminable pests.",
         WEEVOLE_CARAPACE = "Ugh.",
