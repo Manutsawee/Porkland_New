@@ -44,6 +44,9 @@ return {
             SLEEPING = "Haha! A bug with a mustache!",
         },
         SHEARS = "It's for chores like trimming hedges or cutting grass.",
+        SMELTER = {
+            COOKING_SHORT = "Yeesh, that's hot!",
+        },
         TREE_PILLAR = "It's probably super old.",
         WEEVOLE = "Those bugs are annoying.",
         WEEVOLE_CARAPACE = "It's the outer part of those bugs.",

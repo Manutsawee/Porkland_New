@@ -43,6 +43,9 @@ return {
             SLEEPING = "Calm down!",
         },
         SHEARS = "Shears for gardening.",
+        SMELTER = {
+            EMPTY = "Process the metallic material.",
+        },
         TREE_PILLAR = "It stretches to the end of my field of vision.",
         WEEVOLE = "Once you've dealt with bedbugs, weevils aren't so bad.",
         WEEVOLE_CARAPACE = "It can be regarded as clean.",

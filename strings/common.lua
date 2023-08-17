@@ -1,5 +1,7 @@
 return {
-    ACTIONS = {},
+    ACTIONS = {
+        SMELT = "Smelt",
+    },
     NAMES = {
         ALLOY = "Alloy",
         APORKALYPSE_CLOCK = "Aporkalypse Calendar",
@@ -19,6 +21,7 @@ return {
         PEAGAWK_BUSH = "Blinkbush",
         RABID_BEETLE = "Rabid Beetle",
         SHEARS = "Shears",
+        SMELTER = "Smelter",
         TREE_PILLAR = "Great Leafy Stalk",
         WEEVOLE = "Weevole",
         WEEVOLE_CARAPACE = "Weevole Carapace",
@@ -28,6 +31,7 @@ return {
         ARMOR_WEEVOLE = "Kinda gross, but surprisingly strong.",
         HALBERD = "Pointy and hurty.",
         SHEARS = "Cut your way into adventure.",
+        SMELTER = "Turn Iron into Alloy.",
     },
     UI = {
         CUSTOMIZATIONSCREEN = {

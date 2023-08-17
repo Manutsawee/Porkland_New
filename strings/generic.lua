@@ -44,6 +44,12 @@ return {
             SLEEPING = "In a slumber.",
         },
         SHEARS = "Shear-ly delightful.",
+        SMELTER = {
+            BURNT = "Well that's a setback.",
+            COOKING_SHORT = "It's almost done!",
+            DONE = "Ahh, fini!",
+            EMPTY = "I smelt that!",
+        },
         TREE_PILLAR = "It totally blocks out the sun.",
         WEEVOLE = "Whee!",
         WEEVOLE_CARAPACE = "I'll be careful with this carapace.",

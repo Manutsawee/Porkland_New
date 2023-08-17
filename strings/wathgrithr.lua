@@ -44,6 +44,9 @@ return {
             SLEEPING = "Slumber consumes it!",
         },
         SHEARS = "A weapon for use against a mighty hedge!",
+        SMELTER = {
+            EMPTY = "The tools of dwarves.",
+        },
         TREE_PILLAR = "Surely I stand before Yggdrasil!",
         WEEVOLE = "A pest upon this land!",
         WEEVOLE_CARAPACE = "The skin of my enemy.",

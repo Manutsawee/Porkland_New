@@ -47,6 +47,9 @@ return {
             SLEEPING = "It's respiratory structures are vibrating.",
         },
         SHEARS = "Cutting implements constructed from raw metal.",
+        SMELTER = {
+            EMPTY = "Magnificent! Perhaps I can build a factory here as well.",
+        },
         TREE_PILLAR = "The circumference of this tree's trunk is unusually large.",
         WEEVOLE = "What a wonderfully persistent species of insect!",
         WEEVOLE_CARAPACE = "Excellent! It's the exoskeleton of a hexapod invertebrate!",

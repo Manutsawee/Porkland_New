@@ -44,6 +44,9 @@ return {
             SLEEPING = "Sleep is not a permanent escape from life.",
         },
         SHEARS = "Can it shear my heart?",
+        SMELTER = {
+            COOKING_SHORT = "It blazes with more passion than I know.",
+        },
         TREE_PILLAR = "Ancient, and full of life.",
         WEEVOLE = "Its sole existence is to annoy me.",
         WEEVOLE_CARAPACE = "Bits of bug carcass.",

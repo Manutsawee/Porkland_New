@@ -5,6 +5,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0"
 
+#. STRINGS.ACTIONS.SMELT
+msgctxt "STRINGS.ACTIONS.SMELT"
+msgid "Smelt"
+msgstr "제련"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DEHUMID.1
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DEHUMID.1"
 msgid "Ah, so much better."
@@ -164,6 +169,26 @@ msgstr "자고 있다."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHEARS"
 msgid "Shear-ly delightful."
 msgstr "가위가 아주 마음에 들어."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.BURNT"
+msgid "Well that's a setback."
+msgstr "글쎄, 좌절이야."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "It's almost done!"
+msgstr "거의 다 됐다!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.DONE"
+msgid "Ahh, fini!"
+msgstr "됐다!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.EMPTY"
+msgid "I smelt that!"
+msgstr "제련의 냄새가 난다!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TREE_PILLAR"
@@ -345,6 +370,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SHEARS"
 msgid "Cutting implements constructed from raw metal."
 msgstr "미가공 금속으로 만든 절단 도구다."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.EMPTY"
+msgid "Magnificent! Perhaps I can build a factory here as well."
+msgstr "굉장하군! 이곳에도 공장을 세울 수 있을지 몰라."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.TREE_PILLAR"
 msgid "The circumference of this tree's trunk is unusually large."
@@ -520,6 +550,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SHEARS"
 msgid "What am I supposed to do with these?"
 msgstr "이걸로 뭘 할 수 있다는 거지?"
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.EMPTY"
+msgid "I'll just let that do all the work for me."
+msgstr "저게 나 대신 일해 주겠지."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.TREE_PILLAR"
 msgid "What a great tree!"
@@ -690,6 +725,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SHEARS"
 msgid "Gardener's little helper."
 msgstr "정원사의 작은 도우미."
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.EMPTY"
+msgid "A lrage iron pot. got it? Iron pot."
+msgstr "라지 철 냄비. 알았어요? 철 냄비."
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.TREE_PILLAR"
 msgid "Such a big tree, even werebeaver can't eat it all."
@@ -859,6 +899,11 @@ msgstr "허허, 숨을 쉴 수 있습니다."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHEARS"
 msgid "I won't waste my time on this."
 msgstr "나는 이것에 시간을 낭비하지 않을 것입니다."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.EMPTY"
+msgid "Melt the metals together."
+msgstr "금속을 함께 녹입니다."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.TREE_PILLAR"
@@ -1035,6 +1080,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SHEARS"
 msgid "Good for cutting hedges and grass."
 msgstr "생울타리나 풀을 자르기 좋아."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.EMPTY"
+msgid "'Smelt' bad, if you ask me."
+msgstr "냄새가 별로야."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TREE_PILLAR"
 msgid "What a marvel."
@@ -1209,6 +1259,11 @@ msgstr "잠에 취했군!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHEARS"
 msgid "A weapon for use against a mighty hedge!"
 msgstr "거대한 생울타리에 맞서는 무기군!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.EMPTY"
+msgid "The tools of dwarves."
+msgstr "난쟁이들의 도구군."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TREE_PILLAR"
@@ -1385,6 +1440,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHEARS"
 msgid "Aren't there gardeners for this sort of thing?"
 msgstr "이런 건 정원사가 하는 일 아닌가?"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.EMPTY"
+msgid "Finally we're catching up to the Iron Age."
+msgstr "드디어 철기 시대로 진입했군."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TREE_PILLAR"
 msgid "This tree is unusually large."
@@ -1559,6 +1619,11 @@ msgstr "하하! 콧수염이 난 벌레야!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHEARS"
 msgid "It's for chores like trimming hedges or cutting grass."
 msgstr "생울타리를 다듬거나 잔디를 깎을 때 사용한다."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Yeesh, that's hot!"
+msgstr "윽, 뜨겁잖아!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREE_PILLAR"
@@ -1735,6 +1800,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHEARS"
 msgid "Can it shear my heart?"
 msgstr "이걸로 내 마음을 다듬을 수 있을까?"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "It blazes with more passion than I know."
+msgstr "상상 이상의 열정으로 이글거려."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TREE_PILLAR"
 msgid "Ancient, and full of life."
@@ -1910,6 +1980,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SHEARS"
 msgid "Time to do some yard work."
 msgstr "정원을 가꿔 볼까?"
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.EMPTY"
+msgid "It takes the heavy metal and makes it heavier."
+msgstr "무거운 금속을 더 무겁게 만들어."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.TREE_PILLAR"
 msgid "That's a big tree."
@@ -2084,6 +2159,11 @@ msgstr "수면 중이야."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHEARS"
 msgid "A useful tool for horticultural purposes."
 msgstr "원예 할 때 유용한 도구로군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.EMPTY"
+msgid "A metalsmithing tool."
+msgstr "금속을 제련하는 도구네."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TREE_PILLAR"
@@ -2265,6 +2345,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SHEARS"
 msgid "FOR THE CUTTINGS OF THE SHRUBS"
 msgstr "관목을 자를 때 쓰노라"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.EMPTY"
+msgid "'TIS FWOOSHY MACHINES"
+msgstr "지글지글 기계로다"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.TREE_PILLAR"
 msgid "'TIS STRONG TREE"
@@ -2440,6 +2525,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHEARS"
 msgid "Not as good as fire, but I guess it has its uses."
 msgstr "불보다는 못하지만, 나름대로 쓸모가 있겠지."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.EMPTY"
+msgid "Oh yeah! Now I can burn metal."
+msgstr "좋았어! 이제 금속도 태울 수 있겠는걸."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TREE_PILLAR"
 msgid "That's a big ol' tree."
@@ -2609,6 +2699,11 @@ msgstr "진정하다!"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHEARS"
 msgid "Shears for gardening."
 msgstr "원예용 가위."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.EMPTY"
+msgid "Process the metallic material."
+msgstr "금속 재료를 가공하십시오."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.TREE_PILLAR"
@@ -2785,6 +2880,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHEARS"
 msgid "Is for cutting plant things."
 msgstr "식물을 자를 때 쓴다."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.EMPTY"
+msgid "Fire make metal bricks."
+msgstr "불로 금속 벽돌 만든다."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TREE_PILLAR"
 msgid "Mightiest tree!"
@@ -2959,6 +3059,11 @@ msgstr "자는 벌레는 건드리지 말라던걸."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHEARS"
 msgid "Don't get jealous, Lucy."
 msgstr "질투하지 말렴, 루시."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.EMPTY"
+msgid "Hrumph. A big production for a little metal."
+msgstr "흠, 금속 조금 만드는 곳치고는 너무 크잖아."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREE_PILLAR"
@@ -3135,6 +3240,11 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SHEARS"
 msgid "A cutlass fer tha'bushes."
 msgstr "덤불을 베는 커틀라스다."
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.EMPTY"
+msgid "A cannon fer makin' metals."
+msgstr "금속을 만드는 대포다."
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TREE_PILLAR"
 msgid "Vessel i'th'makin'."
@@ -3310,6 +3420,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHEARS"
 msgid "For hair cuts"
 msgstr "머리카락을 자를 때 써"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Hot! Hot!"
+msgstr "뜨거워! 뜨거워!"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREE_PILLAR"
 msgid "Big friend?"
@@ -3474,6 +3589,11 @@ msgstr "그런 다음 휴식."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHEARS"
 msgid "Click, click, leaves fall."
 msgstr "클릭, 클릭, 낙엽이 떨어집니다."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.EMPTY"
+msgid "It doesn't make them any better."
+msgstr "그것은 그들을 더 좋게 만들지 않습니다."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREE_PILLAR"
@@ -3644,6 +3764,11 @@ msgstr "작은 벌레는 조용했습니다."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SHEARS"
 msgid "Shape the plants."
 msgstr "식물을 모양을 만드십시오."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Hot! Hot! Hot!"
+msgstr "더운! 더운! 더운!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TREE_PILLAR"
@@ -3820,6 +3945,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHEARS"
 msgid "I WILL DEFEAT SOME VEGETATION WITH THIS!"
 msgstr "이걸로 식물을 물리칠 것임!"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.EMPTY"
+msgid "HELLO, FRIEND"
+msgstr "안녕한가, 친구여"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TREE_PILLAR"
 msgid "IT IS LARGE AND MADE OF WOOD"
@@ -3925,6 +4055,11 @@ msgctxt "STRINGS.NAMES.SHEARS"
 msgid "Shears"
 msgstr "전지가위"
 
+#. STRINGS.NAMES.SMELTER
+msgctxt "STRINGS.NAMES.SMELTER"
+msgid "Smelter"
+msgstr "용광로"
+
 #. STRINGS.NAMES.TREE_PILLAR
 msgctxt "STRINGS.NAMES.TREE_PILLAR"
 msgid "Great Leafy Stalk"
@@ -3959,6 +4094,11 @@ msgstr "뾰족하고 고통스럽다."
 msgctxt "STRINGS.RECIPE_DESC.SHEARS"
 msgid "Cut your way into adventure."
 msgstr "모험으로 향하는 길을 베어나가자."
+
+#. STRINGS.RECIPE_DESC.SMELTER
+msgctxt "STRINGS.RECIPE_DESC.SMELTER"
+msgid "Turn Iron into Alloy."
+msgstr "철을 합금으로 바꾼다."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ASPARAGUS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ASPARAGUS"
@@ -4109,4 +4249,3 @@ msgstr "무성함"
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.SEASONS.TEMPERATE"
 msgid "Temperate"
 msgstr "온화함"
-

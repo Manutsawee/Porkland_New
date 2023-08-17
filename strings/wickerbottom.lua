@@ -44,6 +44,9 @@ return {
             SLEEPING = "Dormant.",
         },
         SHEARS = "A useful tool for horticultural purposes.",
+        SMELTER = {
+            EMPTY = "A metalsmithing tool.",
+        },
         TREE_PILLAR = "Certainly from an old growth tree.",
         WEEVOLE = "A Coleoptera. And an annoying one at that.",
         WEEVOLE_CARAPACE = "The exoskeleton of a Coleoptera.",

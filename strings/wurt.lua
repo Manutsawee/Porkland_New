@@ -43,6 +43,9 @@ return {
             SLEEPING = "The little bug was quiet.",
         },
         SHEARS = "Shape the plants.",
+        SMELTER = {
+            COOKING_SHORT = "Hot! Hot! Hot!",
+        },
         TREE_PILLAR = "A huge tree.",
         WEEVOLE = "go away go away!",
         WEEVOLE_CARAPACE = "hard shell.",

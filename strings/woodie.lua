@@ -44,6 +44,9 @@ return {
             SLEEPING = "Let sleeping bugs lie, I say.",
         },
         SHEARS = "Don't get jealous, Lucy.",
+        SMELTER = {
+            EMPTY = "Hrumph. A big production for a little metal.",
+        },
         TREE_PILLAR = "That's a real beaut.",
         WEEVOLE = "Worse than black flies.",
         WEEVOLE_CARAPACE = "That'll teach 'em!",

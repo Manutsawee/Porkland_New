@@ -13,7 +13,26 @@ for name, ACTION in pairs(PL_ACTIONS) do
 end
 
 ACTIONS.PEAGAWK_TRANSFORM.fn = function(act)
-    return true -- Dummy action for flup hiding
+    return true  -- Dummy action for flup hiding
+end
+
+
+local _STORE_stroverridefn = ACTIONS.STORE.stroverridefn
+function ACTIONS.STORE.stroverridefn(act, ...)
+    if act.target and act.target:HasTag("smelter") then
+        return STRINGS.ACTIONS.SMELT
+    elseif _STORE_stroverridefn then
+        return _STORE_stroverridefn(act, ...)
+    end
+end
+
+local _COOK_stroverridefn = ACTIONS.COOK.stroverridefn
+function ACTIONS.COOK.stroverridefn(act, ...)
+    if act.target and act.target:HasTag("smelter") then
+        return STRINGS.ACTIONS.SMELT
+    elseif _COOK_stroverridefn then
+        return _COOK_stroverridefn(act, ...)
+    end
 end
 
 -- SCENE        using an object in the world
