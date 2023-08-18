@@ -45,7 +45,10 @@ return {
         },
         SHEARS = "Is for cutting plant things.",
         SMELTER = {
-            EMPTY = "Fire make metal bricks.",
+            BURNT = "Smelter is dead.",
+            COOKING_SHORT = "Is almost melt!",
+            DONE = "Fire make metal bricks.",
+            EMPTY = "Wolfgang lifted it without difficulty.",
         },
         TREE_PILLAR = "Mightiest tree!",
         WEEVOLE = "Pesky bug. Leave Wolfgang alone!",

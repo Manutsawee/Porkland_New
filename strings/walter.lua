@@ -44,6 +44,9 @@ return {
         },
         SHEARS = "Gardener's little helper.",
         SMELTER = {
+            BURNT = "It's uh... extra done!",
+            COOKING_SHORT = "What's going on here? I want to take a closer look.",
+            DONE = "Check out what we've come up with!",
             EMPTY = "A lrage iron pot. got it? Iron pot.",
         },
         TREE_PILLAR = "Such a big tree, even werebeaver can't eat it all.",

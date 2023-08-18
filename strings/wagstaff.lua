@@ -48,6 +48,9 @@ return {
         },
         SHEARS = "Cutting implements constructed from raw metal.",
         SMELTER = {
+            BURNT = "Smelting is a dangerous business in here.",
+            COOKING_SHORT = "I can't wait to watch more about the properties of these metals.",
+            DONE = "Done already? Remarkable!",
             EMPTY = "Magnificent! Perhaps I can build a factory here as well.",
         },
         TREE_PILLAR = "The circumference of this tree's trunk is unusually large.",

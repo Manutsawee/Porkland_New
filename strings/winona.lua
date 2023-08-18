@@ -44,6 +44,9 @@ return {
         },
         SHEARS = "Shears for gardening.",
         SMELTER = {
+            BURNT = "Forgot fire rules, didn't you?",
+            COOKING_SHORT = "Rome was not built in a day.",
+            DONE = "knock off!",
             EMPTY = "Process the metallic material.",
         },
         TREE_PILLAR = "It stretches to the end of my field of vision.",

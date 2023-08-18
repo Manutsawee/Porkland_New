@@ -45,6 +45,9 @@ return {
         },
         SHEARS = "Aren't there gardeners for this sort of thing?",
         SMELTER = {
+            BURNT = "Back to the Stone Age.",
+            COOKING_SHORT = "Watch it! Don't let the fire go out.",
+            DONE = "Difficult results.",
             EMPTY = "Finally we're catching up to the Iron Age.",
         },
         TREE_PILLAR = "This tree is unusually large.",

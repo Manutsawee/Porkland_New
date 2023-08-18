@@ -45,7 +45,10 @@ return {
         },
         SHEARS = "For hair cuts",
         SMELTER = {
+            BURNT = "Nothing",
             COOKING_SHORT = "Hot! Hot!",
+            DONE = "Done!",
+            EMPTY = "Clinky rock cooker",
         },
         TREE_PILLAR = "Big friend?",
         WEEVOLE = "Wee Bzzter",

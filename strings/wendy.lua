@@ -45,7 +45,10 @@ return {
         },
         SHEARS = "Can it shear my heart?",
         SMELTER = {
-            COOKING_SHORT = "It blazes with more passion than I know.",
+            BURNT = "It blazes with more passion than I know.",
+            COOKING_SHORT = "They struggle in the fire and brimstone.",
+            DONE = "Born of fire.",
+            EMPTY = "Burn who are trapped in it...",
         },
         TREE_PILLAR = "Ancient, and full of life.",
         WEEVOLE = "Its sole existence is to annoy me.",

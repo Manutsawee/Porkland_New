@@ -45,7 +45,10 @@ return {
         },
         SHEARS = "It's for chores like trimming hedges or cutting grass.",
         SMELTER = {
+            BURNT = "All burned up.",
             COOKING_SHORT = "Yeesh, that's hot!",
+            DONE = "It's finished.",
+            EMPTY = "Make material with material.",
         },
         TREE_PILLAR = "It's probably super old.",
         WEEVOLE = "Those bugs are annoying.",

@@ -46,6 +46,9 @@ return {
         },
         SHEARS = "FOR THE CUTTINGS OF THE SHRUBS",
         SMELTER = {
+            BURNT = "'TIS FWOOSHED",
+            COOKING_SHORT = "METAL FWOOSH WITHIN!",
+            DONE = "'TIS DONE",
             EMPTY = "'TIS FWOOSHY MACHINES",
         },
         TREE_PILLAR = "'TIS STRONG TREE",

@@ -44,6 +44,9 @@ return {
         },
         SHEARS = "I won't waste my time on this.",
         SMELTER = {
+            BURNT = "We've made the most of it.",
+            COOKING_SHORT = "Good thing it won't take me too much time.",
+            DONE = "Got it!",
             EMPTY = "Melt the metals together.",
         },
         TREE_PILLAR = "Thankfully it doesn't completely block the sun.",
