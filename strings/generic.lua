@@ -45,9 +45,9 @@ return {
         },
         SHEARS = "Shear-ly delightful.",
         SMELTER = {
-            BURNT = "Well that's a setback.",
-            COOKING_SHORT = "It's almost done!",
-            DONE = "Ahh, fini!",
+            BURNT = "The smelter got smelted.",
+            COOKING_SHORT = "This is going to take a while.",
+            DONE = "It's done!",
             EMPTY = "I smelt that!",
         },
         TREE_PILLAR = "It totally blocks out the sun.",

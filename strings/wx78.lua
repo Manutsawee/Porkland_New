@@ -45,6 +45,9 @@ return {
         },
         SHEARS = "I WILL DEFEAT SOME VEGETATION WITH THIS!",
         SMELTER = {
+            BURNT = "SORRY, FRIEND",
+            COOKING_SHORT = "FRIEND ARE OUTPIT AT MAXIMUM POWER",
+            DONE = "RECEIVED RETRUN VALUE",
             EMPTY = "HELLO, FRIEND",
         },
         TREE_PILLAR = "IT IS LARGE AND MADE OF WOOD",

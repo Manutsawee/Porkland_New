@@ -45,6 +45,9 @@ return {
         },
         SHEARS = "Time to do some yard work.",
         SMELTER = {
+            BURNT = "No one ever accused me of being a good blacksmith.",
+            COOKING_SHORT = "It'll be done in short order.",
+            DONE = "Legendary adventurers forge legendary equipment, which sounds pretty good.",
             EMPTY = "It takes the heavy metal and makes it heavier.",
         },
         TREE_PILLAR = "That's a big tree.",

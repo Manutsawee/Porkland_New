@@ -45,6 +45,9 @@ return {
         },
         SHEARS = "A useful tool for horticultural purposes.",
         SMELTER = {
+            BURNT = "Is anyone hurt?",
+            COOKING_SHORT = "The metal is melting into liquid state.",
+            DONE = "Recooling and done.",
             EMPTY = "A metalsmithing tool.",
         },
         TREE_PILLAR = "Certainly from an old growth tree.",

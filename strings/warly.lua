@@ -45,6 +45,9 @@ return {
         },
         SHEARS = "Good for cutting hedges and grass.",
         SMELTER = {
+            BURNT = "I'm better at cooking food than metal.",
+            COOKING_SHORT = "The flavors are fusing.",
+            DONE = "Fresh out of the oven! Be careful with the scalding.",
             EMPTY = "'Smelt' bad, if you ask me.",
         },
         TREE_PILLAR = "What a marvel.",

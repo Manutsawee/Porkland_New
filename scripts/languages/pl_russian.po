@@ -172,17 +172,17 @@ msgstr "Время стричь!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.BURNT"
-msgid "Well that's a setback."
-msgstr "Неприятное стечение обстоятельств."
+msgid "The smelter got smelted."
+msgstr "Плавильный завод расплавился."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.COOKING_SHORT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.COOKING_SHORT"
-msgid "It's almost done!"
-msgstr "Почти готово!"
+msgid "This is going to take a while."
+msgstr "Это займет некоторое время."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.DONE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.DONE"
-msgid "Ahh, fini!"
+msgid "It's done!"
 msgstr "Готово!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMELTER.EMPTY
@@ -370,6 +370,21 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SHEARS"
 msgid "Cutting implements constructed from raw metal."
 msgstr "Режущее орудие из необработанного металла."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.BURNT"
+msgid "Smelting is a dangerous business in here."
+msgstr "Плавить здесь опасно."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "I can't wait to watch more about the properties of these metals."
+msgstr "Мне не терпится узнать больше о свойствах этих металлов."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.DONE"
+msgid "Done already? Remarkable!"
+msgstr "Уже сделано? Замечательный!"
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SMELTER.EMPTY"
 msgid "Magnificent! Perhaps I can build a factory here as well."
@@ -550,6 +565,21 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SHEARS"
 msgid "What am I supposed to do with these?"
 msgstr "И что мне с ними делать?"
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.BURNT"
+msgid "This is what you get for trying too hard."
+msgstr "Это то, что вы получаете за чрезмерные попытки."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "It burns itself red."
+msgstr "Он обжигает себя красным."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.DONE"
+msgid "Well done, bro."
+msgstr "Молодец, братан."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SMELTER.EMPTY"
 msgid "I'll just let that do all the work for me."
@@ -725,6 +755,21 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SHEARS"
 msgid "Gardener's little helper."
 msgstr "Маленький помощник садовника."
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.BURNT"
+msgid "It's uh... extra done!"
+msgstr "Это э... сделано дополнительно!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "What's going on here? I want to take a closer look."
+msgstr "Что тут происходит? Я хочу посмотреть поближе."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.DONE"
+msgid "Check out what we've come up with!"
+msgstr "Посмотрите, что мы придумали!"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SMELTER.EMPTY"
 msgid "A lrage iron pot. got it? Iron pot."
@@ -899,6 +944,21 @@ msgstr "Ха, я могу перевести дух."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHEARS"
 msgid "I won't waste my time on this."
 msgstr "Я не буду тратить на это время."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.BURNT"
+msgid "We've made the most of it."
+msgstr "Мы максимально использовали это."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Good thing it won't take me too much time."
+msgstr "Хорошо, что это не займет у меня слишком много времени."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.DONE"
+msgid "Got it!"
+msgstr "Понятно!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SMELTER.EMPTY"
@@ -1080,6 +1140,21 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SHEARS"
 msgid "Good for cutting hedges and grass."
 msgstr "Пригодится для стрижки изгородей и травы."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.BURNT"
+msgid "I'm better at cooking food than metal."
+msgstr "Я лучше готовлю еду, чем металл."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "The flavors are fusing."
+msgstr "Вкусы сливаются."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.DONE"
+msgid "Fresh out of the oven! Be careful with the scalding."
+msgstr "Только что из печи! Будьте осторожны с ожогами."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SMELTER.EMPTY"
 msgid "'Smelt' bad, if you ask me."
@@ -1259,6 +1334,21 @@ msgstr "Его поразил сон!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHEARS"
 msgid "A weapon for use against a mighty hedge!"
 msgstr "Оружие, способное справиться с могучей оградой!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.BURNT"
+msgid "My role is more warrior than artizan."
+msgstr "Моя роль больше воина, чем ремесленника."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Patience is an essential quality of a good fighter."
+msgstr "Терпение — необходимое качество хорошего бойца."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.DONE"
+msgid "Now make me a sharp edge!"
+msgstr "А теперь сделай мне острый край!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SMELTER.EMPTY"
@@ -1440,6 +1530,21 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHEARS"
 msgid "Aren't there gardeners for this sort of thing?"
 msgstr "Для этого вообще-то есть садовники."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.BURNT"
+msgid "Back to the Stone Age."
+msgstr "Назад в каменный век."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Watch it! Don't let the fire go out."
+msgstr "Смотри! Не позволяйте огню погаснуть."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.DONE"
+msgid "Difficult results."
+msgstr "Сложные результаты."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SMELTER.EMPTY"
 msgid "Finally we're catching up to the Iron Age."
@@ -1620,10 +1725,25 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHEARS"
 msgid "It's for chores like trimming hedges or cutting grass."
 msgstr "Ими можно подрезать изгородь или подстричь газон."
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.BURNT"
+msgid "All burned up."
+msgstr "Все сгорело."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.COOKING_SHORT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.COOKING_SHORT"
 msgid "Yeesh, that's hot!"
 msgstr "Ай, как горячо!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.DONE"
+msgid "It's finished."
+msgstr "Закончено."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMELTER.EMPTY"
+msgid "Make material with material."
+msgstr "Делайте материал из материала."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREE_PILLAR"
@@ -1800,10 +1920,25 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHEARS"
 msgid "Can it shear my heart?"
 msgstr "Смогут ли они укоротить мою жизнь?"
 
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.COOKING_SHORT
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.COOKING_SHORT"
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.BURNT"
 msgid "It blazes with more passion than I know."
 msgstr "Она пылает страстью, которой я никогда не знала."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "They struggle in the fire and brimstone."
+msgstr "Они борются в огне и сере."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.DONE"
+msgid "Born of fire."
+msgstr "Рожденный огнем."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMELTER.EMPTY"
+msgid "Burn who are trapped in it..."
+msgstr "Сожгите тех, кто в ней застрял..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TREE_PILLAR"
@@ -1979,6 +2114,21 @@ msgstr "Вот это храп."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SHEARS"
 msgid "Time to do some yard work."
 msgstr "Пора заняться стрижкой."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.BURNT"
+msgid "No one ever accused me of being a good blacksmith."
+msgstr "Никто никогда не обвинял меня в том, что я хороший кузнец."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "It'll be done in short order."
+msgstr "Это будет сделано в кратчайшие сроки."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.DONE"
+msgid "Legendary adventurers forge legendary equipment, which sounds pretty good."
+msgstr "Легендарные авантюристы куют легендарное снаряжение, что звучит неплохо."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SMELTER.EMPTY"
@@ -2159,6 +2309,21 @@ msgstr "В забытьи."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHEARS"
 msgid "A useful tool for horticultural purposes."
 msgstr "Полезный инструмент для сельскохозяйственных работ."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.BURNT"
+msgid "Is anyone hurt?"
+msgstr "Никто не пострадал?"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "The metal is melting into liquid state."
+msgstr "Металл плавится в жидком состоянии."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.DONE"
+msgid "Recooling and done."
+msgstr "Переохлаждение и готово."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMELTER.EMPTY"
@@ -2345,6 +2510,21 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SHEARS"
 msgid "FOR THE CUTTINGS OF THE SHRUBS"
 msgstr "СИЕ ДЛЯ ОБРЕЗКИ КУСТОВ"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.BURNT"
+msgid "'TIS FWOOSHED"
+msgstr "ЭТО ФУШЕД"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "METAL FWOOSH WITHIN!"
+msgstr "МЕТАЛЛ ВНУТРИ!"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.DONE"
+msgid "'TIS DONE"
+msgstr "СДЕЛАНО"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SMELTER.EMPTY"
 msgid "'TIS FWOOSHY MACHINES"
@@ -2525,6 +2705,21 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHEARS"
 msgid "Not as good as fire, but I guess it has its uses."
 msgstr "С зажигалкой не сравнить, но какая-то польза от них все же есть."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.BURNT"
+msgid "Okay, that's a liitle bit too far."
+msgstr "Хорошо, это слишком далеко."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "The fire is doing its thing!"
+msgstr "Огонь делает свое дело!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.DONE"
+msgid "When are we do this again?"
+msgstr "Когда мы сделаем это снова?"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMELTER.EMPTY"
 msgid "Oh yeah! Now I can burn metal."
@@ -2699,6 +2894,21 @@ msgstr "Успокоиться!"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHEARS"
 msgid "Shears for gardening."
 msgstr "Ножницы для сада."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.BURNT"
+msgid "Forgot fire rules, didn't you?"
+msgstr "Забыл правила пожарной безопасности, не так ли?"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Rome was not built in a day."
+msgstr "Рим не был построен за день."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.DONE"
+msgid "knock off!"
+msgstr "сбить!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SMELTER.EMPTY"
@@ -2880,10 +3090,25 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHEARS"
 msgid "Is for cutting plant things."
 msgstr "Чтобы резать растения."
 
-#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.EMPTY
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.EMPTY"
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.BURNT"
+msgid "Smelter is dead."
+msgstr "Медвежонок мертв."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Is almost melt!"
+msgstr "Почти тает!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.DONE"
 msgid "Fire make metal bricks."
 msgstr "Огонь делает кирпичи из металла."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMELTER.EMPTY"
+msgid "Wolfgang lifted it without difficulty."
+msgstr "Вольфганг поднял его без труда."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TREE_PILLAR"
@@ -3060,10 +3285,25 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHEARS"
 msgid "Don't get jealous, Lucy."
 msgstr "Люси, не ревнуй."
 
-#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.EMPTY
-msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.EMPTY"
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.BURNT"
+msgid "How did it get burned?!"
+msgstr "Как сгорел?!"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Oh boy! Here it comes!"
+msgstr "О, парень! Вот оно!"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.DONE"
 msgid "Hrumph. A big production for a little metal."
 msgstr "Хмпф. Большая печь для маленького кусочка металла."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMELTER.EMPTY"
+msgid "It's like a giant maple syrup bucket."
+msgstr "Это похоже на гигантское ведро с кленовым сиропом."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREE_PILLAR"
@@ -3239,6 +3479,21 @@ msgstr "Ща рванет!"
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SHEARS"
 msgid "A cutlass fer tha'bushes."
 msgstr "Кортик для кустов."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.BURNT"
+msgid "Blast the bore!"
+msgstr "Взорви дыру!"
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "Ye'll be done soon 'nuff."
+msgstr "Ты скоро закончишь, нафф."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.DONE"
+msgid "She's ready ta fire!"
+msgstr "Она готова к огню!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SMELTER.EMPTY"
@@ -3420,10 +3675,25 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHEARS"
 msgid "For hair cuts"
 msgstr "Чтобы подрезать волосы"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.BURNT"
+msgid "Nothing"
+msgstr "Ничего"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.COOKING_SHORT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.COOKING_SHORT"
 msgid "Hot! Hot!"
 msgstr "Горячо! Горячо!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.DONE"
+msgid "Done!"
+msgstr "Сделанный!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMELTER.EMPTY"
+msgid "Clinky rock cooker"
+msgstr "Клинки каменная плита"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREE_PILLAR"
@@ -3590,10 +3860,25 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHEARS"
 msgid "Click, click, leaves fall."
 msgstr "Щелчок, щелк, листья падают."
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.EMPTY
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.EMPTY"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.BURNT"
+msgid "I didn't know they were hot to stone."
+msgstr "Я не знал, что они были горячими до камня."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "They are hotter now."
+msgstr "Сейчас они более горячие."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.DONE"
 msgid "It doesn't make them any better."
 msgstr "Это не делает их лучше."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SMELTER.EMPTY"
+msgid "Put the iron you hate in and burn it."
+msgstr "Положите железо, которое вы ненавидите, и сожгите его."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREE_PILLAR"
@@ -3765,10 +4050,25 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SHEARS"
 msgid "Shape the plants."
 msgstr "Сформируйте растения."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.BURNT"
+msgid "Glurph, ruined."
+msgstr "Глурф, разрушенный."
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.COOKING_SHORT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.COOKING_SHORT"
 msgid "Hot! Hot! Hot!"
 msgstr "Горячий! Горячий! Горячий!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.DONE"
+msgid "Done!"
+msgstr "Сделанный!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.EMPTY
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SMELTER.EMPTY"
+msgid "What to put in it?"
+msgstr "Что в него положить?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.TREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TREE_PILLAR"
@@ -3944,6 +4244,21 @@ msgstr "ВОСПОЛНЯЕТ ЗАПАСЫ УЖАСА"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHEARS"
 msgid "I WILL DEFEAT SOME VEGETATION WITH THIS!"
 msgstr "ОНИ ПОМОГУТ МНЕ ОДЕРЖАТЬ ПОБЕДУ НАД РАСТИТЕЛЬНОСТЬЮ!"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.BURNT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.BURNT"
+msgid "SORRY, FRIEND"
+msgstr "ИЗВИНИ, ДРУГ"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.COOKING_SHORT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.COOKING_SHORT"
+msgid "FRIEND ARE OUTPIT AT MAXIMUM POWER"
+msgstr "ДРУГ РАБОТАЕТ НА МАКСИМАЛЬНОЙ МОЩНОСТИ"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.DONE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.DONE"
+msgid "RECEIVED RETRUN VALUE"
+msgstr "ПОЛУЧЕННОЕ ВОЗВРАТНОЕ ЗНАЧЕНИЕ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.EMPTY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SMELTER.EMPTY"
@@ -4249,3 +4564,4 @@ msgstr "Цветение"
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.SEASONS.TEMPERATE"
 msgid "Temperate"
 msgstr "Умеренный"
+

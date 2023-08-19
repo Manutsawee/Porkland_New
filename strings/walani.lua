@@ -45,6 +45,9 @@ return {
         },
         SHEARS = "What am I supposed to do with these?",
         SMELTER = {
+            BURNT = "This is what you get for trying too hard.",
+            COOKING_SHORT = "It burns itself red.",
+            DONE = "Well done, bro.",
             EMPTY = "I'll just let that do all the work for me.",
         },
         TREE_PILLAR = "What a great tree!",

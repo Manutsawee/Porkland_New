@@ -44,7 +44,10 @@ return {
         },
         SHEARS = "Shape the plants.",
         SMELTER = {
+            BURNT = "Glurph, ruined.",
             COOKING_SHORT = "Hot! Hot! Hot!",
+            DONE = "Done!",
+            EMPTY = "What to put in it?",
         },
         TREE_PILLAR = "A huge tree.",
         WEEVOLE = "go away go away!",

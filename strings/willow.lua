@@ -45,6 +45,9 @@ return {
         },
         SHEARS = "Not as good as fire, but I guess it has its uses.",
         SMELTER = {
+            BURNT = "Okay, that's a liitle bit too far.",
+            COOKING_SHORT = "The fire is doing its thing!",
+            DONE = "When are we do this again?",
             EMPTY = "Oh yeah! Now I can burn metal.",
         },
         TREE_PILLAR = "That's a big ol' tree.",

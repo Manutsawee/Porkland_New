@@ -45,6 +45,9 @@ return {
         },
         SHEARS = "A weapon for use against a mighty hedge!",
         SMELTER = {
+            BURNT = "My role is more warrior than artizan.",
+            COOKING_SHORT = "Patience is an essential quality of a good fighter.",
+            DONE = "Now make me a sharp edge!",
             EMPTY = "The tools of dwarves.",
         },
         TREE_PILLAR = "Surely I stand before Yggdrasil!",

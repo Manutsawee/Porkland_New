@@ -45,7 +45,10 @@ return {
         },
         SHEARS = "Don't get jealous, Lucy.",
         SMELTER = {
-            EMPTY = "Hrumph. A big production for a little metal.",
+            BURNT = "How did it get burned?!",
+            COOKING_SHORT = "Oh boy! Here it comes!",
+            DONE = "Hrumph. A big production for a little metal.",
+            EMPTY = "It's like a giant maple syrup bucket.",
         },
         TREE_PILLAR = "That's a real beaut.",
         WEEVOLE = "Worse than black flies.",

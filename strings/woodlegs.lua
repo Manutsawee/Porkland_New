@@ -45,6 +45,9 @@ return {
         },
         SHEARS = "A cutlass fer tha'bushes.",
         SMELTER = {
+            BURNT = "Blast the bore!",
+            COOKING_SHORT = "Ye'll be done soon 'nuff.",
+            DONE = "She's ready ta fire!",
             EMPTY = "A cannon fer makin' metals.",
         },
         TREE_PILLAR = "Vessel i'th'makin'.",

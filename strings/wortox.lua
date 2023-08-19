@@ -43,7 +43,10 @@ return {
         },
         SHEARS = "Click, click, leaves fall.",
         SMELTER = {
-            EMPTY = "It doesn't make them any better.",
+            BURNT = "I didn't know they were hot to stone.",
+            COOKING_SHORT = "They are hotter now.",
+            DONE = "It doesn't make them any better.",
+            EMPTY = "Put the iron you hate in and burn it.",
         },
         TREE_PILLAR = "Blot out the sun.",
         WEEVOLE = "don't bite me!",
