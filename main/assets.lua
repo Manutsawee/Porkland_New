@@ -23,13 +23,12 @@ PrefabFiles = {
     "rabid_beetle",
     "porkland",
     "shears",
+    "smelter",
     "tree_pillar",
     -- "tuber",
     -- "tubertrees",
     "weevole_carapace",
     "weevole",
-    -- by Godless --
-    "smelter",
 }
 
 Assets = {
@@ -58,6 +57,15 @@ Assets = {
 ToolUtil.RegisterImageAtlas("images/pl_inventoryimages.xml")
 AddMinimapAtlas("images/minimap/pl_minimap.xml")
 
+local sounds = {
+    Asset("SOUND", "sound/DLC003_AMB_stream.fsb"),
+    Asset("SOUND", "sound/DLC003_music_stream.fsb"),
+    Asset("SOUND", "sound/DLC003_sfx.fsb"),
+    Asset("SOUNDPACKAGE", "sound/dontstarve_DLC003.fev")
+}
+
 if not TheNet:IsDedicated() then
-    -- table.insert(Assets, Asset("SOUND", "sound/"))
+    for _, asset in ipairs(sounds) do
+        table.insert(Assets, asset)
+    end
 end
