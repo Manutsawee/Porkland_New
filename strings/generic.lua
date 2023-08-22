@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Science says I'm safe in here.",
         ARMOR_WEEVOLE = "Yeesh. This is kinda creepy.",
         ASPARAGUS_PLANTED = "I should pick those!",
+        BASEFAN = "Fan-tastic.",
         CHITIN = "Bug coating.",
         CUTNETTLE = "Science says the sharp edges are good for my lungs.",
         FLOWER_RAINFOREST = "It smells vaguely tolerable.",

@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Bulky, but surprisingly well-protected.",
         ARMOR_WEEVOLE = "Not very comfortable, just let it go.",
         ASPARAGUS_PLANTED = "Wholesome green vegetables.",
+        BASEFAN = "I'm sure bossman would be very interested in it.",
         CHITIN = "I don't know what this can be used for.",
         CUTNETTLE = "Keep your breath flowing and refresh your mind.",
         FLOWER_RAINFOREST = "I have never seen such flowers.",

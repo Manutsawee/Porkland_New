@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Clink Rock clothes",
         ARMOR_WEEVOLE = "Bzzter clothes",
         ASPARAGUS_PLANTED = "Hello there!",
+        BASEFAN = "Wind",
         CHITIN = "Bzzter clothes",
         CUTNETTLE = "(sniiiiiff)",
         FLOWER_RAINFOREST = "Dirt made a friend",

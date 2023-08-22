@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Oof. It's heavier than ballast.",
         ARMOR_WEEVOLE = "If only it had those bug wings.",
         ASPARAGUS_PLANTED = "That looks like food! Let's hope it tastes like food.",
+        BASEFAN = "A plane propeller would be better.",
         CHITIN = "I'm going to need more of these.",
         CUTNETTLE = "Smells like relief.",
         FLOWER_RAINFOREST = "You can never have too many flowers. Or projectiles.",

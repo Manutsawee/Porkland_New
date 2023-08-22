@@ -65,6 +65,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "I should pick those!"
 msgstr "O, trzeba to zebrać!"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BASEFAN"
+msgid "Fan-tastic."
+msgstr "Wytwarza wiatr."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHITIN"
 msgid "Bug coating."
@@ -259,6 +264,11 @@ msgstr "Egzoszkielet chroniący mój endoszkielet."
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "A cluster of edible spring vegetables!"
 msgstr "Kępka jadalnych, wiosennych warzyw!"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.BASEFAN"
+msgid "Magnificent! What a marvel of engineering!"
+msgstr "Wspaniały! Prawdziwy cud inżynierii!"
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CHITIN"
@@ -460,6 +470,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Food!"
 msgstr "Szamka!"
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BASEFAN"
+msgid "A nice breeze."
+msgstr "Przyjemny wiaterek."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.CHITIN"
 msgid "Probably wouldn't make a good surfboard."
@@ -655,6 +670,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Miss Winona might like it, pick some."
 msgstr "Pannie Winonie może się spodobać, wybierz trochę."
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.BASEFAN"
+msgid "Ah, it's so comfortable, Warby, you can also enjoy it."
+msgstr "Ach, to takie wygodne, Warby, że ty też możesz się tym cieszyć."
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHITIN"
 msgid "Check out the pattern on this! Warby!"
@@ -845,6 +865,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "I should pick some and go back to eat."
 msgstr "Powinienem wybrać trochę i wrócić do jedzenia."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.BASEFAN"
+msgid "Very interesting structure, but unfortunately not refined enough."
+msgstr "Bardzo ciekawa konstrukcja, lecz niestety niewystarczająco dopracowana."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHITIN"
 msgid "I don't understand what's the point of this?"
@@ -1034,6 +1059,11 @@ msgstr "Nadal śmierdzi robalem."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "I should snatch those up."
 msgstr "Powinienem je zabrać."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BASEFAN"
+msgid "Good ventilation in the kitchen is an must."
+msgstr "Dobra wentylacja w kuchni to podstawa."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHITIN"
@@ -1230,6 +1260,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Useless vegetation!"
 msgstr "Nędzna roślina!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BASEFAN"
+msgid "Conquers the heat!"
+msgstr "Pokonuje upał!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHITIN"
 msgid "The feeble armor of the bug."
@@ -1424,6 +1459,11 @@ msgstr "Nie wygląda dobrze."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Food. Just growing out of the ground."
 msgstr "Jedzenie. Po prostu tak sobie wyrasta."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BASEFAN"
+msgid "Ah. Civilization."
+msgstr "Ach. Cywilizacja."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHITIN"
@@ -1620,6 +1660,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "We should pick those."
 msgstr "O, trzeba to zebrać."
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BASEFAN"
+msgid "That breeze feels nice on our fur."
+msgstr "Ten wiaterek jest milusi."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHITIN"
 msgid "Hope no one's missing that."
@@ -1814,6 +1859,11 @@ msgstr "Życie zostało poświęcone, aby mógł powstać ten pancerz."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "I should rip those out of the ground."
 msgstr "Powinnam je wyrwać z ziemi."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BASEFAN"
+msgid "Alas the relief it brings is only temporary."
+msgstr "Niestety! Ulgę przynosi tylko na chwilę."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHITIN"
@@ -2010,6 +2060,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "That looks like food! Let's hope it tastes like food."
 msgstr "Wygląda jak jedzenie! Miejmy nadzieję, że tak też smakuje."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.BASEFAN"
+msgid "A plane propeller would be better."
+msgstr "Śmigło samolotu byłoby lepsze."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.CHITIN"
 msgid "I'm going to need more of these."
@@ -2204,6 +2259,11 @@ msgstr "Zbroja z owadziego egzoszkieletu."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Asparagus. Otherwise known as sparrow grass."
 msgstr "Szparag. Zwany również jako Asparagus officinalis."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BASEFAN"
+msgid "Restorative."
+msgstr "Orzeźwienie."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHITIN"
@@ -2405,6 +2465,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "HATH A FUNNY HAT"
 msgstr "ZABAWNE NAKRYCIE GŁOWY POSIADA"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.BASEFAN"
+msgid "BLOW WINDS!"
+msgstr "WIETRZE WIEJ!"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.CHITIN"
 msgid "YON BUGGY ARMOR"
@@ -2599,6 +2664,11 @@ msgstr "Obrzydliwe. Mam nadzieję, że chociaż działa."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Haha! Found you!"
 msgstr "Ha! Znalazłam cię!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BASEFAN"
+msgid "Fan the flames."
+msgstr "Dmuchaj w płomienie."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHITIN"
@@ -2795,6 +2865,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Wholesome green vegetables."
 msgstr "Zdrowe zielone warzywa."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BASEFAN"
+msgid "I'm sure bossman would be very interested in it."
+msgstr "Jestem pewien, że szef byłby tym bardzo zainteresowany."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHITIN"
 msgid "I don't know what this can be used for."
@@ -2984,6 +3059,11 @@ msgstr "Wolfgang wygrywa!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Haha. Is like tiny vegetable hats."
 msgstr "Ha, ha. Małe, warzywne kapelutki."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BASEFAN"
+msgid "Is cool on Wolfgang skin."
+msgstr "Chłodek dla Wolfganga."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHITIN"
@@ -3180,6 +3260,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "They're like little trees to chop down."
 msgstr "Małe drzewka, w sam raz do ścięcia."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BASEFAN"
+msgid "Yep. That's a nice breeze."
+msgstr "Tak jest. Przyjemny wiaterek."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHITIN"
 msgid "It's got some heft to it."
@@ -3374,6 +3459,11 @@ msgstr "Tak jest. Strój ze skóry robaka."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Tiny masts growin' from the ground."
 msgstr "Małe maszty wyrastające z ziemi."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BASEFAN"
+msgid "A cool wind blows from thee!"
+msgstr "Chłodna bryza z ciebie wieje."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHITIN"
@@ -3570,6 +3660,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Hello there!"
 msgstr "Cześć!"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BASEFAN"
+msgid "Wind"
+msgstr "Nakręć"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHITIN"
 msgid "Bzzter clothes"
@@ -3759,6 +3854,11 @@ msgstr "Dostaję gęsiej skórki."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "A spear that grows out of the earth."
 msgstr "Włócznia, która wyrasta z ziemi."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BASEFAN"
+msgid "The breeze is blowing, so happy."
+msgstr "Wieje wiatr, jestem taki szczęśliwy."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHITIN"
@@ -3950,6 +4050,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "Green stick stick, smells good."
 msgstr "Zielony sztyft w sztyfcie, ładnie pachnie."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.BASEFAN"
+msgid "Water ran away! florpt!"
+msgstr "Woda uciekła! kwitnij!"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHITIN"
 msgid "Tough hide."
@@ -4140,6 +4245,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ASPARAGUS_PLANTED"
 msgid "SMALL TREES OF ENERGY"
 msgstr "MAŁE DRZEWKA ENERGII"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BASEFAN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BASEFAN"
+msgid "COOLING FAN"
+msgstr "WENTYLATOR CHŁODZĄCY"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHITIN"
 msgid "INFERIOR ORGANIC BODY PLATING"
@@ -4305,6 +4415,11 @@ msgctxt "STRINGS.NAMES.ASPARAGUS_PLANTED"
 msgid "Asparagus"
 msgstr "Szparagi"
 
+#. STRINGS.NAMES.BASEFAN
+msgctxt "STRINGS.NAMES.BASEFAN"
+msgid "Oscillating Fan"
+msgstr "Wiatrak"
+
 #. STRINGS.NAMES.CHITIN
 msgctxt "STRINGS.NAMES.CHITIN"
 msgid "Chitin"
@@ -4399,6 +4514,11 @@ msgstr "Silny i wytrzymały."
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_WEEVOLE"
 msgid "Kinda gross, but surprisingly strong."
 msgstr "Trochę ohydny, ale zaskakująco wytrzymały."
+
+#. STRINGS.RECIPE_DESC.BASEFAN
+msgctxt "STRINGS.RECIPE_DESC.BASEFAN"
+msgid "Relieves hay fever, keeps you dry."
+msgstr "Łagodzi objawy kataru siennego i chroni przed wilgocią."
 
 #. STRINGS.RECIPE_DESC.HALBERD
 msgctxt "STRINGS.RECIPE_DESC.HALBERD"

@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Sturdy, but heavy.",
         ARMOR_WEEVOLE = "Nice and comfortable armor.",
         ASPARAGUS_PLANTED = "Green stick stick, smells good.",
+        BASEFAN = "Water ran away! florpt!",
         CHITIN = "Tough hide.",
         CUTNETTLE = "It into my nose!",
         FLOWER_RAINFOREST = "A slightly prettier plant is still ugly.",

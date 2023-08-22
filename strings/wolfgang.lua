@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "No one beat Wolfgang now!",
         ARMOR_WEEVOLE = "Wolfgang win!",
         ASPARAGUS_PLANTED = "Haha. Is like tiny vegetable hats.",
+        BASEFAN = "Is cool on Wolfgang skin.",
         CHITIN = "Icky bug pieces.",
         CUTNETTLE = "Is good for clearing nose.",
         FLOWER_RAINFOREST = "Little smelly flower.",

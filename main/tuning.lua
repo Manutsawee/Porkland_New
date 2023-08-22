@@ -111,6 +111,8 @@ local tuning = {
 
     HALBERD_DAMAGE = wilson_attack * 1.3,
     HALBERD_USES = 100,
+
+    HYDRO_BONUS_COOL_RATE = 4,
 }
 
 for key, value in pairs(tuning) do

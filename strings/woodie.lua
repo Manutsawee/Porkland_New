@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Feel a little funny in this.",
         ARMOR_WEEVOLE = "Nice use of bug carcasses.",
         ASPARAGUS_PLANTED = "They're like little trees to chop down.",
+        BASEFAN = "Yep. That's a nice breeze.",
         CHITIN = "It's got some heft to it.",
         CUTNETTLE = "It has a smell to it.",
         FLOWER_RAINFOREST = "It's a pretty lil' thing.",

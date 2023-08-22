@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "I still prefer magic.",
         ARMOR_WEEVOLE = "It doesn't smell that great, but there's no time to dwell on that much.",
         ASPARAGUS_PLANTED = "I should pick some and go back to eat.",
+        BASEFAN = "Very interesting structure, but unfortunately not refined enough.",
         CHITIN = "I don't understand what's the point of this?",
         CUTNETTLE = "This keeps us breathing smoothly.",
         FLOWER_RAINFOREST = "Why am I wasting time staring at it?",

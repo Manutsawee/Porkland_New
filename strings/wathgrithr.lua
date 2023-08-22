@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Armor worthy of my deeds.",
         ARMOR_WEEVOLE = "Armor made from the skin of my enemy.",
         ASPARAGUS_PLANTED = "Useless vegetation!",
+        BASEFAN = "Conquers the heat!",
         CHITIN = "The feeble armor of the bug.",
         CUTNETTLE = "Its smell has vanquish mine sinuses.",
         FLOWER_RAINFOREST = "A blossom most lovely.",
