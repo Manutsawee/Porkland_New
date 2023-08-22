@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "The riveting in this suit is quite sophisticated.",
         ARMOR_WEEVOLE = "Exoskeleton armor to protect my endoskeleton.",
         ASPARAGUS_PLANTED = "A cluster of edible spring vegetables!",
+        BASEFAN = "Magnificent! What a marvel of engineering!",
         CHITIN = "Wonderful! The exoskeleton of a deceased insect!",
         CUTNETTLE = "A large leaf nettle plant native to these parts. Also it smells funny.",
         FLOWER_RAINFOREST = "Curious. Picking these has a positive effect on my psyche.",

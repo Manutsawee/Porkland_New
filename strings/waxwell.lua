@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Not very pliant but it does the job.",
         ARMOR_WEEVOLE = "This is not a good look.",
         ASPARAGUS_PLANTED = "Food. Just growing out of the ground.",
+        BASEFAN = "Ah. Civilization.",
         CHITIN = "We all have our defenses.",
         CUTNETTLE = "Useful.",
         FLOWER_RAINFOREST = "It's no rose.",

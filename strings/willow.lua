@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "I feel like a tin can.",
         ARMOR_WEEVOLE = "This feels gross. I hope it works.",
         ASPARAGUS_PLANTED = "Haha! Found you!",
+        BASEFAN = "Fan the flames.",
         CHITIN = "Bug skin.",
         CUTNETTLE = "It smells funny.",
         FLOWER_RAINFOREST = "It's kinda ugly. But it burns.",

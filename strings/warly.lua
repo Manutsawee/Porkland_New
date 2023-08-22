@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Like an armor made of tin cans.",
         ARMOR_WEEVOLE = "It still smells of bug.",
         ASPARAGUS_PLANTED = "I should snatch those up.",
+        BASEFAN = "Good ventilation in the kitchen is an must.",
         CHITIN = "Completely inedible.",
         CUTNETTLE = "Great for clearing the sinuses!",
         FLOWER_RAINFOREST = "Edible?",

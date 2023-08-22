@@ -15,6 +15,7 @@ return {
         ARMOR_METALPLATE = "Not good fer swimmin' in.",
         ARMOR_WEEVOLE = "Aye. Finery made o' bug skin.",
         ASPARAGUS_PLANTED = "Tiny masts growin' from the ground.",
+        BASEFAN = "A cool wind blows from thee!",
         CHITIN = "A harden'd hull.",
         CUTNETTLE = "Cleans tha' nose as good as sea air.",
         FLOWER_RAINFOREST = "Ol'Woodlegs na'got use fer'it.",

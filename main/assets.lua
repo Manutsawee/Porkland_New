@@ -29,6 +29,7 @@ PrefabFiles = {
     -- "tubertrees",
     "weevole_carapace",
     "weevole",
+    "basefan",
 }
 
 Assets = {

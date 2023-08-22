@@ -8,6 +8,7 @@ return {
         ARMOR_METALPLATE = "Tin Suit",
         ARMOR_WEEVOLE = "Weevole Mantle",
         ASPARAGUS_PLANTED = "Asparagus",
+        BASEFAN = "Oscillating Fan",
         CHITIN = "Chitin",
         CUTNETTLE = "Nettle",
         FLOWER_RAINFOREST = "Exotic Flower",
@@ -29,6 +30,7 @@ return {
     RECIPE_DESC = {
         ARMOR_METALPLATE = "Strong and sturdy.",
         ARMOR_WEEVOLE = "Kinda gross, but surprisingly strong.",
+        BASEFAN = "Relieves hay fever, keeps you dry.",
         HALBERD = "Pointy and hurty.",
         SHEARS = "Cut your way into adventure.",
         SMELTER = "Turn Iron into Alloy.",
