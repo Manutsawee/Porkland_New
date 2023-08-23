@@ -146,11 +146,13 @@ local function fn()
 
     inst:ListenForEvent("onbuilt", onbuilt)
 
+    MakeHauntableWork(inst)
+
     return inst
 end
 
 local function placer_postinit_fn(inst)
-    --Show the flingo placer on top of the flingo range ground placer
+    -- Show the flingo placer on top of the flingo range ground placer
 
     local placer2 = CreateEntity()
 
