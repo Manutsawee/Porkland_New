@@ -41,7 +41,7 @@ GLOBAL.setfenv(1, GLOBAL)
 
 local is_worldgen = rawget(_G, "WORLDGEN_MAIN") ~= nil
 
-local TileRanges = IACore.TileRanges
+local TileRanges = TravelCore.TileRanges
 local pl_tiledefs = {
     -- dst had this
     -- BEARDRUG = {
@@ -393,7 +393,7 @@ local pl_tiledefs = {
 
 }
 
-IACore.IA_Add_Tile(pl_tiledefs, AddTile)
+TravelCore.IA_Add_Tile(pl_tiledefs, AddTile)
 
 -- Non flooring floodproof tiles
 GROUND_FLOODPROOF = rawget(_G, "GROUND_FLOODPROOF") or {}
