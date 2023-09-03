@@ -18,8 +18,8 @@ priority = 1
 
 mod_dependencies = {
     {
-        ["ia-core"] = false,
-        ["ia-core - GitLab Version"] = true,
+        ["travel-core"] = false,
+        ["travel-core - GitLab Version"] = true,
     },
 }
 
