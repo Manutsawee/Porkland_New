@@ -3723,7 +3723,7 @@ msgstr "卷尾巴的戰鬥棒"
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON"
 msgid "Clinky Rock"
-msgstr "熟料岩"
+msgstr "叮噹響的石頭"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD"
@@ -4513,12 +4513,12 @@ msgstr "強大而堅固。"
 #. STRINGS.RECIPE_DESC.ARMOR_WEEVOLE
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_WEEVOLE"
 msgid "Kinda gross, but surprisingly strong."
-msgstr "有點噁心，但出奇的\n強。"
+msgstr "有點噁心，但出奇的強。"
 
 #. STRINGS.RECIPE_DESC.BASEFAN
 msgctxt "STRINGS.RECIPE_DESC.BASEFAN"
 msgid "Relieves hay fever, keeps you dry."
-msgstr "緩解花粉症，保持幹\n燥。"
+msgstr "緩解花粉症，保持幹燥。"
 
 #. STRINGS.RECIPE_DESC.HALBERD
 msgctxt "STRINGS.RECIPE_DESC.HALBERD"
