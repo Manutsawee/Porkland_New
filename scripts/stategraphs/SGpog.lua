@@ -8,10 +8,10 @@ local actionhandlers = {
 
 local events = {
     CommonHandlers.OnSleep(),
+    CommonHandlers.OnLocomote(true, true),
     CommonHandlers.OnFreeze(),
     CommonHandlers.OnAttacked(true),
     CommonHandlers.OnDeath(),
-    CommonHandlers.OnLocomote(true, true),
     EventHandler("barked_at", function(inst, data)
         if not inst.components.health:IsDead() and not inst.sg:HasStateTag("busy") and not inst.sg:HasStateTag("preoccupied") and data.belly then
             inst.sg:GoToState("belly")
@@ -28,7 +28,7 @@ local events = {
     end),
 }
 
-local function testrummage(inst,target)
+local function Rummage(inst,target)
      if target and target.components.container then
         local CANT_TAGS = {"FX", "NOCLICK", "DECOR","INLIMBO", "aquatic"}
         local food = FindEntity(inst, TUNING.POG_SEE_FOOD, function(item) return inst.components.eater:CanEat(item) and item:IsOnValidGround() and item:GetTimeAlive() > TUNING.POG_EAT_DELAY end, nil, CANT_TAGS)
@@ -40,7 +40,7 @@ local function testrummage(inst,target)
     end
 end
 
-local function tossitems(inst,target)
+local function TossItems(inst,target)
     if target and target.components.container then
         local items = target.components.container:FindItems(function() return true end)
         if #items > 0 then
@@ -85,6 +85,7 @@ local states = {
         tags = {"idle", "canrotate"},
 
         onenter = function(inst, playanim)
+            inst.components.locomotor:StopMoving()
             if inst.wantstobark then
                 inst.wantstobark = nil
                 inst.sg:GoToState("bark_at_friend")
@@ -92,8 +93,6 @@ local states = {
                 if inst.can_beg and math.random() < 0.6 then
                     inst.sg:GoToState("beg")
                 else
-                    inst.components.locomotor:StopMoving()
-
                     if playanim then
                         inst.AnimState:PlayAnimation(playanim)
                         inst.AnimState:PushAnimation("idle_loop", true)
@@ -106,7 +105,7 @@ local states = {
             end
         end,
 
-        ontimeout=function(inst)
+        ontimeout = function(inst)
             local rand = math.random()
 
             if inst.can_beg then
@@ -138,7 +137,7 @@ local states = {
 
     State{
         name = "tailchase",
-        tags = {"canrotate","preoccupied"},
+        tags = {"canrotate", "preoccupied"},
 
         onenter = function(inst)
             inst.components.locomotor:StopMoving()
@@ -152,7 +151,7 @@ local states = {
 
     State{
         name = "tailchase_loop",
-        tags = {"canrotate","preoccupied"},
+        tags = {"canrotate", "preoccupied"},
 
         onenter = function(inst)
             inst.components.locomotor:StopMoving()
@@ -165,7 +164,7 @@ local states = {
 
         events = {
             EventHandler("animover", function(inst)
-                if math.random()<0.3 then
+                if math.random() < 0.3 then
                     inst.sg:GoToState("tailchase_loop")
                 else
                     inst.sg:GoToState("tailchase_pst")
@@ -176,7 +175,7 @@ local states = {
 
     State{
         name = "tailchase_pst",
-        tags = {"canrotate","preoccupied"},
+        tags = {"canrotate", "preoccupied"},
 
         onenter = function(inst)
             inst.components.locomotor:StopMoving()
@@ -194,7 +193,7 @@ local states = {
 
     State{
         name = "ransack_pre",
-        tags = {"canrotate","preoccupied"},
+        tags = {"canrotate", "preoccupied"},
 
         onenter = function(inst)
             inst.components.locomotor:StopMoving()
@@ -208,7 +207,7 @@ local states = {
 
     State{
         name = "ransack",
-        tags = {"canrotate","preoccupied"},
+        tags = {"canrotate", "preoccupied"},
 
         onenter = function(inst)
             inst.components.locomotor:StopMoving()
@@ -219,7 +218,7 @@ local states = {
                 inst.sg:GoToState("idle","rummage_pst")
                 inst.wantstobark = target
             else
-                if not act or not testrummage(inst, target) or target:HasTag("pogged") then
+                if not act or not Rummage(inst, target) or target:HasTag("pogged") then
                     inst:ClearBufferedAction()
                     inst.sg:GoToState("idle","rummage_pst")
                 else
@@ -239,7 +238,7 @@ local states = {
             local p_pt = Vector3(inst.ransacking.Transform:GetWorldPosition())
             local m_pt = Vector3(inst.Transform:GetWorldPosition())
             if distsq(p_pt, m_pt) > 1.5 * 1.5 then
-                inst.sg:GoToState("idle","rummage_pst")
+                inst.sg:GoToState("idle", "rummage_pst")
             end
         end,
 
@@ -261,14 +260,14 @@ local states = {
 
     State{
         name = "ransack_throw",
-        tags = {"canrotate","preoccupied"},
+        tags = {"canrotate", "preoccupied"},
 
         onenter = function(inst)
             inst.AnimState:PlayAnimation("rummage_throw")
         end,
 
         timeline = {
-            TimeEvent(10*FRAMES, function(inst) tossitems(inst,inst.ransacking) end),
+            TimeEvent(10*FRAMES, function(inst) TossItems(inst,inst.ransacking) end),
             TimeEvent(9*FRAMES, function(inst) if math.random() < 0.5 then inst.SoundEmitter:PlaySound("dontstarve_DLC003/creatures/pog/bark",nil,.5) end end),
             TimeEvent(16*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve/wilson/make_whoosh") end),
         },
@@ -279,7 +278,7 @@ local states = {
             end
             if inst.ransacking then
                 inst.ransacking:RemoveTag("pogged")
-                --inst.ransacking
+                inst.ransacking = nil
             end
             inst.keepransacking = nil
         end,
@@ -294,7 +293,7 @@ local states = {
 
     State{
         name = "beg",
-        tags = {"canrotate","preoccupied"},
+        tags = {"canrotate", "preoccupied"},
 
         onenter = function(inst)
             inst.components.locomotor:StopMoving()
@@ -335,10 +334,9 @@ local states = {
         },
     },
 
-
     State{
         name = "bark_at_friend",
-        tags = {"canrotate","preoccupied","busy"},
+        tags = {"canrotate", "preoccupied", "busy"},
 
         onenter = function(inst)
             inst.components.locomotor:WalkForward()
@@ -353,54 +351,6 @@ local states = {
             TimeEvent(10*FRAMES, function(inst) bark_at_friends(inst) end),
             TimeEvent(8*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve_DLC003/creatures/pog/bark") end),
             TimeEvent(21*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve_DLC003/creatures/pog/bark") end),
-        },
-    },
-
-    State{
-        name = "walk_start",
-        tags = {"moving", "canrotate","walk"},
-
-        onenter = function(inst)
-            inst.AnimState:PlayAnimation("walk_pre")
-        end,
-
-        events = {
-            EventHandler("animover", function(inst) inst.sg:GoToState("walk") end),
-        },
-    },
-
-    State{
-        name = "walk",
-        tags = {"moving", "canrotate","walk"},
-
-        onenter = function(inst)
-            inst.components.locomotor:WalkForward()
-            inst.AnimState:PlayAnimation("walk_loop")
-        end,
-
-        events = {
-            EventHandler("animover", function(inst) inst.sg:GoToState("walk") end ),
-        },
-
-        timeline = {
-            TimeEvent(FRAMES, function(inst) PlayFootstep(inst) end),
-            TimeEvent(8*FRAMES, function(inst) PlayFootstep(inst) end),
-            TimeEvent(15*FRAMES, function(inst) PlayFootstep(inst) end),
-            TimeEvent(23*FRAMES, function(inst) PlayFootstep(inst) end),
-        },
-    },
-
-    State{
-        name = "walk_stop",
-        tags = {"canrotate","walk"},
-
-        onenter = function(inst)
-            inst.components.locomotor:StopMoving()
-            inst.AnimState:PlayAnimation("walk_pst")
-        end,
-
-        events = {
-            EventHandler("animover", function(inst) inst.sg:GoToState("idle") end ),
         },
     },
 
@@ -460,7 +410,15 @@ local states = {
 }
 
 CommonStates.AddFrozenStates(states)
-CommonStates.AddSimpleState(states,"refuse", "emote_stretch", {"busy"})
+CommonStates.AddSimpleState(states, "refuse", "emote_stretch", {"busy"})
+CommonStates.AddWalkStates(states, {
+    walktimeline = {
+        TimeEvent(FRAMES, function(inst) PlayFootstep(inst) end),
+        TimeEvent(8*FRAMES, function(inst) PlayFootstep(inst) end),
+        TimeEvent(15*FRAMES, function(inst) PlayFootstep(inst) end),
+        TimeEvent(23*FRAMES, function(inst) PlayFootstep(inst) end),
+    }
+})
 CommonStates.AddRunStates(states, {
     runtimeline = {
         TimeEvent(1*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve_DLC003/creatures/pog/step") end)
@@ -475,7 +433,6 @@ CommonStates.AddSleepStates(states, {
         TimeEvent(37*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve_DLC001/creatures/catcoon/sleep", nil, .25) end)
     },
 })
-
 CommonStates.AddCombatStates(states, {
 	attacktimeline = {
         TimeEvent(12*FRAMES, function(inst) inst.SoundEmitter:PlaySound("dontstarve_DLC003/creatures/pog/bark") end),

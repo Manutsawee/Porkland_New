@@ -5,7 +5,7 @@ GLOBAL.setfenv(1, GLOBAL)
 if not rawget(_G, "TravelCore") then
     for i, _modname in ipairs(ModManager:GetEnabledServerModNames()) do
         local modinfo = KnownModIndex:GetModInfo(_modname)
-        if modinfo.name == "Ia Core" then
+        if modinfo.name == "Travel Core" then
             ModManager:FrontendLoadMod(_modname)
             break
         end

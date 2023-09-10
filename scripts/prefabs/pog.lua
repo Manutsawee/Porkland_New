@@ -188,6 +188,9 @@ local function fn()
 	inst:AddTag("pog")
 	inst:AddTag("scarytoprey")
 
+    --trader (from trader component) added to pristine state for optimization
+    inst:AddTag("trader")
+
     inst.entity:SetPristine()
 
     if not TheWorld.ismastersim then

@@ -19,7 +19,7 @@ priority = 1
 mod_dependencies = {
     {
         ["travel-core"] = false,
-        ["travel-core - GitLab Version"] = true,
+        ["travel-core - Github Version"] = true,
     },
 }
 
