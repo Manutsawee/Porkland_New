@@ -3,7 +3,6 @@ require("stategraphs/SGpog")
 
 local assets = {
 	Asset("ANIM", "anim/pog_basic.zip"),
-	Asset("ANIM", "anim/pog_actions.zip"),
 	Asset("ANIM", "anim/pog_feral_build.zip"),
 }
 
