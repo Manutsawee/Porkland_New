@@ -6,9 +6,9 @@ local assets = {
 	Asset("ANIM", "anim/pog_feral_build.zip"),
 }
 
-SetSharedLootTable( 'pog',
+SetSharedLootTable("pog",
 {
-    {'smallmeat',             1.00},
+    {"smallmeat",             1.00},
 })
 
 local brain = require("brains/pogbrain")
@@ -96,13 +96,13 @@ local function WakeTest(inst)
 end
 
 local function ShouldAcceptItem(inst, item)
-	if inst.components.health and inst.components.health:IsDead() then
+    local edible = item.components.edible
+	if edible ~= nil and inst.components.health and inst.components.health:IsDead() then
         return false
     end
 
-    local edible = item.components.edible
     local foodtype = edible.foodtype
-	if edible and (foodtype == FOODTYPE.MEAT or foodtype == FOODTYPE.VEGGIE or foodtype == FOODTYPE.SEEDS or foodtype == FOODTYPE.INSECT or foodtype == FOODTYPE.GENERIC) then
+	if (foodtype == FOODTYPE.MEAT or foodtype == FOODTYPE.VEGGIE or foodtype == FOODTYPE.SEEDS or foodtype == FOODTYPE.INSECT or foodtype == FOODTYPE.GENERIC) then
 		return true
 	end
 	return false
@@ -179,7 +179,7 @@ local function fn()
 	MakeCharacterPhysics(inst, 1, 0.5)
 
 	inst.AnimState:SetBank("pog")
-	inst.AnimState:SetBuild("pog_actions")
+	inst.AnimState:SetBuild("pog_basic")
 	inst.AnimState:PlayAnimation("idle_loop")
 
 	inst:AddTag("smallcreature")
