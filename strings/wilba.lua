@@ -40,6 +40,12 @@ return {
         },
         PEAGAWKFEATHER = "IS'T A BIRD THING O' PRETTY",
         PEAGAWK_BUSH = "'TIS NAUGHT A BUSH",
+        POG = {
+            APORKALYPSE = "'TIS VERY ANGRY!",
+            FOLLOWER = "'TIS ONE OF MY SUBJECTS NOW",
+            GENERIC = "SOMETHING CUTIES THIS WAY COMES",
+            SLEEPING = "NIGHT NIGHT",
+        },
         RABID_BEETLE = {
             DEAD = "IN YON UNDISCOVER'D COUNTRY",
             GENERIC = "FULL OF SOUND AND FURY",

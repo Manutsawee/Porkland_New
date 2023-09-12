@@ -38,6 +38,12 @@ return {
         },
         PEAGAWKFEATHER = "It's still looking at me.",
         PEAGAWK_BUSH = "A vigilant bush, how strange!",
+        POG = {
+            APORKALYPSE = "Stop! Calm down!",
+            FOLLOWER = "do you like me? I like you too!",
+            GENERIC = "These eyes allow me to forgive everything it does.",
+            SLEEPING = "It's sleeping.",
+        },
         RABID_BEETLE = {
             DEAD = "Ah, it stopped.",
             GENERIC = "What are you all excited about?",

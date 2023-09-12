@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "A priceless beauty.",
         PEAGAWK_BUSH = "Do you think you can hide from me?",
+        POG = {
+            APORKALYPSE = "You wish to joust? Surely you jest!",
+            FOLLOWER = "I have been taken by its cuteness.",
+            GENERIC = "Within its cuteness lays the heart of a tiny warrior!",
+            SLEEPING = "Sweetest dreams, cute meat.",
+        },
         RABID_BEETLE = {
             DEAD = "It has died in battle.",
             GENERIC = "Evil beast. You have met your match!",

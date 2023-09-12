@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "Still blinking.",
         PEAGAWK_BUSH = "Look! An iris bush.",
+        POG = {
+            APORKALYPSE = "Yikes! What's that!",
+            FOLLOWER = "It's friendly, for now.",
+            GENERIC = "Science says it's always hungry.",
+            SLEEPING = "I'll let it rest.",
+        },
         RABID_BEETLE = {
             DEAD = "A late beetle.",
             GENERIC = "Looks deranged.",

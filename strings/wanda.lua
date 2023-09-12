@@ -38,6 +38,12 @@ return {
         },
         PEAGAWKFEATHER = "It's hard to see.",
         PEAGAWK_BUSH = "What a clever disguise.",
+        POG = {
+            APORKALYPSE = "Do all good things show their fangs?",
+            FOLLOWER = "How cute!",
+            GENERIC = "Don't be fooled by their cute appearance.",
+            SLEEPING = "It's resting.",
+        },
         RABID_BEETLE = {
             DEAD = "There is one less pest in the world.",
             GENERIC = "vermin! go away!",

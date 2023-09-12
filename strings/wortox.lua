@@ -37,6 +37,12 @@ return {
         },
         PEAGAWKFEATHER = "Feather of a small peacock.",
         PEAGAWK_BUSH = "Well, this trick can't fool me.",
+        POG = {
+            APORKALYPSE = "I don't want to hurt you!",
+            FOLLOWER = "Good boy.",
+            GENERIC = "Hi little Chihuahua!",
+            SLEEPING = "Go to sleep.",
+        },
         RABID_BEETLE = {
             DEAD = "it's a pity.",
             GENERIC = "Really energetic, do you want to dance?",

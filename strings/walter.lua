@@ -38,6 +38,12 @@ return {
         },
         PEAGAWKFEATHER = "method is valid.",
         PEAGAWK_BUSH = "This bird can't fly, but turns into a bush!",
+        POG = {
+            APORKALYPSE = "We thought we would be friends forever!",
+            FOLLOWER = "Come with me and I'll take you home.",
+            GENERIC = "Can't you find the owner either?",
+            SLEEPING = "Have sweet dreams.",
+        },
         RABID_BEETLE = {
             DEAD = "Oh, dead.",
             GENERIC = "Wow, look how active they are!",

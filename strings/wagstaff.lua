@@ -42,6 +42,7 @@ return {
             GENERIC = "I'm experiencing the inescapable perception that I'm being watched.",
             SLEEPING = "That insight that spied on me was gone.",
         },
+        POG = "An adorably audacious animal with an insatiable appetite!",
         RABID_BEETLE = {
             DEAD = "An occurrance of invertebrate respiratory failure.",
             GENERIC = "Evidently, it acquires facial hair when it matures.",

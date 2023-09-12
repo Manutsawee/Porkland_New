@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "Feather'o'glimmer.",
         PEAGAWK_BUSH = "'Tis unsettlin' t'b'sure.",
+        POG = {
+            APORKALYPSE = "Have at ye!",
+            FOLLOWER = "B'gone y'scurvy dog!",
+            GENERIC = "Scurvy dog.",
+            SLEEPING = "Thet b'nice.",
+        },
         RABID_BEETLE = {
             DEAD = "Aye, 'tis fer'tha best.",
             GENERIC = "Ornery buggie.",

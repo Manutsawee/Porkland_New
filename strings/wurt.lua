@@ -38,6 +38,12 @@ return {
         },
         PEAGAWKFEATHER = "There are big monster eyes on it.",
         PEAGAWK_BUSH = "Pretty feather bush.",
+        POG = {
+            APORKALYPSE = "Puppy...why?",
+            FOLLOWER = "Floating waves! let's go!",
+            GENERIC = "Ooh, hey, puppies!",
+            SLEEPING = "Good night puppy.",
+        },
         RABID_BEETLE = {
             DEAD = "died.",
             GENERIC = "The little bug is going crazy!",

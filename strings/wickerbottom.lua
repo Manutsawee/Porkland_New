@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "Feather of the male Pavo Cristatus.",
         PEAGAWK_BUSH = "I have questions about that bush.",
+        POG = {
+            APORKALYPSE = "The Otocyon Canis's behavior has become erratic!",
+            FOLLOWER = "It seems I have an admirer.",
+            GENERIC = "Otocyon Canis. And a hungry one at that!",
+            SLEEPING = "The Otocyon Canis slumbers.",
+        },
         RABID_BEETLE = {
             DEAD = "Expired.",
             GENERIC = "Certainly not a species I know of!",

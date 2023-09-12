@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "I spy, with my little eye...",
         PEAGAWK_BUSH = "Just a bush...",
+        POG = {
+            APORKALYPSE = "I see. Even you turn on me, in the end.",
+            FOLLOWER = "I cannot protect you from death.",
+            GENERIC = "Even you cannot escape death.",
+            SLEEPING = "Are you practicing being dead?",
+        },
         RABID_BEETLE = {
             DEAD = "Lifeless.",
             GENERIC = "As rabid as death itself.",

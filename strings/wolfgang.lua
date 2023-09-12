@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "Is blink-blink bird feather.",
         PEAGAWK_BUSH = "Is just bush.",
+        POG = {
+            APORKALYPSE = "Wolfgang does not like scary batdog!",
+            FOLLOWER = "You like Wolfgang, yes?",
+            GENERIC = "Is cute little food stealer.",
+            SLEEPING = "Goodnight little food stealer.",
+        },
         RABID_BEETLE = {
             DEAD = "Is stomped.",
             GENERIC = "Wolfgang will stomp bad beetle!",

@@ -20,6 +20,8 @@ PrefabFiles = {
     "peagawk_spawner",
     "peagawkfeather",
     "porkland_network",
+    "pog",
+    "pogherd",
     "rabid_beetle",
     "porkland",
     "shears",

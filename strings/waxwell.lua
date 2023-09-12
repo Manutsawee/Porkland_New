@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "What finery.",
         PEAGAWK_BUSH = "I've my suspicions about that bush.",
+        POG = {
+            APORKALYPSE = "Don't make me do something I'll regret.",
+            FOLLOWER = "Shoo. I do not like you.",
+            GENERIC = "What do you want?",
+            SLEEPING = "Oh look. It is asleep.",
+        },
         RABID_BEETLE = {
             DEAD = "The grim reaper has been here.",
             GENERIC = "What is he all worked up about?",

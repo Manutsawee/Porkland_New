@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "Normally I don't mind feathers, but this one keeps staring at me.",
         PEAGAWK_BUSH = "Something's hiding in there.",
+        POG = {
+            APORKALYPSE = "Are you aware that you're terrifying now?",
+            FOLLOWER = "Swell. Another mouth to feed.",
+            GENERIC = "You're cute. You'd be cuter as a cat.",
+            SLEEPING = "Finally, it stopped eating.",
+        },
         RABID_BEETLE = {
             DEAD = "Not too sorry about that.",
             GENERIC = "Probably just agitated because it can't fly well.",

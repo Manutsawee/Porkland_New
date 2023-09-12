@@ -4,6 +4,8 @@ GLOBAL.setfenv(1, GLOBAL)
 
 local PL_ACTIONS = {
     PEAGAWK_TRANSFORM = Action({}),
+    BARK = Action({},nil,nil,nil, 3),
+	RANSACK = Action({},nil,nil,nil, 0.5),
 }
 
 for name, ACTION in pairs(PL_ACTIONS) do
@@ -16,6 +18,13 @@ ACTIONS.PEAGAWK_TRANSFORM.fn = function(act)
     return true  -- Dummy action for flup hiding
 end
 
+ACTIONS.BARK.fn = function(act)
+	return true
+end
+
+ACTIONS.RANSACK.fn = function(act)
+	return true
+end
 
 local _STORE_stroverridefn = ACTIONS.STORE.stroverridefn
 function ACTIONS.STORE.stroverridefn(act, ...)
