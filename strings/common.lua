@@ -20,6 +20,7 @@ return {
         PEAGAWK = "Peagawk",
         PEAGAWKFEATHER = "Peagawk Plume",
         PEAGAWK_BUSH = "Blinkbush",
+        POG = "Pog",
         RABID_BEETLE = "Rabid Beetle",
         SHEARS = "Shears",
         SMELTER = "Smelter",

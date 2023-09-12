@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "It has a foul bird stench.",
         PEAGAWK_BUSH = "There's a wretched bird nearby. I feel it.",
+        POG = {
+            APORKALYPSE = "Don't come any closer!",
+            FOLLOWER = "Scat, I ain't got nothin' for you.",
+            GENERIC = "Oh, hey there little guy.",
+            SLEEPING = "Look'em, Lucy.",
+        },
         RABID_BEETLE = {
             DEAD = "For the best.",
             GENERIC = "Seems mighty angry.",

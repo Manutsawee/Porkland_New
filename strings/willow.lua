@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "Fancy feathers.",
         PEAGAWK_BUSH = "A bush. I think.",
+        POG = {
+            APORKALYPSE = "I don't like the look of that dog!",
+            FOLLOWER = "Hey! Shoo!",
+            GENERIC = "Hey! A doggy!",
+            SLEEPING = "Aw, it's sleeping.",
+        },
         RABID_BEETLE = {
             DEAD = "Looks dead to me.",
             GENERIC = "What're you so mad about?",

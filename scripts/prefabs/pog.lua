@@ -165,6 +165,12 @@ local function OnSeasonChange(inst, season)
     end
 end
 
+local function GetStatus(inst, viewer)
+    if TheWorld.state.isaporkalypse then
+        return "APORKALYPSE"
+    end
+end
+
 local function fn()
 	local inst = CreateEntity()
 	inst.entity:AddTransform()
@@ -196,9 +202,11 @@ local function fn()
         return inst
     end
 
-	inst:AddComponent("inspectable")
 	inst:AddComponent("inventory")
 	inst:AddComponent("knownlocations")
+
+	inst:AddComponent("inspectable")
+    inst.components.inspectable.getstatus = GetStatus
 
     inst:AddComponent("herdmember")
     inst.components.herdmember:SetHerdPrefab("pogherd")

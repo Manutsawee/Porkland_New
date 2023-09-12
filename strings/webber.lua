@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "It's pretty.",
         PEAGAWK_BUSH = "Neat. A weird bush!",
+        POG = {
+            APORKALYPSE = "Uhh, doggy?",
+            FOLLOWER = "Gosh, our very own dog!",
+            GENERIC = "Hey little guy! Wanna be our friend?",
+            SLEEPING = "Nighty night doggy.",
+        },
         RABID_BEETLE = {
             DEAD = "Well, that's unfortunate.",
             GENERIC = "That guy's got a lot of energy!",

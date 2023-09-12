@@ -155,6 +155,26 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK_BUSH"
 msgid "Look! An iris bush."
 msgstr "Ничего себе! Куст с глазами."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POG.APORKALYPSE"
+msgid "Yikes! What's that!"
+msgstr "Ого! А это что такое?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POG.FOLLOWER"
+msgid "It's friendly, for now."
+msgstr "Кажется, оно мирное. Пока что."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POG.GENERIC"
+msgid "Science says it's always hungry."
+msgstr "Наука говорит, что оно всегда голодное."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POG.SLEEPING"
+msgid "I'll let it rest."
+msgstr "Пожалуй, не буду я его будить."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "A late beetle."
@@ -360,6 +380,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK_BUSH.SLEEPING"
 msgid "That insight that spied on me was gone."
 msgstr "Прозрение, которое шпионило за мной, исчезло."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.POG
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.POG"
+msgid "An adorably audacious animal with an insatiable appetite!"
+msgstr "Очаровательно наглое животное — и очень ненасытное!"
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "An occurrance of invertebrate respiratory failure."
@@ -560,6 +585,26 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK_BUSH"
 msgid "What a cool looking bush!"
 msgstr "Какой крутой куст!"
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.POG.APORKALYPSE"
+msgid "I'm gonna go over here until you calm down, okay?"
+msgstr "Я подожду там, пока ты не успокоишься, ладно?"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.POG.FOLLOWER"
+msgid "Aw, I like you too!"
+msgstr "О-о, ты мне тоже нравишься!"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.POG.GENERIC"
+msgid "Hey little dude, wanna hang?"
+msgstr "Эй, чувачок, хочешь потусить?"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.POG.SLEEPING"
+msgid "Sleep tight little dude."
+msgstr "Спи крепко, чувачок."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "That's a bummer."
@@ -755,6 +800,26 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK_BUSH"
 msgid "This bird can't fly, but turns into a bush!"
 msgstr "Эта птица не умеет летать, а превращается в куст!"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.POG.APORKALYPSE"
+msgid "We thought we would be friends forever!"
+msgstr "Мы думали, что будем друзьями навсегда!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.POG.FOLLOWER"
+msgid "Come with me and I'll take you home."
+msgstr "Пойдем со мной, и я отвезу тебя домой."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.POG.GENERIC"
+msgid "Can't you find the owner either?"
+msgstr "Вы тоже не можете найти владельца?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.POG.SLEEPING"
+msgid "Have sweet dreams."
+msgstr "Сладких снов."
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "Oh, dead."
@@ -949,6 +1014,26 @@ msgstr "Это трудно увидеть."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK_BUSH"
 msgid "What a clever disguise."
 msgstr "Какая хитрая маскировка."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.POG.APORKALYPSE"
+msgid "Do all good things show their fangs?"
+msgstr "Все ли хорошие вещи показывают свои клыки?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.POG.FOLLOWER"
+msgid "How cute!"
+msgstr "Как мило!"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.POG.GENERIC"
+msgid "Don't be fooled by their cute appearance."
+msgstr "Не обманывайтесь их милым внешним видом."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.POG.SLEEPING"
+msgid "It's resting."
+msgstr "Оно отдыхает."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.RABID_BEETLE.DEAD"
@@ -1150,6 +1235,26 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK_BUSH"
 msgid "It's a bright blue bush."
 msgstr "Ярко-синий куст."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.POG.APORKALYPSE"
+msgid "I suppose this happens when you feed the wildlife."
+msgstr "Вот что бывает, если подкармливать диких животных."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.POG.FOLLOWER"
+msgid "Mon petit chou."
+msgstr "Mon petit chou."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.POG.GENERIC"
+msgid "Great for feeding my kitchen scraps!"
+msgstr "Вот кому можно скормить остатки еды!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.POG.SLEEPING"
+msgid "Au revoir."
+msgstr "До свидания."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "A shame. Not even edible."
@@ -1349,6 +1454,26 @@ msgstr "Бесценная красота."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK_BUSH"
 msgid "Do you think you can hide from me?"
 msgstr "Думаешь, что спрячешься от меня?"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POG.APORKALYPSE"
+msgid "You wish to joust? Surely you jest!"
+msgstr "Желаешь сразиться? Это что, шутка?"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POG.FOLLOWER"
+msgid "I have been taken by its cuteness."
+msgstr "Меня покорило его очарование."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POG.GENERIC"
+msgid "Within its cuteness lays the heart of a tiny warrior!"
+msgstr "Под слоем очарования бьется сердечко воина!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POG.SLEEPING"
+msgid "Sweetest dreams, cute meat."
+msgstr "Сладких тебе снов, мясцо."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RABID_BEETLE.DEAD"
@@ -1550,6 +1675,26 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK_BUSH"
 msgid "I've my suspicions about that bush."
 msgstr "Этот куст кажется мне подозрительным."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POG.APORKALYPSE"
+msgid "Don't make me do something I'll regret."
+msgstr "Не заставляй меня делать то, о чем я пожалею."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POG.FOLLOWER"
+msgid "Shoo. I do not like you."
+msgstr "Брысь. Ты мне не нравишься."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POG.GENERIC"
+msgid "What do you want?"
+msgstr "Что тебе нужно?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POG.SLEEPING"
+msgid "Oh look. It is asleep."
+msgstr "Гляньте-ка. Он спит."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "The grim reaper has been here."
@@ -1749,6 +1894,26 @@ msgstr "Мило."
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK_BUSH"
 msgid "Neat. A weird bush!"
 msgstr "Какой странный кустик."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.POG.APORKALYPSE"
+msgid "Uhh, doggy?"
+msgstr "Собачка?"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.POG.FOLLOWER"
+msgid "Gosh, our very own dog!"
+msgstr "У нас теперь есть собачка!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.POG.GENERIC"
+msgid "Hey little guy! Wanna be our friend?"
+msgstr "Привет, малыш! Давай дружить!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.POG.SLEEPING"
+msgid "Nighty night doggy."
+msgstr "Спокойной ночи, собачка."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABID_BEETLE.DEAD"
@@ -1950,6 +2115,26 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK_BUSH"
 msgid "Just a bush..."
 msgstr "Обычный куст..."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POG.APORKALYPSE"
+msgid "I see. Even you turn on me, in the end."
+msgstr "Ясно. В конце концов даже ты обернешься против меня."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POG.FOLLOWER"
+msgid "I cannot protect you from death."
+msgstr "Я не смогу защитить тебя от гибели."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POG.GENERIC"
+msgid "Even you cannot escape death."
+msgstr "Тебе не сбежать от смерти."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POG.SLEEPING"
+msgid "Are you practicing being dead?"
+msgstr "Ты так притворяешься мертвым?"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "Lifeless."
@@ -2150,6 +2335,26 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK_BUSH"
 msgid "Something's hiding in there."
 msgstr "Там кто-то прячется."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.POG.APORKALYPSE"
+msgid "Are you aware that you're terrifying now?"
+msgstr "Ты ведь понимаешь, какой ты теперь страшный?"
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.POG.FOLLOWER"
+msgid "Swell. Another mouth to feed."
+msgstr "Прелестно. Еще один голодный рот."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.POG.GENERIC"
+msgid "You're cute. You'd be cuter as a cat."
+msgstr "Ты милый. А был бы еще милее, будь ты котом."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.POG.SLEEPING"
+msgid "Finally, it stopped eating."
+msgstr "Ну наконец-то он перестал лопать все подряд."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "Not too sorry about that."
@@ -2349,6 +2554,26 @@ msgstr "Перо самца павлина обыкновенного."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK_BUSH"
 msgid "I have questions about that bush."
 msgstr "У меня есть пара вопросов к этому кусту."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POG.APORKALYPSE"
+msgid "The Otocyon Canis's behavior has become erratic!"
+msgstr "Повадки этой большеухой лисицы стали непредсказуемыми!"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POG.FOLLOWER"
+msgid "It seems I have an admirer."
+msgstr "Кажется, у меня появился почитатель."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POG.GENERIC"
+msgid "Otocyon Canis. And a hungry one at that!"
+msgstr "Большеухая и очень голодная лисица."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POG.SLEEPING"
+msgid "The Otocyon Canis slumbers."
+msgstr "Большеухая лисица дремлет."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABID_BEETLE.DEAD"
@@ -2555,6 +2780,26 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK_BUSH"
 msgid "'TIS NAUGHT A BUSH"
 msgstr "СИЕ НЕ КУСТ"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.APORKALYPSE"
+msgid "'TIS VERY ANGRY!"
+msgstr "ОН ЗОЛ ДОНЕЛЬЗЯ!"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.FOLLOWER"
+msgid "'TIS ONE OF MY SUBJECTS NOW"
+msgstr "ТЫ ВЛАСТЬ МОЮ ОХОТНО ПРИНИМАЕШЬ"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.GENERIC"
+msgid "SOMETHING CUTIES THIS WAY COMES"
+msgstr "ЧТО ЖЕ ЗА МИЛОЕ СОЗДАНЬЕ!"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.SLEEPING"
+msgid "NIGHT NIGHT"
+msgstr "СПИ-СПИ"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "IN YON UNDISCOVER'D COUNTRY"
@@ -2755,6 +3000,26 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK_BUSH"
 msgid "A bush. I think."
 msgstr "По-моему, это куст."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.POG.APORKALYPSE"
+msgid "I don't like the look of that dog!"
+msgstr "Не нравится мне, как эта псина выглядит."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.POG.FOLLOWER"
+msgid "Hey! Shoo!"
+msgstr "Эй, а ну брысь!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.POG.GENERIC"
+msgid "Hey! A doggy!"
+msgstr "Ой, собачка!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.POG.SLEEPING"
+msgid "Aw, it's sleeping."
+msgstr "О-о-о! Он спит."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "Looks dead to me."
@@ -2949,6 +3214,26 @@ msgstr "Оно все еще смотрит на меня."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK_BUSH"
 msgid "A vigilant bush, how strange!"
 msgstr "Бдительный куст, как странно!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.POG.APORKALYPSE"
+msgid "Stop! Calm down!"
+msgstr "Останавливаться! Успокоиться!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.POG.FOLLOWER"
+msgid "do you like me? I like you too!"
+msgstr "Я вам нравлюсь? Ты мне тоже нравишься!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.POG.GENERIC"
+msgid "These eyes allow me to forgive everything it does."
+msgstr "Эти глаза позволяют мне прощать все, что он делает."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.POG.SLEEPING"
+msgid "It's sleeping."
+msgstr "Оно спит."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.RABID_BEETLE.DEAD"
@@ -3150,6 +3435,26 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK_BUSH"
 msgid "Is just bush."
 msgstr "Просто куст."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POG.APORKALYPSE"
+msgid "Wolfgang does not like scary batdog!"
+msgstr "Вольфганг не любит страшную псину!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POG.FOLLOWER"
+msgid "You like Wolfgang, yes?"
+msgstr "Тебе нравится Вольфганг, да?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POG.GENERIC"
+msgid "Is cute little food stealer."
+msgstr "Славный зверек. Ворует еду."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POG.SLEEPING"
+msgid "Goodnight little food stealer."
+msgstr "Баю-бай, мелкий воришка."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "Is stomped."
@@ -3349,6 +3654,26 @@ msgstr "Пахнет птичьим пометом."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK_BUSH"
 msgid "There's a wretched bird nearby. I feel it."
 msgstr "Где-то здесь прячется гадкая птица, я чувствую это."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.POG.APORKALYPSE"
+msgid "Don't come any closer!"
+msgstr "Не подходи ко мне!"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.POG.FOLLOWER"
+msgid "Scat, I ain't got nothin' for you."
+msgstr "Кыш, у меня для тебя ничего нет."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.POG.GENERIC"
+msgid "Oh, hey there little guy."
+msgstr "Привет, приятель."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.POG.SLEEPING"
+msgid "Look'em, Lucy."
+msgstr "Ты только посмотри на него, Люси."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.RABID_BEETLE.DEAD"
@@ -3550,6 +3875,26 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK_BUSH"
 msgid "'Tis unsettlin' t'b'sure."
 msgstr "Да уж, как-то не по себе."
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.APORKALYPSE"
+msgid "Have at ye!"
+msgstr "Оставь при себе!"
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.FOLLOWER"
+msgid "B'gone y'scurvy dog!"
+msgstr "Проваливай, пес цинготный!"
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.GENERIC"
+msgid "Scurvy dog."
+msgstr "Пес цинготный."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.SLEEPING"
+msgid "Thet b'nice."
+msgstr "Хорошо ему."
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "Aye, 'tis fer'tha best."
@@ -3750,6 +4095,26 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK_BUSH"
 msgid "Looking good!"
 msgstr "Смотрится неплохо!"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POG.APORKALYPSE"
+msgid "Bad Woofer"
+msgstr "Злая гавкалка"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POG.FOLLOWER"
+msgid "Friend"
+msgstr "Друг"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POG.GENERIC"
+msgid "Bouncy Woofer"
+msgstr "Прыгающая гавкалка"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POG.SLEEPING"
+msgid "Sleepy Snoozer"
+msgstr "Сонная соня"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "Too bad"
@@ -3939,6 +4304,26 @@ msgstr "Перо маленького павлина."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK_BUSH"
 msgid "Well, this trick can't fool me."
 msgstr "Ну, этот трюк не может обмануть меня."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POG.APORKALYPSE"
+msgid "I don't want to hurt you!"
+msgstr "Я не хочу причинять тебе боль!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POG.FOLLOWER"
+msgid "Good boy."
+msgstr "Хороший мальчик."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POG.GENERIC"
+msgid "Hi little Chihuahua!"
+msgstr "Привет, маленький Чихуахуа!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POG.SLEEPING"
+msgid "Go to sleep."
+msgstr "Идти спать."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RABID_BEETLE.DEAD"
@@ -4134,6 +4519,26 @@ msgstr "На нем большие чудовищные глаза."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK_BUSH"
 msgid "Pretty feather bush."
 msgstr "Красивый перьевой куст."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.POG.APORKALYPSE"
+msgid "Puppy...why?"
+msgstr "Щенок... почему?"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.POG.FOLLOWER"
+msgid "Floating waves! let's go!"
+msgstr "Плавающие волны! пойдем!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.POG.GENERIC"
+msgid "Ooh, hey, puppies!"
+msgstr "Ох, эй, щенки!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.POG.SLEEPING"
+msgid "Good night puppy."
+msgstr "Спокойной ночи, щенок."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.RABID_BEETLE.DEAD"
@@ -4335,6 +4740,26 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK_BUSH"
 msgid "GROUND PART"
 msgstr "ДЕТАЛЬ ПЕЙЗАЖА"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.POG.APORKALYPSE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.POG.APORKALYPSE"
+msgid "WARNING: CREEPINESS OVERLOAD"
+msgstr "ВНИМАНИЕ: ПЕРЕДОЗИРОВКА ЖУТИ"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.POG.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.POG.FOLLOWER"
+msgid "STOP FOLLOWING ME"
+msgstr "ПЕРЕСТАНЬ МЕНЯ ПРЕСЛЕДОВАТЬ"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.POG.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.POG.GENERIC"
+msgid "WARNING: CUTENESS OVERLOAD"
+msgstr "ВНИМАНИЕ: ПЕРЕДОЗИРОВКА МИЛОТЫ"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.POG.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.POG.SLEEPING"
+msgid "THE CUTENESS OVERLOAD CAUSED A BLACKOUT"
+msgstr "ПЕРЕДОЗИРОВКА МИЛОТЫ ВЫЗВАЛА ОТКЛЮЧЕНИЕ СИСТЕМЫ"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.RABID_BEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RABID_BEETLE.DEAD"
 msgid "TERMINATED"
@@ -4474,6 +4899,11 @@ msgstr "Перо глазастого павлина"
 msgctxt "STRINGS.NAMES.PEAGAWK_BUSH"
 msgid "Blinkbush"
 msgstr "Куст с глазами"
+
+#. STRINGS.NAMES.POG
+msgctxt "STRINGS.NAMES.POG"
+msgid "Pog"
+msgstr "Лисобака"
 
 #. STRINGS.NAMES.RABID_BEETLE
 msgctxt "STRINGS.NAMES.RABID_BEETLE"

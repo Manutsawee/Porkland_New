@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "It's quite soft.",
         PEAGAWK_BUSH = "It's a bright blue bush.",
+        POG = {
+            APORKALYPSE = "I suppose this happens when you feed the wildlife.",
+            FOLLOWER = "Mon petit chou.",
+            GENERIC = "Great for feeding my kitchen scraps!",
+            SLEEPING = "Au revoir.",
+        },
         RABID_BEETLE = {
             DEAD = "A shame. Not even edible.",
             GENERIC = "It is like me when I am hungry.",

@@ -39,6 +39,12 @@ return {
         },
         PEAGAWKFEATHER = "Gubble Gubble Tweeter clothes",
         PEAGAWK_BUSH = "Looking good!",
+        POG = {
+            APORKALYPSE = "Bad Woofer",
+            FOLLOWER = "Friend",
+            GENERIC = "Bouncy Woofer",
+            SLEEPING = "Sleepy Snoozer",
+        },
         RABID_BEETLE = {
             DEAD = "Too bad",
             GENERIC = "Why so mad, Bzzter?",
