@@ -131,6 +131,15 @@ local tuning = {
     POG_EAT_DELAY = 0.5,
     POG_SEE_FOOD = 30,
     POGHERD_MAX_SIZE = 4,
+
+    GNATMOUND_REGEN_TIME = seg_time * 4,
+    GNATMOUND_RELEASE_TIME = seg_time,
+    GNATMOUND_MAX_WORK = 6,
+    GNATMOUND_MAX_CHILDREN = 1,
+
+    GNAT_WALK_SPEED = 2,
+    GNAT_RUN_SPEED = 7,
+    GNAT_TARGET_DIST = 5,
 }
 
 for key, value in pairs(tuning) do
