@@ -8,11 +8,11 @@ AddPrefabPostInit("telestaff", function(inst)
     end
 
     local _spell = inst.components.spellcaster.spell
-    inst.components.spellcaster.spell = function (inst, target, ...)
-        if target:HasTag("gnat") and target.components.infester then
+    inst.components.spellcaster.spell = function(inst, target, pos, caster, ...)
+        if target ~= nil and target:HasTag("gnat") and target.components.infester then
             target.components.infester:Uninfest()
+            target.components.health.invincible = true
         end
-        _spell(inst, target, ...)
-        target.components.health.invincible = true
+        _spell(inst, target, pos, caster, ...)
     end
 end)
