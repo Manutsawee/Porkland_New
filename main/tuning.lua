@@ -137,6 +137,7 @@ local tuning = {
     GNATMOUND_MAX_WORK = 6,
     GNATMOUND_MAX_CHILDREN = 1,
 
+    GNAT_ENABLED = true,
     GNAT_WALK_SPEED = 2,
     GNAT_RUN_SPEED = 7,
     GNAT_TARGET_DIST = 5,

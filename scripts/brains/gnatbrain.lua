@@ -8,10 +8,10 @@ local MAX_WANDER_DIST = 20
 local AGRO_DIST = 5
 local AGRO_STOP_DIST = 7
 
-local function FindInfestTarget(inst, brain)
+local function FindInfestTarget(inst)
     local x, y, z = inst.Transform:GetWorldPosition()
-    local target = FindClosestPlayerInRangeSq( x, y, z, 10 * 10, true)
-    if not inst.components.health:IsDead() and not inst.components.freezable:IsFrozen() and target and inst:GetDistanceSqToInst(target) < AGRO_DIST*AGRO_DIST and not inst.components.infester.infesting and not (target.sg and target.sg:HasStateTag("hiding") and target:HasTag("player")) and not target:HasTag("spawnprotection") then
+    local target = FindClosestPlayerInRangeSq(x, y, z, 10 * 10, true)
+    if not inst.components.health:IsDead() and not inst.components.freezable:IsFrozen() and target and inst:GetDistanceSqToInst(target) < AGRO_DIST*AGRO_DIST and not inst.components.infester.infesting and not (target.sg and target.sg:HasStateTag("hiding") and target:HasTag("player")) then
         inst.chasingtargettask = inst:DoPeriodicTask(0.2,function()
             if inst:GetDistanceSqToInst(target) > AGRO_STOP_DIST*AGRO_STOP_DIST then
                 inst:ClearBufferedAction()
@@ -69,7 +69,7 @@ function GnatBrain:OnStart()
         PriorityNode{
             WhileNode(function() return TheWorld.state.isdusk or TheWorld.state.isnight end, "chase light",
                 Follow(self.inst, function() return FindLightTarget(self.inst) end, 0, 1, 1)),
-            DoAction(self.inst, function() return FindInfestTarget(self.inst,self) end, "infest", true),
+            DoAction(self.inst, function() return FindInfestTarget(self.inst) end, "infest", true),
             DoAction(self.inst, function() return MakeNest(self.inst) end, "make nest", true),
             Wander(self.inst, function() return self.inst.components.knownlocations:GetLocation("home") end, MAX_WANDER_DIST)
         },.5)

@@ -99,6 +99,12 @@ local function fn()
     inst.components.childspawner:SetSpawnPeriod(TUNING.GNATMOUND_RELEASE_TIME)
     inst.components.childspawner:SetMaxChildren(TUNING.GNATMOUND_MAX_CHILDREN)
     inst.components.childspawner.canspawnfn = CanSpawn
+    inst.components.childspawner:StartSpawning()
+    WorldSettings_ChildSpawner_SpawnPeriod(inst, TUNING.GNATMOUND_RELEASE_TIME, TUNING.GNAT_ENABLED)
+    WorldSettings_ChildSpawner_RegenPeriod(inst, TUNING.GNATMOUND_REGEN_TIME, TUNING.GNAT_ENABLED)
+    if not TUNING.PEAGAWK_ENABLED then
+        inst.components.childspawner.childreninside = 0
+    end
 
     inst:AddComponent("workable")
     inst.components.workable:SetWorkAction(ACTIONS.MINE)

@@ -75,19 +75,20 @@ end
 
 local function OnFreeze(inst)
     if inst.components.freezable then
-        inst.components.health.invincible = false
+        inst.components.health:SetInvincible(false)
     end
 end
 
 local function UnFreeze(inst)
     if inst.components.freezable then
-        inst.components.health.invincible = true
+        inst.components.health:SetInvincible(true)
     end
 end
 
 local function OnChangeArea(inst, data)
     if data and data.tags and table.contains(data.tags, "Gas_Jungle") then
         inst:DoTaskInTime(1, function()
+            inst.components.health:SetInvincible(false)
             local x, y, z = inst.Transform:GetWorldPosition()
             local player = inst.components.infester.target
             if player ~= nil and player:HasTag("player") then
@@ -95,7 +96,6 @@ local function OnChangeArea(inst, data)
                     player.components.talker:Say(GetString(player, "ANNOUNCE_GNATS_DIED"))
                 end)
             end
-            inst.components.health.invincible = false
             inst.components.health:Kill()
         end)
     end
@@ -128,7 +128,7 @@ local function fn()
     inst:AddTag("insect")
     inst:AddTag("animal")
     inst:AddTag("smallcreature")
-    inst:AddTag("avoidonhit")
+    -- inst:AddTag("avoidonhit")
     inst:AddTag("no_durability_loss_on_hit")
     inst:AddTag("hostile")
 
@@ -152,7 +152,7 @@ local function fn()
 
     inst:AddComponent("health")
     inst.components.health:SetMaxHealth(1)
-    inst.components.health.invincible = true
+    inst.components.health:SetInvincible(true)
 
     inst:AddComponent("infester")
     inst.components.infester.bitefn = Bite

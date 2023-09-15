@@ -80,6 +80,30 @@ applyoverrides_pre.weevole_setting = function(difficulty)
     OverrideTuningVariables(tuning_vars[difficulty])
 end
 
+applyoverrides_pre.gnat_setting = function(difficulty)
+    local tuning_vars = {
+        never = {
+            GNAT_ENABLED = false,
+        },
+        rare = {
+            GNATMOUND_REGEN_TIME = TUNING.GNATMOUND_REGEN_TIME * 2
+        },
+        --[[
+        default = {
+            GNAT_ENABLED = true,
+            GNATMOUND_MAX_CHILDREN = TUNING.SEG_TIME * 3,
+        },
+        --]]
+        often = {
+            GNATMOUND_MAX_CHILDREN = TUNING.GNATMOUND_MAX_CHILDREN + 1
+        },
+        always = {
+            GNATMOUND_MAX_CHILDREN = TUNING.GNATMOUND_MAX_CHILDREN + 3
+        },
+    }
+    OverrideTuningVariables(tuning_vars[difficulty])
+end
+
 applyoverrides_pre.glowfly_setting = function(difficulty)
     local tuning_vars =
     {
