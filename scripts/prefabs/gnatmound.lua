@@ -102,7 +102,7 @@ local function fn()
     inst.components.childspawner:StartSpawning()
     WorldSettings_ChildSpawner_SpawnPeriod(inst, TUNING.GNATMOUND_RELEASE_TIME, TUNING.GNAT_ENABLED)
     WorldSettings_ChildSpawner_RegenPeriod(inst, TUNING.GNATMOUND_REGEN_TIME, TUNING.GNAT_ENABLED)
-    if not TUNING.PEAGAWK_ENABLED then
+    if not TUNING.GNAT_ENABLED then
         inst.components.childspawner.childreninside = 0
     end
 
