@@ -69,6 +69,7 @@ local custonsiz_items = {  -- add in dst custonsiz
         },
         monsters = {
             "grass_tall_patch",
+            gnatmound = {image = "gnat_mounds.tex"}
         },
         animals = {
             peagawk_spawner = {image = "peagawk.tex"},
@@ -77,7 +78,6 @@ local custonsiz_items = {  -- add in dst custonsiz
         resources = {
             "asparagus",
             "grass_tall",
-            gnatmound = {image = "gnat_mounds.tex"}
         },
         misc = {
             jungle_border_vine = {desc = frequency_descriptions},
