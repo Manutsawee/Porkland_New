@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "The haze has lifted.",
     },
+    ANNOUNCE_GNATS_DIED = "This is what happens, bug.",
     ANNOUNCE_HAYFEVER = "Mine nostrils chafe with itchiness!",
     ANNOUNCE_HAYFEVER_OFF = "The smoke has cleared!",
     ANNOUNCE_SNEEZE = "aaAAAH...cho!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "A slumber consumes it.",
         },
         GLOWFLY_COCOON = "It has armored itself for sleep.",
+        GNAT = "Infest not me, bugs!",
+        GNATMOUND = "The Valhalla of bugs.",
         GRASS_TALL = {
             BURNING = "It burns!",
             GENERIC = "Surely it is the grass of Jotunheim!",

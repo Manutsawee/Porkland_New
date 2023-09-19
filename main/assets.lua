@@ -11,6 +11,8 @@ PrefabFiles = {
     "flower_rainforest",
     "glowfly",
     "grass_tall",
+    "gnatmound",
+    "gnat",
     "halberd",
     "iron",
     "pl_wave_shore",

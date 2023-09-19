@@ -15,6 +15,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DEHUMID.1"
 msgid "Ah, so much better."
 msgstr "아, 훨씬 낫네."
 
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GNATS_DIED"
+msgid "Take that, bugs!"
+msgstr "벌레 녀석, 맛 좀 봐라!"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_HAYFEVER"
 msgid "My nose feels.. itchy."
@@ -104,6 +109,16 @@ msgstr "불이 꺼졌군."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GLOWFLY_COCOON"
 msgid "Snug as a bug."
 msgstr "아늑해 보인다."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNAT"
+msgid "Better gnat go near those guys."
+msgstr "근처에 가지 않는 게 좋겠어."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNATMOUND"
+msgid "Science says it's gnat good."
+msgstr "과학에 따르면 좋지 않아."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING"
@@ -235,6 +250,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_DEHUMID.1"
 msgid "Ahhh. The season has turned."
 msgstr "아. 계절이 바뀌었다."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_GNATS_DIED"
+msgid "ha! I found their weak spot!"
+msgstr "하아! 그들의 약점을 찾았습니다!"
+
 #. STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_HAYFEVER"
 msgid "Evidence would suggest it's allergy season."
@@ -324,6 +344,16 @@ msgstr "생체 발광도 함께 멈췄다."
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GLOWFLY_COCOON"
 msgid "It appears to be undergoing some kind of transubstantiation."
 msgstr "일종의 성변화가 진행 중인 모양이다. "
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNAT"
+msgid "Their capacity for aggravating behavior is truly astounding!"
+msgstr "성가시게 하는 능력 하나는 정말 굉장하군!"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNATMOUND"
+msgid "The nest of those exceptionally annoying bugs."
+msgstr "엄청나게 짜증 나는 벌레들의 둥지다."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING"
@@ -445,6 +475,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_DEHUMID.1"
 msgid "Ah... A nice cool breeze."
 msgstr "아... 시원하고 쾌적한 바람이다."
 
+#. STRINGS.CHARACTERS.WALANI.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_GNATS_DIED"
+msgid "It's quiet, finally."
+msgstr "드디어 조용해졌습니다."
+
 #. STRINGS.CHARACTERS.WALANI.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_HAYFEVER"
 msgid "Allergy season."
@@ -534,6 +569,16 @@ msgstr "소등!"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GLOWFLY_COCOON"
 msgid "I need a sleeping bag like that."
 msgstr "나한테도 저런 침낭이 필요해."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GNAT"
+msgid "Ick! Stay away!"
+msgstr "으악! 저리 가!"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GNATMOUND"
+msgid "Like an apartment building for bugs."
+msgstr "벌레용 아파트 같아."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING"
@@ -665,6 +710,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_DEHUMID.1"
 msgid "Still more comfortable this way."
 msgstr "이 방법이 더 편합니다."
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_GNATS_DIED"
+msgid "ha! How about this?"
+msgstr "하아! 이건 어때?"
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER"
 msgid "There's something in the air...my nose is itching."
@@ -754,6 +804,16 @@ msgstr "그것은 자고있다."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GLOWFLY_COCOON"
 msgid "A cocoon, what could be inside?"
 msgstr "누에 고치, 안에 무엇이있을 수 있습니까?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GNAT"
+msgid "cool! But... maybe we should back off a little?"
+msgstr "시원한! 하지만... 조금 물러서야 하지 않을까요?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GNATMOUND"
+msgid "What might live inside?"
+msgstr "안에는 무엇이 살 수 있을까요?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING"
@@ -880,6 +940,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_DEHUMID.1"
 msgid "Ha, feeling better."
 msgstr "하, 기분이 좋아졌다."
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_GNATS_DIED"
+msgid "Why do we need to get to this point?"
+msgstr "왜 우리가 이 지점에 도달해야 합니까?"
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER"
 msgid "Don't these plants do anything else but pollinate all over the place?"
@@ -969,6 +1034,16 @@ msgstr "이제 잘 자."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GLOWFLY_COCOON"
 msgid "We'd better get out of here before it breaks out of its cocoon."
 msgstr "고치에서 깨어나기 전에 여기서 나가는 게 좋겠어."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNAT"
+msgid "It reaches new heights in annoyingness."
+msgstr "그것은 성가심의 새로운 정점에 도달합니다."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNATMOUND"
+msgid "Dirty and messy."
+msgstr "더럽고 지저분합니다."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING"
@@ -1095,6 +1170,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_DEHUMID.1"
 msgid "Ah, I feel better now."
 msgstr "아, 이제 좀 살겠네."
 
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_GNATS_DIED"
+msgid "Thank God."
+msgstr "하느님 감사합니다."
+
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HAYFEVER"
 msgid "Ugh! My allergies!"
@@ -1184,6 +1264,16 @@ msgstr "빛으로 가득한 꿈을 꾸기를."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GLOWFLY_COCOON"
 msgid "It's wrapped itself like a cabbage roll."
 msgstr "양배추말이처럼 몸을 돌돌 말았어."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNAT"
+msgid "The bugs are really bad around here."
+msgstr "여긴 벌레가 엄청 많네."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNATMOUND"
+msgid "I'd rather have a mound of chocolate."
+msgstr "차라리 초콜릿 무더기가 낫겠어."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING"
@@ -1315,6 +1405,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DEHUMID.1"
 msgid "The haze has lifted."
 msgstr "안개가 걷혔다."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_GNATS_DIED"
+msgid "This is what happens, bug."
+msgstr "이런 일이 일어나다니, 벌레야."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HAYFEVER"
 msgid "Mine nostrils chafe with itchiness!"
@@ -1404,6 +1499,16 @@ msgstr "잠에 취했군."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOWFLY_COCOON"
 msgid "It has armored itself for sleep."
 msgstr "자려고 단단히 무장했군."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNAT"
+msgid "Infest not me, bugs!"
+msgstr "이쪽한테 오지 마라!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND"
+msgid "The Valhalla of bugs."
+msgstr "벌레들의 발할라군."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING"
@@ -1535,6 +1640,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DEHUMID.1"
 msgid "Ah! That feels better."
 msgstr "아! 훨씬 낫군."
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_GNATS_DIED"
+msgid "Don't bother a gentleman."
+msgstr "신사를 괴롭히지 마십시오."
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HAYFEVER"
 msgid "Ugh. Allergies."
@@ -1624,6 +1734,16 @@ msgstr "빛이 너무 무기력하군."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY_COCOON"
 msgid "Ah, metamorphosis..."
 msgstr "아, 변태 중이야..."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNAT"
+msgid "Horde horrible."
+msgstr "끔찍한 벌레 떼야."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND"
+msgid "Ugh. The horde home."
+msgstr "윽. 벌레 떼의 집이군."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING"
@@ -1755,6 +1875,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DEHUMID.1"
 msgid "Whew! Not so hot anymore."
 msgstr "휴! 이제 그다지 덥지 않다."
 
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GNATS_DIED"
+msgid "We are safe!"
+msgstr "우리는 안전해요!"
+
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HAYFEVER"
 msgid "Sniff. Sniff. We must have allergies."
@@ -1844,6 +1969,16 @@ msgstr "불이 꺼졌다."
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOWFLY_COCOON"
 msgid "That looks cozy."
 msgstr "포근해 보인다."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNAT"
+msgid "Don't bite us, little guys."
+msgstr "작은 친구들아, 우리를 물지 마."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNATMOUND"
+msgid "It's where all those little bugs live."
+msgstr "작은 벌레들이 사는 곳이다."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING"
@@ -1975,6 +2110,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_DEHUMID.1"
 msgid "The heat has lifted but my heart has not."
 msgstr "더위는 깨어났지만 내 마음은 깨어나지 않았어."
 
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GNATS_DIED"
+msgid "It's not my turn yet."
+msgstr "아직 내 차례가 아니다."
+
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_HAYFEVER"
 msgid "Ugh. Even my sinuses are suffering."
@@ -2064,6 +2204,16 @@ msgstr "틀림없이 어둠에 잠긴 꿈을 꾸겠지."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GLOWFLY_COCOON"
 msgid "If I could climb into a cocoon I would never emerge."
 msgstr "고치에 들어갈 수만 있다면 절대 나오지 않을 텐데."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GNAT"
+msgid "Like life, they wear you down little by little."
+msgstr "마치 삶처럼 너를 조금씩 파먹어."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GNATMOUND"
+msgid "They're building their own doom."
+msgstr "파멸의 장소를 짓는 중이야."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING"
@@ -2195,6 +2345,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_DEHUMID.1"
 msgid "Whew. I forgot what it felt like to breathe."
 msgstr "휴, 숨을 쉬는 느낌이 어떤지 잊어버렸어."
 
+#. STRINGS.CHARACTERS.WHEELER.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_GNATS_DIED"
+msgid "The enemy plane crashed, awesome!"
+msgstr "적 비행기가 추락했어요, 굉장해요!"
+
 #. STRINGS.CHARACTERS.WHEELER.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_HAYFEVER"
 msgid "Allergiesch. What allergiesch?"
@@ -2284,6 +2439,16 @@ msgstr "일어나서 빛을 내줘!"
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GLOWFLY_COCOON"
 msgid "Aww... It's wrapped up all nice and cozy."
 msgstr "저런... 포근하게 싸매고 있네."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNAT"
+msgid "Normally I like being around flyers, but I'll make an exception."
+msgstr "평소에는 비행하는 친구들 곁에 있기를 좋아하는데, 이번은 예외로 치겠어."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNATMOUND"
+msgid "Not bad, for a mound full of bugs."
+msgstr "벌레 무더기치곤 나쁘지 않군."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING"
@@ -2415,6 +2580,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DEHUMID.1"
 msgid "Ah... that breeze is nice."
 msgstr "아아... 바람이 기분 좋네."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GNATS_DIED"
+msgid "I finally got rid of these flies."
+msgstr "드디어 이 파리들을 없앴습니다."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HAYFEVER"
 msgid "Sniff sniff. Must be hayfever season."
@@ -2504,6 +2674,16 @@ msgstr "흥미롭군. 발광하려면 깨어 있어야 한다니."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GLOWFLY_COCOON"
 msgid "Fascinating! It has moved on to the chrysalis stage."
 msgstr "흥미로운데! 번데기 단계로 넘어갔어."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNAT"
+msgid "A swarm of Culicidae Drosophila."
+msgstr "초파리속 모깃과의 무리야."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNATMOUND"
+msgid "Obviously the work of a eusocial insect."
+msgstr "사회성 곤충의 작품이군."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING"
@@ -2640,6 +2820,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_DEHUMID.2"
 msgid "AHH. WILBA 'TIS BETTER"
 msgstr "아아, 윌바가 조아졌도다"
 
+#. STRINGS.CHARACTERS.WILBA.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_GNATS_DIED"
+msgid "knock down trouble"
+msgstr "문제를 쓰러뜨리다"
+
 #. STRINGS.CHARACTERS.WILBA.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_HAYFEVER"
 msgid "SN--ORT. WILBA IS'T STUFFY"
@@ -2729,6 +2914,16 @@ msgstr "코 자는구나!"
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GLOWFLY_COCOON"
 msgid "WRAPP'DED IN A BUGGY BLANKET"
 msgstr "벌레 이불을 덮었도다"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GNAT"
+msgid "MUCH ADO ABOUT GNAT-ING"
+msgstr "각다귀 때문에 난리로구나"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GNATMOUND"
+msgid "ALL THAT BUZZES IS GNAT HOME"
+msgstr "각다귀 집이 웅웅거리는구나"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING"
@@ -2860,6 +3055,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DEHUMID.1"
 msgid "Ahh...it's cooled down."
 msgstr "아아... 시원해졌어."
 
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_GNATS_DIED"
+msgid "I can deal with you without fire."
+msgstr "난 불 없이 당신을 상대할 수 있어요."
+
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HAYFEVER"
 msgid "My sinuses are burning."
@@ -2949,6 +3149,16 @@ msgstr "(저기 있잖아... 너 징그러워.)"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GLOWFLY_COCOON"
 msgid "Doing a bad job of hiding from me."
 msgstr "그다지 잘 숨지 못하는걸."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNAT"
+msgid "Agh! They're too small to burn!"
+msgstr "아악! 태우기에는 너무 작아!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNATMOUND"
+msgid "I can't even burn it down."
+msgstr "불로 태울 수도 없어."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING"
@@ -3080,6 +3290,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_DEHUMID.1"
 msgid "This is much more comfortable."
 msgstr "이것은 훨씬 더 편안합니다."
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_GNATS_DIED"
+msgid "I said stay away."
+msgstr "나는 떨어져 있다고 말했다."
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER"
 msgid "My nose is itchy..."
@@ -3169,6 +3384,16 @@ msgstr "정비가 필요한 시점입니다."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GLOWFLY_COCOON"
 msgid "Change is happening."
 msgstr "변화가 일어나고 있습니다."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GNAT"
+msgid "leave me alone!"
+msgstr "나를 내버려둬!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GNATMOUND"
+msgid "Those bugs are hiding in here."
+msgstr "그 벌레들이 여기 숨어 있어요."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING"
@@ -3295,6 +3520,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DEHUMID.1"
 msgid "Ha! Wolfgang beat the heat!"
 msgstr "하! 볼프강 더위 이겨냈다!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GNATS_DIED"
+msgid "Wolfgang's muscles felt much better."
+msgstr "볼프강의 근육이 훨씬 좋아졌습니다."
+
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HAYFEVER"
 msgid "Allergies strong like Wolfgang!"
@@ -3384,6 +3614,16 @@ msgstr "빛나는 벌레 어두워졌다."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GLOWFLY_COCOON"
 msgid "Bug look cozy."
 msgstr "벌레 포근해 보인다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNAT"
+msgid "Is too small for smashing!"
+msgstr "부수기에는 너무 작다!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNATMOUND"
+msgid "Wolfgang smash bug home!"
+msgstr "볼프강이 벌레집 부순다!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING"
@@ -3515,6 +3755,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DEHUMID.1"
 msgid "That feels better."
 msgstr "훨씬 낫네."
 
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_GNATS_DIED"
+msgid "I have many tricks up my sleeve."
+msgstr "내 소매에는 많은 트릭이 있습니다."
+
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HAYFEVER"
 msgid "You have allergies like me, Lucy?"
@@ -3604,6 +3849,16 @@ msgstr "낮잠을 잘 만해."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GLOWFLY_COCOON"
 msgid "That looks comfy, eh?"
 msgstr "편해 보이네, 그치?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNAT"
+msgid "Lotta those guys in the lumber camps."
+msgstr "벌목장에 저런 녀석들이 많은데."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNATMOUND"
+msgid "Industrious little guys, eh Lucy?"
+msgstr "부지런한 녀석들이지, 루시?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING"
@@ -3735,6 +3990,11 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_DEHUMID.1"
 msgid "Ah! Th'air be cool again."
 msgstr "아! 공기가 다시 시원해졌다."
 
+#. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_GNATS_DIED"
+msgid "Die! Flying bait!"
+msgstr "주사위! 날아다니는 미끼!"
+
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HAYFEVER"
 msgid "Me nose be itchier than a sliver in me pegleg."
@@ -3824,6 +4084,16 @@ msgstr "잠잠해졌다."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GLOWFLY_COCOON"
 msgid "'e be sleepin' it off."
 msgstr "숙취로 자고 있다."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNAT"
+msgid "Flyin' minnows."
+msgstr "날아다니는 피라미다."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNATMOUND"
+msgid "Barnacle's o'tha land."
+msgstr "육지의 따개비다."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING"
@@ -3955,6 +4225,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DEHUMID.1"
 msgid "Cooler now"
 msgstr "시원해졌어"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GNATS_DIED"
+msgid "The sizzling guys are gone"
+msgstr "시시콜콜한 놈들은 없어졌어"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HAYFEVER"
 msgid "Happy time is coming!"
@@ -4044,6 +4319,16 @@ msgstr "빛이 없어"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GLOWFLY_COCOON"
 msgid "Changing"
 msgstr "변신 중이야"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNAT"
+msgid "Stay away, Bzzters!"
+msgstr "저리 가, 앵앵이들아!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNATMOUND"
+msgid "Hello?"
+msgstr "저기요?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING"
@@ -4175,6 +4460,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DEHUMID.1"
 msgid "Freedom, this is me!"
 msgstr "자유, 이것이 나다!"
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GNATS_DIED"
+msgid "Phew, that's really scary."
+msgstr "휴, 정말 무섭네요."
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER"
 msgid "Oops, so much pollen, it's going to be uncomfortable."
@@ -4259,6 +4549,16 @@ msgstr "좋은 꿈꿔."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GLOWFLY_COCOON"
 msgid "What will become of it?"
 msgstr "어떻게 될까요?"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNAT"
+msgid "Don't let them get under my fur!"
+msgstr "내 털 밑에 들어가지 못하게 하세요!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNATMOUND"
+msgid "This is my first time seeing this."
+msgstr "나는 이것을 처음 본다."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING"
@@ -4385,6 +4685,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_DEHUMID.1"
 msgid "Huh, cool off."
 msgstr "허, 진정해."
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_GNATS_DIED"
+msgid "Worms don't mess with fish people."
+msgstr "벌레는 물고기 사람을 건드리지 않습니다."
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER"
 msgid "Gullah. The gills are so uncomfortable..."
@@ -4474,6 +4779,16 @@ msgstr "자고 있는."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GLOWFLY_COCOON"
 msgid "The little bug wrapped itself up."
 msgstr "작은 벌레가 몸을 감쌌습니다."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GNAT"
+msgid "Too much!"
+msgstr "너무 많은!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GNATMOUND"
+msgid "Bug Hideout."
+msgstr "버그 은신처."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING"
@@ -4600,6 +4915,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_DEHUMID.1"
 msgid "HUMIDEX HAS LOWERED TO ACCEPTABLE LEVELS"
 msgstr "불쾌 지수가 허용 가능한 수준으로 낮아짐"
 
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_GNATS_DIED"
+msgid "Interfering flesh bags cleared"
+msgstr "방해하는 살점 부대가 제거됨"
+
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_HAYFEVER"
 msgid "ERROR. ENVIRONMENTAL DETRITUS CLOGGING NASAL UNIT"
@@ -4689,6 +5009,16 @@ msgstr "광자 재생 중"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GLOWFLY_COCOON"
 msgid "UNDERGOING UPGRADE"
 msgstr "업그레이드 중"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GNAT"
+msgid "TINY FLYING MEATSACKS"
+msgstr "초소형 비행 고기자루"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GNATMOUND"
+msgid "HOME OF TINY FLYING MEATSACK"
+msgstr "초소형 비행 고기자루의 집"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING"
@@ -4870,6 +5200,16 @@ msgctxt "STRINGS.NAMES.GLOWFLY_COCOON"
 msgid "Glowfly Cocoon"
 msgstr "반딧불이 고치"
 
+#. STRINGS.NAMES.GNAT
+msgctxt "STRINGS.NAMES.GNAT"
+msgid "Gnat Swarm"
+msgstr "각다귀 떼"
+
+#. STRINGS.NAMES.GNATMOUND
+msgctxt "STRINGS.NAMES.GNATMOUND"
+msgid "Gnat Mound"
+msgstr "각다귀 둥지"
+
 #. STRINGS.NAMES.GRASS_TALL
 msgctxt "STRINGS.NAMES.GRASS_TALL"
 msgid "Tall Grass"
@@ -4995,6 +5335,16 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GLOWFLY_SETTING"
 msgid "Glowfly"
 msgstr "반딧불이"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GNATMOUND
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GNATMOUND"
+msgid "Gnat Mound"
+msgstr "모기 마운드"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GNAT_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GNAT_SETTING"
+msgid "Gnat Swarm"
+msgstr "모기 떼"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.GRASS_TALL
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GRASS_TALL"
 msgid "Tall Grass"
@@ -5039,6 +5389,11 @@ msgstr "얼빠진 공작새"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PL_CLOCKTYPE"
 msgid "Clock Type"
 msgstr "클록 유형"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.POG
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.POG"
+msgid "Pog"
+msgstr "포그"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PORKLAND_SEASON_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PORKLAND_SEASON_START"

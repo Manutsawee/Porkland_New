@@ -15,6 +15,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DEHUMID.1"
 msgid "Ah, so much better."
 msgstr "Ah, c'est bien mieux."
 
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_GNATS_DIED"
+msgid "Take that, bugs!"
+msgstr "Prenez ça, sales insectes !"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_HAYFEVER"
 msgid "My nose feels.. itchy."
@@ -104,6 +109,16 @@ msgstr "Ça s'éteint facilement."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GLOWFLY_COCOON"
 msgid "Snug as a bug."
 msgstr "Une vie d'insecte."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNAT"
+msgid "Better gnat go near those guys."
+msgstr "Mieux vaut éviter de s'en approcher."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNATMOUND"
+msgid "Science says it's gnat good."
+msgstr "D'après la science, ça ne vole pas très haut."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING"
@@ -235,6 +250,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_DEHUMID.1"
 msgid "Ahhh. The season has turned."
 msgstr "Ahhh. Nous avons changé de saison."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_GNATS_DIED"
+msgid "ha! I found their weak spot!"
+msgstr "Ha! J'ai trouvé leur point faible !"
+
 #. STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_HAYFEVER"
 msgid "Evidence would suggest it's allergy season."
@@ -324,6 +344,16 @@ msgstr "De toute évidence, sa bioluminescence est également en veille."
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GLOWFLY_COCOON"
 msgid "It appears to be undergoing some kind of transubstantiation."
 msgstr "La créature semble connaître une phase de transsubstantiation. "
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNAT"
+msgid "Their capacity for aggravating behavior is truly astounding!"
+msgstr "Leur capacité à courir sur le système nerveux est tout bonnement ahurissante !"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNATMOUND"
+msgid "The nest of those exceptionally annoying bugs."
+msgstr "Le nid de ces insectes extraordinairement agaçants."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING"
@@ -445,6 +475,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_DEHUMID.1"
 msgid "Ah... A nice cool breeze."
 msgstr "Ah... Un bon vent frais."
 
+#. STRINGS.CHARACTERS.WALANI.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_GNATS_DIED"
+msgid "It's quiet, finally."
+msgstr "C'est calme, enfin."
+
 #. STRINGS.CHARACTERS.WALANI.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_HAYFEVER"
 msgid "Allergy season."
@@ -534,6 +569,16 @@ msgstr "On éteint les lumières !"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GLOWFLY_COCOON"
 msgid "I need a sleeping bag like that."
 msgstr "Il me faut un sac de couchage comme ça."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GNAT"
+msgid "Ick! Stay away!"
+msgstr "Pouah ! N'approchez pas !"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GNATMOUND"
+msgid "Like an apartment building for bugs."
+msgstr "On dirait des petits appartements pour insectes."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING"
@@ -665,6 +710,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_DEHUMID.1"
 msgid "Still more comfortable this way."
 msgstr "Encore plus confortable ainsi."
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_GNATS_DIED"
+msgid "ha! How about this?"
+msgstr "Ha! Que dis-tu de ça?"
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER"
 msgid "There's something in the air...my nose is itching."
@@ -754,6 +804,16 @@ msgstr "il dort."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GLOWFLY_COCOON"
 msgid "A cocoon, what could be inside?"
 msgstr "Un cocon, que pourrait-il y avoir dedans ?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GNAT"
+msgid "cool! But... maybe we should back off a little?"
+msgstr "cool! Mais... peut-être devrions-nous reculer un peu ?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GNATMOUND"
+msgid "What might live inside?"
+msgstr "Qu’est-ce qui pourrait vivre à l’intérieur ?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING"
@@ -880,6 +940,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_DEHUMID.1"
 msgid "Ha, feeling better."
 msgstr "Ha, ça va mieux."
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_GNATS_DIED"
+msgid "Why do we need to get to this point?"
+msgstr "Pourquoi devons-nous en arriver là ?"
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER"
 msgid "Don't these plants do anything else but pollinate all over the place?"
@@ -969,6 +1034,16 @@ msgstr "Dormez bien maintenant."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GLOWFLY_COCOON"
 msgid "We'd better get out of here before it breaks out of its cocoon."
 msgstr "On ferait mieux de sortir d'ici avant qu'il ne sorte de son cocon."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNAT"
+msgid "It reaches new heights in annoyingness."
+msgstr "Il atteint de nouveaux sommets en matière d’agacement."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNATMOUND"
+msgid "Dirty and messy."
+msgstr "Sale et salissant."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING"
@@ -1095,6 +1170,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_DEHUMID.1"
 msgid "Ah, I feel better now."
 msgstr "Ah, je me sens mieux."
 
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_GNATS_DIED"
+msgid "Thank God."
+msgstr "Dieu merci."
+
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HAYFEVER"
 msgid "Ugh! My allergies!"
@@ -1184,6 +1264,16 @@ msgstr "Que tes rêves soient lumineux."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GLOWFLY_COCOON"
 msgid "It's wrapped itself like a cabbage roll."
 msgstr "On dirait une espèce de chou farci."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNAT"
+msgid "The bugs are really bad around here."
+msgstr "Les insectes sont vraiment méchants dans le coin."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNATMOUND"
+msgid "I'd rather have a mound of chocolate."
+msgstr "Je préférerais une montagne de chocolat."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING"
@@ -1315,6 +1405,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DEHUMID.1"
 msgid "The haze has lifted."
 msgstr "Le bröuillard s'est levé !"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_GNATS_DIED"
+msgid "This is what happens, bug."
+msgstr "C'est ce qui se passe, bug."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HAYFEVER"
 msgid "Mine nostrils chafe with itchiness!"
@@ -1404,6 +1499,16 @@ msgstr "Un löurd sömmeil la plömbe."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOWFLY_COCOON"
 msgid "It has armored itself for sleep."
 msgstr "Une armure en cöcön qui prötège son repös."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNAT"
+msgid "Infest not me, bugs!"
+msgstr "Peste que ces insectes !"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND"
+msgid "The Valhalla of bugs."
+msgstr "Valhalla pöur les insectes."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING"
@@ -1535,6 +1640,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DEHUMID.1"
 msgid "Ah! That feels better."
 msgstr "Ah ! Voilà qui est mieux."
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_GNATS_DIED"
+msgid "Don't bother a gentleman."
+msgstr "Ne dérangez pas un gentleman."
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HAYFEVER"
 msgid "Ugh. Allergies."
@@ -1624,6 +1734,16 @@ msgstr "Une lumière trop léthargique."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY_COCOON"
 msgid "Ah, metamorphosis..."
 msgstr "Ah, la métamorphose..."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNAT"
+msgid "Horde horrible."
+msgstr "Une volée horrible."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND"
+msgid "Ugh. The horde home."
+msgstr "Pouah. Là où vit la volée."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING"
@@ -1755,6 +1875,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DEHUMID.1"
 msgid "Whew! Not so hot anymore."
 msgstr "Ouf ! Il fait plus aussi chaud."
 
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GNATS_DIED"
+msgid "We are safe!"
+msgstr "Nous sommes en sécurité !"
+
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HAYFEVER"
 msgid "Sniff. Sniff. We must have allergies."
@@ -1844,6 +1969,16 @@ msgstr "Adieu."
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOWFLY_COCOON"
 msgid "That looks cozy."
 msgstr "Ça a l'air confortable."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNAT"
+msgid "Don't bite us, little guys."
+msgstr "Ne nous piquez pas, les gars."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNATMOUND"
+msgid "It's where all those little bugs live."
+msgstr "Tous ces petits insectes vivent là-dedans."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING"
@@ -1975,6 +2110,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_DEHUMID.1"
 msgid "The heat has lifted but my heart has not."
 msgstr "Il fait plus chaud, mais pas dans mon cœur."
 
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_GNATS_DIED"
+msgid "It's not my turn yet."
+msgstr "Ce n'est pas encore mon tour."
+
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_HAYFEVER"
 msgid "Ugh. Even my sinuses are suffering."
@@ -2064,6 +2204,16 @@ msgstr "Sans doute en proie à des rêves sombres..."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GLOWFLY_COCOON"
 msgid "If I could climb into a cocoon I would never emerge."
 msgstr "Si je pouvais me glisser dans un cocon, je n'en ressortirais plus."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GNAT"
+msgid "Like life, they wear you down little by little."
+msgstr "Comme la vie, ils font un lent travail de sape."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GNATMOUND"
+msgid "They're building their own doom."
+msgstr "Ils sont les architectes de leur propre perte."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING"
@@ -2195,6 +2345,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_DEHUMID.1"
 msgid "Whew. I forgot what it felt like to breathe."
 msgstr "Ouf. J'avais oublié ce que c'était de respirer un bon coup."
 
+#. STRINGS.CHARACTERS.WHEELER.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_GNATS_DIED"
+msgid "The enemy plane crashed, awesome!"
+msgstr "L'avion ennemi s'est écrasé, génial !"
+
 #. STRINGS.CHARACTERS.WHEELER.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_HAYFEVER"
 msgid "Allergiesch. What allergiesch?"
@@ -2284,6 +2439,16 @@ msgstr "Réveille-toi et brille !"
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GLOWFLY_COCOON"
 msgid "Aww... It's wrapped up all nice and cozy."
 msgstr "Ohh... Trop chou, bien au chaud dans son cocon."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNAT"
+msgid "Normally I like being around flyers, but I'll make an exception."
+msgstr "En général, j'aime tout ce qui a des ailes, mais je vais faire une exception."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNATMOUND"
+msgid "Not bad, for a mound full of bugs."
+msgstr "Pas mal, pour un monticule d'insectes."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING"
@@ -2415,6 +2580,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DEHUMID.1"
 msgid "Ah... that breeze is nice."
 msgstr "Ah... cette brise est agréable."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GNATS_DIED"
+msgid "I finally got rid of these flies."
+msgstr "Je me suis enfin débarrassé de ces mouches."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HAYFEVER"
 msgid "Sniff sniff. Must be hayfever season."
@@ -2504,6 +2674,16 @@ msgstr "Étrange. Cet insecte ne semble pas être bioluminescent durant son somm
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GLOWFLY_COCOON"
 msgid "Fascinating! It has moved on to the chrysalis stage."
 msgstr "Fascinant ! Cet être est passé au stade de chrysalide."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNAT"
+msgid "A swarm of Culicidae Drosophila."
+msgstr "Un essaim de culicidés drosophiles."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNATMOUND"
+msgid "Obviously the work of a eusocial insect."
+msgstr "L'œuvre d'un insecte eusocial, à l'évidence."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING"
@@ -2640,6 +2820,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_DEHUMID.2"
 msgid "AHH. WILBA 'TIS BETTER"
 msgstr "AHH, WILBA VA MIEUX"
 
+#. STRINGS.CHARACTERS.WILBA.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_GNATS_DIED"
+msgid "knock down trouble"
+msgstr "éliminer les ennuis"
+
 #. STRINGS.CHARACTERS.WILBA.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_HAYFEVER"
 msgid "SN--ORT. WILBA IS'T STUFFY"
@@ -2729,6 +2914,16 @@ msgstr "Ô DOUX SOMMEIL !"
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GLOWFLY_COCOON"
 msgid "WRAPP'DED IN A BUGGY BLANKET"
 msgstr "LA PETITE BÊTE EST ENVELOPPÉE SOUS SA COUVERTURE D'INSECTE"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GNAT"
+msgid "MUCH ADO ABOUT GNAT-ING"
+msgstr "BEAUCOUP DE BRUIT POUR DES MOUCHERONS"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GNATMOUND"
+msgid "ALL THAT BUZZES IS GNAT HOME"
+msgstr "TOUT CE QUI BOURDONNE EST LA MAISON DES MOUCHERONS"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING"
@@ -2860,6 +3055,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DEHUMID.1"
 msgid "Ahh...it's cooled down."
 msgstr "Ahh... Ça s'est rafraîchi."
 
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_GNATS_DIED"
+msgid "I can deal with you without fire."
+msgstr "Je peux m'occuper de toi sans feu."
+
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HAYFEVER"
 msgid "My sinuses are burning."
@@ -2949,6 +3149,16 @@ msgstr "(Psst... Tu es dégueu.)"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GLOWFLY_COCOON"
 msgid "Doing a bad job of hiding from me."
 msgstr "C'est une bien mauvaise cachette."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNAT"
+msgid "Agh! They're too small to burn!"
+msgstr "Grrr ! Ils sont trop petits pour être brûlés !"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNATMOUND"
+msgid "I can't even burn it down."
+msgstr "Je ne peux même pas réduire ce truc en cendres."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING"
@@ -3080,6 +3290,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_DEHUMID.1"
 msgid "This is much more comfortable."
 msgstr "C'est beaucoup plus confortable."
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_GNATS_DIED"
+msgid "I said stay away."
+msgstr "J'ai dit de rester à l'écart."
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER"
 msgid "My nose is itchy..."
@@ -3169,6 +3384,16 @@ msgstr "C'est l'heure de l'entretien."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GLOWFLY_COCOON"
 msgid "Change is happening."
 msgstr "Le changement est en train de se produire."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GNAT"
+msgid "leave me alone!"
+msgstr "laisse-moi tranquille!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GNATMOUND"
+msgid "Those bugs are hiding in here."
+msgstr "Ces bugs se cachent ici."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING"
@@ -3295,6 +3520,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DEHUMID.1"
 msgid "Ha! Wolfgang beat the heat!"
 msgstr "Ha ! Wolfgang est plus fort que la chaleur !"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GNATS_DIED"
+msgid "Wolfgang's muscles felt much better."
+msgstr "Les muscles de Wolfgang se sentaient beaucoup mieux."
+
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HAYFEVER"
 msgid "Allergies strong like Wolfgang!"
@@ -3384,6 +3614,16 @@ msgstr "L'insecte qui fait de la lumière fait surtout dodo."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GLOWFLY_COCOON"
 msgid "Bug look cozy."
 msgstr "L'insecte a l'air bien au chaud."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNAT"
+msgid "Is too small for smashing!"
+msgstr "Ces bestioles sont trop petites pour que je les fracasse !"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNATMOUND"
+msgid "Wolfgang smash bug home!"
+msgstr "Wolfgang fracasse la maison des insectes !"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING"
@@ -3515,6 +3755,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DEHUMID.1"
 msgid "That feels better."
 msgstr "C'est mieux comme ça."
 
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_GNATS_DIED"
+msgid "I have many tricks up my sleeve."
+msgstr "J'ai beaucoup de tours dans mon sac."
+
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HAYFEVER"
 msgid "You have allergies like me, Lucy?"
@@ -3604,6 +3849,16 @@ msgstr "Un repos bien mérité."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GLOWFLY_COCOON"
 msgid "That looks comfy, eh?"
 msgstr "Ça a l'air douillet, hein ?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNAT"
+msgid "Lotta those guys in the lumber camps."
+msgstr "Y en a plein dans les camps de bûcherons."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNATMOUND"
+msgid "Industrious little guys, eh Lucy?"
+msgstr "Elles sont travailleuses ces petites bestioles, hein Lucy ?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING"
@@ -3735,6 +3990,11 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_DEHUMID.1"
 msgid "Ah! Th'air be cool again."
 msgstr "Ah ! Y fait meilleur."
 
+#. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_GNATS_DIED"
+msgid "Die! Flying bait!"
+msgstr "Mourir! Appât volant !"
+
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HAYFEVER"
 msgid "Me nose be itchier than a sliver in me pegleg."
@@ -3824,6 +4084,16 @@ msgstr "Cette bestiole est encalminée."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GLOWFLY_COCOON"
 msgid "'e be sleepin' it off."
 msgstr "La bestiole est en train de cuver."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNAT"
+msgid "Flyin' minnows."
+msgstr "Du fretin qui vole."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNATMOUND"
+msgid "Barnacle's o'tha land."
+msgstr "On dirait des balanes de terre ferme."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING"
@@ -3955,6 +4225,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DEHUMID.1"
 msgid "Cooler now"
 msgstr "J'ai moins chaud maintenant."
 
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GNATS_DIED"
+msgid "The sizzling guys are gone"
+msgstr "Les gars grésillants sont partis"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HAYFEVER"
 msgid "Happy time is coming!"
@@ -4044,6 +4319,16 @@ msgstr "La bzzz fait pas de lumière."
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GLOWFLY_COCOON"
 msgid "Changing"
 msgstr "La bzzz se prépare à évoluer."
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNAT"
+msgid "Stay away, Bzzters!"
+msgstr "Vous approchez pas, les bzzz !"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNATMOUND"
+msgid "Hello?"
+msgstr "Y a quelqu'un ?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING"
@@ -4175,6 +4460,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DEHUMID.1"
 msgid "Freedom, this is me!"
 msgstr "Liberté, c'est moi !"
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GNATS_DIED"
+msgid "Phew, that's really scary."
+msgstr "Ouf, ça fait vraiment peur."
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER"
 msgid "Oops, so much pollen, it's going to be uncomfortable."
@@ -4259,6 +4549,16 @@ msgstr "Fais de beaux rêves."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GLOWFLY_COCOON"
 msgid "What will become of it?"
 msgstr "Que deviendra-t-il ?"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNAT"
+msgid "Don't let them get under my fur!"
+msgstr "Ne les laissez pas s'introduire sous ma fourrure !"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNATMOUND"
+msgid "This is my first time seeing this."
+msgstr "C'est la première fois que je vois ça."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING"
@@ -4385,6 +4685,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_DEHUMID.1"
 msgid "Huh, cool off."
 msgstr "Heu, calme-toi."
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_GNATS_DIED"
+msgid "Worms don't mess with fish people."
+msgstr "Les vers ne plaisantent pas avec les poissons."
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER"
 msgid "Gullah. The gills are so uncomfortable..."
@@ -4474,6 +4779,16 @@ msgstr "dormant."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GLOWFLY_COCOON"
 msgid "The little bug wrapped itself up."
 msgstr "Le petit insecte s'est enveloppé."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GNAT"
+msgid "Too much!"
+msgstr "Trop!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GNATMOUND"
+msgid "Bug Hideout."
+msgstr "Cachette d'insectes."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING"
@@ -4600,6 +4915,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_DEHUMID.1"
 msgid "HUMIDEX HAS LOWERED TO ACCEPTABLE LEVELS"
 msgstr "INDICE D'HUMIDITÉ DÉSORMAIS ACCEPTABLE."
 
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_GNATS_DIED
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_GNATS_DIED"
+msgid "Interfering flesh bags cleared"
+msgstr "Sacs de chair gênants éliminés"
+
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_HAYFEVER"
 msgid "ERROR. ENVIRONMENTAL DETRITUS CLOGGING NASAL UNIT"
@@ -4689,6 +5009,16 @@ msgstr "RÉGÉNÉRATION PHOTONIQUE EN COURS."
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GLOWFLY_COCOON"
 msgid "UNDERGOING UPGRADE"
 msgstr "PASSAGE À LA VERSION SUPÉRIEURE EN COURS."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GNAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GNAT"
+msgid "TINY FLYING MEATSACKS"
+msgstr "DE PETITES CRÉATURES DE CHAIR VOLANTES."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GNATMOUND
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GNATMOUND"
+msgid "HOME OF TINY FLYING MEATSACK"
+msgstr "LA MAISON DES PETITES CRÉATURES DE CHAIR VOLANTES."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING"
@@ -4870,6 +5200,16 @@ msgctxt "STRINGS.NAMES.GLOWFLY_COCOON"
 msgid "Glowfly Cocoon"
 msgstr "Cocon de mouche luisante"
 
+#. STRINGS.NAMES.GNAT
+msgctxt "STRINGS.NAMES.GNAT"
+msgid "Gnat Swarm"
+msgstr "Nuée de moucherons"
+
+#. STRINGS.NAMES.GNATMOUND
+msgctxt "STRINGS.NAMES.GNATMOUND"
+msgid "Gnat Mound"
+msgstr "Nid de moucherons"
+
 #. STRINGS.NAMES.GRASS_TALL
 msgctxt "STRINGS.NAMES.GRASS_TALL"
 msgid "Tall Grass"
@@ -4995,6 +5335,16 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GLOWFLY_SETTING"
 msgid "Glowfly"
 msgstr "Mouche luisante"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GNATMOUND
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GNATMOUND"
+msgid "Gnat Mound"
+msgstr "Monticule de moucherons"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GNAT_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GNAT_SETTING"
+msgid "Gnat Swarm"
+msgstr "Essaim de moucherons"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.GRASS_TALL
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GRASS_TALL"
 msgid "Tall Grass"
@@ -5039,6 +5389,11 @@ msgstr "Paon"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PL_CLOCKTYPE"
 msgid "Clock Type"
 msgstr "Type d'horloge"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.POG
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.POG"
+msgid "Pog"
+msgstr "Pog"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PORKLAND_SEASON_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PORKLAND_SEASON_START"

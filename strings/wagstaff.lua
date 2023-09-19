@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Ahhh. The season has turned.",
     },
+    ANNOUNCE_GNATS_DIED = "ha! I found their weak spot!",
     ANNOUNCE_HAYFEVER = "Evidence would suggest it's allergy season.",
     ANNOUNCE_HAYFEVER_OFF = "Ah! Evidentaly, it's no longer allergy season.",
     ANNOUNCE_SNEEZE = "aH-CHOOOOOOOOOO!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "Evidently, its bioluminescence is dormant too.",
         },
         GLOWFLY_COCOON = "It appears to be undergoing some kind of transubstantiation.",
+        GNAT = "Their capacity for aggravating behavior is truly astounding!",
+        GNATMOUND = "The nest of those exceptionally annoying bugs.",
         GRASS_TALL = {
             BURNING = "Evidently, grass here has the same flammability qualities as at home.",
             GENERIC = "The obstinacy of this grass requires something sharper than my hands.",

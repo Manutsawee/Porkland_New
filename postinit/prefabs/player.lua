@@ -22,6 +22,9 @@ AddPlayerPostInit(function(inst)
         inst:AddComponent("hayfever")
     end
 
+    if not inst.components.infestable then
+        inst:AddComponent("infestable")
+    end
 
     inst:ListenForEvent("death", OnDeath)
     inst:ListenForEvent("respawnfromghost", OnRespawnFromGhost)

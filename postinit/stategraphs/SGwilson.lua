@@ -89,6 +89,20 @@ AddStategraphPostInit("wilson", function(sg)
         end
     end
 
+    local _attacked_eventhandler = sg.events.attacked.fn
+    sg.events.attacked.fn = function(inst, data)
+        if data.attacker and (data.attacker:HasTag("insect"))then
+            local is_idle = inst.sg:HasStateTag("idle")
+            if not is_idle then
+                return
+            end
+        end
+
+        if _attacked_eventhandler ~= nil then
+            _attacked_eventhandler(inst, data)
+        end
+    end
+
     local _idle_onenter = sg.states["idle"].onenter
     sg.states["idle"].onenter = function(inst, ...)
         if not (inst.components.drownable ~= nil and inst.components.drownable:ShouldDrown()) then

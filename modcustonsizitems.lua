@@ -69,6 +69,7 @@ local custonsiz_items = {  -- add in dst custonsiz
         },
         monsters = {
             "grass_tall_patch",
+            gnatmound = {image = "gnat_mounds.tex"}
         },
         animals = {
             peagawk_spawner = {image = "peagawk.tex"},
@@ -86,6 +87,7 @@ local custonsiz_items = {  -- add in dst custonsiz
     [LEVELCATEGORY.SETTINGS] = {
         monsters = {
             weevole_setting = {image = "weevole.tex"},
+            gnat_setting = {image = "gnat.tex"}
         },
         animals = {
             peagawk_setting = {image = "peagawk.tex"},

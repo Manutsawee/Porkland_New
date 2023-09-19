@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Still more comfortable this way.",
     },
+    ANNOUNCE_GNATS_DIED = "ha! How about this?",
     ANNOUNCE_HAYFEVER = "There's something in the air...my nose is itching.",
     ANNOUNCE_HAYFEVER_OFF = "My nose is so much better and it's finally gone!",
     ANNOUNCE_SNEEZE = "Ah Choo!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "it is sleeping.",
         },
         GLOWFLY_COCOON = "A cocoon, what could be inside?",
+        GNAT = "cool! But... maybe we should back off a little?",
+        GNATMOUND = "What might live inside?",
         GRASS_TALL = {
             BURNING = "Hey! Brush fires will destroy rainforests!",
             GENERIC = "A lush patch of grass. Must be a lot of bugs in it.",

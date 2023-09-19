@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Ha, feeling better.",
     },
+    ANNOUNCE_GNATS_DIED = "Why do we need to get to this point?",
     ANNOUNCE_HAYFEVER = "Don't these plants do anything else but pollinate all over the place?",
     ANNOUNCE_HAYFEVER_OFF = "Whoops! it is finally over!",
     ANNOUNCE_SNEEZE = "Ah Choo!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "Sleep well now.",
         },
         GLOWFLY_COCOON = "We'd better get out of here before it breaks out of its cocoon.",
+        GNAT = "It reaches new heights in annoyingness.",
+        GNATMOUND = "Dirty and messy.",
         GRASS_TALL = {
             BURNING = "This is not good.",
             GENERIC = "Grasses this tough are indeed uncommon.",

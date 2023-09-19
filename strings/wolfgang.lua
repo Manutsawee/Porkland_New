@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Ha! Wolfgang beat the heat!",
     },
+    ANNOUNCE_GNATS_DIED = "Wolfgang's muscles felt much better.",
     ANNOUNCE_HAYFEVER = "Allergies strong like Wolfgang!",
     ANNOUNCE_HAYFEVER_OFF = "Ha! Wolfgang beat allergies!",
     ANNOUNCE_SNEEZE = "Achoo! Excuse Wolfgang.",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "Light bug is dark.",
         },
         GLOWFLY_COCOON = "Bug look cozy.",
+        GNAT = "Is too small for smashing!",
+        GNATMOUND = "Wolfgang smash bug home!",
         GRASS_TALL = {
             BURNING = "Wolfgang is not doing that!",
             GENERIC = "Very sturdy grass.",

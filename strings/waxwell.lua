@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Ah! That feels better.",
     },
+    ANNOUNCE_GNATS_DIED = "Don't bother a gentleman.",
     ANNOUNCE_HAYFEVER = "Ugh. Allergies.",
     ANNOUNCE_HAYFEVER_OFF = "Ah... I can breathe again.",
     ANNOUNCE_SNEEZE = "ah...CHOOOO!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "That light is rather too lethargic.",
         },
         GLOWFLY_COCOON = "Ah, metamorphosis...",
+        GNAT = "Horde horrible.",
+        GNATMOUND = "Ugh. The horde home.",
         GRASS_TALL = {
             BURNING = "Well, there you have it.",
             GENERIC = "Oh, joyous occasion. I've found grass.",
