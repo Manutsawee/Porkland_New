@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Ah... that breeze is nice.",
     },
+    ANNOUNCE_GNATS_DIED = "I finally got rid of these flies.",
     ANNOUNCE_HAYFEVER = "Sniff sniff. Must be hayfever season.",
     ANNOUNCE_HAYFEVER_OFF = "Ahh... Finally I can breathe.",
     ANNOUNCE_SNEEZE = "Ahh... CHOOOOOOOOO!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "Curious. Its bioluminescence requires wakefulness.",
         },
         GLOWFLY_COCOON = "Fascinating! It has moved on to the chrysalis stage.",
+        GNAT = "A swarm of Culicidae Drosophila.",
+        GNATMOUND = "Obviously the work of a eusocial insect.",
         GRASS_TALL = {
             BURNING = "Illuminating!",
             GENERIC = "I need an implement for that.",

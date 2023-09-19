@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Ahh...it's cooled down.",
     },
+    ANNOUNCE_GNATS_DIED = "I can deal with you without fire.",
     ANNOUNCE_HAYFEVER = "My sinuses are burning.",
     ANNOUNCE_HAYFEVER_OFF = "Sniff! I feel better now!",
     ANNOUNCE_SNEEZE = "Achoo!!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "(Psst... you're gross.)",
         },
         GLOWFLY_COCOON = "Doing a bad job of hiding from me.",
+        GNAT = "Agh! They're too small to burn!",
+        GNATMOUND = "I can't even burn it down.",
         GRASS_TALL = {
             BURNING = "I win.",
             GENERIC = "This grass is tough!",

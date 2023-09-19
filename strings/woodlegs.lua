@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Ah! Th'air be cool again.",
     },
+    ANNOUNCE_GNATS_DIED = "Die! Flying bait!",
     ANNOUNCE_HAYFEVER = "Me nose be itchier than a sliver in me pegleg.",
     ANNOUNCE_HAYFEVER_OFF = "Ah! Th'air be clear again!",
     ANNOUNCE_SNEEZE = "Ahh-pheww!!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "Becalm'd.",
         },
         GLOWFLY_COCOON = "'e be sleepin' it off.",
+        GNAT = "Flyin' minnows.",
+        GNATMOUND = "Barnacle's o'tha land.",
         GRASS_TALL = {
             BURNING = "'Tis ablaze!",
             GENERIC = "As tall'as th'sky.",

@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Freedom, this is me!",
     },
+    ANNOUNCE_GNATS_DIED = "Phew, that's really scary.",
     ANNOUNCE_HAYFEVER = "Oops, so much pollen, it's going to be uncomfortable.",
     ANNOUNCE_HAYFEVER_OFF = "The pollen is gone. finally.",
     ANNOUNCE_SNEEZE = "(breathing) Ah chirp! Ahhhhhh!",
@@ -24,6 +25,8 @@ return {
             SLEEPING = "Have a good dream.",
         },
         GLOWFLY_COCOON = "What will become of it?",
+        GNAT = "Don't let them get under my fur!",
+        GNATMOUND = "This is my first time seeing this.",
         GRASS_TALL = {
             BURNING = "Oops, it's burning.",
             GENERIC = "Solid tall grass, really nice.",

@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Whew. I forgot what it felt like to breathe.",
     },
+    ANNOUNCE_GNATS_DIED = "The enemy plane crashed, awesome!",
     ANNOUNCE_HAYFEVER = "Allergiesch. What allergiesch?",
     ANNOUNCE_HAYFEVER_OFF = "My face stopped leaking. Allergy season must be over.",
     ANNOUNCE_SNEEZE = "AchooOO!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "Wake up and glow for me!",
         },
         GLOWFLY_COCOON = "Aww... It's wrapped up all nice and cozy.",
+        GNAT = "Normally I like being around flyers, but I'll make an exception.",
+        GNATMOUND = "Not bad, for a mound full of bugs.",
         GRASS_TALL = {
             BURNING = "All those bugs have nowhere to hide now.",
             GENERIC = "Tall grass like that is going to need a machete.",

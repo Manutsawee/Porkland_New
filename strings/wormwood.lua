@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Cooler now",
     },
+    ANNOUNCE_GNATS_DIED = "The sizzling guys are gone",
     ANNOUNCE_HAYFEVER = "Happy time is coming!",
     ANNOUNCE_HAYFEVER_OFF = "Oh. Happy time gone",
     ANNOUNCE_SNEEZE = "Hiccup!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "No light",
         },
         GLOWFLY_COCOON = "Changing",
+        GNAT = "Stay away, Bzzters!",
+        GNATMOUND = "Hello?",
         GRASS_TALL = {
             BURNING = "No!!",
             GENERIC = "You're so tall!",

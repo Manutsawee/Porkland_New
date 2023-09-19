@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Ah... A nice cool breeze.",
     },
+    ANNOUNCE_GNATS_DIED = "It's quiet, finally.",
     ANNOUNCE_HAYFEVER = "Allergy season.",
     ANNOUNCE_HAYFEVER_OFF = "Hey! I feel better!",
     ANNOUNCE_SNEEZE = "ahhh... ahhhh...ahhhhhCHOOO!",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "Lights out!",
         },
         GLOWFLY_COCOON = "I need a sleeping bag like that.",
+        GNAT = "Ick! Stay away!",
+        GNATMOUND = "Like an apartment building for bugs.",
         GRASS_TALL = {
             BURNING = "It'd probably be a lot of work to put it out.",
             GENERIC = "It's too much work to pick it with my hands.",

@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "Huh, cool off.",
     },
+    ANNOUNCE_GNATS_DIED = "Worms don't mess with fish people.",
     ANNOUNCE_HAYFEVER = "Gullah. The gills are so uncomfortable...",
     ANNOUNCE_HAYFEVER_OFF = "oh! The gills are finally comfortable!",
     ANNOUNCE_SNEEZE = "Heh-hoo, ha-choo! ! !",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "sleeping.",
         },
         GLOWFLY_COCOON = "The little bug wrapped itself up.",
+        GNAT = "Too much!",
+        GNATMOUND = "Bug Hideout.",
         GRASS_TALL = {
             BURNING = "Fire! Is fire!",
             GENERIC = "Greer... can't move.",

@@ -2,6 +2,7 @@ return {
     ANNOUNCE_DEHUMID = {
         "The heat has lifted but my heart has not.",
     },
+    ANNOUNCE_GNATS_DIED = "It's not my turn yet.",
     ANNOUNCE_HAYFEVER = "Ugh. Even my sinuses are suffering.",
     ANNOUNCE_HAYFEVER_OFF = "My sinuses are clear, but suffering continues.",
     ANNOUNCE_SNEEZE = "achoo! achoo! sniff.",
@@ -25,6 +26,8 @@ return {
             SLEEPING = "Having dark dreams, no doubt.",
         },
         GLOWFLY_COCOON = "If I could climb into a cocoon I would never emerge.",
+        GNAT = "Like life, they wear you down little by little.",
+        GNATMOUND = "They're building their own doom.",
         GRASS_TALL = {
             BURNING = "Death comes to everything.",
             GENERIC = "Alas, I'm too weak to pick it.",
