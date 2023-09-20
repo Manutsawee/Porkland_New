@@ -32,12 +32,12 @@ local function OnFinishCallback(inst, worker)
 	inst.SoundEmitter:PlaySound("dontstarve/common/food_rot")
 	local pt = Vector3(inst.Transform:GetWorldPosition())
 
-	if worker and worker:HasTag("player") then
+	if worker and worker:HasTag("dungbeetle") then
+        SpawnDungball(inst)
+	else
 		for i = 1, inst.components.pickable.cycles_left do
 			inst.components.lootdropper:DropLoot(pt)
 		end
-	else
-		SpawnDungball(inst)
 	end
 
 	inst.components.pickable:MakeBarren()

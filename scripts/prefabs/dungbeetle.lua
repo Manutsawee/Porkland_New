@@ -75,6 +75,7 @@ local function fn()
 
 	MakeCharacterPhysics(inst, 1, 0.5)
 
+    inst:AddTag("smallcreature")
 	inst:AddTag("hasdung")
 	inst:AddTag("animal")
 	inst:AddTag("dungbeetle")
