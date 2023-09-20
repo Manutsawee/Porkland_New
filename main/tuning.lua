@@ -141,6 +141,15 @@ local tuning = {
     GNAT_WALK_SPEED = 2,
     GNAT_RUN_SPEED = 7,
     GNAT_TARGET_DIST = 5,
+
+    DUNG_BEETLE_RUN_SPEED = 6,
+    DUNG_BEETLE_WALK_SPEED = 3.5,
+    DUNG_BEETLE_HEALTH = 60,
+
+    DUNGPILE_MAXCHILDREN = 1,
+    DUNGPILE_REGEN_TIME = seg_time * 4,
+    DUNGPILE_RELEASE_TIME = seg_time * 0.5,
+    DUNGPILE_ENABLED = true,
 }
 
 for key, value in pairs(tuning) do

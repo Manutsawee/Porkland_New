@@ -4,10 +4,12 @@ GLOBAL.setfenv(1, GLOBAL)
 
 local PL_ACTIONS = {
     PEAGAWK_TRANSFORM = Action({}),
-    BARK = Action({},nil,nil,nil, 3),
-	RANSACK = Action({},nil,nil,nil, 0.5),
-    INFEST = Action({},nil, nil, nil, 0.5),
-    SPECIAL_ACTION = Action({},nil, nil, nil, 1.2),
+    BARK = Action({}, nil, nil, nil, 3),
+	RANSACK = Action({}, nil, nil, nil, 0.5),
+    INFEST = Action({}, nil, nil, nil, 0.5),
+    SPECIAL_ACTION = Action({}, nil, nil, nil, 1.2),
+    DIGDUNG = Action({mount_enabled=true}),
+	MOUNTDUNG = Action({}),
 }
 
 for name, ACTION in pairs(PL_ACTIONS) do
@@ -29,7 +31,7 @@ ACTIONS.RANSACK.fn = function(act)
 end
 
 ACTIONS.INFEST.fn = function(act)
-    if not act.doer.infesting then
+    if not act.doer.components.infester.infesting then
         act.doer.components.infester:Infest(act.target)
     end
     return true
@@ -40,6 +42,17 @@ ACTIONS.SPECIAL_ACTION.fn = function(act)
         act.doer.special_action(act)
         return true
     end
+end
+
+ACTIONS.DIGDUNG.fn = function(act)
+	act.target.components.workable:WorkedBy(act.doer, 1)
+end
+
+ACTIONS.MOUNTDUNG.fn = function(act)
+    local doer = act.doer
+	doer.dung_target:Remove()
+    doer:AddTag("hasdung")
+    doer.dung_target = nil
 end
 
 local _STORE_stroverridefn = ACTIONS.STORE.stroverridefn

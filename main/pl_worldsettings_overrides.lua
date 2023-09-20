@@ -104,6 +104,34 @@ applyoverrides_pre.gnat_setting = function(difficulty)
     OverrideTuningVariables(tuning_vars[difficulty])
 end
 
+applyoverrides_pre.dungbeetle_setting = function(difficulty)
+    local tuning_vars = {
+        never = {
+            DUNGPILE_ENABLED = false,
+        },
+        rare = {
+            DUNGPILE_REGEN_TIME = TUNING.SEG_TIME * 8,
+            DUNGPILE_MAXCHILDREN = 1,
+        },
+        --[[
+        default = {
+            DUNGPILE_ENABLED = true,
+            DUNGPILE_REGEN_TIME = TUNING.SEG_TIME * 4,
+            DUNGPILE_MAXCHILDREN = 1,
+        },
+        --]]
+        often = {
+            DUNGPILE_REGEN_TIME = TUNING.SEG_TIME * 2,
+            DUNGPILE_MAXCHILDREN = 1,
+        },
+        always = {
+            DUNGPILE_REGEN_TIME = TUNING.SEG_TIME * 2,
+            DUNGPILE_MAXCHILDREN = 2,
+        },
+    }
+    OverrideTuningVariables(tuning_vars[difficulty])
+end
+
 applyoverrides_pre.glowfly_setting = function(difficulty)
     local tuning_vars =
     {
