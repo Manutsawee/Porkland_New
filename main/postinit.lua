@@ -4,8 +4,10 @@ local components_post = {
     "battleborn",
     "clock",
     "colourcube",
+    "edible",
     "grogginess",
     "inventory",
+    "kramped",
     "moisture",
     "pollinator",
     "regrowthmanager",
@@ -15,7 +17,6 @@ local components_post = {
     "wavemanager",
     "worldstate",
     "weapon",
-    "edible",
 }
 
 local prefabs_post = {
@@ -39,6 +40,7 @@ local stategraphs_post = {
 }
 
 local brains_post = {
+    "shadowwaxwellbrain",
 }
 
 local widgets = {
