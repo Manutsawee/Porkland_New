@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "Phew, that's really scary.",
     ANNOUNCE_HAYFEVER = "Oops, so much pollen, it's going to be uncomfortable.",
     ANNOUNCE_HAYFEVER_OFF = "The pollen is gone. finally.",
+    ANNOUNCE_PICKPOOP = {
+        "How disgusting!",
+        "It's still hot!",
+        "I can't take my claws anymore!",
+    },
     ANNOUNCE_SNEEZE = "(breathing) Ah chirp! Ahhhhhh!",
     ANNOUNCE_TOO_HUMID = {
         "I can't stand %s anymore!",
@@ -18,6 +23,17 @@ return {
         BASEFAN = "The breeze is blowing, so happy.",
         CHITIN = "The shell of those guys.",
         CUTNETTLE = "Just smelling it blows my nose.",
+        DUNGBALL = "Why would anyone like it?",
+        DUNGBEETLE = {
+            DEAD = "Sorry, ma'am.",
+            GENERIC = "Is that... poop?",
+            SLEEPING = "I thought they would have a loud purring sound.",
+            UNDUNGED = "Please don't do that again.",
+        },
+        DUNGPILE = {
+            GENERIC = "The stench is overwhelming...",
+            PICKED = "Still there?",
+        },
         FLOWER_RAINFOREST = "There is a wild beauty.",
         GLOWFLY = {
             DEAD = "sorry.",

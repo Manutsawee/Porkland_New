@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "Wolfgang's muscles felt much better.",
     ANNOUNCE_HAYFEVER = "Allergies strong like Wolfgang!",
     ANNOUNCE_HAYFEVER_OFF = "Ha! Wolfgang beat allergies!",
+    ANNOUNCE_PICKPOOP = {
+        "Bah!",
+        "Ew!",
+        "Wolfgang is disgusted!",
+    },
     ANNOUNCE_SNEEZE = "Achoo! Excuse Wolfgang.",
     ANNOUNCE_TOO_HUMID = {
         "Wolfgang don't like %s in this heat.",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Is cool on Wolfgang skin.",
         CHITIN = "Icky bug pieces.",
         CUTNETTLE = "Is good for clearing nose.",
+        DUNGBALL = "Is ball of poop.",
+        DUNGBEETLE = {
+            DEAD = "Is dead. Is still stink.",
+            GENERIC = "Bug runs on ball of poop.",
+            SLEEPING = "Is pooped.",
+            UNDUNGED = "Bug fell off ball of poop.",
+        },
+        DUNGPILE = {
+            GENERIC = "Is more smelly than armpit.",
+            PICKED = "All gone. For now.",
+        },
         FLOWER_RAINFOREST = "Little smelly flower.",
         GLOWFLY = {
             DEAD = "Light bug is lights out.",

@@ -6,6 +6,11 @@ return {
     ANNOUNCE_GNATS_DIED = "knock down trouble",
     ANNOUNCE_HAYFEVER = "SN--ORT. WILBA IS'T STUFFY",
     ANNOUNCE_HAYFEVER_OFF = "SNIFFS. WILBA NOSE IS'T NAUGHT STUFFY NO MORES!",
+    ANNOUNCE_PICKPOOP = {
+        "SNORT!",
+        "OINC!",
+        "PLOPS!",
+    },
     ANNOUNCE_SNEEZE = "SNORT, 'NEEZE, A-CHOOEY!",
     ANNOUNCE_TOO_HUMID = {
         "WILBA AM TOO MUCH I' THE HEAT",
@@ -20,6 +25,17 @@ return {
         BASEFAN = "BLOW WINDS!",
         CHITIN = "YON BUGGY ARMOR",
         CUTNETTLE = "DOST UNSTUFF'DED MINE SNOUTS",
+        DUNGBALL = "SWOLLEN PARCEL O' PLOPSIES",
+        DUNGBEETLE = {
+            DEAD = "HATH SHUFFLED OFF HIS MORTAL PLOP BALL",
+            GENERIC = "HAS'T THE PLOPS",
+            SLEEPING = "SLEEP NO MORE!",
+            UNDUNGED = "HAS'T NAUGHT THE PLOPS",
+        },
+        DUNGPILE = {
+            GENERIC = "WILBA AM SICK WHEN SHE LOOK ON THEE",
+            PICKED = "HAST BEEN PICK'DED THROUGH",
+        },
         FLOWER_RAINFOREST = "MANY COLOR'D FLOWERS FOR WILBA",
         GLOWFLY = {
             DEAD = "'TIS SQUISH'DED",

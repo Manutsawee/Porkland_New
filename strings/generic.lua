@@ -5,6 +5,12 @@ return {
     ANNOUNCE_GNATS_DIED = "Take that, bugs!",
     ANNOUNCE_HAYFEVER = "My nose feels.. itchy.",
     ANNOUNCE_HAYFEVER_OFF = "I don't want to claw my eyes out anymore.",
+    ANNOUNCE_PICKPOOP = {
+        "Eugg!",
+        "Gross!",
+        "Ick!",
+        "I got some on my hands!",
+    },
     ANNOUNCE_SNEEZE = "AHHH CHOOOO!",
     ANNOUNCE_TOO_HUMID = {
         "This %s is so heavy.",
@@ -19,6 +25,17 @@ return {
         BASEFAN = "Fan-tastic.",
         CHITIN = "Bug coating.",
         CUTNETTLE = "Science says the sharp edges are good for my lungs.",
+        DUNGBALL = "Most definitely poop.",
+        DUNGBEETLE = {
+            DEAD = "Dung for.",
+            GENERIC = "She's on a roll.",
+            SLEEPING = "She's pooped.",
+            UNDUNGED = "She needs to get her dung together.",
+        },
+        DUNGPILE = {
+            GENERIC = "It's a pile of dung.",
+            PICKED = "Dung and dung.",
+        },
         FLOWER_RAINFOREST = "It smells vaguely tolerable.",
         GLOWFLY = {
             DEAD = "Lights out forever.",

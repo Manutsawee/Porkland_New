@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "The sizzling guys are gone",
     ANNOUNCE_HAYFEVER = "Happy time is coming!",
     ANNOUNCE_HAYFEVER_OFF = "Oh. Happy time gone",
+    ANNOUNCE_PICKPOOP = {
+        "Wheee!",
+        "Yay!",
+        "Woohoo!",
+    },
     ANNOUNCE_SNEEZE = "Hiccup!",
     ANNOUNCE_TOO_HUMID = {
         "%s is heavy",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Wind",
         CHITIN = "Bzzter clothes",
         CUTNETTLE = "(sniiiiiff)",
+        DUNGBALL = "Yay! Ball of poop!",
+        DUNGBEETLE = {
+            DEAD = "Poor poop rider",
+            GENERIC = "You like poop too?!",
+            SLEEPING = "Shhh...",
+            UNDUNGED = "Where's poop?",
+        },
+        DUNGPILE = {
+            GENERIC = "Poop!",
+            PICKED = "Aw. No more poop",
+        },
         FLOWER_RAINFOREST = "Dirt made a friend",
         GLOWFLY = {
             DEAD = "(sob)",

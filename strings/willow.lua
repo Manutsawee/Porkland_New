@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "I can deal with you without fire.",
     ANNOUNCE_HAYFEVER = "My sinuses are burning.",
     ANNOUNCE_HAYFEVER_OFF = "Sniff! I feel better now!",
+    ANNOUNCE_PICKPOOP = {
+        "Ick!",
+        "Gross!",
+        "Burn it all!!",
+    },
     ANNOUNCE_SNEEZE = "Achoo!!",
     ANNOUNCE_TOO_HUMID = {
         "It's burning hot. But not in a good way.",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Fan the flames.",
         CHITIN = "Bug skin.",
         CUTNETTLE = "It smells funny.",
+        DUNGBALL = "Can't even set it on fire.",
+        DUNGBEETLE = {
+            DEAD = "Squashed.",
+            GENERIC = "Beat it, smelly beetle!",
+            SLEEPING = "How do you sleep with that smell?",
+            UNDUNGED = "You better run.",
+        },
+        DUNGPILE = {
+            GENERIC = "Haha, that pile's huge!",
+            PICKED = "What? I needed it.",
+        },
         FLOWER_RAINFOREST = "It's kinda ugly. But it burns.",
         GLOWFLY = {
             DEAD = "Squashed.",

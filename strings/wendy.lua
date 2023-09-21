@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "It's not my turn yet.",
     ANNOUNCE_HAYFEVER = "Ugh. Even my sinuses are suffering.",
     ANNOUNCE_HAYFEVER_OFF = "My sinuses are clear, but suffering continues.",
+    ANNOUNCE_PICKPOOP = {
+        "Sigh.",
+        "Ew.",
+        "Everything is suffering.",
+    },
     ANNOUNCE_SNEEZE = "achoo! achoo! sniff.",
     ANNOUNCE_TOO_HUMID = {
         "This %s is heavier in the heat.",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Alas the relief it brings is only temporary.",
         CHITIN = "This shell is poor protection from life's horrors.",
         CUTNETTLE = "I suppose these will cure blocked sinuses.",
+        DUNGBALL = "Grotesque.",
+        DUNGBEETLE = {
+            DEAD = "How I envy you.",
+            GENERIC = "A symbol of the ugliness of this world.",
+            SLEEPING = "Even the hideous sleep sounder than I.",
+            UNDUNGED = "Alas, she has fallen from her grotesque perch.",
+        },
+        DUNGPILE = {
+            GENERIC = "There's dreadfulness everywhere.",
+            PICKED = "That was... unpleasant.",
+        },
         FLOWER_RAINFOREST = "It, too, will wither and die one day.",
         GLOWFLY = {
             DEAD = "Its light hath been extinguished forever.",

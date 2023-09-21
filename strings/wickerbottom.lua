@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "I finally got rid of these flies.",
     ANNOUNCE_HAYFEVER = "Sniff sniff. Must be hayfever season.",
     ANNOUNCE_HAYFEVER_OFF = "Ahh... Finally I can breathe.",
+    ANNOUNCE_PICKPOOP = {
+        "I never!",
+        "Disgusting!",
+        "What a horrid smell!",
+    },
     ANNOUNCE_SNEEZE = "Ahh... CHOOOOOOOOO!",
     ANNOUNCE_TOO_HUMID = {
         "This %s is unbearable.",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Restorative.",
         CHITIN = "The exoskeleton of an arthropod.",
         CUTNETTLE = "These are quite good for the sinuses.",
+        DUNGBALL = "A perfectly spherical specimen of feces.",
+        DUNGBEETLE = {
+            DEAD = "A Scarabaeidae cadaver.",
+            GENERIC = "Scarabaeidae with her droppings.",
+            SLEEPING = "At rest.",
+            UNDUNGED = "She's lost her dung.",
+        },
+        DUNGPILE = {
+            GENERIC = "Scarabaeidae will make short work of it.",
+            PICKED = "Odious, yet useful.",
+        },
         FLOWER_RAINFOREST = "Floral cross-pollination produces some fascinating specimens.",
         GLOWFLY = {
             DEAD = "Its existence has reached an end.",

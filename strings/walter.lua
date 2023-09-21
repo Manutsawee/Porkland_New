@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "ha! How about this?",
     ANNOUNCE_HAYFEVER = "There's something in the air...my nose is itching.",
     ANNOUNCE_HAYFEVER_OFF = "My nose is so much better and it's finally gone!",
+    ANNOUNCE_PICKPOOP = {
+        "Pine Pioneers must be hardworking...but...",
+        "This is really unhygienic!",
+        "do not come! Warby!",
+    },
     ANNOUNCE_SNEEZE = "Ah Choo!",
     ANNOUNCE_TOO_HUMID = {
         "I'm bored.",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Ah, it's so comfortable, Warby, you can also enjoy it.",
         CHITIN = "Check out the pattern on this! Warby!",
         CUTNETTLE = "Ow! It got me.",
+        DUNGBALL = "How did she do it...forget it.",
+        DUNGBEETLE = {
+            DEAD = "Hello?",
+            GENERIC = "I need a really big bottle to fit her in!",
+            SLEEPING = "She is sleeping.",
+            UNDUNGED = "She's not with that shit ball, good timing!",
+        },
+        DUNGPILE = {
+            GENERIC = "What giant creature left this behind?",
+            PICKED = "Alas!",
+        },
         FLOWER_RAINFOREST = "oh! That's the kind of flower in jungle adventure stories.",
         GLOWFLY = {
             DEAD = "Oh, dead.",

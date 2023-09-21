@@ -5,6 +5,12 @@ return {
     ANNOUNCE_GNATS_DIED = "Don't bother a gentleman.",
     ANNOUNCE_HAYFEVER = "Ugh. Allergies.",
     ANNOUNCE_HAYFEVER_OFF = "Ah... I can breathe again.",
+    ANNOUNCE_PICKPOOP = {
+        "Bah!",
+        "Ew!",
+        "Gah!",
+        "Filth!",
+    },
     ANNOUNCE_SNEEZE = "ah...CHOOOO!",
     ANNOUNCE_TOO_HUMID = {
         "This %s is too much.",
@@ -19,6 +25,17 @@ return {
         BASEFAN = "Ah. Civilization.",
         CHITIN = "We all have our defenses.",
         CUTNETTLE = "Useful.",
+        DUNGBALL = "I refuse to touch that.",
+        DUNGBEETLE = {
+            DEAD = "It has come to a feculent end.",
+            GENERIC = "What a filthy creature.",
+            SLEEPING = "The time is right to strike.",
+            UNDUNGED = "Sans dungball, I see.",
+        },
+        DUNGPILE = {
+            GENERIC = "Blech.",
+            PICKED = "That was simply undignified.",
+        },
         FLOWER_RAINFOREST = "It's no rose.",
         GLOWFLY = {
             DEAD = "Lights out.",

@@ -74,10 +74,12 @@ local custonsiz_items = {  -- add in dst custonsiz
         animals = {
             peagawk_spawner = {image = "peagawk.tex"},
             pog = {image = "pogs.tex"},
+            dungbeetle = {image = "dung_beetles.tex"}
         },
         resources = {
             "asparagus",
             "grass_tall",
+            dungpile = {image = "dung_piles.tex"}
         },
         misc = {
             jungle_border_vine = {desc = frequency_descriptions},
@@ -92,6 +94,7 @@ local custonsiz_items = {  -- add in dst custonsiz
         animals = {
             peagawk_setting = {image = "peagawk.tex"},
             glowfly_setting = {image = "glowflies.tex"},
+            dungbeetle_setting = {image = "dung_beetles.tex"}
         },
         resources = {
             asparagus_regrowth = {image = "asparagus.tex"},

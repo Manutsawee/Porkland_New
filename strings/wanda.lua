@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "Why do we need to get to this point?",
     ANNOUNCE_HAYFEVER = "Don't these plants do anything else but pollinate all over the place?",
     ANNOUNCE_HAYFEVER_OFF = "Whoops! it is finally over!",
+    ANNOUNCE_PICKPOOP = {
+        "Why would I do this?",
+        "I must have done something wrong.",
+        "vomit.",
+    },
     ANNOUNCE_SNEEZE = "Ah Choo!",
     ANNOUNCE_TOO_HUMID = {
         "Wearing %s is a shame.",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Very interesting structure, but unfortunately not refined enough.",
         CHITIN = "I don't understand what's the point of this?",
         CUTNETTLE = "This keeps us breathing smoothly.",
+        DUNGBALL = "I won't touch it.",
+        DUNGBEETLE = {
+            DEAD = "She will eventually join in the fun.",
+            GENERIC = "That's really disgusting.",
+            SLEEPING = "She is resting.",
+            UNDUNGED = "She'll find another one.",
+        },
+        DUNGPILE = {
+            GENERIC = "It's definitely not worth any of my time.",
+            PICKED = "Let's just let it go.",
+        },
         FLOWER_RAINFOREST = "Why am I wasting time staring at it?",
         GLOWFLY = {
             DEAD = "Maybe that's for the best.",
