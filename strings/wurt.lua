@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "Worms don't mess with fish people.",
     ANNOUNCE_HAYFEVER = "Gullah. The gills are so uncomfortable...",
     ANNOUNCE_HAYFEVER_OFF = "oh! The gills are finally comfortable!",
+    ANNOUNCE_PICKPOOP = {
+        "Such dirty water!",
+        "Greg...",
+        "no more chance!",
+    },
     ANNOUNCE_SNEEZE = "Heh-hoo, ha-choo! ! !",
     ANNOUNCE_TOO_HUMID = {
         "%s is hot!",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Water ran away! florpt!",
         CHITIN = "Tough hide.",
         CUTNETTLE = "It into my nose!",
+        DUNGBALL = "Dirt ball.",
+        DUNGBEETLE = {
+            DEAD = "Not moving anymore.",
+            GENERIC = "Beautiful, but stinky.",
+            SLEEPING = "Just fell asleep.",
+            UNDUNGED = "Still stinks.",
+        },
+        DUNGPILE = {
+            GENERIC = "Dirty and smelly.",
+            PICKED = "there is none left.",
+        },
         FLOWER_RAINFOREST = "A slightly prettier plant is still ugly.",
         GLOWFLY = {
             DEAD = "died.",

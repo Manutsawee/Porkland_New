@@ -30,6 +30,26 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_HAYFEVER_OFF"
 msgid "I don't want to claw my eyes out anymore."
 msgstr "Je n'ai plus envie de me griffes les yeux."
 
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_PICKPOOP.1"
+msgid "Eugg!"
+msgstr "Beurk !"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_PICKPOOP.2"
+msgid "Gross!"
+msgstr "Écœurant !"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_PICKPOOP.3"
+msgid "Ick!"
+msgstr "Pouah !"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_PICKPOOP.4
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_PICKPOOP.4"
+msgid "I got some on my hands!"
+msgstr "J'en ai sur les mains !"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SNEEZE"
 msgid "AHHH CHOOOO!"
@@ -84,6 +104,41 @@ msgstr "Un revêtement d'insecte."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CUTNETTLE"
 msgid "Science says the sharp edges are good for my lungs."
 msgstr "D'après la science, ça me ferait du bien aux poumons."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBALL"
+msgid "Most definitely poop."
+msgstr "Indubitablement, un spécimen de caca."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Dung for."
+msgstr "La caca-strophe."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "She's on a roll."
+msgstr "Ça a l'air de rouler."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "She's pooped."
+msgstr "En plein épandage de rêves."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "She needs to get her dung together."
+msgstr "Il faut qu'elle se remette en selle."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGPILE.GENERIC"
+msgid "It's a pile of dung."
+msgstr "Un tas de fumier."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUNGPILE.PICKED"
+msgid "Dung and dung."
+msgstr "Du fumier, encore du fumier."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLOWER_RAINFOREST"
@@ -265,6 +320,21 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_HAYFEVER_OFF"
 msgid "Ah! Evidentaly, it's no longer allergy season."
 msgstr "Ah ! De toute évidence, la saison des allergies est passée."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_PICKPOOP.1"
+msgid "What's that?"
+msgstr "Qu'est-ce que c'est que ça ?"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_PICKPOOP.2"
+msgid "Oh! That's interesting!"
+msgstr "Oh ! C'est intéressant !"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_PICKPOOP.3"
+msgid "I found something!"
+msgstr "J'ai trouvé quelque chose !"
+
 #. STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_SNEEZE"
 msgid "aH-CHOOOOOOOOOO!"
@@ -319,6 +389,41 @@ msgstr "Merveilleux ! L'exosquelette d'un insecte décédé !"
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CUTNETTLE"
 msgid "A large leaf nettle plant native to these parts. Also it smells funny."
 msgstr "Une grande plante feuillue de type ortie spécifique à cette région. Avec une drôle d'odeur."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBALL"
+msgid "Excellent! The act of rolling has picked up a motley of paraphernalia."
+msgstr "Excellent ! À force de rouler, on y trouve maintenant tout un attirail bigarré."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Expired. But it appears that is a recent occurrence."
+msgstr "Décédé. Mais il semble que l'événement soit récent."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Such agility! The way he's able to navigate on that sphere of poop!"
+msgstr "Quelle agilité ! L'art et la manière de manipuler aisément cette sphère fécale !"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "A dormant dung dancer."
+msgstr "Un artiste fécal en plein sommeil."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "Presumably, he's seeking a replacement for his poop sphere."
+msgstr "Cette créature doit rechercher de quoi remplacer son ancienne sphère fécale."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Some creature has produced an excessive amount of excrement!"
+msgstr "Une créature a produit une quantité excessive d'excréments !"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.DUNGPILE.PICKED"
+msgid "The road of discovery has many hurdles."
+msgstr "La route de la découverte est jonchée d'obstacles."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.FLOWER_RAINFOREST"
@@ -490,6 +595,26 @@ msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_HAYFEVER_OFF"
 msgid "Hey! I feel better!"
 msgstr "Hé ! Je me sens mieux !"
 
+#. STRINGS.CHARACTERS.WALANI.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_PICKPOOP.1"
+msgid "Dude!"
+msgstr "Mec !"
+
+#. STRINGS.CHARACTERS.WALANI.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_PICKPOOP.2"
+msgid "Grody!"
+msgstr "Dégueu !"
+
+#. STRINGS.CHARACTERS.WALANI.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_PICKPOOP.3"
+msgid "Blah!"
+msgstr "Beurk !"
+
+#. STRINGS.CHARACTERS.WALANI.ANNOUNCE_PICKPOOP.4
+msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_PICKPOOP.4"
+msgid "This stinks!"
+msgstr "Ça pue !"
+
 #. STRINGS.CHARACTERS.WALANI.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_SNEEZE"
 msgid "ahhh... ahhhh...ahhhhhCHOOO!"
@@ -544,6 +669,41 @@ msgstr "Ça ferait sans doute pas une bonne planche de surf."
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.CUTNETTLE"
 msgid "Whew! Really cleans your sinuses!"
 msgstr "Ouf ! Ben, ça dégage les sinus !"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBALL"
+msgid "Should've leashed it."
+msgstr "Faut tenir ça en laisse."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Aww... All dunged out."
+msgstr "Ohh... la loose de la bouse."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "It's a grade-A dung surfer."
+msgstr "Un surfeur de crottes top niveau."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "That's the right attitude."
+msgstr "Ça c'est la bonne attitude."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "Someone's grubbing."
+msgstr "Ça roule pour lui."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Mushburger."
+msgstr "Mushburger."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUNGPILE.PICKED"
+msgid "Nothing left."
+msgstr "Il reste rien."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.FLOWER_RAINFOREST"
@@ -725,6 +885,21 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_HAYFEVER_OFF"
 msgid "My nose is so much better and it's finally gone!"
 msgstr "Mon nez va tellement mieux et il est enfin parti !"
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_PICKPOOP.1"
+msgid "Pine Pioneers must be hardworking...but..."
+msgstr "Les pionniers du pin doivent travailler dur... mais..."
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_PICKPOOP.2"
+msgid "This is really unhygienic!"
+msgstr "C'est vraiment insalubre !"
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_PICKPOOP.3"
+msgid "do not come! Warby!"
+msgstr "ne venez pas! Au revoir !"
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_SNEEZE"
 msgid "Ah Choo!"
@@ -779,6 +954,41 @@ msgstr "Découvrez le modèle à ce sujet! Warby!"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CUTNETTLE"
 msgid "Ow! It got me."
 msgstr "Aïe ! Ça m'a eu."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBALL"
+msgid "How did she do it...forget it."
+msgstr "Comment a-t-elle fait... oublie ça."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Hello?"
+msgstr "Bonjour?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "I need a really big bottle to fit her in!"
+msgstr "J'ai besoin d'une très grosse bouteille pour la mettre dedans !"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "She is sleeping."
+msgstr "Elle dort."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "She's not with that shit ball, good timing!"
+msgstr "Elle n'est pas avec cette merde, bon timing !"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGPILE.GENERIC"
+msgid "What giant creature left this behind?"
+msgstr "Quelle créature géante a laissé ça derrière elle ?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.DUNGPILE.PICKED"
+msgid "Alas!"
+msgstr "Hélas!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.FLOWER_RAINFOREST"
@@ -955,6 +1165,21 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_HAYFEVER_OFF"
 msgid "Whoops! it is finally over!"
 msgstr "Oups ! c'est enfin fini !"
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_PICKPOOP.1"
+msgid "Why would I do this?"
+msgstr "Pourquoi ferais-je ça ?"
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_PICKPOOP.2"
+msgid "I must have done something wrong."
+msgstr "Je dois avoir fait quelquechose de mal."
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_PICKPOOP.3"
+msgid "vomit."
+msgstr "vomir."
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_SNEEZE"
 msgid "Ah Choo!"
@@ -1009,6 +1234,41 @@ msgstr "Je ne comprends pas à quoi ça sert ?"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CUTNETTLE"
 msgid "This keeps us breathing smoothly."
 msgstr "Cela nous permet de respirer en douceur."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBALL"
+msgid "I won't touch it."
+msgstr "Je n'y toucherai pas."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "She will eventually join in the fun."
+msgstr "Elle finira par se joindre à la fête."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "That's really disgusting."
+msgstr "C'est vraiment dégoûtant."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "She is resting."
+msgstr "Elle se repose."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "She'll find another one."
+msgstr "Elle en trouvera un autre."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGPILE.GENERIC"
+msgid "It's definitely not worth any of my time."
+msgstr "Cela ne vaut certainement pas mon temps."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.DUNGPILE.PICKED"
+msgid "Let's just let it go."
+msgstr "Laissons tomber."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FLOWER_RAINFOREST"
@@ -1185,6 +1445,21 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HAYFEVER_OFF"
 msgid "I think... my nose has cleared!"
 msgstr "Je crois que... mon nez est dégagé !"
 
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.1"
+msgid "Blech!"
+msgstr "Beurk !"
+
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.2"
+msgid "Blagh!"
+msgstr "Pouah !"
+
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.3"
+msgid "Beurk!"
+msgstr "Beurk !"
+
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_SNEEZE"
 msgid "Atchoum!"
@@ -1239,6 +1514,41 @@ msgstr "Absolument immangeable."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CUTNETTLE"
 msgid "Great for clearing the sinuses!"
 msgstr "Parfait pour déboucher les sinus !"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBALL"
+msgid "Non."
+msgstr "Non."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Such is life."
+msgstr "C'est la vie."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Not how I would spend my days."
+msgstr "Ce n'est pas comme ça que je voudrais vivre au quotidien."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "Dormez bien, mon amie."
+msgstr "Dors bien, l'ami."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "She's fallen."
+msgstr "Il a trébuché."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGPILE.GENERIC"
+msgid "The smell is so strong I can taste it."
+msgstr "L'odeur est si forte que j'ai le goût en bouche."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGPILE.PICKED"
+msgid "That was not food safe."
+msgstr "Pas vraiment de la nourriture à proprement parler."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOWER_RAINFOREST"
@@ -1420,6 +1730,21 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HAYFEVER_OFF"
 msgid "The smoke has cleared!"
 msgstr "Le bröuillard s'est levé !"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.1"
+msgid "Alas!"
+msgstr "Hélas !"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.2"
+msgid "Alack!"
+msgstr "Las !"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.3"
+msgid "It disturbs mine soul!"
+msgstr "Ceci perturbe mön âme !"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SNEEZE"
 msgid "aaAAAH...cho!"
@@ -1474,6 +1799,41 @@ msgstr "La faible armure de l'insecte."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTNETTLE"
 msgid "Its smell has vanquish mine sinuses."
 msgstr "Son ödeur a vaincu mes sinus."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBALL"
+msgid "What sickness is this?"
+msgstr "Quelle affectiön est-ce ceci ?"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "She has fallen in battle."
+msgstr "Öccis au cömbat."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "A mounted foe!"
+msgstr "Un ennemi mönté !"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "May her dreams be as foul as the spheres she rides."
+msgstr "Puissent ses sönges être aussi ignöbles que sa sphère mötrice."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "She has been thrown from her foul mount!"
+msgstr "Sus et éjectiön de sa mönture !"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Surely this came from a giant's backside!"
+msgstr "Ceci döit prövenir du pöstérieur d'un géant !"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DUNGPILE.PICKED"
+msgid "It has been picked through."
+msgstr "Ceci est picöré."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FLOWER_RAINFOREST"
@@ -1655,6 +2015,26 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HAYFEVER_OFF"
 msgid "Ah... I can breathe again."
 msgstr "Ah... Je peux à nouveau respirer."
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.1"
+msgid "Bah!"
+msgstr "Beurk !"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.2"
+msgid "Ew!"
+msgstr "Pouah !"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.3"
+msgid "Gah!"
+msgstr "Aïe !"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.4
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.4"
+msgid "Filth!"
+msgstr "Quelle saleté !"
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SNEEZE"
 msgid "ah...CHOOOO!"
@@ -1709,6 +2089,41 @@ msgstr "Chacun son moyen de défense."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CUTNETTLE"
 msgid "Useful."
 msgstr "Utile."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBALL"
+msgid "I refuse to touch that."
+msgstr "Je refuse de toucher ça."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "It has come to a feculent end."
+msgstr "Cette créature est passée de vie à trépas."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "What a filthy creature."
+msgstr "Quelle créature sale."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "The time is right to strike."
+msgstr "C'est le moment de frapper."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "Sans dungball, I see."
+msgstr "On n'a plus sa boule de fumier, à ce que je vois."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Blech."
+msgstr "Pouah."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DUNGPILE.PICKED"
+msgid "That was simply undignified."
+msgstr "Quel manque de dignité !"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FLOWER_RAINFOREST"
@@ -1890,6 +2305,21 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HAYFEVER_OFF"
 msgid "Wow! I think our allergies are gone!"
 msgstr "Oh ! Je crois qu'on n'a plus d'allergies !"
 
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_PICKPOOP.1"
+msgid "Blah!"
+msgstr "Beurk !"
+
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_PICKPOOP.2"
+msgid "Eww!"
+msgstr "Beurk !"
+
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_PICKPOOP.3"
+msgid "Yucky!"
+msgstr "Super beurk !"
+
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_SNEEZE"
 msgid "a...choooOOOOOOO!"
@@ -1944,6 +2374,41 @@ msgstr "J'espère que ça manquera à personne."
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTNETTLE"
 msgid "These nettles smell really strong."
 msgstr "Ces orties sentent vraiment fort."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBALL"
+msgid "Yuck!"
+msgstr "Beurk !"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Awww."
+msgstr "Ooooh."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Is that... poop?"
+msgstr "C'est... du caca ?"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "She dozed off."
+msgstr "Elle s'est endormie."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "She fell off her poop ball."
+msgstr "Elle est tombée de sa boule de caca."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Oh, poop!"
+msgstr "Oh, du caca !"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUNGPILE.PICKED"
+msgid "No poop."
+msgstr "Pas caca."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_RAINFOREST"
@@ -2125,6 +2590,21 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_HAYFEVER_OFF"
 msgid "My sinuses are clear, but suffering continues."
 msgstr "Mes sinus sont dégagés, mais ma souffrance n'a pas de fin."
 
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_PICKPOOP.1"
+msgid "Sigh."
+msgstr "Pfff..."
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_PICKPOOP.2"
+msgid "Ew."
+msgstr "Beurk."
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_PICKPOOP.3"
+msgid "Everything is suffering."
+msgstr "Le monde entier souffre."
+
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_SNEEZE"
 msgid "achoo! achoo! sniff."
@@ -2179,6 +2659,41 @@ msgstr "Cette carapace est une piètre protection contre les horreurs de la vie.
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CUTNETTLE"
 msgid "I suppose these will cure blocked sinuses."
 msgstr "J'imagine que cela doit soulager les sinus encombrés."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBALL"
+msgid "Grotesque."
+msgstr "Grotesque."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "How I envy you."
+msgstr "Comme je t'envie."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "A symbol of the ugliness of this world."
+msgstr "Un symbole de la laideur de ce monde."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "Even the hideous sleep sounder than I."
+msgstr "Même les créatures hideuses dorment en paix, pas moi."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "Alas, she has fallen from her grotesque perch."
+msgstr "Hélas, cette créature est tombée de sa perche grotesque."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGPILE.GENERIC"
+msgid "There's dreadfulness everywhere."
+msgstr "L'atrocité se trouve partout où l'œil se pose."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DUNGPILE.PICKED"
+msgid "That was... unpleasant."
+msgstr "C'était... désagréable."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.FLOWER_RAINFOREST"
@@ -2360,6 +2875,21 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_HAYFEVER_OFF"
 msgid "My face stopped leaking. Allergy season must be over."
 msgstr "Ça ne coule plus. La saison des allergies doit être finie."
 
+#. STRINGS.CHARACTERS.WHEELER.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_PICKPOOP.1"
+msgid "Swell."
+msgstr "Génial."
+
+#. STRINGS.CHARACTERS.WHEELER.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_PICKPOOP.2"
+msgid "Just great."
+msgstr "Un vrai plaisir."
+
+#. STRINGS.CHARACTERS.WHEELER.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_PICKPOOP.3"
+msgid "I'll put this in my memoir."
+msgstr "Je raconterai ça dans mes mémoires."
+
 #. STRINGS.CHARACTERS.WHEELER.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WHEELER.ANNOUNCE_SNEEZE"
 msgid "AchooOO!"
@@ -2414,6 +2944,41 @@ msgstr "Il va m'en falloir plus."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.CUTNETTLE"
 msgid "Smells like relief."
 msgstr "L'odeur du soulagement."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBALL"
+msgid "Huh. It's almost like nobody wants a ball of poop."
+msgstr "Hum. C'est à se demander si les crottes n'intéressent personne."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Someone should write a eulogy. Not me, but someone."
+msgstr "Quelqu'un devrait écrire un éloge funèbre. Pas moi, mais quelqu'un."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Swell. A giant bug on a giant ball of poop."
+msgstr "Génial. Un insecte géant sur une énorme boule de caca."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "Just screaming to be stepped on."
+msgstr "Ça ne demande qu'à être écrasé dans son sommeil."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "At least it smells a little better now."
+msgstr "Au moins, ça sent un poil meilleur comme ça."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Normally I'm all for getting my hands dirty but..."
+msgstr "Normalement, j'adore me salir les mains, mais là..."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.DUNGPILE.PICKED"
+msgid "What happens in the jungle, stays in the jungle."
+msgstr "Ce qui se passe dans la jungle ne sortira pas de la jungle."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.FLOWER_RAINFOREST"
@@ -2595,6 +3160,21 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HAYFEVER_OFF"
 msgid "Ahh... Finally I can breathe."
 msgstr "Ahh... Enfin, je respire."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_PICKPOOP.1"
+msgid "I never!"
+msgstr "Ce n'est pas dans mes habitudes !"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_PICKPOOP.2"
+msgid "Disgusting!"
+msgstr "Dégoûtant !"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_PICKPOOP.3"
+msgid "What a horrid smell!"
+msgstr "Quelle odeur nauséabonde !"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_SNEEZE"
 msgid "Ahh... CHOOOOOOOOO!"
@@ -2649,6 +3229,41 @@ msgstr "L'exosquelette d'un arthropode."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTNETTLE"
 msgid "These are quite good for the sinuses."
 msgstr "Très bon pour les sinus."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBALL"
+msgid "A perfectly spherical specimen of feces."
+msgstr "Un excrément parfaitement sphérique."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "A Scarabaeidae cadaver."
+msgstr "Un cadavre de scarabéidé."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Scarabaeidae with her droppings."
+msgstr "Un scarabéidé. Et ses excréments."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "At rest."
+msgstr "L'animal se repose."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "She's lost her dung."
+msgstr "L'animal a perdu sa boule d'excréments."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Scarabaeidae will make short work of it."
+msgstr "Les scarabéidés expédient ça vite fait."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUNGPILE.PICKED"
+msgid "Odious, yet useful."
+msgstr "Infâme. Mais utile."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER_RAINFOREST"
@@ -2835,6 +3450,21 @@ msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_HAYFEVER_OFF"
 msgid "SNIFFS. WILBA NOSE IS'T NAUGHT STUFFY NO MORES!"
 msgstr "*SNIFF* LE NEZ DE WILBA EST DÉBOUCHÉ !"
 
+#. STRINGS.CHARACTERS.WILBA.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_PICKPOOP.1"
+msgid "SNORT!"
+msgstr "*GROGNE*"
+
+#. STRINGS.CHARACTERS.WILBA.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_PICKPOOP.2"
+msgid "OINC!"
+msgstr "GROUIK !"
+
+#. STRINGS.CHARACTERS.WILBA.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_PICKPOOP.3"
+msgid "PLOPS!"
+msgstr "POPO !"
+
 #. STRINGS.CHARACTERS.WILBA.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WILBA.ANNOUNCE_SNEEZE"
 msgid "SNORT, 'NEEZE, A-CHOOEY!"
@@ -2889,6 +3519,41 @@ msgstr "ÇA VIENT DE L'ARMURE DES INSECTES"
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.CUTNETTLE"
 msgid "DOST UNSTUFF'DED MINE SNOUTS"
 msgstr "ÇA DÉBOUCHE MON GROIN"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBALL"
+msgid "SWOLLEN PARCEL O' PLOPSIES"
+msgstr "UNE BOULE PLEINE DE POPO"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "HATH SHUFFLED OFF HIS MORTAL PLOP BALL"
+msgstr "A RENDU L'ÂME EN POUSSANT SA MORTELLE BOULE DE POPO"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "HAS'T THE PLOPS"
+msgstr "A LE POPO"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "SLEEP NO MORE!"
+msgstr "ARRÊTE DE DORMIR !"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "HAS'T NAUGHT THE PLOPS"
+msgstr "N'A PAS LE POPO"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGPILE.GENERIC"
+msgid "WILBA AM SICK WHEN SHE LOOK ON THEE"
+msgstr "QUAND WILBA TE VOIT, ELLE EST MALADE"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.DUNGPILE.PICKED"
+msgid "HAST BEEN PICK'DED THROUGH"
+msgstr "ÇA A ÉTÉ RAMASSÉ"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.FLOWER_RAINFOREST"
@@ -3070,6 +3735,21 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_HAYFEVER_OFF"
 msgid "Sniff! I feel better now!"
 msgstr "Sniff ! Je me sens mieux maintenant !"
 
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_PICKPOOP.1"
+msgid "Ick!"
+msgstr "Beurk !"
+
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_PICKPOOP.2"
+msgid "Gross!"
+msgstr "Écœurant !"
+
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_PICKPOOP.3"
+msgid "Burn it all!!"
+msgstr "Tout doit brûler !"
+
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_SNEEZE"
 msgid "Achoo!!"
@@ -3124,6 +3804,41 @@ msgstr "De la peau de bestiole."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CUTNETTLE"
 msgid "It smells funny."
 msgstr "Drôle d'odeur."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBALL"
+msgid "Can't even set it on fire."
+msgstr "Je peux même pas y mettre le feu."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Squashed."
+msgstr "La bestiole est toute aplatie."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Beat it, smelly beetle!"
+msgstr "Fiche le camp, bestiole puante !"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "How do you sleep with that smell?"
+msgstr "Comment peux-tu dormir avec une telle odeur ?"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "You better run."
+msgstr "Tu ferais mieux de déguerpir."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Haha, that pile's huge!"
+msgstr "Haha, ça c'est un gros tas !"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DUNGPILE.PICKED"
+msgid "What? I needed it."
+msgstr "Quoi ? J'en avais besoin."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.FLOWER_RAINFOREST"
@@ -3305,6 +4020,21 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_HAYFEVER_OFF"
 msgid "Huh, finally comfortable."
 msgstr "Heu, enfin à l'aise."
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_PICKPOOP.1"
+msgid "Alas!"
+msgstr "Hélas!"
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_PICKPOOP.2"
+msgid "So dirty!"
+msgstr "Tellement sale!"
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_PICKPOOP.3"
+msgid "Unbearable!"
+msgstr "Insupportable!"
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_SNEEZE"
 msgid "Ah chirp!"
@@ -3359,6 +4089,41 @@ msgstr "Je ne sais pas à quoi cela peut servir."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CUTNETTLE"
 msgid "Keep your breath flowing and refresh your mind."
 msgstr "Gardez votre respiration fluide et rafraîchissez votre esprit."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBALL"
+msgid "I would never touch it."
+msgstr "Je n'y toucherais jamais."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Is she dead?"
+msgstr "Est-elle morte ?"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "No matter how many times you see it, it’s hard to accept."
+msgstr "Peu importe le nombre de fois où vous le voyez, c’est difficile à accepter."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "Rest is a must."
+msgstr "Le repos est indispensable."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "It looks like the loss of a loved one."
+msgstr "Cela ressemble à la perte d'un être cher."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Ugh, gross."
+msgstr "Pouah, dégoûtant."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DUNGPILE.PICKED"
+msgid "I thought it was over..."
+msgstr "Je pensais que c'était fini..."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.FLOWER_RAINFOREST"
@@ -3535,6 +4300,21 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HAYFEVER_OFF"
 msgid "Ha! Wolfgang beat allergies!"
 msgstr "Ha ! Wolfgang est plus fort que les allergies !"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PICKPOOP.1"
+msgid "Bah!"
+msgstr "Beurk !"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PICKPOOP.2"
+msgid "Ew!"
+msgstr "Pouah !"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PICKPOOP.3"
+msgid "Wolfgang is disgusted!"
+msgstr "Ça dégoûte Wolfgang !"
+
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SNEEZE"
 msgid "Achoo! Excuse Wolfgang."
@@ -3589,6 +4369,41 @@ msgstr "Un morceau dégoûtant d'insecte."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTNETTLE"
 msgid "Is good for clearing nose."
 msgstr "Ça dégage bien le nez."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBALL"
+msgid "Is ball of poop."
+msgstr "C'est une boule de popo."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Is dead. Is still stink."
+msgstr "L'insecte est mort. Mais il pue toujours."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Bug runs on ball of poop."
+msgstr "Un insecte sur une boule de popo."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "Is pooped."
+msgstr "L'insecte est exténué."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "Bug fell off ball of poop."
+msgstr "L'insecte est tombé de sa boule de popo."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Is more smelly than armpit."
+msgstr "Ça sent encore plus mauvais que sous des aisselles après un marathon."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUNGPILE.PICKED"
+msgid "All gone. For now."
+msgstr "Plus rien. Pour l'instant."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FLOWER_RAINFOREST"
@@ -3770,6 +4585,21 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HAYFEVER_OFF"
 msgid "Ah! Clean air again."
 msgstr "Ah, de l'air pur."
 
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PICKPOOP.1"
+msgid "Ew!"
+msgstr "Pouah !"
+
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PICKPOOP.2"
+msgid "Blah!"
+msgstr "Pouah !"
+
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PICKPOOP.3"
+msgid "That's gross, eh?"
+msgstr "C'est dégoûtant, hein ?"
+
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_SNEEZE"
 msgid "Achoo! Excuse me. Sorry."
@@ -3824,6 +4654,41 @@ msgstr "Ça pèse son poids."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CUTNETTLE"
 msgid "It has a smell to it."
 msgstr "Ça a une certaine odeur, pour ne pas dire une odeur certaine."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBALL"
+msgid "Dung to go."
+msgstr "De la bouse à emporter."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "It's a goner."
+msgstr "La bestiole a claqué."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "There's a bit of a stink."
+msgstr "Y a comme qui dirait une mauvaise odeur."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "Getting some shut eye."
+msgstr "La bestiole fait un petit somme."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "I don't think she liked that."
+msgstr "La bestiole n'as pas l'air contente."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Dung gone it."
+msgstr "Un sacré tas de bouse."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUNGPILE.PICKED"
+msgid "There'll be more."
+msgstr "Y en aura d'autres."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLOWER_RAINFOREST"
@@ -4005,6 +4870,21 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HAYFEVER_OFF"
 msgid "Ah! Th'air be clear again!"
 msgstr "Ah ! C'est mieux !"
 
+#. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.1"
+msgid "Arrgh!"
+msgstr "Arrg !"
+
+#. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.2"
+msgid "Avast!"
+msgstr "Mille sabords !"
+
+#. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.3"
+msgid "Ye repulsive thing!"
+msgstr "Sapristi, c'est dégoûtant !"
+
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SNEEZE"
 msgid "Ahh-pheww!!"
@@ -4059,6 +4939,41 @@ msgstr "Une coque toute durcie."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTNETTLE"
 msgid "Cleans tha' nose as good as sea air."
 msgstr "Aussi efficace que l'air du large pour dégager l'pif."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBALL"
+msgid "Throw it o'erboard!"
+msgstr "À jeter par-dessus bord !"
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "'tas been run through!"
+msgstr "La bestiole est plus très vivante, pour sûr."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Cre'ture o' tha dung."
+msgstr "Une bestiole qui fait des boules d'bouse."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "Too much o' the grog?"
+msgstr "T'as siroté trop d'rhum ?"
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "Th'foul stench follows ye."
+msgstr "L'odeur infecte te suit."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Foul."
+msgstr "Immonde."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DUNGPILE.PICKED"
+msgid "Argh! Sweet seawat'r could'na cleanse me now."
+msgstr "Argh ! Même l'eau d'mer pourra pas m'nettoyer."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.FLOWER_RAINFOREST"
@@ -4240,6 +5155,21 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HAYFEVER_OFF"
 msgid "Oh. Happy time gone"
 msgstr "Oh, la joyeuse période est finie."
 
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_PICKPOOP.1"
+msgid "Wheee!"
+msgstr "Youpi !"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_PICKPOOP.2"
+msgid "Yay!"
+msgstr "Ouais !"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_PICKPOOP.3"
+msgid "Woohoo!"
+msgstr "Wouhou !"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_SNEEZE"
 msgid "Hiccup!"
@@ -4294,6 +5224,41 @@ msgstr "C'est un vêtement de bzzz."
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CUTNETTLE"
 msgid "(sniiiiiff)"
 msgstr "*Ssniiiiiff*"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBALL"
+msgid "Yay! Ball of poop!"
+msgstr "Youpi, une boule de bouse !"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Poor poop rider"
+msgstr "Pauvre bestiole qui se baladait sur de la bouse."
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "You like poop too?!"
+msgstr "Toi aussi, tu aimes la bouse ?!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "Shhh..."
+msgstr "Chut..."
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "Where's poop?"
+msgstr "Elle est où la bouse ?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Poop!"
+msgstr "De la bouse !"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUNGPILE.PICKED"
+msgid "Aw. No more poop"
+msgstr "Oh, y a plus de bouse."
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FLOWER_RAINFOREST"
@@ -4475,6 +5440,21 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HAYFEVER_OFF"
 msgid "The pollen is gone. finally."
 msgstr "Le pollen a disparu. enfin."
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PICKPOOP.1"
+msgid "How disgusting!"
+msgstr "Quelle horreur!"
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PICKPOOP.2"
+msgid "It's still hot!"
+msgstr "Il fait encore chaud !"
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_PICKPOOP.3"
+msgid "I can't take my claws anymore!"
+msgstr "Je n'en peux plus de mes griffes !"
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SNEEZE"
 msgid "(breathing) Ah chirp! Ahhhhhh!"
@@ -4524,6 +5504,41 @@ msgstr "La carapace de ces gars."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CUTNETTLE"
 msgid "Just smelling it blows my nose."
 msgstr "Rien que de le sentir, je me mouche."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBALL"
+msgid "Why would anyone like it?"
+msgstr "Pourquoi quelqu'un aimerait-il ça ?"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Sorry, ma'am."
+msgstr "Désolé, madame."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Is that... poop?"
+msgstr "C'est... caca ?"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "I thought they would have a loud purring sound."
+msgstr "Je pensais qu'ils auraient un ronronnement fort."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "Please don't do that again."
+msgstr "S'il vous plaît, ne faites plus ça."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGPILE.GENERIC"
+msgid "The stench is overwhelming..."
+msgstr "La puanteur est accablante..."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUNGPILE.PICKED"
+msgid "Still there?"
+msgstr "Toujours là?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FLOWER_RAINFOREST"
@@ -4700,6 +5715,21 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_HAYFEVER_OFF"
 msgid "oh! The gills are finally comfortable!"
 msgstr "Oh! Les ouïes sont enfin confortables !"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_PICKPOOP.1"
+msgid "Such dirty water!"
+msgstr "Quelle eau sale !"
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_PICKPOOP.2"
+msgid "Greg..."
+msgstr "Grégory..."
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_PICKPOOP.3"
+msgid "no more chance!"
+msgstr "plus aucune chance !"
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_SNEEZE"
 msgid "Heh-hoo, ha-choo! ! !"
@@ -4754,6 +5784,41 @@ msgstr "Peau dure."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CUTNETTLE"
 msgid "It into my nose!"
 msgstr "C'est dans mon nez !"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBALL"
+msgid "Dirt ball."
+msgstr "Boule de terre."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "Not moving anymore."
+msgstr "Ne bouge plus."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "Beautiful, but stinky."
+msgstr "Beau, mais puant."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "Just fell asleep."
+msgstr "Je viens de m'endormir."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "Still stinks."
+msgstr "Ça pue toujours."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGPILE.GENERIC"
+msgid "Dirty and smelly."
+msgstr "Sale et malodorant."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.DUNGPILE.PICKED"
+msgid "there is none left."
+msgstr "il n'y en a plus."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FLOWER_RAINFOREST"
@@ -4930,6 +5995,21 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_HAYFEVER_OFF"
 msgid "DETRITUS HAS CLEARED FROM ENVIRONMENT"
 msgstr "DISPARITION DES DÉTRITUS ENVIRONNEMENTAUX."
 
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_PICKPOOP.1
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_PICKPOOP.1"
+msgid "ERROR!"
+msgstr "ERREUR !"
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_PICKPOOP.2
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_PICKPOOP.2"
+msgid "ERROR!"
+msgstr "ERREUR !"
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_PICKPOOP.3
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_PICKPOOP.3"
+msgid "WIPE INCIDENT FROM MEMORY"
+msgstr "INCIDENT À SUPPRIMER DE LA MÉMOIRE."
+
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_SNEEZE"
 msgid "COMMENCE NASAL UNIT CLEARING: AH-CHOO!"
@@ -4984,6 +6064,41 @@ msgstr "REVÊTEMENT CORPOREL ORGANIQUE DE MAUVAISE QUALITÉ."
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CUTNETTLE"
 msgid "I CAN USE THIS TO SERVICE MY OLFACTORY UNIT"
 msgstr "JE PEUX M'EN SERVIR POUR LA MAINTENANCE DE MON UNITÉ OLFACTIVE."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBALL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBALL"
+msgid "ORGANIC WASTE SPHERE"
+msgstr "SPHÈRE DE MATIÈRE FÉCALE ORGANIQUE."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBEETLE.DEAD
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBEETLE.DEAD"
+msgid "DEBUGGED"
+msgstr "UNITÉ HORS SERVICE."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBEETLE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBEETLE.GENERIC"
+msgid "BIOLOGICAL STORAGE SYSTEM FOR ORGANIC WASTE SPHERE"
+msgstr "SUPPORT DE STOCKAGE BIOLOGIQUE POUR SPHÈRE DE DÉCHETS ORGANIQUES."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBEETLE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBEETLE.SLEEPING"
+msgid "IT SHUT DOWN"
+msgstr "IL S'EST ÉTEINT."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBEETLE.UNDUNGED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGBEETLE.UNDUNGED"
+msgid "NO LONGER CONTAINS WASTE"
+msgstr "DÉPOURVU DE MATIÈRE FÉCALE ORGANIQUE."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGPILE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGPILE.GENERIC"
+msgid "MEATSACKS ARE REPULSIVE"
+msgstr "LES CRÉATURES DE CHAIR ME DÉGOÛTENT."
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGPILE.PICKED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DUNGPILE.PICKED"
+msgid "I AM SLIGHTLY REPULSIVE TOO"
+msgstr "JE ME DÉGOÛTE UN PEU AUSSI."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.FLOWER_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FLOWER_RAINFOREST"
@@ -5185,6 +6300,21 @@ msgctxt "STRINGS.NAMES.CUTNETTLE"
 msgid "Nettle"
 msgstr "Feuilles d'ortie"
 
+#. STRINGS.NAMES.DUNGBALL
+msgctxt "STRINGS.NAMES.DUNGBALL"
+msgid "Dung Ball"
+msgstr "Boule de bouse"
+
+#. STRINGS.NAMES.DUNGBEETLE
+msgctxt "STRINGS.NAMES.DUNGBEETLE"
+msgid "Dung Beetle"
+msgstr "Bousier"
+
+#. STRINGS.NAMES.DUNGPILE
+msgctxt "STRINGS.NAMES.DUNGPILE"
+msgid "Dung Pile"
+msgstr "Tas de bouse"
+
 #. STRINGS.NAMES.FLOWER_RAINFOREST
 msgctxt "STRINGS.NAMES.FLOWER_RAINFOREST"
 msgid "Exotic Flower"
@@ -5319,6 +6449,21 @@ msgstr "Asperge"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DEEP_JUNGLE_FERN_NOISE"
 msgid "Jungle Floor Ferns"
 msgstr "Fougères de la jungle"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE"
+msgid "Dung Beetle"
+msgstr "Bousier"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE_SETTING"
+msgid "Dung Beetle"
+msgstr "Bousier"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGPILE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGPILE"
+msgid "Dung Pile"
+msgstr "Tas de fumier"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.FOG
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FOG"

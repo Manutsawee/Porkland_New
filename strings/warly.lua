@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "Thank God.",
     ANNOUNCE_HAYFEVER = "Ugh! My allergies!",
     ANNOUNCE_HAYFEVER_OFF = "I think... my nose has cleared!",
+    ANNOUNCE_PICKPOOP = {
+        "Blech!",
+        "Blagh!",
+        "Beurk!",
+    },
     ANNOUNCE_SNEEZE = "Atchoum!",
     ANNOUNCE_TOO_HUMID = {
         "Mon dieu! This %s is humid.",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Good ventilation in the kitchen is an must.",
         CHITIN = "Completely inedible.",
         CUTNETTLE = "Great for clearing the sinuses!",
+        DUNGBALL = "Non.",
+        DUNGBEETLE = {
+            DEAD = "Such is life.",
+            GENERIC = "Not how I would spend my days.",
+            SLEEPING = "Dormez bien, mon amie.",
+            UNDUNGED = "She's fallen.",
+        },
+        DUNGPILE = {
+            GENERIC = "The smell is so strong I can taste it.",
+            PICKED = "That was not food safe.",
+        },
         FLOWER_RAINFOREST = "Edible?",
         GLOWFLY = {
             DEAD = "Such a shame. And not even edible.",

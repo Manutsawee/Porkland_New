@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "This is what happens, bug.",
     ANNOUNCE_HAYFEVER = "Mine nostrils chafe with itchiness!",
     ANNOUNCE_HAYFEVER_OFF = "The smoke has cleared!",
+    ANNOUNCE_PICKPOOP = {
+        "Alas!",
+        "Alack!",
+        "It disturbs mine soul!",
+    },
     ANNOUNCE_SNEEZE = "aaAAAH...cho!",
     ANNOUNCE_TOO_HUMID = {
         "This %s is crushing my spirit.",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "Conquers the heat!",
         CHITIN = "The feeble armor of the bug.",
         CUTNETTLE = "Its smell has vanquish mine sinuses.",
+        DUNGBALL = "What sickness is this?",
+        DUNGBEETLE = {
+            DEAD = "She has fallen in battle.",
+            GENERIC = "A mounted foe!",
+            SLEEPING = "May her dreams be as foul as the spheres she rides.",
+            UNDUNGED = "She has been thrown from her foul mount!",
+        },
+        DUNGPILE = {
+            GENERIC = "Surely this came from a giant's backside!",
+            PICKED = "It has been picked through.",
+        },
         FLOWER_RAINFOREST = "A blossom most lovely.",
         GLOWFLY = {
             DEAD = "Alas, it is dead.",

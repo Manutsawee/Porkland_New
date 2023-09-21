@@ -5,6 +5,11 @@ return {
     ANNOUNCE_GNATS_DIED = "The enemy plane crashed, awesome!",
     ANNOUNCE_HAYFEVER = "Allergiesch. What allergiesch?",
     ANNOUNCE_HAYFEVER_OFF = "My face stopped leaking. Allergy season must be over.",
+    ANNOUNCE_PICKPOOP = {
+        "Swell.",
+        "Just great.",
+        "I'll put this in my memoir.",
+    },
     ANNOUNCE_SNEEZE = "AchooOO!",
     ANNOUNCE_TOO_HUMID = {
         "This %s is suffocating.",
@@ -19,6 +24,17 @@ return {
         BASEFAN = "A plane propeller would be better.",
         CHITIN = "I'm going to need more of these.",
         CUTNETTLE = "Smells like relief.",
+        DUNGBALL = "Huh. It's almost like nobody wants a ball of poop.",
+        DUNGBEETLE = {
+            DEAD = "Someone should write a eulogy. Not me, but someone.",
+            GENERIC = "Swell. A giant bug on a giant ball of poop.",
+            SLEEPING = "Just screaming to be stepped on.",
+            UNDUNGED = "At least it smells a little better now.",
+        },
+        DUNGPILE = {
+            GENERIC = "Normally I'm all for getting my hands dirty but...",
+            PICKED = "What happens in the jungle, stays in the jungle.",
+        },
         FLOWER_RAINFOREST = "You can never have too many flowers. Or projectiles.",
         GLOWFLY = {
             DEAD = "I guess it can't fly me out of here now.",

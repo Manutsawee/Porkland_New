@@ -5,6 +5,12 @@ return {
     ANNOUNCE_GNATS_DIED = "It's quiet, finally.",
     ANNOUNCE_HAYFEVER = "Allergy season.",
     ANNOUNCE_HAYFEVER_OFF = "Hey! I feel better!",
+    ANNOUNCE_PICKPOOP = {
+        "Dude!",
+        "Grody!",
+        "Blah!",
+        "This stinks!",
+    },
     ANNOUNCE_SNEEZE = "ahhh... ahhhh...ahhhhhCHOOO!",
     ANNOUNCE_TOO_HUMID = {
         "Ugh. This %s is soooo muggy.",
@@ -19,6 +25,17 @@ return {
         BASEFAN = "A nice breeze.",
         CHITIN = "Probably wouldn't make a good surfboard.",
         CUTNETTLE = "Whew! Really cleans your sinuses!",
+        DUNGBALL = "Should've leashed it.",
+        DUNGBEETLE = {
+            DEAD = "Aww... All dunged out.",
+            GENERIC = "It's a grade-A dung surfer.",
+            SLEEPING = "That's the right attitude.",
+            UNDUNGED = "Someone's grubbing.",
+        },
+        DUNGPILE = {
+            GENERIC = "Mushburger.",
+            PICKED = "Nothing left.",
+        },
         FLOWER_RAINFOREST = "I love these.",
         GLOWFLY = {
             DEAD = "I wish it hadn't died.",
