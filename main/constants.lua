@@ -25,3 +25,7 @@ NAUGHTY_VALUE["hippopotamoose"] = 4
 NAUGHTY_VALUE["mandrakeman"] = 3
 NAUGHTY_VALUE["peagawk"] = 3
 -- NAUGHTY_VALUE["frog_poison"] = 2
+
+FOODTYPE.GOLDDUST = "GOLDDUST"
+
+TOOLACTIONS.PAN = true

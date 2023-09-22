@@ -5,11 +5,13 @@ GLOBAL.setfenv(1, GLOBAL)
 local PL_ACTIONS = {
     PEAGAWK_TRANSFORM = Action({}),
     BARK = Action({}, nil, nil, nil, 3),
-	RANSACK = Action({}, nil, nil, nil, 0.5),
+    RANSACK = Action({}, nil, nil, nil, 0.5),
     INFEST = Action({}, nil, nil, nil, 0.5),
     SPECIAL_ACTION = Action({}, nil, nil, nil, 1.2),
-    DIGDUNG = Action({mount_enabled=true}),
-	MOUNTDUNG = Action({}),
+    DIGDUNG = Action({mount_enabled = true}),
+    MOUNTDUNG = Action({}),
+    ABSORBWATER = Action({}, nil, nil, nil, 1.2),
+    PAN = Action({}, nil, nil, nil, 1),
 }
 
 for name, ACTION in pairs(PL_ACTIONS) do
@@ -23,16 +25,17 @@ ACTIONS.PEAGAWK_TRANSFORM.fn = function(act)
 end
 
 ACTIONS.BARK.fn = function(act)
-	return true
+    return true
 end
 
 ACTIONS.RANSACK.fn = function(act)
-	return true
+    return true
 end
 
 ACTIONS.INFEST.fn = function(act)
-    if not act.doer.components.infester.infesting then
-        act.doer.components.infester:Infest(act.target)
+    local doer = act.doer
+    if doer.components.infester and not doer.components.infester.infesting then
+        doer.components.infester:Infest(act.target)
     end
     return true
 end
@@ -44,15 +47,49 @@ ACTIONS.SPECIAL_ACTION.fn = function(act)
     end
 end
 
+ACTIONS.ABSORBWATER.fn = function(act)
+    local doer = act.doer
+    if doer.puddle and doer.puddle.stage > 0 then
+        doer.puddle.Shrink(doer.puddle)
+        doer.goldlevel = doer.goldlevel + 1/8
+    end
+    return true
+end
+
 ACTIONS.DIGDUNG.fn = function(act)
-	act.target.components.workable:WorkedBy(act.doer, 1)
+    act.target.components.workable:WorkedBy(act.doer, 1)
+    return true
 end
 
 ACTIONS.MOUNTDUNG.fn = function(act)
     local doer = act.doer
-	doer.dung_target:Remove()
+    doer.dung_target:Remove()
     doer:AddTag("hasdung")
     doer.dung_target = nil
+    return true
+end
+
+local _DoToolWork = ToolUtil.GetUpvalue(ACTIONS.CHOP.fn, "DoToolWork")
+local function DoToolWork(act, workaction, ...)
+    local target = act.target
+    local citypossession = target.components.citypossession
+    if citypossession ~= nil and citypossession.enabled and target.components.workable.workleft < 1 then
+        if TheWorld.components.cityalarms ~= nil then
+            TheWorld.components.cityalarms:ChangeStatus(citypossession.cityID, true, act.doer)
+        end
+    end
+    return _DoToolWork(act, workaction, ...)
+end
+ToolUtil.SetUpvalue(ACTIONS.CHOP.fn, DoToolWork, "DoToolWork")
+
+ACTIONS.PAN.fn = function(act)
+    DoToolWork(act, ACTIONS.PAN)
+    return true
+end
+
+local _ValidToolWork = ToolUtil.GetUpvalue(ACTIONS.CHOP.validfn, "ValidToolWork")
+ACTIONS.PAN.validfn = function(act)
+    return _ValidToolWork(act, ACTIONS.PAN)
 end
 
 local _STORE_stroverridefn = ACTIONS.STORE.stroverridefn

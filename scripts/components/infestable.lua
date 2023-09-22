@@ -16,7 +16,6 @@ function Infestable:Infest(inst)
 end
 
 function Infestable:Uninfest(inst)
-    local found = false
     for i,v in ipairs(self.infesters)do
         if v == inst then
             table.remove(self.infesters,i)
