@@ -61,6 +61,8 @@ local function fn()
     inst.components.finiteuses:SetOnFinished(OnFinished)
     inst.components.finiteuses:SetConsumption(ACTIONS.PAN, 1)
 
+    MakeHauntableLaunch(inst)
+
     return inst
 end
 
