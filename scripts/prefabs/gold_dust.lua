@@ -4,14 +4,15 @@ local assets = {
 
 local function Shine(inst)
     local x, y, z = inst.Transform:GetWorldPosition()
+    local onwater = TheWorld.Map:IsOceanAtPoint(x, y, z, false)
     inst.task = nil
-    -- if TheWorld.Map:IsOceanAtPoint(x, y, z, false) then
-    --     inst.AnimState:PlayAnimation("sparkle_water")
-    --     inst.AnimState:PushAnimation("idle_water")
-    -- else
+    if onwater then
+        inst.AnimState:PlayAnimation("sparkle_water")
+        inst.AnimState:PushAnimation("idle_water")
+    else
         inst.AnimState:PlayAnimation("sparkle")
         inst.AnimState:PushAnimation("idle")
-    -- end
+    end
     inst.task = inst:DoTaskInTime(4 + math.random() * 5, function() Shine(inst) end)
 end
 
