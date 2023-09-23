@@ -33,7 +33,7 @@ local function fn()
     inst.AnimState:SetBuild("pan")
     inst.AnimState:PlayAnimation("idle")
 
-    inst:AddTag("workonfloor")
+    inst:AddTag("goldpan")
     inst:AddTag("smeltable") -- Smelter
 
     inst.entity:SetPristine()

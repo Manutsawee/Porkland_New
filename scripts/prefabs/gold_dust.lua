@@ -13,7 +13,7 @@ local function Shine(inst)
         inst.AnimState:PlayAnimation("sparkle")
         inst.AnimState:PushAnimation("idle")
     end
-    inst.task = inst:DoTaskInTime(4 + math.random() * 5, function() Shine(inst) end)
+    inst.task = inst:DoTaskInTime(4 + math.random() * 5, Shine)
 end
 
 local function fn()
