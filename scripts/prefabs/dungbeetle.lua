@@ -53,12 +53,14 @@ local function HitShake(inst)
     ShakeAllCameras(CAMERASHAKE.VERTICAL, .5, .03, 2, inst, 40)
 end
 
+local function ValidCollideTarget(inst, other)
+    return inst.sg:HasStateTag("running") and inst:HasTag("hasdung") and other ~= nil and other:IsValid()
+end
+
 local function OnCollide(inst, other)
-    if inst.sg:HasStateTag("running") and inst:HasTag("hasdung") then
-        if other then
-            HitShake(inst)
-            FalloffDung(inst)
-        end
+    if ValidCollideTarget(inst, other) and Vector3(inst.Physics:GetVelocity()):LengthSq() >= 42 then
+        HitShake(inst)
+        FalloffDung(inst)
     end
 end
 
