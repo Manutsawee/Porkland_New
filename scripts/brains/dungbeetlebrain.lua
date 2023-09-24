@@ -19,7 +19,7 @@ local DungBeetleBrain = Class(Brain, function(self, inst)
 end)
 
 local function DigDungAction(inst)
-    if inst.sg:HasStateTag("busy") then
+    if inst.sg:HasStateTag("surprise") then
         return
     end
 
@@ -32,7 +32,7 @@ local function DigDungAction(inst)
 end
 
 local function MountDungAction(inst)
-    if inst.sg:HasStateTag("busy") then
+    if inst.sg:HasStateTag("surprise") then
         return
     end
 
