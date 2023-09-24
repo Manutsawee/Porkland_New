@@ -18,15 +18,15 @@ SetSharedLootTable("pangolden", {
     {"meat",    1.00},
 })
 
-local function KeepTarget(inst, target)
-    local target_pt = Vector3(target.Transform:GetWorldPosition())
-    local inst_pt = Vector3(inst.Transform:GetWorldPosition())
-    return (not inst.sg:HasStateTag("ball")) and distsq(target_pt, inst_pt) < TUNING.PANGOLDEN_CHASE_DIST * TUNING.PANGOLDEN_CHASE_DIST
-end
+-- local function KeepTarget(inst, target)
+--     local target_pt = Vector3(target.Transform:GetWorldPosition())
+--     local inst_pt = Vector3(inst.Transform:GetWorldPosition())
+--     return (not inst.sg:HasStateTag("ball")) and distsq(target_pt, inst_pt) < TUNING.PANGOLDEN_CHASE_DIST * TUNING.PANGOLDEN_CHASE_DIST
+-- end
 
-local function OnAttacked(inst, data)
-    inst.components.combat:SetTarget(data.attacker)
-end
+-- local function OnAttacked(inst, data)
+--     inst.components.combat:SetTarget(data.attacker)
+-- end
 
 local function OnEat(inst)
     inst.goldlevel = inst.goldlevel + 1/3
@@ -100,11 +100,11 @@ local function fn()
 
     inst:AddComponent("combat")
     inst.components.combat.hiteffectsymbol = "pang_bod"
-    inst.components.combat:SetDefaultDamage(TUNING.PANGOLDEN_DAMAGE)
+    -- inst.components.combat:SetDefaultDamage(TUNING.PANGOLDEN_DAMAGE)
     -- inst.components.combat:SetRetargetFunction(1, Retarget)
-    inst.components.combat:SetKeepTargetFunction(KeepTarget)
+    -- inst.components.combat:SetKeepTargetFunction(KeepTarget)
 
-    inst:ListenForEvent("attacked", OnAttacked)
+    -- inst:ListenForEvent("attacked", OnAttacked)
 
     MakeHauntablePanic(inst)
     MakeLargeBurnableCharacter(inst, "pang_bod")

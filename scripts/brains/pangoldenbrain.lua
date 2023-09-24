@@ -3,7 +3,7 @@ require "behaviours/faceentity"
 require "behaviours/chaseandattack"
 require "behaviours/panic"
 require "behaviours/follow"
-require "behaviours/attackwall"
+-- require "behaviours/attackwall"
 require "behaviours/runaway"
 
 local BrainCommon = require("brains/braincommon")
@@ -15,7 +15,7 @@ local SEE_FOOD_DIST = 10
 local AVOID_PLAYER_DIST = 7
 local AVOID_PLAYER_STOP = 9
 
-local MAX_CHASE_TIME = 6
+-- local MAX_CHASE_TIME = 6
 
 local MIN_FOLLOW_DIST = 1
 local TARGET_FOLLOW_DIST = 5
@@ -94,8 +94,8 @@ function Pangolden:OnStart()
             PriorityNode{
                 BrainCommon.PanicTrigger(self.inst),
                 RunAway(self.inst, "scarytoprey", AVOID_PLAYER_DIST, AVOID_PLAYER_STOP),
-                IfNode(function() return self.inst.components.combat.target ~= nil end, "hastarget", AttackWall(self.inst)),
-                ChaseAndAttack(self.inst, MAX_CHASE_TIME),
+                -- IfNode(function() return self.inst.components.combat.target ~= nil end, "hastarget", AttackWall(self.inst)),
+                -- ChaseAndAttack(self.inst, MAX_CHASE_TIME),
 
                 DoAction(self.inst, function() return SpawnGoldNugget(self.inst) end, "poop"),
                 DoAction(self.inst, function() return EatFoodAction(self.inst) end, "eat"),
