@@ -24,7 +24,7 @@ local function FalloffDung(inst)
 end
 
 local function OnAttacked(inst, data)
-    local freezetask = inst:DoTaskInTime(1, function()
+    inst:DoTaskInTime(1, function()
         if inst:HasTag("hasdung") and not inst.components.freezable:IsFrozen() then
             FalloffDung(inst)
         end
@@ -118,8 +118,8 @@ local function fn()
 
     inst:ListenForEvent("attacked", OnAttacked)
 
-    inst:SetStateGraph("SGdungbeetle")
     inst:SetBrain(brain)
+    inst:SetStateGraph("SGdungbeetle")
 
     MakeHauntablePanicAndIgnite(inst)
     MakeSmallBurnableCharacter(inst, "body")
