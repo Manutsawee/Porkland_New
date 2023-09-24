@@ -19,6 +19,10 @@ local DungBeetleBrain = Class(Brain, function(self, inst)
 end)
 
 local function DigDungAction(inst)
+    if inst.sg:HasStateTag("busy") then
+        return
+    end
+
     local target = FindEntity(inst, SEE_DUNG_DIST, function(item) return not inst:HasTag("hasdung") and item:HasTag("dungpile") end)
     if target then
         local act = BufferedAction(inst, target, ACTIONS.DIGDUNG)
@@ -28,6 +32,10 @@ local function DigDungAction(inst)
 end
 
 local function MountDungAction(inst)
+    if inst.sg:HasStateTag("busy") then
+        return
+    end
+
     local target = FindEntity(inst, SEE_DUNG_DIST, function(item) return not inst:HasTag("hasdung") and item:HasTag("dungball") end)
     if target then
         inst.dung_target = target
