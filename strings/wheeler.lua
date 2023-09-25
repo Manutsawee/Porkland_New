@@ -51,6 +51,7 @@ return {
         },
         HALBERD = "The must-have multi-tool for adventurers.",
         IRON = "Well it's not good balloon material.",
+        PANGOLDEN = "I don't actually mind picking up his poop.",
         PEAGAWK = {
             DEAD = "I promise, I will go on without you!",
             GENERIC = "Has the eyesight for flying but not the wings for it.",

@@ -51,6 +51,7 @@ return {
         },
         HALBERD = "Strange weapon used by Pigfolk.",
         IRON = "Red hard rock.",
+        PANGOLDEN = "Don’t drink it all!",
         PEAGAWK = {
             GENERIC = "Big weird bird.",
             SLEEPING = "The big monster fell asleep?",

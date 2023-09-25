@@ -51,6 +51,7 @@ return {
         },
         HALBERD = "A terrible weapon for a terrible world.",
         IRON = "Iron. Like my heart.",
+        PANGOLDEN = "A fool and his gold.",
         PEAGAWK = {
             DEAD = "Beautiful death.",
             GENERIC = "Many eyes witness many horrors in life.",

@@ -52,6 +52,7 @@ return {
         },
         HALBERD = "A blade as sharp as my wit.",
         IRON = "A solid mineral.",
+        PANGOLDEN = "He has expensive tastes.",
         PEAGAWK = {
             DEAD = "It's beauty has been snuffed out forever.",
             GENERIC = "What a regal-looking beast.",

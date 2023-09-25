@@ -51,6 +51,7 @@ return {
         },
         HALBERD = "Sword is for weak no-muscle men.",
         IRON = "Iron is strong like Wolfgang.",
+        PANGOLDEN = "Hehe. Haves big nose.",
         PEAGAWK = {
             DEAD = "Is blink-blink no more.",
             GENERIC = "Funny blink-blink bird!",

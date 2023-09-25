@@ -22,6 +22,7 @@ return {
         GRASS_TALL = "Tall Grass",
         HALBERD = "Halberd",
         IRON = "Iron Ore",
+        PANGOLDEN = "Pangolden",
         PEAGAWK = "Peagawk",
         PEAGAWKFEATHER = "Peagawk Plume",
         PEAGAWK_BUSH = "Blinkbush",

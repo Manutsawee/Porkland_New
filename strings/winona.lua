@@ -51,6 +51,7 @@ return {
         },
         HALBERD = "More suited to combat than to work.",
         IRON = "Invaluable material for manufacturing useful tools.",
+        PANGOLDEN = "A living metallurgical furnace.",
         PEAGAWK = {
             GENERIC = "Always be vigilant.",
             SLEEPING = "It let down its guard.",

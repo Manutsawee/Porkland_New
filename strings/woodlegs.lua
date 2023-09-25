@@ -51,6 +51,7 @@ return {
         },
         HALBERD = "T'ain't no cutlass.",
         IRON = "'Tis not gold, but a treasure nonetheless.",
+        PANGOLDEN = "Eatin' up all tha treasure!",
         PEAGAWK = {
             DEAD = "It tells no tales.",
             GENERIC = "Arr, them eyes need patches!",

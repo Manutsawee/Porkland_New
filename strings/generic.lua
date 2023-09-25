@@ -52,6 +52,7 @@ return {
         },
         HALBERD = "Now I can't be caught off-guard.",
         IRON = "Isn't it ironic?",
+        PANGOLDEN = "It likes rich food.",
         PEAGAWK = {
             DEAD = "Dead-eyed.",
             GENERIC = "That bush is alive!",

@@ -50,6 +50,7 @@ return {
         },
         HALBERD = "What a vicious weapon.",
         IRON = "Oooh. Almost burned me.",
+        PANGOLDEN = "How was your day? Is there anything to gain?",
         PEAGAWK = {
             GENERIC = "You must have seen a lot, right?",
             SLEEPING = "Huh, let's close our eyes and take a break?",

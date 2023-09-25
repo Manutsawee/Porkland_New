@@ -51,6 +51,7 @@ return {
         },
         HALBERD = "It is a cruel and versatile weapon.",
         IRON = "Ferrum.",
+        PANGOLDEN = "Aurum vermilingua.",
         PEAGAWK = {
             DEAD = "Lifeless.",
             GENERIC = "A strangely mutated Pavo Cristatus.",

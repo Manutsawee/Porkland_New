@@ -51,6 +51,7 @@ return {
         },
         HALBERD = "Weapons are only good if they're twice your size.",
         IRON = "I can't burn it with just my lighter.",
+        PANGOLDEN = "Yeesh, he's sucking up all the gold!",
         PEAGAWK = {
             DEAD = "Very dead.",
             GENERIC = "Jeepers peepers!",
