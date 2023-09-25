@@ -45,6 +45,7 @@ return {
         GNAT = "Flyin' minnows.",
         GNATMOUND = "Barnacle's o'tha land.",
         GOLDPAN = "Fer fishin' fer gold.",
+        GOLD_DUST = "Aye! 'Tis treasure dust!",
         GRASS_TALL = {
             BURNING = "'Tis ablaze!",
             GENERIC = "As tall'as th'sky.",

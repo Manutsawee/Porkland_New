@@ -46,6 +46,7 @@ return {
         GNAT = "Better gnat go near those guys.",
         GNATMOUND = "Science says it's gnat good.",
         GOLDPAN = "Critics panned it.",
+        GOLD_DUST = "Aw... it's hardly worth anything.",
         GRASS_TALL = {
             BURNING = "A grass fire!",
             GENERIC = "It's too tough to pick with my hands.",

@@ -45,6 +45,7 @@ return {
         GNAT = "Like life, they wear you down little by little.",
         GNATMOUND = "They're building their own doom.",
         GOLDPAN = "Offers too much hope.",
+        GOLD_DUST = "Death is not sparkly.",
         GRASS_TALL = {
             BURNING = "Death comes to everything.",
             GENERIC = "Alas, I'm too weak to pick it.",

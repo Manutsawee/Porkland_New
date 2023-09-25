@@ -45,6 +45,7 @@ return {
         GNAT = "Infest not me, bugs!",
         GNATMOUND = "The Valhalla of bugs.",
         GOLDPAN = "It will vanquish the pieces of tiny gold!",
+        GOLD_DUST = "Golden dust.",
         GRASS_TALL = {
             BURNING = "It burns!",
             GENERIC = "Surely it is the grass of Jotunheim!",

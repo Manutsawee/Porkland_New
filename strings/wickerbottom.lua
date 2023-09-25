@@ -45,6 +45,7 @@ return {
         GNAT = "A swarm of Culicidae Drosophila.",
         GNATMOUND = "Obviously the work of a eusocial insect.",
         GOLDPAN = "This should be useful for finding valuable minerals.",
+        GOLD_DUST = "Small particles of the shiniest element.",
         GRASS_TALL = {
             BURNING = "Illuminating!",
             GENERIC = "I need an implement for that.",

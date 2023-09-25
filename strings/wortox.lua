@@ -44,6 +44,7 @@ return {
         GNAT = "Don't let them get under my fur!",
         GNATMOUND = "This is my first time seeing this.",
         GOLDPAN = "A large colander, for gold and glory.",
+        GOLD_DUST = "Many mortals try to use it to fill the void in their souls.",
         GRASS_TALL = {
             BURNING = "Oops, it's burning.",
             GENERIC = "Solid tall grass, really nice.",

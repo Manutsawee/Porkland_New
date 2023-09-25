@@ -46,6 +46,7 @@ return {
         GNAT = "MUCH ADO ABOUT GNAT-ING",
         GNATMOUND = "ALL THAT BUZZES IS GNAT HOME",
         GOLDPAN = "'TIS A PAN FOR GLITTERIES",
+        GOLD_DUST = "'TIS DIRT O' SPARKLIES",
         GRASS_TALL = {
             BURNING = "FWOOSH'DING",
             GENERIC = "AS LONG AS THE DAY IS MERRY",

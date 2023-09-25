@@ -46,6 +46,7 @@ return {
         GNAT = "Horde horrible.",
         GNATMOUND = "Ugh. The horde home.",
         GOLDPAN = "Must I do everything myself?",
+        GOLD_DUST = "I suppose any gold is good gold.",
         GRASS_TALL = {
             BURNING = "Well, there you have it.",
             GENERIC = "Oh, joyous occasion. I've found grass.",

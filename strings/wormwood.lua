@@ -45,6 +45,7 @@ return {
         GNAT = "Stay away, Bzzters!",
         GNATMOUND = "Hello?",
         GOLDPAN = "Gets Shiny from puddle",
+        GOLD_DUST = "Shiny dirt",
         GRASS_TALL = {
             BURNING = "No!!",
             GENERIC = "You're so tall!",

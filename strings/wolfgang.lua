@@ -45,6 +45,7 @@ return {
         GNAT = "Is too small for smashing!",
         GNATMOUND = "Wolfgang smash bug home!",
         GOLDPAN = "Is for eating from?",
+        GOLD_DUST = "Wolfgang like. Is shiny.",
         GRASS_TALL = {
             BURNING = "Wolfgang is not doing that!",
             GENERIC = "Very sturdy grass.",

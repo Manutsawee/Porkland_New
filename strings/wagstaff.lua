@@ -45,6 +45,7 @@ return {
         GNAT = "Their capacity for aggravating behavior is truly astounding!",
         GNATMOUND = "The nest of those exceptionally annoying bugs.",
         GOLDPAN = "I do hope the holes were meant to be there.",
+        GOLD_DUST = "Evidently, it's the preferred sustenance of those long nosed quadrupeds.",
         GRASS_TALL = {
             BURNING = "Evidently, grass here has the same flammability qualities as at home.",
             GENERIC = "The obstinacy of this grass requires something sharper than my hands.",

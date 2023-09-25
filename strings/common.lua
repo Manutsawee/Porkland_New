@@ -21,6 +21,7 @@ return {
         GNAT = "Gnat Swarm",
         GNATMOUND = "Gnat Mound",
         GOLDPAN = "Gold Pan",
+        GOLD_DUST = "Gold Dust",
         GRASS_TALL = "Tall Grass",
         HALBERD = "Halberd",
         IRON = "Iron Ore",

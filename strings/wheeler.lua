@@ -45,6 +45,7 @@ return {
         GNAT = "Normally I like being around flyers, but I'll make an exception.",
         GNATMOUND = "Not bad, for a mound full of bugs.",
         GOLDPAN = "Swell. A pan with holes in it.",
+        GOLD_DUST = "Hardly worth holding onto. If I could find more of it though...",
         GRASS_TALL = {
             BURNING = "All those bugs have nowhere to hide now.",
             GENERIC = "Tall grass like that is going to need a machete.",

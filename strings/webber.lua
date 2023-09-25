@@ -45,6 +45,7 @@ return {
         GNAT = "Don't bite us, little guys.",
         GNATMOUND = "It's where all those little bugs live.",
         GOLDPAN = "Hey, now we can be prospectors.",
+        GOLD_DUST = "Wow! I wonder if it's worth anything.",
         GRASS_TALL = {
             BURNING = "Fire!",
             GENERIC = "It's taller than we are!",

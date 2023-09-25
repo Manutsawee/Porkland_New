@@ -45,6 +45,7 @@ return {
         GNAT = "Agh! They're too small to burn!",
         GNATMOUND = "I can't even burn it down.",
         GOLDPAN = "You mean I have to do work?",
+        GOLD_DUST = "It's probably not worth much.",
         GRASS_TALL = {
             BURNING = "I win.",
             GENERIC = "This grass is tough!",

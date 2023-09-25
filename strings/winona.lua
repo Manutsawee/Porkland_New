@@ -45,6 +45,7 @@ return {
         GNAT = "leave me alone!",
         GNATMOUND = "Those bugs are hiding in here.",
         GOLDPAN = "Separate the metal.",
+        GOLD_DUST = "gold! My luck has come!",
         GRASS_TALL = {
             BURNING = "A Grass fire!",
             GENERIC = "That's some... very tall grass.",
