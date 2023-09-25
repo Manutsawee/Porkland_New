@@ -5,6 +5,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0"
 
+#. STRINGS.ACTIONS.PAN
+msgctxt "STRINGS.ACTIONS.PAN"
+msgid "Pan"
+msgstr "Gold waschen"
+
 #. STRINGS.ACTIONS.SMELT
 msgctxt "STRINGS.ACTIONS.SMELT"
 msgid "Smelt"
@@ -174,6 +179,11 @@ msgstr "Mit denen will ich nichts zu tun haben."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNATMOUND"
 msgid "Science says it's gnat good."
 msgstr "Die Wissenschaft sagt, bleib ihnen fern."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDPAN"
+msgid "Critics panned it."
+msgstr "Ein Goldwaschding."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING"
@@ -470,6 +480,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNATMOUND"
 msgid "The nest of those exceptionally annoying bugs."
 msgstr "Das Nest dieser notorischen Nervensägen."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDPAN"
+msgid "I do hope the holes were meant to be there."
+msgstr "Hoffentlich sollen die Löcher da auch wirklich sein."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Evidently, grass here has the same flammability qualities as at home."
@@ -759,6 +774,11 @@ msgstr "Iieh! Bleib mir vom Leib!"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GNATMOUND"
 msgid "Like an apartment building for bugs."
 msgstr "Wie ein Mietshaus für Insekten."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDPAN"
+msgid "You mean I gotta work for my gold?"
+msgstr "Was, ich soll für mein Gold arbeiten?"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING"
@@ -1055,6 +1075,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GNATMOUND"
 msgid "What might live inside?"
 msgstr "Was könnte darin leben?"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDPAN"
+msgid "Are you ready? Warby!"
+msgstr "Sind Sie bereit? Warby!"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Hey! Brush fires will destroy rainforests!"
@@ -1345,6 +1370,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNATMOUND"
 msgid "Dirty and messy."
 msgstr "Schmutzig und chaotisch."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDPAN"
+msgid "I can't imagine how long this will take."
+msgstr "Ich kann mir nicht vorstellen, wie lange das dauern wird."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "This is not good."
@@ -1634,6 +1664,11 @@ msgstr "Die Insekten sind hier wirklich aufdringlich."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNATMOUND"
 msgid "I'd rather have a mound of chocolate."
 msgstr "Ich hätte lieber einen Schokoladenberg."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDPAN"
+msgid "I have better pans."
+msgstr "Ich habe bessere Pfannen."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING"
@@ -1929,6 +1964,11 @@ msgstr "Lasst mich zufrieden, Biester!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND"
 msgid "The Valhalla of bugs."
 msgstr "Das Walhall der Biester."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN"
+msgid "It will vanquish the pieces of tiny gold!"
+msgstr "Sie wird feines Gold aufspüren und bezwingen!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING"
@@ -2230,6 +2270,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND"
 msgid "Ugh. The horde home."
 msgstr "Puh. Das Heim der Horde."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN"
+msgid "Must I do everything myself?"
+msgstr "Muss ich denn alles selber machen?"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Well, there you have it."
@@ -2524,6 +2569,11 @@ msgstr "Beißt uns nicht, kleine Typen."
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNATMOUND"
 msgid "It's where all those little bugs live."
 msgstr "Da leben diese ganzen kleinen Typen."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDPAN"
+msgid "Hey, now we can be prospectors."
+msgstr "He, jetzt werden wir Goldsucher."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING"
@@ -2820,6 +2870,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GNATMOUND"
 msgid "They're building their own doom."
 msgstr "Sie bauen an ihrem eigenen Untergang."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDPAN"
+msgid "Offers too much hope."
+msgstr "Macht unnötig viel Hoffnung."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Death comes to everything."
@@ -3115,6 +3170,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNATMOUND"
 msgid "Not bad, for a mound full of bugs."
 msgstr "Nicht übel für einen Berg voller Insekten."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDPAN"
+msgid "Swell. A pan with holes in it."
+msgstr "Prächtig. Eine Pfanne mit Löchern."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "All those bugs have nowhere to hide now."
@@ -3409,6 +3469,11 @@ msgstr "Ein Schwarm Culicidae Drosophila."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNATMOUND"
 msgid "Obviously the work of a eusocial insect."
 msgstr "Offenkundig das Werk eines eusozialen Insekts."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDPAN"
+msgid "This should be useful for finding valuable minerals."
+msgstr "Sollte nützlich sein, um wertvolle Mineralien zu finden."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING"
@@ -3710,6 +3775,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GNATMOUND"
 msgid "ALL THAT BUZZES IS GNAT HOME"
 msgstr "DORT WOHNEN DIE STECHBIESTER."
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDPAN"
+msgid "'TIS A PAN FOR GLITTERIES"
+msgstr "'S IST EINE PFANNE FÜR GLITZER."
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "FWOOSH'DING"
@@ -4004,6 +4074,11 @@ msgstr "Argh! Sie sind zu klein, um sie zu verbrennen!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNATMOUND"
 msgid "I can't even burn it down."
 msgstr "Ich kann ihn nicht mal niederbrennen."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDPAN"
+msgid "You mean I have to do work?"
+msgstr "Was, ich muss arbeiten?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING"
@@ -4300,6 +4375,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GNATMOUND"
 msgid "Those bugs are hiding in here."
 msgstr "Diese Käfer verstecken sich hier drin."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDPAN"
+msgid "Separate the metal."
+msgstr "Trennen Sie das Metall."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "A Grass fire!"
@@ -4589,6 +4669,11 @@ msgstr "Zu klein zum Zermalmen!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNATMOUND"
 msgid "Wolfgang smash bug home!"
 msgstr "Wolfgang zermalmt das Insektenhaus!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDPAN"
+msgid "Is for eating from?"
+msgstr "Isst man daraus?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING"
@@ -4885,6 +4970,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNATMOUND"
 msgid "Industrious little guys, eh Lucy?"
 msgstr "Emsige kleine Typen, was, Lucy?"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDPAN"
+msgid "Haven't done any prospectin' in a while."
+msgstr "Habe schon lange kein Gold mehr gesucht."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It caught fire."
@@ -5179,6 +5269,11 @@ msgstr "Fliegende Pfrillen."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNATMOUND"
 msgid "Barnacle's o'tha land."
 msgstr "Seepocken des Landes."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDPAN"
+msgid "Fer fishin' fer gold."
+msgstr "Zum Goldfischen."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING"
@@ -5475,6 +5570,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNATMOUND"
 msgid "Hello?"
 msgstr "Hallo?"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDPAN"
+msgid "Gets Shiny from puddle"
+msgstr "Wird von Pfütze glänzend."
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING"
 msgid "No!!"
@@ -5764,6 +5864,11 @@ msgstr "Lass sie nicht unter mein Fell gelangen!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNATMOUND"
 msgid "This is my first time seeing this."
 msgstr "Dies ist das erste Mal, dass ich das sehe."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDPAN"
+msgid "A large colander, for gold and glory."
+msgstr "Ein großes Sieb für Gold und Ruhm."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING"
@@ -6055,6 +6160,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GNATMOUND"
 msgid "Bug Hideout."
 msgstr "Insektenversteck."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDPAN"
+msgid "Pick up things in the water."
+msgstr "Hebe Dinge im Wasser auf."
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Fire! Is fire!"
@@ -6345,6 +6455,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GNATMOUND"
 msgid "HOME OF TINY FLYING MEATSACK"
 msgstr "HAUS DER KLEINEN FLUGFLEISCHSÄCKE"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDPAN"
+msgid "GOLD GATHERING ACCESSORY"
+msgstr "GOLDSAMMELZUBEHÖR"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING"
 msgid "GROUND PARTS ON FIRE"
@@ -6560,6 +6675,11 @@ msgctxt "STRINGS.NAMES.GNATMOUND"
 msgid "Gnat Mound"
 msgstr "Mückenbau"
 
+#. STRINGS.NAMES.GOLDPAN
+msgctxt "STRINGS.NAMES.GOLDPAN"
+msgid "Gold Pan"
+msgstr "Goldwaschpfanne"
+
 #. STRINGS.NAMES.GRASS_TALL
 msgctxt "STRINGS.NAMES.GRASS_TALL"
 msgid "Tall Grass"
@@ -6649,6 +6769,11 @@ msgstr "Irgendwie widerlich, aber überraschend stark."
 msgctxt "STRINGS.RECIPE_DESC.BASEFAN"
 msgid "Relieves hay fever, keeps you dry."
 msgstr "Hilft bei Heuschnupfen und hält trocken."
+
+#. STRINGS.RECIPE_DESC.GOLDPAN
+msgctxt "STRINGS.RECIPE_DESC.GOLDPAN"
+msgid "Pans gold actually."
+msgstr "Zum Goldwaschen."
 
 #. STRINGS.RECIPE_DESC.HALBERD
 msgctxt "STRINGS.RECIPE_DESC.HALBERD"

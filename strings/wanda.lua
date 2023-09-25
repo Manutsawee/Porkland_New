@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "We'd better get out of here before it breaks out of its cocoon.",
         GNAT = "It reaches new heights in annoyingness.",
         GNATMOUND = "Dirty and messy.",
+        GOLDPAN = "I can't imagine how long this will take.",
         GRASS_TALL = {
             BURNING = "This is not good.",
             GENERIC = "Grasses this tough are indeed uncommon.",

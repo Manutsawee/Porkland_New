@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "It's wrapped itself like a cabbage roll.",
         GNAT = "The bugs are really bad around here.",
         GNATMOUND = "I'd rather have a mound of chocolate.",
+        GOLDPAN = "I have better pans.",
         GRASS_TALL = {
             BURNING = "Smells like a cookout!",
             GENERIC = "Too long to cut with my hands.",

@@ -45,6 +45,7 @@ return {
         GLOWFLY_COCOON = "Ah, metamorphosis...",
         GNAT = "Horde horrible.",
         GNATMOUND = "Ugh. The horde home.",
+        GOLDPAN = "Must I do everything myself?",
         GRASS_TALL = {
             BURNING = "Well, there you have it.",
             GENERIC = "Oh, joyous occasion. I've found grass.",

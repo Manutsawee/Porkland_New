@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "A cocoon, what could be inside?",
         GNAT = "cool! But... maybe we should back off a little?",
         GNATMOUND = "What might live inside?",
+        GOLDPAN = "Are you ready? Warby!",
         GRASS_TALL = {
             BURNING = "Hey! Brush fires will destroy rainforests!",
             GENERIC = "A lush patch of grass. Must be a lot of bugs in it.",

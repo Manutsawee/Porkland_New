@@ -45,6 +45,7 @@ return {
         GLOWFLY_COCOON = "I need a sleeping bag like that.",
         GNAT = "Ick! Stay away!",
         GNATMOUND = "Like an apartment building for bugs.",
+        GOLDPAN = "You mean I gotta work for my gold?",
         GRASS_TALL = {
             BURNING = "It'd probably be a lot of work to put it out.",
             GENERIC = "It's too much work to pick it with my hands.",

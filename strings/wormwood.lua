@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "Changing",
         GNAT = "Stay away, Bzzters!",
         GNATMOUND = "Hello?",
+        GOLDPAN = "Gets Shiny from puddle",
         GRASS_TALL = {
             BURNING = "No!!",
             GENERIC = "You're so tall!",

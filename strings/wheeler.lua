@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "Aww... It's wrapped up all nice and cozy.",
         GNAT = "Normally I like being around flyers, but I'll make an exception.",
         GNATMOUND = "Not bad, for a mound full of bugs.",
+        GOLDPAN = "Swell. A pan with holes in it.",
         GRASS_TALL = {
             BURNING = "All those bugs have nowhere to hide now.",
             GENERIC = "Tall grass like that is going to need a machete.",

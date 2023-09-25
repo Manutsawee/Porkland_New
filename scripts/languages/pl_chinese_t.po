@@ -5,6 +5,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0"
 
+#. STRINGS.ACTIONS.PAN
+msgctxt "STRINGS.ACTIONS.PAN"
+msgid "Pan"
+msgstr "淘"
+
 #. STRINGS.ACTIONS.SMELT
 msgctxt "STRINGS.ACTIONS.SMELT"
 msgid "Smelt"
@@ -174,6 +179,11 @@ msgstr "最好別靠近那些傢伙。"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNATMOUND"
 msgid "Science says it's gnat good."
 msgstr "科學說蚊蟲叮咬是有害的。"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDPAN"
+msgid "Critics panned it."
+msgstr "批評家因為淘不到金而批評了它。"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING"
@@ -470,6 +480,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNATMOUND"
 msgid "The nest of those exceptionally annoying bugs."
 msgstr "這是那些煩人蟲子們的窩。"
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDPAN"
+msgid "I do hope the holes were meant to be there."
+msgstr "我希望這些孔是注定就在那裡的。"
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Evidently, grass here has the same flammability qualities as at home."
@@ -759,6 +774,11 @@ msgstr "噁心！滾開！"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GNATMOUND"
 msgid "Like an apartment building for bugs."
 msgstr "像是一棟昆蟲公寓。"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDPAN"
+msgid "You mean I gotta work for my gold?"
+msgstr "你是說我努力幹活能淘到黃金？"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING"
@@ -1055,6 +1075,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GNATMOUND"
 msgid "What might live inside?"
 msgstr "裡面會住著什麼呢？"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDPAN"
+msgid "Are you ready? Warby!"
+msgstr "準備好了嗎？沃比！"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Hey! Brush fires will destroy rainforests!"
@@ -1345,6 +1370,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNATMOUND"
 msgid "Dirty and messy."
 msgstr "又髒又亂。"
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDPAN"
+msgid "I can't imagine how long this will take."
+msgstr "我不敢想像這需要多長時間。"
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "This is not good."
@@ -1634,6 +1664,11 @@ msgstr "這附近的蟲子真的很可惡。"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNATMOUND"
 msgid "I'd rather have a mound of chocolate."
 msgstr "我寧願吃吃一座山的巧克力。"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDPAN"
+msgid "I have better pans."
+msgstr "我有更好的盤子。"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING"
@@ -1929,6 +1964,11 @@ msgstr "不要來煩我，蟲子！"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND"
 msgid "The Valhalla of bugs."
 msgstr "蟲子們的英靈殿。"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN"
+msgid "It will vanquish the pieces of tiny gold!"
+msgstr "它將打敗那些小金塊！"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING"
@@ -2230,6 +2270,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND"
 msgid "Ugh. The horde home."
 msgstr "呃。蟲群的家。"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN"
+msgid "Must I do everything myself?"
+msgstr "我必須親自做所有事嗎？"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Well, there you have it."
@@ -2524,6 +2569,11 @@ msgstr "別咬我們，小傢伙。"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNATMOUND"
 msgid "It's where all those little bugs live."
 msgstr "這就是那些小蟲子住的地方。"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDPAN"
+msgid "Hey, now we can be prospectors."
+msgstr "嘿，現在我們可以當個淘金者了。"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING"
@@ -2820,6 +2870,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GNATMOUND"
 msgid "They're building their own doom."
 msgstr "他們正在建造自己的末日。"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDPAN"
+msgid "Offers too much hope."
+msgstr "給人過多希望。"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Death comes to everything."
@@ -3115,6 +3170,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNATMOUND"
 msgid "Not bad, for a mound full of bugs."
 msgstr "不錯，裡面住著一堆蟲。"
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDPAN"
+msgid "Swell. A pan with holes in it."
+msgstr "好吧。一個有孔洞的盤。"
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "All those bugs have nowhere to hide now."
@@ -3409,6 +3469,11 @@ msgstr "一群蚊蠅。"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNATMOUND"
 msgid "Obviously the work of a eusocial insect."
 msgstr "顯然這是社會性昆蟲的傑作。"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDPAN"
+msgid "This should be useful for finding valuable minerals."
+msgstr "這應該非常適合尋找有價值的礦物。"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING"
@@ -3710,6 +3775,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GNATMOUND"
 msgid "ALL THAT BUZZES IS GNAT HOME"
 msgstr "那個發出嗡嗡聲的就是蟲群的窩"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDPAN"
+msgid "'TIS A PAN FOR GLITTERIES"
+msgstr "這是一個尋找金光閃閃的盤子"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "FWOOSH'DING"
@@ -4004,6 +4074,11 @@ msgstr "啊！它們太小了不好燒。"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNATMOUND"
 msgid "I can't even burn it down."
 msgstr "我什至沒辦法燒毀它。"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDPAN"
+msgid "You mean I have to do work?"
+msgstr "你的意思是我必須得工作？"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING"
@@ -4300,6 +4375,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GNATMOUND"
 msgid "Those bugs are hiding in here."
 msgstr "那些蟲子就藏在這裡。"
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDPAN"
+msgid "Separate the metal."
+msgstr "將金屬分離出來。"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "A Grass fire!"
@@ -4589,6 +4669,11 @@ msgstr "太小了，砸不了。"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNATMOUND"
 msgid "Wolfgang smash bug home!"
 msgstr "沃夫岡摧毀蟲子家！"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDPAN"
+msgid "Is for eating from?"
+msgstr "可以吃嗎？"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING"
@@ -4885,6 +4970,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNATMOUND"
 msgid "Industrious little guys, eh Lucy?"
 msgstr "真是一群勤奮的小傢伙，對吧，露西？"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDPAN"
+msgid "Haven't done any prospectin' in a while."
+msgstr "有段時間沒有去規劃未來了。"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It caught fire."
@@ -5179,6 +5269,11 @@ msgstr "會飛的魚餌。"
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNATMOUND"
 msgid "Barnacle's o'tha land."
 msgstr "陸地上的藤壺。"
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDPAN"
+msgid "Fer fishin' fer gold."
+msgstr "用來捕黃金用的。"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING"
@@ -5475,6 +5570,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNATMOUND"
 msgid "Hello?"
 msgstr "有人嗎？"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDPAN"
+msgid "Gets Shiny from puddle"
+msgstr "拿出水坑裡閃閃發光的東西"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING"
 msgid "No!!"
@@ -5764,6 +5864,11 @@ msgstr "別讓它們鑽到我的皮毛裡！"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNATMOUND"
 msgid "This is my first time seeing this."
 msgstr "這我還是第一次見面。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDPAN"
+msgid "A large colander, for gold and glory."
+msgstr "一個大漏勺，為了黃金和榮耀。"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING"
@@ -6055,6 +6160,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GNATMOUND"
 msgid "Bug Hideout."
 msgstr "蟲子藏身處。"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDPAN"
+msgid "Pick up things in the water."
+msgstr "撿起水裡的東西。"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Fire! Is fire!"
@@ -6345,6 +6455,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GNATMOUND"
 msgid "HOME OF TINY FLYING MEATSACK"
 msgstr "微型飛行肉袋的家"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDPAN"
+msgid "GOLD GATHERING ACCESSORY"
+msgstr "黃金收集配件"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING"
 msgid "GROUND PARTS ON FIRE"
@@ -6560,6 +6675,11 @@ msgctxt "STRINGS.NAMES.GNATMOUND"
 msgid "Gnat Mound"
 msgstr "蟲丘"
 
+#. STRINGS.NAMES.GOLDPAN
+msgctxt "STRINGS.NAMES.GOLDPAN"
+msgid "Gold Pan"
+msgstr "淘金盤"
+
 #. STRINGS.NAMES.GRASS_TALL
 msgctxt "STRINGS.NAMES.GRASS_TALL"
 msgid "Tall Grass"
@@ -6649,6 +6769,11 @@ msgstr "有點噁心，但出奇的強。"
 msgctxt "STRINGS.RECIPE_DESC.BASEFAN"
 msgid "Relieves hay fever, keeps you dry."
 msgstr "緩解花粉症，保持幹燥。"
+
+#. STRINGS.RECIPE_DESC.GOLDPAN
+msgctxt "STRINGS.RECIPE_DESC.GOLDPAN"
+msgid "Pans gold actually."
+msgstr "實際上這是用來淘金\n的。"
 
 #. STRINGS.RECIPE_DESC.HALBERD
 msgctxt "STRINGS.RECIPE_DESC.HALBERD"

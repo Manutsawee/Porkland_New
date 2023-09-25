@@ -45,6 +45,7 @@ return {
         GLOWFLY_COCOON = "Snug as a bug.",
         GNAT = "Better gnat go near those guys.",
         GNATMOUND = "Science says it's gnat good.",
+        GOLDPAN = "Critics panned it.",
         GRASS_TALL = {
             BURNING = "A grass fire!",
             GENERIC = "It's too tough to pick with my hands.",

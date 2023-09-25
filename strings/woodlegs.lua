@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "'e be sleepin' it off.",
         GNAT = "Flyin' minnows.",
         GNATMOUND = "Barnacle's o'tha land.",
+        GOLDPAN = "Fer fishin' fer gold.",
         GRASS_TALL = {
             BURNING = "'Tis ablaze!",
             GENERIC = "As tall'as th'sky.",

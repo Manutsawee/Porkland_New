@@ -1,5 +1,6 @@
 return {
     ACTIONS = {
+        PAN = "Pan",
         SMELT = "Smelt",
     },
     NAMES = {
@@ -19,6 +20,7 @@ return {
         GLOWFLY_COCOON = "Glowfly Cocoon",
         GNAT = "Gnat Swarm",
         GNATMOUND = "Gnat Mound",
+        GOLDPAN = "Gold Pan",
         GRASS_TALL = "Tall Grass",
         HALBERD = "Halberd",
         IRON = "Iron Ore",
@@ -39,6 +41,7 @@ return {
         ARMOR_METALPLATE = "Strong and sturdy.",
         ARMOR_WEEVOLE = "Kinda gross, but surprisingly strong.",
         BASEFAN = "Relieves hay fever, keeps you dry.",
+        GOLDPAN = "Pans gold actually.",
         HALBERD = "Pointy and hurty.",
         SHEARS = "Cut your way into adventure.",
         SMELTER = "Turn Iron into Alloy.",

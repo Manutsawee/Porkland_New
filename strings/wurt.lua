@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "The little bug wrapped itself up.",
         GNAT = "Too much!",
         GNATMOUND = "Bug Hideout.",
+        GOLDPAN = "Pick up things in the water.",
         GRASS_TALL = {
             BURNING = "Fire! Is fire!",
             GENERIC = "Greer... can't move.",

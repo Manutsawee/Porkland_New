@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "Bug look cozy.",
         GNAT = "Is too small for smashing!",
         GNATMOUND = "Wolfgang smash bug home!",
+        GOLDPAN = "Is for eating from?",
         GRASS_TALL = {
             BURNING = "Wolfgang is not doing that!",
             GENERIC = "Very sturdy grass.",

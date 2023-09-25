@@ -43,6 +43,7 @@ return {
         GLOWFLY_COCOON = "What will become of it?",
         GNAT = "Don't let them get under my fur!",
         GNATMOUND = "This is my first time seeing this.",
+        GOLDPAN = "A large colander, for gold and glory.",
         GRASS_TALL = {
             BURNING = "Oops, it's burning.",
             GENERIC = "Solid tall grass, really nice.",

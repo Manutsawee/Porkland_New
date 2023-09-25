@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "If I could climb into a cocoon I would never emerge.",
         GNAT = "Like life, they wear you down little by little.",
         GNATMOUND = "They're building their own doom.",
+        GOLDPAN = "Offers too much hope.",
         GRASS_TALL = {
             BURNING = "Death comes to everything.",
             GENERIC = "Alas, I'm too weak to pick it.",

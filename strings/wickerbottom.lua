@@ -44,6 +44,7 @@ return {
         GLOWFLY_COCOON = "Fascinating! It has moved on to the chrysalis stage.",
         GNAT = "A swarm of Culicidae Drosophila.",
         GNATMOUND = "Obviously the work of a eusocial insect.",
+        GOLDPAN = "This should be useful for finding valuable minerals.",
         GRASS_TALL = {
             BURNING = "Illuminating!",
             GENERIC = "I need an implement for that.",
