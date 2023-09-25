@@ -6888,7 +6888,7 @@ msgstr "缓解花粉症，保持干燥。"
 #. STRINGS.RECIPE_DESC.GOLDPAN
 msgctxt "STRINGS.RECIPE_DESC.GOLDPAN"
 msgid "Pans gold actually."
-msgstr "实际上这是用来淘金\n的。"
+msgstr "实际上这是用来淘金的。"
 
 #. STRINGS.RECIPE_DESC.HALBERD
 msgctxt "STRINGS.RECIPE_DESC.HALBERD"
