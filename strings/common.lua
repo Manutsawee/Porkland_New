@@ -52,7 +52,6 @@ return {
             ASPARAGUS = "Asparagus",
             ASPARAGUS_REGROWTH = "Asparagus",
             DEEP_JUNGLE_FERN_NOISE = "Jungle Floor Ferns",
-            DUNGBEETLE = "Dung Beetle",
             DUNGBEETLE_SETTING = "Dung Beetle",
             DUNGPILE = "Dung Pile",
             FOG = "Fog",

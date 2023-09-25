@@ -74,7 +74,6 @@ local custonsiz_items = {  -- add in dst custonsiz
         animals = {
             peagawk_spawner = {image = "peagawk.tex"},
             pog = {image = "pogs.tex"},
-            dungbeetle = {image = "dung_beetles.tex"},
             "pangolden",
         },
         resources = {
