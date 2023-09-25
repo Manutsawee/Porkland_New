@@ -44,6 +44,8 @@ return {
         GLOWFLY_COCOON = "Changing",
         GNAT = "Stay away, Bzzters!",
         GNATMOUND = "Hello?",
+        GOLDPAN = "Gets Shiny from puddle",
+        GOLD_DUST = "Shiny dirt",
         GRASS_TALL = {
             BURNING = "No!!",
             GENERIC = "You're so tall!",
@@ -51,6 +53,7 @@ return {
         },
         HALBERD = "Twirly Tail Fight Stick",
         IRON = "Clinky Rock",
+        PANGOLDEN = "Shiny Pooper",
         PEAGAWK = {
             DEAD = "Oh dear",
             GENERIC = "Gubble Gubble Tweeter",
@@ -69,6 +72,7 @@ return {
             GENERIC = "Why so mad, Bzzter?",
             SLEEPING = "Let it sleep",
         },
+        SEDIMENTPUDDLE = "Shiny puddle",
         SHEARS = "For hair cuts",
         SMELTER = {
             BURNT = "Nothing",

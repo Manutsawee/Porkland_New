@@ -5,6 +5,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0"
 
+#. STRINGS.ACTIONS.PAN
+msgctxt "STRINGS.ACTIONS.PAN"
+msgid "Pan"
+msgstr "사금 채취"
+
 #. STRINGS.ACTIONS.SMELT
 msgctxt "STRINGS.ACTIONS.SMELT"
 msgid "Smelt"
@@ -175,6 +180,16 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNATMOUND"
 msgid "Science says it's gnat good."
 msgstr "과학에 따르면 좋지 않아."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDPAN"
+msgid "Critics panned it."
+msgstr "사금을 채취하는 도구다."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLD_DUST"
+msgid "Aw... it's hardly worth anything."
+msgstr "아... 거의 아무런 가치도 없다."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING"
 msgid "A grass fire!"
@@ -199,6 +214,11 @@ msgstr "이제 허를 찔릴 일은 없겠어."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.IRON"
 msgid "Isn't it ironic?"
 msgstr "철석같지?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PANGOLDEN"
+msgid "It likes rich food."
+msgstr "엄청나게 먹는다."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD"
@@ -259,6 +279,11 @@ msgstr "제정신이 아닌 것 같아."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "In a slumber."
 msgstr "자고 있다."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Pool's gold."
+msgstr "금처럼 반짝인다."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHEARS"
@@ -460,6 +485,16 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNATMOUND"
 msgid "The nest of those exceptionally annoying bugs."
 msgstr "엄청나게 짜증 나는 벌레들의 둥지다."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDPAN"
+msgid "I do hope the holes were meant to be there."
+msgstr "구멍이 원래 나 있는 거였으면 좋겠는데."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLD_DUST"
+msgid "Evidently, it's the preferred sustenance of those long nosed quadrupeds."
+msgstr "코가 긴 네발짐승들이 좋아하는 식량인 듯하다."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Evidently, grass here has the same flammability qualities as at home."
@@ -484,6 +519,11 @@ msgstr "놀라울 정도로 쓸모가 많고 엄청난 피해를 입힐 수 있�
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.IRON"
 msgid "Marvelous! Iron is invaluable for manufacturing the tools I need!"
 msgstr "굉장하군! 필요한 도구를 제작하는 데 철은 아주 중요하지!"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PANGOLDEN"
+msgid "Evidently, it poops gold. Fascinating!"
+msgstr "똥 대신 금을 싼다. 흥미롭군!"
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD"
@@ -534,6 +574,11 @@ msgstr "다 자라면 수염이 생기는 듯하다."
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "It's respiratory structures are vibrating."
 msgstr "호흡 구조가 떨리고 있다."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Evidence would suggest there's gold down there!"
+msgstr "이 아래에 금이 있는 듯하다!"
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SHEARS"
@@ -740,6 +785,16 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GNATMOUND"
 msgid "Like an apartment building for bugs."
 msgstr "벌레용 아파트 같아."
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDPAN"
+msgid "You mean I gotta work for my gold?"
+msgstr "나보고 금을 채취하란 말이야?"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLD_DUST"
+msgid "Fairy dust!"
+msgstr "요정 가루다!"
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It'd probably be a lot of work to put it out."
@@ -764,6 +819,11 @@ msgstr "잘못하면 눈을 찔리겠어!"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.IRON"
 msgid "This has gotta be good for something."
 msgstr "분명히 쓸모가 있을 거야."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PANGOLDEN"
+msgid "Shiny."
+msgstr "빛난다."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD"
@@ -824,6 +884,11 @@ msgstr "좀 진정해!"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "That's it. Now just stay asleep."
 msgstr "그렇지. 얌전히 잠들어 있어."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SEDIMENTPUDDLE"
+msgid "There's sparkly things down there!"
+msgstr "저 아래에 반짝이는 게 있어!"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SHEARS"
@@ -1025,6 +1090,16 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GNATMOUND"
 msgid "What might live inside?"
 msgstr "안에는 무엇이 살 수 있을까요?"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDPAN"
+msgid "Are you ready? Warby!"
+msgstr "준비 되었나요? 와비!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLD_DUST"
+msgid "No matter how small the gold is, it is still gold."
+msgstr "아무리 작은 금이라도 그것은 여전히 ​​금이다."
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Hey! Brush fires will destroy rainforests!"
@@ -1049,6 +1124,11 @@ msgstr "거대한 도끼!"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.IRON"
 msgid "Is that iron?"
 msgstr "저게 철인가요?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PANGOLDEN"
+msgid "A born gold digger."
+msgstr "타고난 금 채굴자."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC"
@@ -1104,6 +1184,11 @@ msgstr "와우, 그들이 얼마나 활동적인지 보세요!"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "it's sleeping,"
 msgstr "자고있다,"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Is there gold in that?"
+msgstr "거기에 금이 들어있나요?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SHEARS"
@@ -1305,6 +1390,16 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNATMOUND"
 msgid "Dirty and messy."
 msgstr "더럽고 지저분합니다."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDPAN"
+msgid "I can't imagine how long this will take."
+msgstr "얼마나 오래 걸릴지 상상할 수 없습니다."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLD_DUST"
+msgid "I still need to collect a lot of them."
+msgstr "아직은 많이 모아야 해요."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "This is not good."
@@ -1329,6 +1424,11 @@ msgstr "나는 나무 숲을 죽일 계획이 아닙니다."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.IRON"
 msgid "An essential material for accurate timepieces."
 msgstr "정확한 시계를 위한 필수 소재."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PANGOLDEN"
+msgid "Their recipes are extravagant."
+msgstr "그들의 요리법은 사치스럽습니다."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC"
@@ -1384,6 +1484,11 @@ msgstr "해충! 저리 가요!"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Huh, I can take a breath."
 msgstr "허허, 숨을 쉴 수 있습니다."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Water isn't the only thing here reflecting sunlight."
+msgstr "햇빛을 반사하는 것은 물뿐만이 아닙니다."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHEARS"
@@ -1585,6 +1690,16 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNATMOUND"
 msgid "I'd rather have a mound of chocolate."
 msgstr "차라리 초콜릿 무더기가 낫겠어."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDPAN"
+msgid "I have better pans."
+msgstr "나한텐 더 좋은 냄비가 있어."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLD_DUST"
+msgid "Perhaps that nosy fellow would like to eat this."
+msgstr "코 큰 녀석이 먹고 싶어 할지도 몰라."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Smells like a cookout!"
@@ -1609,6 +1724,11 @@ msgstr "나는 싸움이 싫어."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.IRON"
 msgid "I wonder what I could cook up with this."
 msgstr "이건 어떻게 요리해야 좋을까?"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PANGOLDEN"
+msgid "Already has a nice golden braise."
+msgstr "금색 부분은 이미 잘 익은 것 같은데."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD"
@@ -1669,6 +1789,11 @@ msgstr "배고플 때의 나 같아."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "What a curious way to sleep!"
 msgstr "잠 한번 특이하게 자네!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SEDIMENTPUDDLE"
+msgid "It's been seasoned with gold."
+msgstr "금이 뿌려져 있어."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SHEARS"
@@ -1870,6 +1995,16 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND"
 msgid "The Valhalla of bugs."
 msgstr "벌레들의 발할라군."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN"
+msgid "It will vanquish the pieces of tiny gold!"
+msgstr "작은 금 조각을 털어 버리지!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLD_DUST"
+msgid "Golden dust."
+msgstr "금빛 가루군."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It burns!"
@@ -1894,6 +2029,11 @@ msgstr "창은 아니지만 용맹해 보이는걸!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON"
 msgid "Material for metalwork."
 msgstr "금속 물건을 만드는 재료군."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PANGOLDEN"
+msgid "Surely a cousin of Gullinbursti!"
+msgstr "굴린부르스티의 사촌이 분명하군!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD"
@@ -1954,6 +2094,11 @@ msgstr "사악한 짐승아. 적수 만난 줄 알아라!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Slumber consumes it!"
 msgstr "잠에 취했군!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Its tiny gold pieces will be mine!"
+msgstr "작은 금 조각은 내 것이다!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHEARS"
@@ -2160,6 +2305,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND"
 msgid "Ugh. The horde home."
 msgstr "윽. 벌레 떼의 집이군."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN"
+msgid "Must I do everything myself?"
+msgstr "전부 내가 직접 해야 하나?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLD_DUST"
+msgid "I suppose any gold is good gold."
+msgstr "이 세상에 나쁜 금은 없어."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Well, there you have it."
@@ -2184,6 +2339,11 @@ msgstr "내 재치처럼 날카로운 날이군."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.IRON"
 msgid "A solid mineral."
 msgstr "단단한 광물이다."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PANGOLDEN"
+msgid "He has expensive tastes."
+msgstr "입맛 한번 비싸군."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD"
@@ -2244,6 +2404,11 @@ msgstr "뭐 때문에 저렇게 흥분했지?"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "A noisy sleeper."
 msgstr "시끄럽게도 자는군."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SEDIMENTPUDDLE"
+msgid "There's something sparkling inside there."
+msgstr "안에서 뭐가 반짝거리는걸."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHEARS"
@@ -2445,6 +2610,16 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNATMOUND"
 msgid "It's where all those little bugs live."
 msgstr "작은 벌레들이 사는 곳이다."
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDPAN"
+msgid "Hey, now we can be prospectors."
+msgstr "이제 금을 캘 수 있다."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLD_DUST"
+msgid "Wow! I wonder if it's worth anything."
+msgstr "와! 가치가 얼마나 있는지 궁금한걸."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Fire!"
@@ -2469,6 +2644,11 @@ msgstr "휙!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.IRON"
 msgid "We could make all kinds of neat stuff with this."
 msgstr "멋진 물건을 만드는 데 쓸 수 있다."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PANGOLDEN"
+msgid "I think he eats gold."
+msgstr "금을 먹을 것 같아."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD"
@@ -2529,6 +2709,11 @@ msgstr "에너지가 넘치는 친구다!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Haha! A bug with a mustache!"
 msgstr "하하! 콧수염이 난 벌레야!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEDIMENTPUDDLE"
+msgid "It's full of sparkly stuff."
+msgstr "반짝이는 게 가득하다."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHEARS"
@@ -2730,6 +2915,16 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GNATMOUND"
 msgid "They're building their own doom."
 msgstr "파멸의 장소를 짓는 중이야."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDPAN"
+msgid "Offers too much hope."
+msgstr "희망을 너무 많이 줘."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLD_DUST"
+msgid "Death is not sparkly."
+msgstr "죽음은 반짝이지 않아."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Death comes to everything."
@@ -2754,6 +2949,11 @@ msgstr "끔찍한 세상의 끔찍한 무기야."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.IRON"
 msgid "Iron. Like my heart."
 msgstr "철로 만들었어. 내 심장 같아."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PANGOLDEN"
+msgid "A fool and his gold."
+msgstr "바보와 황금."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD"
@@ -2814,6 +3014,11 @@ msgstr "죽음처럼 맹렬해."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Sleep is not a permanent escape from life."
 msgstr "잔다고 해서 삶에서 영원히 도망칠 수는 없어."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Contains unreachable shiny things."
+msgstr "손이 닿지 않는, 반짝이는 물건이 들었어."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHEARS"
@@ -3015,6 +3220,16 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNATMOUND"
 msgid "Not bad, for a mound full of bugs."
 msgstr "벌레 무더기치곤 나쁘지 않군."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDPAN"
+msgid "Swell. A pan with holes in it."
+msgstr "멋지군. 구멍이 뚫린 팬이야."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLD_DUST"
+msgid "Hardly worth holding onto. If I could find more of it though..."
+msgstr "가지고 있을 가치가 있어. 이걸 더 많이 찾을 수만 있다면 말이지..."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "All those bugs have nowhere to hide now."
@@ -3039,6 +3254,11 @@ msgstr "모험가에게 꼭 필요한 다목적 도구야."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.IRON"
 msgid "Well it's not good balloon material."
 msgstr "열기구를 만들기에 적합하지 않은 재료야."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PANGOLDEN"
+msgid "I don't actually mind picking up his poop."
+msgstr "쟤 똥은 주워도 괜찮을 것 같아."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD"
@@ -3099,6 +3319,11 @@ msgstr "잘 날지 못해서 불안해할 뿐이야."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Quite the snorer."
 msgstr "코를 꽤 고는군."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SEDIMENTPUDDLE"
+msgid "A sparkly pool. A little too sparkly."
+msgstr "반짝이는 웅덩이군. 지나치게 반짝여."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SHEARS"
@@ -3300,6 +3525,16 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNATMOUND"
 msgid "Obviously the work of a eusocial insect."
 msgstr "사회성 곤충의 작품이군."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDPAN"
+msgid "This should be useful for finding valuable minerals."
+msgstr "귀중한 광물을 찾을 때 유용하겠군."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLD_DUST"
+msgid "Small particles of the shiniest element."
+msgstr "아주 밝게 빛나는 작은 입자로군."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Illuminating!"
@@ -3324,6 +3559,11 @@ msgstr "잔혹하고 쓸모 많은 무기로군."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.IRON"
 msgid "Ferrum."
 msgstr "철이야."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PANGOLDEN"
+msgid "Aurum vermilingua."
+msgstr "황금 개미핥기다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD"
@@ -3384,6 +3624,11 @@ msgstr "내가 아는 종은 아닌걸!"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Dormant."
 msgstr "수면 중이야."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Contains some lustrous sentiment."
+msgstr "광택이 나는 퇴적물이 있네."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHEARS"
@@ -3590,6 +3835,16 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GNATMOUND"
 msgid "ALL THAT BUZZES IS GNAT HOME"
 msgstr "각다귀 집이 웅웅거리는구나"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDPAN"
+msgid "'TIS A PAN FOR GLITTERIES"
+msgstr "반짝이 냄비로다"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLD_DUST"
+msgid "'TIS DIRT O' SPARKLIES"
+msgstr "반짝이는 먼지로다"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "FWOOSH'DING"
@@ -3614,6 +3869,11 @@ msgstr "윌바 베고 자른다!"
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.IRON"
 msgid "'TIS METAL O' THE ZAPPY BIRD"
 msgstr "찌릿찌릿 짹짹이 금속이로다"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PANGOLDEN"
+msgid "NOSE HIMSELF TO BE A FOOL"
+msgstr "현명한 돌은 자기가 금이 아니라는 거슬 아노라"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD"
@@ -3674,6 +3934,11 @@ msgstr "분노의 굉음이 가득하도다"
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "O GENTLE SLEEPIES"
 msgstr "코 자는구나"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SEDIMENTPUDDLE"
+msgid "ALL THAT GLITTERS 'TIS GOLD"
+msgstr "반짝이는 거슨 모두 금이로다"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SHEARS"
@@ -3875,6 +4140,16 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNATMOUND"
 msgid "I can't even burn it down."
 msgstr "불로 태울 수도 없어."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDPAN"
+msgid "You mean I have to do work?"
+msgstr "나보고 일을 하란 말이야?"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLD_DUST"
+msgid "It's probably not worth much."
+msgstr "별로 가치가 없을 거야."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING"
 msgid "I win."
@@ -3899,6 +4174,11 @@ msgstr "무기는 내 몸집의 두 배는 돼야 쓸모가 있지."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.IRON"
 msgid "I can't burn it with just my lighter."
 msgstr "내 라이터만으로는 태울 수 없는걸."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PANGOLDEN"
+msgid "Yeesh, he's sucking up all the gold!"
+msgstr "으윽, 금을 다 빨아먹는걸!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD"
@@ -3959,6 +4239,11 @@ msgstr "왜 그렇게 화가 났어?"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "I should draw a mustache on its mustache while it sleeps."
 msgstr "자는 동안 수염 위에 수염을 그려야지."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Yeesh, there's a lot of sparkles in there."
+msgstr "우와, 반짝이는 게 아주 많은걸."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHEARS"
@@ -4160,6 +4445,16 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GNATMOUND"
 msgid "Those bugs are hiding in here."
 msgstr "그 벌레들이 여기 숨어 있어요."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDPAN"
+msgid "Separate the metal."
+msgstr "금속을 분리합니다."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLD_DUST"
+msgid "gold! My luck has come!"
+msgstr "금! 내 행운이 찾아왔어!"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "A Grass fire!"
@@ -4184,6 +4479,11 @@ msgstr "일하는 것보다 전투에 더 적합합니다."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.IRON"
 msgid "Invaluable material for manufacturing useful tools."
 msgstr "유용한 도구를 제조하기 위한 귀중한 재료입니다."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PANGOLDEN"
+msgid "A living metallurgical furnace."
+msgstr "살아있는 야금 용광로."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC"
@@ -4239,6 +4539,11 @@ msgstr "다들 뭔데 흥분해?"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Calm down!"
 msgstr "진정하다!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SEDIMENTPUDDLE"
+msgid "The metal content seriously exceeded the standard."
+msgstr "금속 함량이 기준을 심각하게 초과했습니다."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHEARS"
@@ -4440,6 +4745,16 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNATMOUND"
 msgid "Wolfgang smash bug home!"
 msgstr "볼프강이 벌레집 부순다!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDPAN"
+msgid "Is for eating from?"
+msgstr "여기서 밥 먹나?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLD_DUST"
+msgid "Wolfgang like. Is shiny."
+msgstr "볼프강 마음에 든다. 반짝거린다."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Wolfgang is not doing that!"
@@ -4464,6 +4779,11 @@ msgstr "검은 근육 없는 사람이나 쓰는 거다."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.IRON"
 msgid "Iron is strong like Wolfgang."
 msgstr "철은 볼프강처럼 강하다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PANGOLDEN"
+msgid "Hehe. Haves big nose."
+msgstr "헤헤. 코가 크다."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD"
@@ -4524,6 +4844,11 @@ msgstr "볼프강이 나쁜 딱정벌레 으깬다!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Hehe. Is funny mustache."
 msgstr "헤헤. 웃긴 콧수염이다."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Hello little sparklies!"
+msgstr "안녕, 반짝이들아!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHEARS"
@@ -4725,6 +5050,16 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNATMOUND"
 msgid "Industrious little guys, eh Lucy?"
 msgstr "부지런한 녀석들이지, 루시?"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDPAN"
+msgid "Haven't done any prospectin' in a while."
+msgstr "탐광은 오랜만인걸."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLD_DUST"
+msgid "Look at all that gold!"
+msgstr "저게 다 금이라니!"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It caught fire."
@@ -4749,6 +5084,11 @@ msgstr "흠, 도끼만 못한걸."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON"
 msgid "Can't chop this too well."
 msgstr "이건 베기 어렵잖아."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PANGOLDEN"
+msgid "Looks expensive."
+msgstr "비싸 보이잖아."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD"
@@ -4809,6 +5149,11 @@ msgstr "화가 많이 났잖아."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Let sleeping bugs lie, I say."
 msgstr "자는 벌레는 건드리지 말라던걸."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SEDIMENTPUDDLE"
+msgid "What's that shiny stuff in there?"
+msgstr "저 안에 빛나는 게 있네, 뭘까?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHEARS"
@@ -5010,6 +5355,16 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNATMOUND"
 msgid "Barnacle's o'tha land."
 msgstr "육지의 따개비다."
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDPAN"
+msgid "Fer fishin' fer gold."
+msgstr "금을 낚는 데 쓴다."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLD_DUST"
+msgid "Aye! 'Tis treasure dust!"
+msgstr "이야! 보물 가루다!"
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING"
 msgid "'Tis ablaze!"
@@ -5034,6 +5389,11 @@ msgstr "커틀라스가 아니다."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.IRON"
 msgid "'Tis not gold, but a treasure nonetheless."
 msgstr "금은 아니지만 보물이다."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PANGOLDEN"
+msgid "Eatin' up all tha treasure!"
+msgstr "보물을 먹어 치우고 있다!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD"
@@ -5094,6 +5454,11 @@ msgstr "성질 고약한 벌레다."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Thar she blows!"
 msgstr "터진다!"
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Alas, not big enough to sail in."
+msgstr "이런, 배를 띄울 정도로 크진 않다."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SHEARS"
@@ -5295,6 +5660,16 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNATMOUND"
 msgid "Hello?"
 msgstr "저기요?"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDPAN"
+msgid "Gets Shiny from puddle"
+msgstr "웅덩이에서 반짝이를 얻어"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLD_DUST"
+msgid "Shiny dirt"
+msgstr "반짝이는 흙이야"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING"
 msgid "No!!"
@@ -5319,6 +5694,11 @@ msgstr "꼬불 꼬리 전투 막대기야"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON"
 msgid "Clinky Rock"
 msgstr "쨍그랑거리는 돌이야"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PANGOLDEN"
+msgid "Shiny Pooper"
+msgstr "반짝이 똥을 싸"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD"
@@ -5379,6 +5759,11 @@ msgstr "왜 그렇게 화가 났니, 앵앵아?"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Let it sleep"
 msgstr "자게 놔두자"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Shiny puddle"
+msgstr "반짝이는 웅덩이야"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHEARS"
@@ -5575,6 +5960,16 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNATMOUND"
 msgid "This is my first time seeing this."
 msgstr "나는 이것을 처음 본다."
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDPAN"
+msgid "A large colander, for gold and glory."
+msgstr "금과 영광을 위한 큰 소쿠리."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLD_DUST"
+msgid "Many mortals try to use it to fill the void in their souls."
+msgstr "많은 필사자들은 영혼의 공허함을 채우기 위해 그것을 사용하려고 합니다."
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Oops, it's burning."
@@ -5599,6 +5994,11 @@ msgstr "정말 사악한 무기입니다."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.IRON"
 msgid "Oooh. Almost burned me."
 msgstr "우. 거의 화상을 입을 뻔했습니다."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PANGOLDEN"
+msgid "How was your day? Is there anything to gain?"
+msgstr "오늘 어땠나요? 얻는 게 있나요?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC"
@@ -5654,6 +6054,11 @@ msgstr "정말 에너제틱해요, 춤출래요?"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Then intermission."
 msgstr "그런 다음 휴식."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SEDIMENTPUDDLE"
+msgid "These are not for drinking."
+msgstr "이것은 음주용이 아닙니다."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHEARS"
@@ -5855,6 +6260,16 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GNATMOUND"
 msgid "Bug Hideout."
 msgstr "버그 은신처."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDPAN"
+msgid "Pick up things in the water."
+msgstr "물속에 있는 물건을 집으세요."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GOLD_DUST"
+msgid "Sparkling..."
+msgstr "반짝이는..."
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Fire! Is fire!"
@@ -5879,6 +6294,11 @@ msgstr "Pigfolk가 사용하는 이상한 무기."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.IRON"
 msgid "Red hard rock."
 msgstr "레드 하드 록."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PANGOLDEN"
+msgid "Don’t drink it all!"
+msgstr "다 마시지 마세요!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC"
@@ -5934,6 +6354,11 @@ msgstr "작은 벌레가 미쳐가고 있어요!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "The little bug was quiet."
 msgstr "작은 벌레는 조용했습니다."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SEDIMENTPUDDLE"
+msgid "The water is... glowing?"
+msgstr "물이... 빛나고 있나요?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SHEARS"
@@ -6135,6 +6560,16 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GNATMOUND"
 msgid "HOME OF TINY FLYING MEATSACK"
 msgstr "초소형 비행 고기자루의 집"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDPAN"
+msgid "GOLD GATHERING ACCESSORY"
+msgstr "금 채취 액세서리"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GOLD_DUST"
+msgid "TINY POWDER OF MALLEABLE METAL"
+msgstr "미세 분말 형태의 유연한 금속"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING"
 msgid "GROUND PARTS ON FIRE"
@@ -6159,6 +6594,11 @@ msgstr "악을 처단하는 도구"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.IRON"
 msgid "HELLO FRIEND"
 msgstr "안녕 친구"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PANGOLDEN"
+msgid "AN ORGANIC WITH A TASTE FOR METAL. CONCERNING"
+msgstr "금속 맛을 지닌 유기농 제품입니다. 에 관하여"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD"
@@ -6219,6 +6659,11 @@ msgstr "안면의 체모가 지나치게 많음"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "REGENERATING TERROR"
 msgstr "공포 재생 중"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SEDIMENTPUDDLE"
+msgid "WATER IS HINDERING ME FROM FINANCIAL GAIN"
+msgstr "물이 본체의 경제적 이익을 저해함"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHEARS"
@@ -6340,6 +6785,16 @@ msgctxt "STRINGS.NAMES.GNATMOUND"
 msgid "Gnat Mound"
 msgstr "각다귀 둥지"
 
+#. STRINGS.NAMES.GOLDPAN
+msgctxt "STRINGS.NAMES.GOLDPAN"
+msgid "Gold Pan"
+msgstr "야금용 냄비"
+
+#. STRINGS.NAMES.GOLD_DUST
+msgctxt "STRINGS.NAMES.GOLD_DUST"
+msgid "Gold Dust"
+msgstr "사금"
+
 #. STRINGS.NAMES.GRASS_TALL
 msgctxt "STRINGS.NAMES.GRASS_TALL"
 msgid "Tall Grass"
@@ -6354,6 +6809,11 @@ msgstr "미늘창"
 msgctxt "STRINGS.NAMES.IRON"
 msgid "Iron Ore"
 msgstr "철광석"
+
+#. STRINGS.NAMES.PANGOLDEN
+msgctxt "STRINGS.NAMES.PANGOLDEN"
+msgid "Pangolden"
+msgstr "천산금"
 
 #. STRINGS.NAMES.PEAGAWK
 msgctxt "STRINGS.NAMES.PEAGAWK"
@@ -6379,6 +6839,11 @@ msgstr "포그"
 msgctxt "STRINGS.NAMES.RABID_BEETLE"
 msgid "Rabid Beetle"
 msgstr "미친 딱정벌레"
+
+#. STRINGS.NAMES.SEDIMENTPUDDLE
+msgctxt "STRINGS.NAMES.SEDIMENTPUDDLE"
+msgid "Sparkling Pool"
+msgstr "반짝이는 웅덩이"
 
 #. STRINGS.NAMES.SHEARS
 msgctxt "STRINGS.NAMES.SHEARS"
@@ -6420,6 +6885,11 @@ msgctxt "STRINGS.RECIPE_DESC.BASEFAN"
 msgid "Relieves hay fever, keeps you dry."
 msgstr "건초열을 완화하고 콧물을 멈춘다."
 
+#. STRINGS.RECIPE_DESC.GOLDPAN
+msgctxt "STRINGS.RECIPE_DESC.GOLDPAN"
+msgid "Pans gold actually."
+msgstr "실제로 야금 가능."
+
 #. STRINGS.RECIPE_DESC.HALBERD
 msgctxt "STRINGS.RECIPE_DESC.HALBERD"
 msgid "Pointy and hurty."
@@ -6449,11 +6919,6 @@ msgstr "아스파라거스"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DEEP_JUNGLE_FERN_NOISE"
 msgid "Jungle Floor Ferns"
 msgstr "정글 바닥 양치식물"
-
-#. STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE
-msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE"
-msgid "Dung Beetle"
-msgstr "쇠똥구리"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE_SETTING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE_SETTING"
@@ -6519,6 +6984,11 @@ msgstr "정글 캐노피 덩굴"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LUSH"
 msgid "Lush"
 msgstr "무성함"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PANGOLDEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PANGOLDEN"
+msgid "Pangolden"
+msgstr "판골든"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PEAGAWK_SETTING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PEAGAWK_SETTING"

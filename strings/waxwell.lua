@@ -45,6 +45,8 @@ return {
         GLOWFLY_COCOON = "Ah, metamorphosis...",
         GNAT = "Horde horrible.",
         GNATMOUND = "Ugh. The horde home.",
+        GOLDPAN = "Must I do everything myself?",
+        GOLD_DUST = "I suppose any gold is good gold.",
         GRASS_TALL = {
             BURNING = "Well, there you have it.",
             GENERIC = "Oh, joyous occasion. I've found grass.",
@@ -52,6 +54,7 @@ return {
         },
         HALBERD = "A blade as sharp as my wit.",
         IRON = "A solid mineral.",
+        PANGOLDEN = "He has expensive tastes.",
         PEAGAWK = {
             DEAD = "It's beauty has been snuffed out forever.",
             GENERIC = "What a regal-looking beast.",
@@ -70,6 +73,7 @@ return {
             GENERIC = "What is he all worked up about?",
             SLEEPING = "A noisy sleeper.",
         },
+        SEDIMENTPUDDLE = "There's something sparkling inside there.",
         SHEARS = "Aren't there gardeners for this sort of thing?",
         SMELTER = {
             BURNT = "Back to the Stone Age.",

@@ -44,6 +44,8 @@ return {
         GLOWFLY_COCOON = "A cocoon, what could be inside?",
         GNAT = "cool! But... maybe we should back off a little?",
         GNATMOUND = "What might live inside?",
+        GOLDPAN = "Are you ready? Warby!",
+        GOLD_DUST = "No matter how small the gold is, it is still gold.",
         GRASS_TALL = {
             BURNING = "Hey! Brush fires will destroy rainforests!",
             GENERIC = "A lush patch of grass. Must be a lot of bugs in it.",
@@ -51,6 +53,7 @@ return {
         },
         HALBERD = "A huge ax!",
         IRON = "Is that iron?",
+        PANGOLDEN = "A born gold digger.",
         PEAGAWK = {
             GENERIC = "Wow, how many eyes are there?",
             SLEEPING = "Warby, we might be able to gather his feathers while he's asleep.",
@@ -68,6 +71,7 @@ return {
             GENERIC = "Wow, look how active they are!",
             SLEEPING = "it's sleeping,",
         },
+        SEDIMENTPUDDLE = "Is there gold in that?",
         SHEARS = "Gardener's little helper.",
         SMELTER = {
             BURNT = "It's uh... extra done!",

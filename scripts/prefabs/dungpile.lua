@@ -274,7 +274,7 @@ local function fn()
     inst.OnSave = OnSave
     inst.OnLoad = OnLoad
 
-    DoPostinit(inst)
+    inst:DoTaskInTime(0, DoPostinit)
 
     return inst
 end

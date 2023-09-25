@@ -16,6 +16,8 @@ PrefabFiles = {
     "grass_tall",
     "gnatmound",
     "gnat",
+    "gold_dust",
+    "goldpan",
     "halberd",
     "iron",
     "pl_wave_shore",
@@ -29,6 +31,8 @@ PrefabFiles = {
     "pogherd",
     "rabid_beetle",
     "porkland",
+    "pangolden",
+    "sedimentpuddle",
     "shears",
     "smelter",
     "tree_pillar",
@@ -60,6 +64,7 @@ Assets = {
     -- player_actions
     Asset("ANIM", "anim/player_sneeze.zip"),
     Asset("ANIM", "anim/player_mount_sneeze.zip"),
+    Asset("ANIM", "anim/player_actions_panning.zip"),
 }
 
 ToolUtil.RegisterImageAtlas("images/pl_inventoryimages.xml")

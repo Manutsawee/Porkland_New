@@ -19,8 +19,12 @@ local DungBeetleBrain = Class(Brain, function(self, inst)
 end)
 
 local function DigDungAction(inst)
+    if inst.sg:HasStateTag("busy") then
+        return
+    end
+
     local target = FindEntity(inst, SEE_DUNG_DIST, function(item) return not inst:HasTag("hasdung") and item:HasTag("dungpile") end)
-    if target then
+    if target ~= nil then
         local act = BufferedAction(inst, target, ACTIONS.DIGDUNG)
         act.validfn = function() return not inst:HasTag("hasdung") and target:HasTag("dungpile") end
         return act
@@ -28,8 +32,15 @@ local function DigDungAction(inst)
 end
 
 local function MountDungAction(inst)
-    local target = FindEntity(inst, SEE_DUNG_DIST, function(item) return not inst:HasTag("hasdung") and item:HasTag("dungball") end)
-    if target then
+    if inst.sg:HasStateTag("busy") then
+        return
+    end
+
+    local target = FindEntity(inst, SEE_DUNG_DIST, function(item)
+        return not inst:HasTag("hasdung") and item:HasTag("dungball")
+    end)
+
+    if target ~= nil then
         inst.dung_target = target
         local act = BufferedAction(inst, target, ACTIONS.MOUNTDUNG)
         act.validfn = function() return not inst:HasTag("hasdung") and target:HasTag("dungball") end
@@ -40,10 +51,14 @@ end
 function DungBeetleBrain:OnStart()
     local root = PriorityNode({
         BrainCommon.PanicTrigger(self.inst),
-        RunAway(self.inst, "scarytoprey", AVOID_PLAYER_DIST, AVOID_PLAYER_STOP),
-        RunAway(self.inst, "scarytoprey", SEE_PLAYER_DIST, STOP_RUN_DIST, nil, false),
-        DoAction(self.inst, MountDungAction),
-        DoAction(self.inst, DigDungAction),
+        WhileNode(function()
+            return not self.inst.sg:HasStateTag("dungmounting") end, "Run Away",
+            RunAway(self.inst, "scarytoprey", AVOID_PLAYER_DIST, AVOID_PLAYER_STOP)),
+        WhileNode(function()
+            return not self.inst.sg:HasStateTag("dungmounting") end, "Run Away",
+            RunAway(self.inst, "scarytoprey", SEE_PLAYER_DIST, STOP_RUN_DIST, nil, false)),
+        DoAction(self.inst, MountDungAction, "Mount Dung"),
+        DoAction(self.inst, DigDungAction, "Dig Dung"),
         Wander(self.inst, function() return self.inst.components.knownlocations:GetLocation("home") end, MAX_WANDER_DIST)
     }, .25)
 

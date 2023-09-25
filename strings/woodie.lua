@@ -44,6 +44,8 @@ return {
         GLOWFLY_COCOON = "That looks comfy, eh?",
         GNAT = "Lotta those guys in the lumber camps.",
         GNATMOUND = "Industrious little guys, eh Lucy?",
+        GOLDPAN = "Haven't done any prospectin' in a while.",
+        GOLD_DUST = "Look at all that gold!",
         GRASS_TALL = {
             BURNING = "It caught fire.",
             GENERIC = "Don't worry your head aboot this one, Lucy.",
@@ -51,6 +53,7 @@ return {
         },
         HALBERD = "Well, it's no axe.",
         IRON = "Can't chop this too well.",
+        PANGOLDEN = "Looks expensive.",
         PEAGAWK = {
             DEAD = "It's a goner.",
             GENERIC = "Filthy animal!",
@@ -69,6 +72,7 @@ return {
             GENERIC = "Seems mighty angry.",
             SLEEPING = "Let sleeping bugs lie, I say.",
         },
+        SEDIMENTPUDDLE = "What's that shiny stuff in there?",
         SHEARS = "Don't get jealous, Lucy.",
         SMELTER = {
             BURNT = "How did it get burned?!",

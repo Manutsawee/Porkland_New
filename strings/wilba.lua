@@ -45,6 +45,8 @@ return {
         GLOWFLY_COCOON = "WRAPP'DED IN A BUGGY BLANKET",
         GNAT = "MUCH ADO ABOUT GNAT-ING",
         GNATMOUND = "ALL THAT BUZZES IS GNAT HOME",
+        GOLDPAN = "'TIS A PAN FOR GLITTERIES",
+        GOLD_DUST = "'TIS DIRT O' SPARKLIES",
         GRASS_TALL = {
             BURNING = "FWOOSH'DING",
             GENERIC = "AS LONG AS THE DAY IS MERRY",
@@ -52,6 +54,7 @@ return {
         },
         HALBERD = "WILBA SHALL SLICE AND CHOP!",
         IRON = "'TIS METAL O' THE ZAPPY BIRD",
+        PANGOLDEN = "NOSE HIMSELF TO BE A FOOL",
         PEAGAWK = {
             DEAD = "IS'T EYES LOOKED IS'T LAST",
             GENERIC = "WHAT A ROGUE AND PEASANT SLAVE AM EYE-BIRD!",
@@ -70,6 +73,7 @@ return {
             GENERIC = "FULL OF SOUND AND FURY",
             SLEEPING = "O GENTLE SLEEPIES",
         },
+        SEDIMENTPUDDLE = "ALL THAT GLITTERS 'TIS GOLD",
         SHEARS = "FOR THE CUTTINGS OF THE SHRUBS",
         SMELTER = {
             BURNT = "'TIS FWOOSHED",

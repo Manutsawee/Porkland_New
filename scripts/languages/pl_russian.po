@@ -5,6 +5,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0"
 
+#. STRINGS.ACTIONS.PAN
+msgctxt "STRINGS.ACTIONS.PAN"
+msgid "Pan"
+msgstr "Просеять"
+
 #. STRINGS.ACTIONS.SMELT
 msgctxt "STRINGS.ACTIONS.SMELT"
 msgid "Smelt"
@@ -175,6 +180,16 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GNATMOUND"
 msgid "Science says it's gnat good."
 msgstr "Наука говорит, что вы гнусные."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDPAN"
+msgid "Critics panned it."
+msgstr "Сеет сомнения."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLD_DUST"
+msgid "Aw... it's hardly worth anything."
+msgstr "Да уж, едва ли от этого будет прок."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS_TALL.BURNING"
 msgid "A grass fire!"
@@ -199,6 +214,11 @@ msgstr "Кто к нам с мечом, того я топором!"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.IRON"
 msgid "Isn't it ironic?"
 msgstr "Железно!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PANGOLDEN"
+msgid "It likes rich food."
+msgstr "В погоню за богатствами!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PEAGAWK.DEAD"
@@ -259,6 +279,11 @@ msgstr "Какой-то он бешеный."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "In a slumber."
 msgstr "Дремлет, красавец."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Pool's gold."
+msgstr "Лужа золота."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHEARS"
@@ -460,6 +485,16 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GNATMOUND"
 msgid "The nest of those exceptionally annoying bugs."
 msgstr "Гнездо этих отчаянно надоедливых жучков."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLDPAN"
+msgid "I do hope the holes were meant to be there."
+msgstr "Надеюсь, что дырочки тут так и задуманы."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GOLD_DUST"
+msgid "Evidently, it's the preferred sustenance of those long nosed quadrupeds."
+msgstr "Судя по всему, это любимая субстанция местных длинноносых четвероногих."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Evidently, grass here has the same flammability qualities as at home."
@@ -484,6 +519,11 @@ msgstr "Невероятно универсальный инструмент, с
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.IRON"
 msgid "Marvelous! Iron is invaluable for manufacturing the tools I need!"
 msgstr "Невероятно! Железо необходимо для изготовления нужных мне инструментов."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PANGOLDEN"
+msgid "Evidently, it poops gold. Fascinating!"
+msgstr "Очевидно какает золотом. Поразительно!"
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.PEAGAWK.DEAD"
@@ -534,6 +574,11 @@ msgstr "Приобретает растительность на лице в п�
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "It's respiratory structures are vibrating."
 msgstr "У него вибрирует респираторная система."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Evidence would suggest there's gold down there!"
+msgstr "Все указывает на то, что там внизу есть золото."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.SHEARS"
@@ -740,6 +785,16 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GNATMOUND"
 msgid "Like an apartment building for bugs."
 msgstr "Жилое здание для жуков."
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDPAN"
+msgid "You mean I gotta work for my gold?"
+msgstr "То есть золото мне не просто так дадут?"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLD_DUST"
+msgid "Fairy dust!"
+msgstr "Волшебная пыльца!"
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It'd probably be a lot of work to put it out."
@@ -764,6 +819,11 @@ msgstr "Этим можно и глаз выколоть!"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.IRON"
 msgid "This has gotta be good for something."
 msgstr "Для чего-нибудь пригодится."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PANGOLDEN"
+msgid "Shiny."
+msgstr "Блестящий."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PEAGAWK.DEAD"
@@ -824,6 +884,11 @@ msgstr "Чувак, уймись!"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "That's it. Now just stay asleep."
 msgstr "Вот так. Спи дальше."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SEDIMENTPUDDLE"
+msgid "There's sparkly things down there!"
+msgstr "Там блестяшки!"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SHEARS"
@@ -1025,6 +1090,16 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GNATMOUND"
 msgid "What might live inside?"
 msgstr "Что может жить внутри?"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLDPAN"
+msgid "Are you ready? Warby!"
+msgstr "Вы готовы? Уорби!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GOLD_DUST"
+msgid "No matter how small the gold is, it is still gold."
+msgstr "Каким бы маленьким ни было золото, оно все равно остается золотом."
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Hey! Brush fires will destroy rainforests!"
@@ -1049,6 +1124,11 @@ msgstr "Огромный топор!"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.IRON"
 msgid "Is that iron?"
 msgstr "Это железо?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PANGOLDEN"
+msgid "A born gold digger."
+msgstr "Прирожденный золотоискатель."
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.PEAGAWK.GENERIC"
@@ -1104,6 +1184,11 @@ msgstr "Вау, посмотрите, какие они активные!"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "it's sleeping,"
 msgstr "он спит,"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Is there gold in that?"
+msgstr "Есть ли в этом золото?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SHEARS"
@@ -1305,6 +1390,16 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNATMOUND"
 msgid "Dirty and messy."
 msgstr "Грязный и грязный."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLDPAN"
+msgid "I can't imagine how long this will take."
+msgstr "Я не могу себе представить, сколько времени это займет."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GOLD_DUST"
+msgid "I still need to collect a lot of them."
+msgstr "Мне еще предстоит собрать их много."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "This is not good."
@@ -1329,6 +1424,11 @@ msgstr "Я не собираюсь убивать рощу деревьев."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.IRON"
 msgid "An essential material for accurate timepieces."
 msgstr "Необходимый материал для точных часов."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PANGOLDEN"
+msgid "Their recipes are extravagant."
+msgstr "Их рецепты экстравагантны."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.PEAGAWK.GENERIC"
@@ -1384,6 +1484,11 @@ msgstr "паразит! Уходите!"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Huh, I can take a breath."
 msgstr "Ха, я могу перевести дух."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Water isn't the only thing here reflecting sunlight."
+msgstr "Вода – не единственное, что здесь отражает солнечный свет."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHEARS"
@@ -1585,6 +1690,16 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GNATMOUND"
 msgid "I'd rather have a mound of chocolate."
 msgstr "Я бы предпочел гору шоколада."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDPAN"
+msgid "I have better pans."
+msgstr "У меня есть сковородки и получше."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLD_DUST"
+msgid "Perhaps that nosy fellow would like to eat this."
+msgstr "Может, скормить тому любопытному созданию?"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Smells like a cookout!"
@@ -1609,6 +1724,11 @@ msgstr "Не люблю драться."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.IRON"
 msgid "I wonder what I could cook up with this."
 msgstr "Интересно, что можно из этого приготовить."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PANGOLDEN"
+msgid "Already has a nice golden braise."
+msgstr "Отличная золотистая тушка."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PEAGAWK.DEAD"
@@ -1669,6 +1789,11 @@ msgstr "В точности как я, когда голоден."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "What a curious way to sleep!"
 msgstr "Как он интересно спит!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SEDIMENTPUDDLE"
+msgid "It's been seasoned with gold."
+msgstr "Приправлена золотом."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SHEARS"
@@ -1870,6 +1995,16 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND"
 msgid "The Valhalla of bugs."
 msgstr "Жучиная Вальхалла."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN"
+msgid "It will vanquish the pieces of tiny gold!"
+msgstr "Уничтожает махонькие куски золота!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLD_DUST"
+msgid "Golden dust."
+msgstr "Золотая пыль."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It burns!"
@@ -1894,6 +2029,11 @@ msgstr "Это не копье, но победу в бою мне принес�
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON"
 msgid "Material for metalwork."
 msgstr "Материал для работы по металлу."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PANGOLDEN"
+msgid "Surely a cousin of Gullinbursti!"
+msgstr "Родственник Гуллинбурсти."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PEAGAWK.DEAD"
@@ -1954,6 +2094,11 @@ msgstr "Коварное чудище, ты встретило достойну�
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Slumber consumes it!"
 msgstr "Его поразил сон!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Its tiny gold pieces will be mine!"
+msgstr "Я добуду из нее кусочки золота!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHEARS"
@@ -2160,6 +2305,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND"
 msgid "Ugh. The horde home."
 msgstr "Фу. Дом орды."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN"
+msgid "Must I do everything myself?"
+msgstr "Почему мне все приходится делать самому?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLD_DUST"
+msgid "I suppose any gold is good gold."
+msgstr "Признаем, что любое золото — это хорошо."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Well, there you have it."
@@ -2184,6 +2339,11 @@ msgstr "Лезвие, сравнимое по остроте с моим умо�
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.IRON"
 msgid "A solid mineral."
 msgstr "Крепкий минерал."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PANGOLDEN"
+msgid "He has expensive tastes."
+msgstr "У него дорогие удовольствия."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PEAGAWK.DEAD"
@@ -2244,6 +2404,11 @@ msgstr "Что-то он весь на взводе."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "A noisy sleeper."
 msgstr "Беспокойно спит."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SEDIMENTPUDDLE"
+msgid "There's something sparkling inside there."
+msgstr "Внутри что-то поблескивает."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHEARS"
@@ -2445,6 +2610,16 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GNATMOUND"
 msgid "It's where all those little bugs live."
 msgstr "Здесь живут мелкие жучки."
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDPAN"
+msgid "Hey, now we can be prospectors."
+msgstr "Мы станем золотоискателями."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLD_DUST"
+msgid "Wow! I wonder if it's worth anything."
+msgstr "Ого! Интересно, это что-то стоит?"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Fire!"
@@ -2469,6 +2644,11 @@ msgstr "Вжух!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.IRON"
 msgid "We could make all kinds of neat stuff with this."
 msgstr "Из этого можно сделать много классных вещей."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PANGOLDEN"
+msgid "I think he eats gold."
+msgstr "Думаю, он питается золотом."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEAGAWK.DEAD"
@@ -2529,6 +2709,11 @@ msgstr "Энергии ему не занимать!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Haha! A bug with a mustache!"
 msgstr "Ха! Усатый жук!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEDIMENTPUDDLE"
+msgid "It's full of sparkly stuff."
+msgstr "Здесь что-то блестит."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHEARS"
@@ -2730,6 +2915,16 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GNATMOUND"
 msgid "They're building their own doom."
 msgstr "Они сами строят свою погибель."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLDPAN"
+msgid "Offers too much hope."
+msgstr "С ним связано слишком много надежд."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GOLD_DUST"
+msgid "Death is not sparkly."
+msgstr "Смерть сиять не может."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Death comes to everything."
@@ -2754,6 +2949,11 @@ msgstr "Ужасное оружие из ужасного мира."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.IRON"
 msgid "Iron. Like my heart."
 msgstr "Мое сердце тоже сделано из железа."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PANGOLDEN"
+msgid "A fool and his gold."
+msgstr "Дурак и его золото."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PEAGAWK.DEAD"
@@ -2814,6 +3014,11 @@ msgstr "Бешеный, как ритм жизни."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Sleep is not a permanent escape from life."
 msgstr "Во сне можно лишь ненадолго сбежать от этой жизни."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Contains unreachable shiny things."
+msgstr "Там что-то блестит, но это лишь видимость."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHEARS"
@@ -3015,6 +3220,16 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GNATMOUND"
 msgid "Not bad, for a mound full of bugs."
 msgstr "Ничего себе. Целая куча насекомых."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLDPAN"
+msgid "Swell. A pan with holes in it."
+msgstr "Прелестно. Миска с дырками."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GOLD_DUST"
+msgid "Hardly worth holding onto. If I could find more of it though..."
+msgstr "Не стоит затраченных усилий, хотя... Надо набрать побольше."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.GRASS_TALL.BURNING"
 msgid "All those bugs have nowhere to hide now."
@@ -3039,6 +3254,11 @@ msgstr "Главный универсальный инструмент иска�
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.IRON"
 msgid "Well it's not good balloon material."
 msgstr "Воздушный шар из него не сделаешь."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PANGOLDEN"
+msgid "I don't actually mind picking up his poop."
+msgstr "Мне даже нравится убирать за ним какашки."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PEAGAWK.DEAD"
@@ -3099,6 +3319,11 @@ msgstr "Он бесится, потому что летает плохо."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Quite the snorer."
 msgstr "Вот это храп."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SEDIMENTPUDDLE"
+msgid "A sparkly pool. A little too sparkly."
+msgstr "Блестящий водоем. Чересчур блестящий."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SHEARS"
@@ -3300,6 +3525,16 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GNATMOUND"
 msgid "Obviously the work of a eusocial insect."
 msgstr "Творение социальных насекомых."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDPAN"
+msgid "This should be useful for finding valuable minerals."
+msgstr "Пригодится для поиска драгоценных металлов."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLD_DUST"
+msgid "Small particles of the shiniest element."
+msgstr "Малые частицы ценнейшего минерала."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Illuminating!"
@@ -3324,6 +3559,11 @@ msgstr "Беспощадное оружие для любой ситуации."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.IRON"
 msgid "Ferrum."
 msgstr "Ferrum."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PANGOLDEN"
+msgid "Aurum vermilingua."
+msgstr "Золотой муравьед."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEAGAWK.DEAD"
@@ -3384,6 +3624,11 @@ msgstr "Этот вид мне совершенно точно неизвест�
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Dormant."
 msgstr "В забытьи."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Contains some lustrous sentiment."
+msgstr "Содержит блестящие частицы."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHEARS"
@@ -3590,6 +3835,16 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GNATMOUND"
 msgid "ALL THAT BUZZES IS GNAT HOME"
 msgstr "ТАК ВОТ ОН ГДЕ, ИСТОЧНИК ШУМА"
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLDPAN"
+msgid "'TIS A PAN FOR GLITTERIES"
+msgstr "ЗДЕСЬ МОЖНО СОБИРАТЬ БЛЕСТЯШКИ"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GOLD_DUST"
+msgid "'TIS DIRT O' SPARKLIES"
+msgstr "В СЕЙ ГРЯЗИ СВЕРКАЕТ ЗЛАТО"
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "FWOOSH'DING"
@@ -3614,6 +3869,11 @@ msgstr "ПОЛЕТЯТ ГОЛОВЫ С ПЛЕЧ!"
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.IRON"
 msgid "'TIS METAL O' THE ZAPPY BIRD"
 msgstr "СИЕ МЕТАЛЛ ОТ ПТИЦЫ ГРОЗОВОЙ"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PANGOLDEN"
+msgid "NOSE HIMSELF TO BE A FOOL"
+msgstr "НОС ЕГО СМЕШОН И НЕОБЫЧЕН"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.PEAGAWK.DEAD"
@@ -3674,6 +3934,11 @@ msgstr "ЗВУКАМИ И ЯРОСТЬЮ ПОЛНИТСЯ ОН"
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "O GENTLE SLEEPIES"
 msgstr "ПУСТЬ СОН СПОКОЕН БУДЕТ ТВОЙ"
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SEDIMENTPUDDLE"
+msgid "ALL THAT GLITTERS 'TIS GOLD"
+msgstr "ВСЕ ТО ЗОЛОТО, ЧТО БЛЕСТИТ"
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SHEARS"
@@ -3875,6 +4140,16 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GNATMOUND"
 msgid "I can't even burn it down."
 msgstr "Я даже сжечь ее не могу."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDPAN"
+msgid "You mean I have to do work?"
+msgstr "Мне что, руками работать придется?"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLD_DUST"
+msgid "It's probably not worth much."
+msgstr "Скорее всего, он ничего не стоит."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS_TALL.BURNING"
 msgid "I win."
@@ -3899,6 +4174,11 @@ msgstr "Оружие должно быть как минимум в два ра�
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.IRON"
 msgid "I can't burn it with just my lighter."
 msgstr "Одной зажигалкой тут не обойтись."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PANGOLDEN"
+msgid "Yeesh, he's sucking up all the gold!"
+msgstr "Ничего себе! Он золото всасывает!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PEAGAWK.DEAD"
@@ -3959,6 +4239,11 @@ msgstr "Что тебя так разозлило?"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "I should draw a mustache on its mustache while it sleeps."
 msgstr "Нужно нарисовать ему на усах усы, пока он спит."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Yeesh, there's a lot of sparkles in there."
+msgstr "Ух ты, какая блестящая вода."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHEARS"
@@ -4160,6 +4445,16 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GNATMOUND"
 msgid "Those bugs are hiding in here."
 msgstr "Эти ошибки прячутся здесь."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLDPAN"
+msgid "Separate the metal."
+msgstr "Отделите металл."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GOLD_DUST"
+msgid "gold! My luck has come!"
+msgstr "золото! Моя удача пришла!"
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GRASS_TALL.BURNING"
 msgid "A Grass fire!"
@@ -4184,6 +4479,11 @@ msgstr "Больше подходит для боя, чем для работы.
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.IRON"
 msgid "Invaluable material for manufacturing useful tools."
 msgstr "Бесценный материал для изготовления полезных инструментов."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PANGOLDEN"
+msgid "A living metallurgical furnace."
+msgstr "Живая металлургическая печь."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PEAGAWK.GENERIC"
@@ -4239,6 +4539,11 @@ msgstr "Чем вы все взволнованы?"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Calm down!"
 msgstr "Успокоиться!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SEDIMENTPUDDLE"
+msgid "The metal content seriously exceeded the standard."
+msgstr "Содержание металлов серьезно превышало норму."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHEARS"
@@ -4440,6 +4745,16 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GNATMOUND"
 msgid "Wolfgang smash bug home!"
 msgstr "Вольфганг сокрушит жучий дом!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLDPAN"
+msgid "Is for eating from?"
+msgstr "Отсюда кушают?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GOLD_DUST"
+msgid "Wolfgang like. Is shiny."
+msgstr "Блестит. Вольфгангу нравится."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Wolfgang is not doing that!"
@@ -4464,6 +4779,11 @@ msgstr "Мечи — для хилых слабаков!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.IRON"
 msgid "Iron is strong like Wolfgang."
 msgstr "Сильное железо, прямо как Вольфганг."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PANGOLDEN"
+msgid "Hehe. Haves big nose."
+msgstr "Хе-хе. Большущий нос."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD"
@@ -4524,6 +4844,11 @@ msgstr "Вольфганг расплющит жука-негодяя!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Hehe. Is funny mustache."
 msgstr "Хе-хе. Смешные усики."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Hello little sparklies!"
+msgstr "Привет, блестелки!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHEARS"
@@ -4725,6 +5050,16 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GNATMOUND"
 msgid "Industrious little guys, eh Lucy?"
 msgstr "Какие они продвинутые, да, Люси?"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDPAN"
+msgid "Haven't done any prospectin' in a while."
+msgstr "Давненько я золото не мыл."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLD_DUST"
+msgid "Look at all that gold!"
+msgstr "Вы гляньте, настоящее золото!"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It caught fire."
@@ -4749,6 +5084,11 @@ msgstr "Ну, это не топор, конечно."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON"
 msgid "Can't chop this too well."
 msgstr "Рубить его практически невозможно."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PANGOLDEN"
+msgid "Looks expensive."
+msgstr "Выглядит дорого."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PEAGAWK.DEAD"
@@ -4809,6 +5149,11 @@ msgstr "Его переполняет злоба."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Let sleeping bugs lie, I say."
 msgstr "Не буди спящего жука, как говорится."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SEDIMENTPUDDLE"
+msgid "What's that shiny stuff in there?"
+msgstr "Что это там блестит такое?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHEARS"
@@ -5010,6 +5355,16 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GNATMOUND"
 msgid "Barnacle's o'tha land."
 msgstr "Сухопутные ракушки."
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLDPAN"
+msgid "Fer fishin' fer gold."
+msgstr "Чтобы выуживать золото."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GOLD_DUST"
+msgid "Aye! 'Tis treasure dust!"
+msgstr "Эге! От сокровища осталась только пыль!"
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.GRASS_TALL.BURNING"
 msgid "'Tis ablaze!"
@@ -5034,6 +5389,11 @@ msgstr "Это не кортик."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.IRON"
 msgid "'Tis not gold, but a treasure nonetheless."
 msgstr "Может, и не золото, но все равно сокровище."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PANGOLDEN"
+msgid "Eatin' up all tha treasure!"
+msgstr "Пожирает сокровище!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PEAGAWK.DEAD"
@@ -5094,6 +5454,11 @@ msgstr "Своенравный жучок."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Thar she blows!"
 msgstr "Ща рванет!"
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Alas, not big enough to sail in."
+msgstr "Увы, по ней в плавание не пуститься."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SHEARS"
@@ -5295,6 +5660,16 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GNATMOUND"
 msgid "Hello?"
 msgstr "Привет?"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDPAN"
+msgid "Gets Shiny from puddle"
+msgstr "Чтобы доставать блестяшки из лужи"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLD_DUST"
+msgid "Shiny dirt"
+msgstr "Блестящая земля"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_TALL.BURNING"
 msgid "No!!"
@@ -5319,6 +5694,11 @@ msgstr "Палка крючкохвоста для драк"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.IRON"
 msgid "Clinky Rock"
 msgstr "Звонкий камень"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PANGOLDEN"
+msgid "Shiny Pooper"
+msgstr "Блестящий какун"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEAGAWK.DEAD"
@@ -5379,6 +5759,11 @@ msgstr "Почему ты злишься, жужжалка?"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Let it sleep"
 msgstr "Пусть спит"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SEDIMENTPUDDLE"
+msgid "Shiny puddle"
+msgstr "Лужа с блестяшками"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHEARS"
@@ -5575,6 +5960,16 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GNATMOUND"
 msgid "This is my first time seeing this."
 msgstr "Я впервые вижу это."
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDPAN"
+msgid "A large colander, for gold and glory."
+msgstr "Большой дуршлаг для золота и славы."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLD_DUST"
+msgid "Many mortals try to use it to fill the void in their souls."
+msgstr "Многие смертные пытаются использовать его, чтобы заполнить пустоту в своей душе."
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Oops, it's burning."
@@ -5599,6 +5994,11 @@ msgstr "Какое коварное оружие."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.IRON"
 msgid "Oooh. Almost burned me."
 msgstr "Ооо. Меня чуть не спалил."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PANGOLDEN"
+msgid "How was your day? Is there anything to gain?"
+msgstr "Как прошел день? Есть ли что-нибудь, что можно получить?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PEAGAWK.GENERIC"
@@ -5654,6 +6054,11 @@ msgstr "Очень энергично, хочешь потанцевать?"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "Then intermission."
 msgstr "Потом антракт."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SEDIMENTPUDDLE"
+msgid "These are not for drinking."
+msgstr "Они не для питья."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHEARS"
@@ -5855,6 +6260,16 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GNATMOUND"
 msgid "Bug Hideout."
 msgstr "Убежище ошибок."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GOLDPAN"
+msgid "Pick up things in the water."
+msgstr "Подбирайте вещи в воде."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GOLD_DUST"
+msgid "Sparkling..."
+msgstr "Игристое..."
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Fire! Is fire!"
@@ -5879,6 +6294,11 @@ msgstr "Странное оружие, которым пользуются Св�
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.IRON"
 msgid "Red hard rock."
 msgstr "Красный хард-рок."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PANGOLDEN"
+msgid "Don’t drink it all!"
+msgstr "Не пейте все это!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PEAGAWK.GENERIC"
@@ -5934,6 +6354,11 @@ msgstr "Маленький жучок сходит с ума!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "The little bug was quiet."
 msgstr "Маленький жук молчал."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SEDIMENTPUDDLE"
+msgid "The water is... glowing?"
+msgstr "Вода... светится?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SHEARS"
@@ -6135,6 +6560,16 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GNATMOUND"
 msgid "HOME OF TINY FLYING MEATSACK"
 msgstr "ДОМ МЕЛКИХ ЛЕТУЧИХ СУЩЕСТВ"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDPAN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GOLDPAN"
+msgid "GOLD GATHERING ACCESSORY"
+msgstr "УСТРОЙСТВО ДЛЯ СБОРА ЗОЛОТА"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.GOLD_DUST
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GOLD_DUST"
+msgid "TINY POWDER OF MALLEABLE METAL"
+msgstr "МЕЛКИЙ ПОРОШОК КОВКОГО МЕТАЛЛА"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GRASS_TALL.BURNING"
 msgid "GROUND PARTS ON FIRE"
@@ -6159,6 +6594,11 @@ msgstr "ПРИСПОСОБЛЕНИЕ ДЛЯ БОРЬБЫ СО ЗЛОМ"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.IRON"
 msgid "HELLO FRIEND"
 msgstr "ПРИВЕТ, ДРУГ"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PANGOLDEN"
+msgid "AN ORGANIC WITH A TASTE FOR METAL. CONCERNING"
+msgstr "ОРГАНИК СО ВКУСОМ К МЕТАЛЛУ. КАСАТЕЛЬНО"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PEAGAWK.DEAD"
@@ -6219,6 +6659,11 @@ msgstr "ИЗБЫТОЧНАЯ ЛИЦЕВАЯ РАСТИТЕЛЬНОСТЬ"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RABID_BEETLE.SLEEPING"
 msgid "REGENERATING TERROR"
 msgstr "ВОСПОЛНЯЕТ ЗАПАСЫ УЖАСА"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SEDIMENTPUDDLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SEDIMENTPUDDLE"
+msgid "WATER IS HINDERING ME FROM FINANCIAL GAIN"
+msgstr "ВОДА ПЕРЕКРЫВАЕТ МНЕ ДОСТУП К ОБОГАЩЕНИЮ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SHEARS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHEARS"
@@ -6340,6 +6785,16 @@ msgctxt "STRINGS.NAMES.GNATMOUND"
 msgid "Gnat Mound"
 msgstr "Москитник"
 
+#. STRINGS.NAMES.GOLDPAN
+msgctxt "STRINGS.NAMES.GOLDPAN"
+msgid "Gold Pan"
+msgstr "Сито для золота"
+
+#. STRINGS.NAMES.GOLD_DUST
+msgctxt "STRINGS.NAMES.GOLD_DUST"
+msgid "Gold Dust"
+msgstr "Золотая пыль"
+
 #. STRINGS.NAMES.GRASS_TALL
 msgctxt "STRINGS.NAMES.GRASS_TALL"
 msgid "Tall Grass"
@@ -6354,6 +6809,11 @@ msgstr "Алебарда"
 msgctxt "STRINGS.NAMES.IRON"
 msgid "Iron Ore"
 msgstr "Железная руда"
+
+#. STRINGS.NAMES.PANGOLDEN
+msgctxt "STRINGS.NAMES.PANGOLDEN"
+msgid "Pangolden"
+msgstr "Златолин"
 
 #. STRINGS.NAMES.PEAGAWK
 msgctxt "STRINGS.NAMES.PEAGAWK"
@@ -6379,6 +6839,11 @@ msgstr "Лисобака"
 msgctxt "STRINGS.NAMES.RABID_BEETLE"
 msgid "Rabid Beetle"
 msgstr "Бешеный жук"
+
+#. STRINGS.NAMES.SEDIMENTPUDDLE
+msgctxt "STRINGS.NAMES.SEDIMENTPUDDLE"
+msgid "Sparkling Pool"
+msgstr "Сверкающая лужа"
 
 #. STRINGS.NAMES.SHEARS
 msgctxt "STRINGS.NAMES.SHEARS"
@@ -6420,6 +6885,11 @@ msgctxt "STRINGS.RECIPE_DESC.BASEFAN"
 msgid "Relieves hay fever, keeps you dry."
 msgstr "Сушит и помогает при сенной лихорадке."
 
+#. STRINGS.RECIPE_DESC.GOLDPAN
+msgctxt "STRINGS.RECIPE_DESC.GOLDPAN"
+msgid "Pans gold actually."
+msgstr "Задерживает в себе крупицы золота."
+
 #. STRINGS.RECIPE_DESC.HALBERD
 msgctxt "STRINGS.RECIPE_DESC.HALBERD"
 msgid "Pointy and hurty."
@@ -6449,11 +6919,6 @@ msgstr "Спаржа"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DEEP_JUNGLE_FERN_NOISE"
 msgid "Jungle Floor Ferns"
 msgstr "Папоротники в джунглях"
-
-#. STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE
-msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE"
-msgid "Dung Beetle"
-msgstr "Навозный жук"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE_SETTING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUNGBEETLE_SETTING"
@@ -6519,6 +6984,11 @@ msgstr "Лианы в джунглях"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LUSH"
 msgid "Lush"
 msgstr "Цветение"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PANGOLDEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PANGOLDEN"
+msgid "Pangolden"
+msgstr "Панголден"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PEAGAWK_SETTING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PEAGAWK_SETTING"

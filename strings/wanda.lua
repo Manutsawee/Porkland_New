@@ -44,6 +44,8 @@ return {
         GLOWFLY_COCOON = "We'd better get out of here before it breaks out of its cocoon.",
         GNAT = "It reaches new heights in annoyingness.",
         GNATMOUND = "Dirty and messy.",
+        GOLDPAN = "I can't imagine how long this will take.",
+        GOLD_DUST = "I still need to collect a lot of them.",
         GRASS_TALL = {
             BURNING = "This is not good.",
             GENERIC = "Grasses this tough are indeed uncommon.",
@@ -51,6 +53,7 @@ return {
         },
         HALBERD = "I'm not planning on murdering grove of trees.",
         IRON = "An essential material for accurate timepieces.",
+        PANGOLDEN = "Their recipes are extravagant.",
         PEAGAWK = {
             GENERIC = "See no evil!",
             SLEEPING = "Shouldn't it be looking at me?",
@@ -68,6 +71,7 @@ return {
             GENERIC = "vermin! go away!",
             SLEEPING = "Huh, I can take a breath.",
         },
+        SEDIMENTPUDDLE = "Water isn't the only thing here reflecting sunlight.",
         SHEARS = "I won't waste my time on this.",
         SMELTER = {
             BURNT = "We've made the most of it.",

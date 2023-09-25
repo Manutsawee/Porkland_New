@@ -44,6 +44,8 @@ return {
         GLOWFLY_COCOON = "'e be sleepin' it off.",
         GNAT = "Flyin' minnows.",
         GNATMOUND = "Barnacle's o'tha land.",
+        GOLDPAN = "Fer fishin' fer gold.",
+        GOLD_DUST = "Aye! 'Tis treasure dust!",
         GRASS_TALL = {
             BURNING = "'Tis ablaze!",
             GENERIC = "As tall'as th'sky.",
@@ -51,6 +53,7 @@ return {
         },
         HALBERD = "T'ain't no cutlass.",
         IRON = "'Tis not gold, but a treasure nonetheless.",
+        PANGOLDEN = "Eatin' up all tha treasure!",
         PEAGAWK = {
             DEAD = "It tells no tales.",
             GENERIC = "Arr, them eyes need patches!",
@@ -69,6 +72,7 @@ return {
             GENERIC = "Ornery buggie.",
             SLEEPING = "Thar she blows!",
         },
+        SEDIMENTPUDDLE = "Alas, not big enough to sail in.",
         SHEARS = "A cutlass fer tha'bushes.",
         SMELTER = {
             BURNT = "Blast the bore!",

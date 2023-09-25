@@ -44,6 +44,8 @@ return {
         GLOWFLY_COCOON = "That looks cozy.",
         GNAT = "Don't bite us, little guys.",
         GNATMOUND = "It's where all those little bugs live.",
+        GOLDPAN = "Hey, now we can be prospectors.",
+        GOLD_DUST = "Wow! I wonder if it's worth anything.",
         GRASS_TALL = {
             BURNING = "Fire!",
             GENERIC = "It's taller than we are!",
@@ -51,6 +53,7 @@ return {
         },
         HALBERD = "Swoosh!",
         IRON = "We could make all kinds of neat stuff with this.",
+        PANGOLDEN = "I think he eats gold.",
         PEAGAWK = {
             DEAD = "I think it's dead.",
             GENERIC = "You've got more eyes than we do!",
@@ -69,6 +72,7 @@ return {
             GENERIC = "That guy's got a lot of energy!",
             SLEEPING = "Haha! A bug with a mustache!",
         },
+        SEDIMENTPUDDLE = "It's full of sparkly stuff.",
         SHEARS = "It's for chores like trimming hedges or cutting grass.",
         SMELTER = {
             BURNT = "All burned up.",

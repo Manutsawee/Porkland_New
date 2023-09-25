@@ -45,6 +45,8 @@ return {
         GLOWFLY_COCOON = "Snug as a bug.",
         GNAT = "Better gnat go near those guys.",
         GNATMOUND = "Science says it's gnat good.",
+        GOLDPAN = "Critics panned it.",
+        GOLD_DUST = "Aw... it's hardly worth anything.",
         GRASS_TALL = {
             BURNING = "A grass fire!",
             GENERIC = "It's too tough to pick with my hands.",
@@ -52,6 +54,7 @@ return {
         },
         HALBERD = "Now I can't be caught off-guard.",
         IRON = "Isn't it ironic?",
+        PANGOLDEN = "It likes rich food.",
         PEAGAWK = {
             DEAD = "Dead-eyed.",
             GENERIC = "That bush is alive!",
@@ -70,6 +73,7 @@ return {
             GENERIC = "Looks deranged.",
             SLEEPING = "In a slumber.",
         },
+        SEDIMENTPUDDLE = "Pool's gold.",
         SHEARS = "Shear-ly delightful.",
         SMELTER = {
             BURNT = "The smelter got smelted.",

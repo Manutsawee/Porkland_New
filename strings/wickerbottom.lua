@@ -44,6 +44,8 @@ return {
         GLOWFLY_COCOON = "Fascinating! It has moved on to the chrysalis stage.",
         GNAT = "A swarm of Culicidae Drosophila.",
         GNATMOUND = "Obviously the work of a eusocial insect.",
+        GOLDPAN = "This should be useful for finding valuable minerals.",
+        GOLD_DUST = "Small particles of the shiniest element.",
         GRASS_TALL = {
             BURNING = "Illuminating!",
             GENERIC = "I need an implement for that.",
@@ -51,6 +53,7 @@ return {
         },
         HALBERD = "It is a cruel and versatile weapon.",
         IRON = "Ferrum.",
+        PANGOLDEN = "Aurum vermilingua.",
         PEAGAWK = {
             DEAD = "Lifeless.",
             GENERIC = "A strangely mutated Pavo Cristatus.",
@@ -69,6 +72,7 @@ return {
             GENERIC = "Certainly not a species I know of!",
             SLEEPING = "Dormant.",
         },
+        SEDIMENTPUDDLE = "Contains some lustrous sentiment.",
         SHEARS = "A useful tool for horticultural purposes.",
         SMELTER = {
             BURNT = "Is anyone hurt?",

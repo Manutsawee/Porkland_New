@@ -41,6 +41,9 @@ local tuning = {
     SHEARS_DAMAGE = wilson_attack * .5,
     SHEARS_USES = 20,
 
+    PAN_USES = 30,
+    PAN_DAMAGE = wilson_attack*.8,
+
     VINE_REGROW_TIME = total_day_time * 4,
 
     WEEVOLE_ENABLED = true,
@@ -150,6 +153,14 @@ local tuning = {
     DUNGPILE_REGEN_TIME = seg_time * 4,
     DUNGPILE_RELEASE_TIME = seg_time * 0.5,
     DUNGPILE_ENABLED = true,
+
+    PANGOLDEN_WALK_SPEED = 2.5,
+    PANGOLDEN_RUN_SPEED = 8,
+    PANGOLDEN_HEALTH = 500, --* 2 Changed in DST
+    PANGOLDEN_DAMAGE = 34,
+    PANGOLDEN_TARGET_DIST = 5,
+    PANGOLDEN_CHASE_DIST = 30,
+    PANGOLDEN_BALL_DEFENCE = 0.75,
 }
 
 for key, value in pairs(tuning) do

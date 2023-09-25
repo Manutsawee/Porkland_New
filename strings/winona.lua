@@ -44,6 +44,8 @@ return {
         GLOWFLY_COCOON = "Change is happening.",
         GNAT = "leave me alone!",
         GNATMOUND = "Those bugs are hiding in here.",
+        GOLDPAN = "Separate the metal.",
+        GOLD_DUST = "gold! My luck has come!",
         GRASS_TALL = {
             BURNING = "A Grass fire!",
             GENERIC = "That's some... very tall grass.",
@@ -51,6 +53,7 @@ return {
         },
         HALBERD = "More suited to combat than to work.",
         IRON = "Invaluable material for manufacturing useful tools.",
+        PANGOLDEN = "A living metallurgical furnace.",
         PEAGAWK = {
             GENERIC = "Always be vigilant.",
             SLEEPING = "It let down its guard.",
@@ -68,6 +71,7 @@ return {
             GENERIC = "What are you all excited about?",
             SLEEPING = "Calm down!",
         },
+        SEDIMENTPUDDLE = "The metal content seriously exceeded the standard.",
         SHEARS = "Shears for gardening.",
         SMELTER = {
             BURNT = "Forgot fire rules, didn't you?",

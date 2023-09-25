@@ -1,8 +1,6 @@
 require("stategraphs/commonstates")
 
 local actionhandlers = {
-    ActionHandler(ACTIONS.EAT, "eat"),
-    ActionHandler(ACTIONS.GOHOME, "action"),
     ActionHandler(ACTIONS.DIGDUNG, "dig"),
     ActionHandler(ACTIONS.MOUNTDUNG, "jump"),
 }
@@ -211,6 +209,7 @@ local states = {
     State{
         name = "jump",
         tags = {"busy", "moving", "canrotate", "dungmounting"},
+
         onenter = function(inst)
             RemovePhysicsColliders(inst)
             inst.Physics:Stop()
@@ -256,8 +255,7 @@ local states = {
             end),
         },
 
-        events=
-        {
+        events = {
             EventHandler("animover", function (inst)
                 inst:PerformBufferedAction()
                 inst.sg:GoToState("jump_pst")
@@ -283,7 +281,7 @@ local states = {
 
     State{
         name = "surprise",
-        tags = {"busy"},
+        tags = {"busy", "surprise"},
 
         onenter = function(inst)
             inst.Physics:Stop()

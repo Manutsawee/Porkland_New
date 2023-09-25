@@ -44,6 +44,8 @@ return {
         GLOWFLY_COCOON = "The little bug wrapped itself up.",
         GNAT = "Too much!",
         GNATMOUND = "Bug Hideout.",
+        GOLDPAN = "Pick up things in the water.",
+        GOLD_DUST = "Sparkling...",
         GRASS_TALL = {
             BURNING = "Fire! Is fire!",
             GENERIC = "Greer... can't move.",
@@ -51,6 +53,7 @@ return {
         },
         HALBERD = "Strange weapon used by Pigfolk.",
         IRON = "Red hard rock.",
+        PANGOLDEN = "Don’t drink it all!",
         PEAGAWK = {
             GENERIC = "Big weird bird.",
             SLEEPING = "The big monster fell asleep?",
@@ -68,6 +71,7 @@ return {
             GENERIC = "The little bug is going crazy!",
             SLEEPING = "The little bug was quiet.",
         },
+        SEDIMENTPUDDLE = "The water is... glowing?",
         SHEARS = "Shape the plants.",
         SMELTER = {
             BURNT = "Glurph, ruined.",
