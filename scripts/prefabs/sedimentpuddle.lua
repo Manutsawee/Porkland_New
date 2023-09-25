@@ -111,7 +111,6 @@ local function OnAnimOver(inst)
 end
 
 local function CollectRain(inst)
-    print("CollectRain")
     inst.watercollected = inst.watercollected + 1
     if inst.watercollected > inst.waterlimit then
         inst.watercollected = 0
