@@ -71,6 +71,12 @@ return {
             PL_CLOCKTYPE = "Clock Type",
             POG = "Pog",
             PORKLAND_SEASON_START = "Porkland Starting Season",
+            PRESETLEVELDESC = {
+                PORKLAND = "An extremely dangerous jungle?",
+            },
+            PRESETLEVELS = {
+                PORKLAND = "Porkland",
+            },
             TEMPERATE = "Temperate",
             WEEVOLE_SETTING = "Weevole",
         },

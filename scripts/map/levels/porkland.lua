@@ -1,9 +1,10 @@
 local LEVELTYPE = GLOBAL.LEVELTYPE
+local STRINGS = GLOBAL.STRINGS
 
 AddLevel(LEVELTYPE.SURVIVAL, {
     id = "PORKLAND_DEFAULT",
-    name = "Pork Land",
-    desc = "Pork Land",
+    name = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.PORKLAND,
+    desc = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.PORKLAND,
     location = "porkland",
     overrides = {
         task_set = "porkland",
