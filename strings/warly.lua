@@ -69,6 +69,7 @@ return {
             GENERIC = "It is like me when I am hungry.",
             SLEEPING = "What a curious way to sleep!",
         },
+        SEDIMENTPUDDLE = "It's been seasoned with gold.",
         SHEARS = "Good for cutting hedges and grass.",
         SMELTER = {
             BURNT = "I'm better at cooking food than metal.",

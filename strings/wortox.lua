@@ -67,6 +67,7 @@ return {
             GENERIC = "Really energetic, do you want to dance?",
             SLEEPING = "Then intermission.",
         },
+        SEDIMENTPUDDLE = "These are not for drinking.",
         SHEARS = "Click, click, leaves fall.",
         SMELTER = {
             BURNT = "I didn't know they were hot to stone.",

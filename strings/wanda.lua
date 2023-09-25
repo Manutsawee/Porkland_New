@@ -68,6 +68,7 @@ return {
             GENERIC = "vermin! go away!",
             SLEEPING = "Huh, I can take a breath.",
         },
+        SEDIMENTPUDDLE = "Water isn't the only thing here reflecting sunlight.",
         SHEARS = "I won't waste my time on this.",
         SMELTER = {
             BURNT = "We've made the most of it.",

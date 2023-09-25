@@ -70,6 +70,7 @@ return {
             GENERIC = "FULL OF SOUND AND FURY",
             SLEEPING = "O GENTLE SLEEPIES",
         },
+        SEDIMENTPUDDLE = "ALL THAT GLITTERS 'TIS GOLD",
         SHEARS = "FOR THE CUTTINGS OF THE SHRUBS",
         SMELTER = {
             BURNT = "'TIS FWOOSHED",

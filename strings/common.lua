@@ -27,6 +27,7 @@ return {
         PEAGAWK_BUSH = "Blinkbush",
         POG = "Pog",
         RABID_BEETLE = "Rabid Beetle",
+        SEDIMENTPUDDLE = "Sparkling Pool",
         SHEARS = "Shears",
         SMELTER = "Smelter",
         TREE_PILLAR = "Great Leafy Stalk",
