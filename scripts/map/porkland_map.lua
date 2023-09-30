@@ -24,6 +24,7 @@ TRANSLATE_TO_PREFABS["pog"] = {"pog"}
 TRANSLATE_TO_PREFABS["pangolden"] = {"pangolden"}
 TRANSLATE_TO_PREFABS["gnatmound"] = {"gnatmound"}
 TRANSLATE_TO_PREFABS["dungpile"] = {"dungpile"}
+TRANSLATE_TO_PREFABS["thunderbirdnest"] = {"thunderbirdnest"}
 
 TRANSLATE_AND_OVERRIDE["deep_jungle_fern_noise"] = {"deep_jungle_fern_noise", "deep_jungle_fern_noise_plant"}
 TRANSLATE_AND_OVERRIDE["jungle_border_vine"] ={"jungle_border_vine"}

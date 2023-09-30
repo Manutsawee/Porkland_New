@@ -27,17 +27,7 @@ local function OnPickUp(inst, picker)
     return true --This makes the inventoryitem component not actually give the tumbleweed to the player
 end
 
-local function MakeLoot(inst)
-    local possible_loot = {
-        {chance = 1,   item = "cutgrass"},
-        {chance = 1,   item = "twigs"   },
-        {chance = 10,  item = "rocks"   },
-        {chance = 10,  item = "flint"   },
-        {chance = 1,   item = "seeds"   },
-        {chance = 5,   item = "poop"    },
-        {chance = 0.1, item = "relic_1" },
-    }
-
+local function GenerateLoot(inst, possible_loot)
     local totalchance = 0
     for k, v in ipairs(possible_loot) do
         totalchance = totalchance + v.chance
@@ -59,7 +49,9 @@ local function MakeLoot(inst)
             next_chance = next_chance - v.chance
             if next_chance <= 0 then
                 next_loot = v.item
-                if v.aggro then next_aggro = true end
+                if v.aggro then
+                    next_aggro = true
+                end
                 break
             end
         end
@@ -73,6 +65,19 @@ local function MakeLoot(inst)
             num_loots = num_loots - 1
         end
     end
+end
+
+local function MakeLoot(inst)
+    local possible_loot = {
+        {chance = 1,   item = "cutgrass"},
+        {chance = 1,   item = "twigs"   },
+        {chance = 10,  item = "rocks"   },
+        {chance = 10,  item = "flint"   },
+        {chance = 1,   item = "seeds"   },
+        {chance = 5,   item = "poop"    },
+        {chance = 0.1, item = "relic_1" },
+    }
+    GenerateLoot(inst, possible_loot)
 end
 
 local function OnHauntFn(inst, haunter)
@@ -122,6 +127,7 @@ local function fn()
     inst.components.pickable.witherable = false
 
     inst.MakeLoot = MakeLoot
+    inst.GenerateLoot = GenerateLoot
 
     MakeSmallPropagator(inst)
     inst.components.propagator.flashpoint = 5 + math.random() * 3

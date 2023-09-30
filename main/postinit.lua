@@ -21,6 +21,7 @@ local components_post = {
 }
 
 local prefabs_post = {
+    "books",
     "batbat",
     "player",
     "player_classified",
